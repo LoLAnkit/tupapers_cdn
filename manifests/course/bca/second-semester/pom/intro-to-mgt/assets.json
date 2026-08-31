@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-31T15:00:01.415Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/second-semester/pom/intro-to-mgt",
+  "totalAssets": 5,
+  "assets": {
+    "integrated-management-framework.webp": {
+      "key": "course/bca/second-semester/pom/intro-to-mgt/integrated-management-framework.df27d6f7.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/pom/intro-to-mgt/integrated-management-framework.df27d6f7.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 461868
+    },
+    "management-process-cycle.webp": {
+      "key": "course/bca/second-semester/pom/intro-to-mgt/management-process-cycle.28f8e8e9.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/pom/intro-to-mgt/management-process-cycle.28f8e8e9.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 368146
+    },
+    "managerial-skill-triangle.webp": {
+      "key": "course/bca/second-semester/pom/intro-to-mgt/managerial-skill-triangle.02e16347.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/pom/intro-to-mgt/managerial-skill-triangle.02e16347.webp",
+      "contentType": "image/webp",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 443464
+    },
+    "mintzbergs-managerial-roles.webp": {
+      "key": "course/bca/second-semester/pom/intro-to-mgt/mintzbergs-managerial-roles.cf54f376.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/pom/intro-to-mgt/mintzbergs-managerial-roles.cf54f376.webp",
+      "contentType": "image/webp",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 393418
+    },
+    "types-of-managers.webp": {
+      "key": "course/bca/second-semester/pom/intro-to-mgt/types-of-managers.18d9d678.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/pom/intro-to-mgt/types-of-managers.18d9d678.webp",
+      "contentType": "image/webp",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 359396
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/second-semester/pom/intro-to-mgt/integrated-management-framework.df27d6f7.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/pom/intro-to-mgt/management-process-cycle.28f8e8e9.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/pom/intro-to-mgt/managerial-skill-triangle.02e16347.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/pom/intro-to-mgt/mintzbergs-managerial-roles.cf54f376.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/pom/intro-to-mgt/types-of-managers.18d9d678.webp"
+  ]
+}

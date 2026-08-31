@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-31T15:00:01.527Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/first-year/basic-sociology-for-social-work/what-is-sociology",
+  "totalAssets": 3,
+  "assets": {
+    "development-of-social-thinking.webp": {
+      "key": "course/bsw/first-year/basic-sociology-for-social-work/what-is-sociology/development-of-social-thinking.c0852825.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/what-is-sociology/development-of-social-thinking.c0852825.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 792928
+    },
+    "sociology-and-social-work-venn-diagram.webp": {
+      "key": "course/bsw/first-year/basic-sociology-for-social-work/what-is-sociology/sociology-and-social-work-venn-diagram.7ac93b9c.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/what-is-sociology/sociology-and-social-work-venn-diagram.7ac93b9c.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 667498
+    },
+    "theoretical-perspectives-comparision.webp": {
+      "key": "course/bsw/first-year/basic-sociology-for-social-work/what-is-sociology/theoretical-perspectives-comparision.8721f2dc.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/what-is-sociology/theoretical-perspectives-comparision.8721f2dc.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 848482
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/what-is-sociology/development-of-social-thinking.c0852825.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/what-is-sociology/sociology-and-social-work-venn-diagram.7ac93b9c.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/what-is-sociology/theoretical-perspectives-comparision.8721f2dc.webp"
+  ]
+}

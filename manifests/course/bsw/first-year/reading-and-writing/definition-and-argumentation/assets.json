@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-31T15:00:01.593Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/first-year/reading-and-writing/definition-and-argumentation",
+  "totalAssets": 3,
+  "assets": {
+    "counter-argument-and-rebuttal-flowchart.webp": {
+      "key": "course/bsw/first-year/reading-and-writing/definition-and-argumentation/counter-argument-and-rebuttal-flowchart.537dbb24.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/definition-and-argumentation/counter-argument-and-rebuttal-flowchart.537dbb24.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 924864
+    },
+    "extended-definition-structure.webp": {
+      "key": "course/bsw/first-year/reading-and-writing/definition-and-argumentation/extended-definition-structure.ca2a96d0.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/definition-and-argumentation/extended-definition-structure.ca2a96d0.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 573368
+    },
+    "toulmin-argument-model.webp": {
+      "key": "course/bsw/first-year/reading-and-writing/definition-and-argumentation/toulmin-argument-model.1101e721.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/definition-and-argumentation/toulmin-argument-model.1101e721.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 1198022
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/definition-and-argumentation/counter-argument-and-rebuttal-flowchart.537dbb24.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/definition-and-argumentation/extended-definition-structure.ca2a96d0.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/definition-and-argumentation/toulmin-argument-model.1101e721.webp"
+  ]
+}

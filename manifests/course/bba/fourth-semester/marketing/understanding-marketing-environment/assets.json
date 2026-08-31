@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-31T15:00:01.169Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/fourth-semester/marketing/understanding-marketing-environment",
+  "totalAssets": 3,
+  "assets": {
+    "concentric-business-environment-model.webp": {
+      "key": "course/bba/fourth-semester/marketing/understanding-marketing-environment/concentric-business-environment-model.f21c4f1d.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/understanding-marketing-environment/concentric-business-environment-model.f21c4f1d.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 446168
+    },
+    "micro-environment-actors-diagram.webp": {
+      "key": "course/bba/fourth-semester/marketing/understanding-marketing-environment/micro-environment-actors-diagram.b5a7b7d9.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/understanding-marketing-environment/micro-environment-actors-diagram.b5a7b7d9.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 468858
+    },
+    "reactive-vs-proactive-marketing.webp": {
+      "key": "course/bba/fourth-semester/marketing/understanding-marketing-environment/reactive-vs-proactive-marketing.c25fd3e3.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/understanding-marketing-environment/reactive-vs-proactive-marketing.c25fd3e3.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 544308
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/understanding-marketing-environment/concentric-business-environment-model.f21c4f1d.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/understanding-marketing-environment/micro-environment-actors-diagram.b5a7b7d9.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/understanding-marketing-environment/reactive-vs-proactive-marketing.c25fd3e3.webp"
+  ]
+}

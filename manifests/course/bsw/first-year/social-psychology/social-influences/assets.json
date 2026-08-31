@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-31T15:00:01.646Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/first-year/social-psychology/social-influences",
+  "totalAssets": 4,
+  "assets": {
+    "compliance-ctrategies-comparison-chart.webp": {
+      "key": "course/bsw/first-year/social-psychology/social-influences/compliance-ctrategies-comparison-chart.7749a00c.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-influences/compliance-ctrategies-comparison-chart.7749a00c.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 604886
+    },
+    "conformity-factors-concept-map.webp": {
+      "key": "course/bsw/first-year/social-psychology/social-influences/conformity-factors-concept-map.5f0bc212.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-influences/conformity-factors-concept-map.5f0bc212.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 593660
+    },
+    "milgrams-obedience-expirement.webp": {
+      "key": "course/bsw/first-year/social-psychology/social-influences/milgrams-obedience-expirement.8e56363d.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-influences/milgrams-obedience-expirement.8e56363d.webp",
+      "contentType": "image/webp",
+      "width": 1231,
+      "height": 1277,
+      "bytes": 633646
+    },
+    "sherifs-autokinetic-effect-and-aschs-line-expirement.webp": {
+      "key": "course/bsw/first-year/social-psychology/social-influences/sherifs-autokinetic-effect-and-aschs-line-expirement.77a02dae.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-influences/sherifs-autokinetic-effect-and-aschs-line-expirement.77a02dae.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 775418
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-influences/compliance-ctrategies-comparison-chart.7749a00c.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-influences/conformity-factors-concept-map.5f0bc212.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-influences/milgrams-obedience-expirement.8e56363d.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-influences/sherifs-autokinetic-effect-and-aschs-line-expirement.77a02dae.webp"
+  ]
+}

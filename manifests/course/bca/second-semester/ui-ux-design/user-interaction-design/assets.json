@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-31T15:00:01.470Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/second-semester/ui-ux-design/user-interaction-design",
+  "totalAssets": 6,
+  "assets": {
+    "design-thinking-cycle.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/user-interaction-design/design-thinking-cycle.f1ad075b.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/user-interaction-design/design-thinking-cycle.f1ad075b.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 752760
+    },
+    "ideation-techniques.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/user-interaction-design/ideation-techniques.04e94672.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/user-interaction-design/ideation-techniques.04e94672.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 433598
+    },
+    "user-centered-design.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/user-interaction-design/user-centered-design.8bf00a7c.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/user-interaction-design/user-centered-design.8bf00a7c.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 453132
+    },
+    "user-persona-templates.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/user-interaction-design/user-persona-templates.cca0de79.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/user-interaction-design/user-persona-templates.cca0de79.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 372608
+    },
+    "users-journey-map.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/user-interaction-design/users-journey-map.0e25ae96.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/user-interaction-design/users-journey-map.0e25ae96.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 434826
+    },
+    "ux-research-methods.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/user-interaction-design/ux-research-methods.2076a3e6.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/user-interaction-design/ux-research-methods.2076a3e6.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 509136
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/user-interaction-design/design-thinking-cycle.f1ad075b.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/user-interaction-design/ideation-techniques.04e94672.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/user-interaction-design/user-centered-design.8bf00a7c.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/user-interaction-design/user-persona-templates.cca0de79.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/user-interaction-design/users-journey-map.0e25ae96.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/user-interaction-design/ux-research-methods.2076a3e6.webp"
+  ]
+}

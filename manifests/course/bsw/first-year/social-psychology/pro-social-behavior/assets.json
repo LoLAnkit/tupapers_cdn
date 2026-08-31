@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-31T15:00:01.626Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/first-year/social-psychology/pro-social-behavior",
+  "totalAssets": 3,
+  "assets": {
+    "bystander-effect-decision.webp": {
+      "key": "course/bsw/first-year/social-psychology/pro-social-behavior/bystander-effect-decision.3be58446.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/pro-social-behavior/bystander-effect-decision.3be58446.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 862418
+    },
+    "motives-behind-prosocial-behaviour.webp": {
+      "key": "course/bsw/first-year/social-psychology/pro-social-behavior/motives-behind-prosocial-behaviour.d02e81a1.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/pro-social-behavior/motives-behind-prosocial-behaviour.d02e81a1.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 580724
+    },
+    "personal-vs-situational-helping-factors.webp": {
+      "key": "course/bsw/first-year/social-psychology/pro-social-behavior/personal-vs-situational-helping-factors.d60eba9b.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/pro-social-behavior/personal-vs-situational-helping-factors.d60eba9b.webp",
+      "contentType": "image/webp",
+      "width": 1402,
+      "height": 1122,
+      "bytes": 614922
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/pro-social-behavior/bystander-effect-decision.3be58446.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/pro-social-behavior/motives-behind-prosocial-behaviour.d02e81a1.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/pro-social-behavior/personal-vs-situational-helping-factors.d60eba9b.webp"
+  ]
+}

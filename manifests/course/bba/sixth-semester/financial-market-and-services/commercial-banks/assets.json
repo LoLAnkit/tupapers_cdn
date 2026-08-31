@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-31T15:00:01.309Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/sixth-semester/financial-market-and-services/commercial-banks",
+  "totalAssets": 4,
+  "assets": {
+    "bank-balance-sheet-structure.webp": {
+      "key": "course/bba/sixth-semester/financial-market-and-services/commercial-banks/bank-balance-sheet-structure.38069534.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/commercial-banks/bank-balance-sheet-structure.38069534.webp",
+      "contentType": "image/webp",
+      "width": 1402,
+      "height": 1122,
+      "bytes": 580202
+    },
+    "base-capital-tiers-structure.webp": {
+      "key": "course/bba/sixth-semester/financial-market-and-services/commercial-banks/base-capital-tiers-structure.7119927a.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/commercial-banks/base-capital-tiers-structure.7119927a.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 547410
+    },
+    "capital-adequacy-tatio-calculation.webp": {
+      "key": "course/bba/sixth-semester/financial-market-and-services/commercial-banks/capital-adequacy-tatio-calculation.b6e45f4a.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/commercial-banks/capital-adequacy-tatio-calculation.b6e45f4a.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 693104
+    },
+    "classification-of-financial-institutions-in-nepal.webp": {
+      "key": "course/bba/sixth-semester/financial-market-and-services/commercial-banks/classification-of-financial-institutions-in-nepal.ee332886.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/commercial-banks/classification-of-financial-institutions-in-nepal.ee332886.webp",
+      "contentType": "image/webp",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 637090
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/commercial-banks/bank-balance-sheet-structure.38069534.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/commercial-banks/base-capital-tiers-structure.7119927a.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/commercial-banks/capital-adequacy-tatio-calculation.b6e45f4a.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/commercial-banks/classification-of-financial-institutions-in-nepal.ee332886.webp"
+  ]
+}

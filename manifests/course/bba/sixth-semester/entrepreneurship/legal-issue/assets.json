@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-31T15:00:01.292Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/sixth-semester/entrepreneurship/legal-issue",
+  "totalAssets": 4,
+  "assets": {
+    "intellectual-property.webp": {
+      "key": "course/bba/sixth-semester/entrepreneurship/legal-issue/intellectual-property.38216d67.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/legal-issue/intellectual-property.38216d67.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 482928
+    },
+    "other-legal-issue.webp": {
+      "key": "course/bba/sixth-semester/entrepreneurship/legal-issue/other-legal-issue.1b7667fc.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/legal-issue/other-legal-issue.1b7667fc.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 505652
+    },
+    "registration-and-renewal-process.webp": {
+      "key": "course/bba/sixth-semester/entrepreneurship/legal-issue/registration-and-renewal-process.324e452c.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/legal-issue/registration-and-renewal-process.324e452c.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 583084
+    },
+    "types-of-business-enteprises.webp": {
+      "key": "course/bba/sixth-semester/entrepreneurship/legal-issue/types-of-business-enteprises.29038c0a.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/legal-issue/types-of-business-enteprises.29038c0a.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 542202
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/legal-issue/intellectual-property.38216d67.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/legal-issue/other-legal-issue.1b7667fc.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/legal-issue/registration-and-renewal-process.324e452c.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/legal-issue/types-of-business-enteprises.29038c0a.webp"
+  ]
+}

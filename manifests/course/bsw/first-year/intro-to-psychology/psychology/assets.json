@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-31T15:00:01.567Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/first-year/intro-to-psychology/psychology",
+  "totalAssets": 3,
+  "assets": {
+    "goals-of-psychology.webp": {
+      "key": "course/bsw/first-year/intro-to-psychology/psychology/goals-of-psychology.f33906ef.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/psychology/goals-of-psychology.f33906ef.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 811770
+    },
+    "perspective-of-psychology.webp": {
+      "key": "course/bsw/first-year/intro-to-psychology/psychology/perspective-of-psychology.5afca74d.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/psychology/perspective-of-psychology.5afca74d.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1331572
+    },
+    "research-method-comparision.webp": {
+      "key": "course/bsw/first-year/intro-to-psychology/psychology/research-method-comparision.0b2cee34.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/psychology/research-method-comparision.0b2cee34.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 1242510
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/psychology/goals-of-psychology.f33906ef.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/psychology/perspective-of-psychology.5afca74d.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/psychology/research-method-comparision.0b2cee34.webp"
+  ]
+}

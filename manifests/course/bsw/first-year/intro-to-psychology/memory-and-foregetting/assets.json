@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-31T15:00:01.548Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/first-year/intro-to-psychology/memory-and-foregetting",
+  "totalAssets": 4,
+  "assets": {
+    "atkinsonshiffrin-memory-model-diagram.webp": {
+      "key": "course/bsw/first-year/intro-to-psychology/memory-and-foregetting/atkinsonshiffrin-memory-model-diagram.1092c7b4.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/memory-and-foregetting/atkinsonshiffrin-memory-model-diagram.1092c7b4.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 1029324
+    },
+    "brain-regions-and-memory-study-poster.webp": {
+      "key": "course/bsw/first-year/intro-to-psychology/memory-and-foregetting/brain-regions-and-memory-study-poster.0d1b8a53.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/memory-and-foregetting/brain-regions-and-memory-study-poster.0d1b8a53.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 1353334
+    },
+    "cause-of-forgetting.webp": {
+      "key": "course/bsw/first-year/intro-to-psychology/memory-and-foregetting/cause-of-forgetting.f69fde8c.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/memory-and-foregetting/cause-of-forgetting.f69fde8c.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 1089968
+    },
+    "types-of-long-term-memory-diagram.webp": {
+      "key": "course/bsw/first-year/intro-to-psychology/memory-and-foregetting/types-of-long-term-memory-diagram.78dcdd51.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/memory-and-foregetting/types-of-long-term-memory-diagram.78dcdd51.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 1093564
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/memory-and-foregetting/atkinsonshiffrin-memory-model-diagram.1092c7b4.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/memory-and-foregetting/brain-regions-and-memory-study-poster.0d1b8a53.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/memory-and-foregetting/cause-of-forgetting.f69fde8c.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/memory-and-foregetting/types-of-long-term-memory-diagram.78dcdd51.webp"
+  ]
+}

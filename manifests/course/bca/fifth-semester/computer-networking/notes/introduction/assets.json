@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-31T15:00:01.366Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/fifth-semester/computer-networking/notes/introduction",
+  "totalAssets": 6,
+  "assets": {
+    "dda-vsbresenham-line.webp": {
+      "key": "course/bca/fifth-semester/computer-networking/notes/introduction/dda-vsbresenham-line.4654fe04.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/introduction/dda-vsbresenham-line.4654fe04.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 808562
+    },
+    "floodfill.webp": {
+      "key": "course/bca/fifth-semester/computer-networking/notes/introduction/floodfill.72a17bc4.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/introduction/floodfill.72a17bc4.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 687034
+    },
+    "midpoint-circle-algorithm.webp": {
+      "key": "course/bca/fifth-semester/computer-networking/notes/introduction/midpoint-circle-algorithm.84231279.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/introduction/midpoint-circle-algorithm.84231279.webp",
+      "contentType": "image/webp",
+      "width": 1402,
+      "height": 1122,
+      "bytes": 739306
+    },
+    "raster-graphics-architecture.webp": {
+      "key": "course/bca/fifth-semester/computer-networking/notes/introduction/raster-graphics-architecture.a3954eea.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/introduction/raster-graphics-architecture.a3954eea.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 766164
+    },
+    "raster-vs-random-scan.webp": {
+      "key": "course/bca/fifth-semester/computer-networking/notes/introduction/raster-vs-random-scan.ba1543bb.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/introduction/raster-vs-random-scan.ba1543bb.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 823708
+    },
+    "scan-line-vs-flood-fill.webp": {
+      "key": "course/bca/fifth-semester/computer-networking/notes/introduction/scan-line-vs-flood-fill.61665ba9.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/introduction/scan-line-vs-flood-fill.61665ba9.webp",
+      "contentType": "image/webp",
+      "width": 1402,
+      "height": 1122,
+      "bytes": 868048
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/introduction/dda-vsbresenham-line.4654fe04.webp",
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/introduction/floodfill.72a17bc4.webp",
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/introduction/midpoint-circle-algorithm.84231279.webp",
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/introduction/raster-graphics-architecture.a3954eea.webp",
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/introduction/raster-vs-random-scan.ba1543bb.webp",
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/introduction/scan-line-vs-flood-fill.61665ba9.webp"
+  ]
+}

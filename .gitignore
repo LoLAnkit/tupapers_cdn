@@ -1,0 +1,43 @@
+node_modules/
+dist/
+.env
+*.log
+.DS_Store
+
+# Keep large media assets in Cloudflare R2 rather than Git.
+# Images
+*.[jJ][pP][gG]
+*.[jJ][pP][eE][gG]
+*.[pP][nN][gG]
+*.[gG][iI][fF]
+*.[wW][eE][bB][pP]
+*.[aA][vV][iI][fF]
+*.[sS][vV][gG]
+*.[bB][mM][pP]
+*.[iI][cC][oO]
+*.[tT][iI][fF]
+*.[tT][iI][fF][fF]
+*.[hH][eE][iI][cC]
+*.[hH][eE][iI][fF]
+*.[jJ][xX][lL]
+*.[aA][pP][nN][gG]
+
+# Video
+*.[mM][pP]4
+*.[wW][eE][bB][mM]
+*.[mM][oO][vV]
+*.[aA][vV][iI]
+*.[mM][kK][vV]
+*.[mM]4[vV]
+*.[mM][pP][eE][gG]
+*.[mM][pP][gG]
+*.[3gG][pP]
+*.[3gG]2
+*.[oO][gG][vV]
+*.[fF][lL][vV]
+*.[wW][mM][vV]
+*.[mM]2[tT][sS]
+
+# manifest.json is generated — it mirrors all shards for backwards compat.
+# The shards under manifests/ are the real source of truth.
+# Commit both manifests/ and manifest.json.

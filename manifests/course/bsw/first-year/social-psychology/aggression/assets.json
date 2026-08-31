@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-31T15:00:01.610Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/first-year/social-psychology/aggression",
+  "totalAssets": 3,
+  "assets": {
+    "multiple-causes-of-aggression.webp": {
+      "key": "course/bsw/first-year/social-psychology/aggression/multiple-causes-of-aggression.a6188f75.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/aggression/multiple-causes-of-aggression.a6188f75.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1042768
+    },
+    "preventing-aggression.webp": {
+      "key": "course/bsw/first-year/social-psychology/aggression/preventing-aggression.bd5d2bcb.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/aggression/preventing-aggression.bd5d2bcb.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 525812
+    },
+    "types-of-aggression.webp": {
+      "key": "course/bsw/first-year/social-psychology/aggression/types-of-aggression.4ceadcd2.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/aggression/types-of-aggression.4ceadcd2.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 830150
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/aggression/multiple-causes-of-aggression.a6188f75.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/aggression/preventing-aggression.bd5d2bcb.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/aggression/types-of-aggression.4ceadcd2.webp"
+  ]
+}

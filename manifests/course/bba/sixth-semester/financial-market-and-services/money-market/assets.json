@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-31T15:00:01.338Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/sixth-semester/financial-market-and-services/money-market",
+  "totalAssets": 4,
+  "assets": {
+    "money-market-participant-and-instruments.webp": {
+      "key": "course/bba/sixth-semester/financial-market-and-services/money-market/money-market-participant-and-instruments.7f0ba5be.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/money-market/money-market-participant-and-instruments.7f0ba5be.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 708314
+    },
+    "repurchase-agreement-mechanism.webp": {
+      "key": "course/bba/sixth-semester/financial-market-and-services/money-market/repurchase-agreement-mechanism.3ff43444.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/money-market/repurchase-agreement-mechanism.3ff43444.webp",
+      "contentType": "image/webp",
+      "width": 1402,
+      "height": 1122,
+      "bytes": 810636
+    },
+    "t-bill-american-vs-dutch.webp": {
+      "key": "course/bba/sixth-semester/financial-market-and-services/money-market/t-bill-american-vs-dutch.e3ac3d26.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/money-market/t-bill-american-vs-dutch.e3ac3d26.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 580190
+    },
+    "yield-concept-on-discount-instruments.webp": {
+      "key": "course/bba/sixth-semester/financial-market-and-services/money-market/yield-concept-on-discount-instruments.456aeab4.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/money-market/yield-concept-on-discount-instruments.456aeab4.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 928190
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/money-market/money-market-participant-and-instruments.7f0ba5be.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/money-market/repurchase-agreement-mechanism.3ff43444.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/money-market/t-bill-american-vs-dutch.e3ac3d26.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/money-market/yield-concept-on-discount-instruments.456aeab4.webp"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-31T15:00:01.459Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/second-semester/ui-ux-design/ui-components",
+  "totalAssets": 6,
+  "assets": {
+    "formatting-menue.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/ui-components/formatting-menue.5b9f79e8.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/ui-components/formatting-menue.5b9f79e8.webp",
+      "contentType": "image/webp",
+      "width": 1402,
+      "height": 1122,
+      "bytes": 393234
+    },
+    "icon-design-principle.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/ui-components/icon-design-principle.4750a719.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/ui-components/icon-design-principle.4750a719.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 473522
+    },
+    "types-of-choice-control.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/ui-components/types-of-choice-control.485d4d68.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/ui-components/types-of-choice-control.485d4d68.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 384012
+    },
+    "types-of-menus.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/ui-components/types-of-menus.f348066a.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/ui-components/types-of-menus.f348066a.webp",
+      "contentType": "image/webp",
+      "width": 1409,
+      "height": 1117,
+      "bytes": 387122
+    },
+    "ui-controls-sider-tabs-scroll-etc.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/ui-components/ui-controls-sider-tabs-scroll-etc.4ce9f2b1.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/ui-components/ui-controls-sider-tabs-scroll-etc.4ce9f2b1.webp",
+      "contentType": "image/webp",
+      "width": 1694,
+      "height": 929,
+      "bytes": 487260
+    },
+    "window-presentation-style.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/ui-components/window-presentation-style.2b27d821.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/ui-components/window-presentation-style.2b27d821.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 452164
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/ui-components/formatting-menue.5b9f79e8.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/ui-components/icon-design-principle.4750a719.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/ui-components/types-of-choice-control.485d4d68.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/ui-components/types-of-menus.f348066a.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/ui-components/ui-controls-sider-tabs-scroll-etc.4ce9f2b1.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/ui-components/window-presentation-style.2b27d821.webp"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-31T15:00:01.599Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/first-year/reading-and-writing/narration-description",
+  "totalAssets": 3,
+  "assets": {
+    "4-level-of-interacting-with-text.webp": {
+      "key": "course/bsw/first-year/reading-and-writing/narration-description/4-level-of-interacting-with-text.efc8f880.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/narration-description/4-level-of-interacting-with-text.efc8f880.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 1214168
+    },
+    "narration-vs-description.webp": {
+      "key": "course/bsw/first-year/reading-and-writing/narration-description/narration-vs-description.15557dfb.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/narration-description/narration-vs-description.15557dfb.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 914002
+    },
+    "note-making-hierarchy.webp": {
+      "key": "course/bsw/first-year/reading-and-writing/narration-description/note-making-hierarchy.74853817.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/narration-description/note-making-hierarchy.74853817.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 1022970
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/narration-description/4-level-of-interacting-with-text.efc8f880.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/narration-description/narration-vs-description.15557dfb.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/narration-description/note-making-hierarchy.74853817.webp"
+  ]
+}

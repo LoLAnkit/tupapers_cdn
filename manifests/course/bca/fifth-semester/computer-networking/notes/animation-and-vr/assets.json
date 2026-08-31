@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-31T15:00:01.354Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/fifth-semester/computer-networking/notes/animation-and-vr",
+  "totalAssets": 4,
+  "assets": {
+    "frame-vs-tweening-animation.webp": {
+      "key": "course/bca/fifth-semester/computer-networking/notes/animation-and-vr/frame-vs-tweening-animation.2366c9eb.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/animation-and-vr/frame-vs-tweening-animation.2366c9eb.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 734696
+    },
+    "immersive-vs-non-immersive-vr.webp": {
+      "key": "course/bca/fifth-semester/computer-networking/notes/animation-and-vr/immersive-vs-non-immersive-vr.434cfe23.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/animation-and-vr/immersive-vs-non-immersive-vr.434cfe23.webp",
+      "contentType": "image/webp",
+      "width": 1402,
+      "height": 1122,
+      "bytes": 799454
+    },
+    "keyframe-tweening.webp": {
+      "key": "course/bca/fifth-semester/computer-networking/notes/animation-and-vr/keyframe-tweening.051f1bf0.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/animation-and-vr/keyframe-tweening.051f1bf0.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 658562
+    },
+    "vr-system-components.webp": {
+      "key": "course/bca/fifth-semester/computer-networking/notes/animation-and-vr/vr-system-components.d8f3284d.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/animation-and-vr/vr-system-components.d8f3284d.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 694706
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/animation-and-vr/frame-vs-tweening-animation.2366c9eb.webp",
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/animation-and-vr/immersive-vs-non-immersive-vr.434cfe23.webp",
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/animation-and-vr/keyframe-tweening.051f1bf0.webp",
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/animation-and-vr/vr-system-components.d8f3284d.webp"
+  ]
+}

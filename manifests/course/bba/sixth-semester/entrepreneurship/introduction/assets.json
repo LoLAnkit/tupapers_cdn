@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-31T15:00:01.285Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/sixth-semester/entrepreneurship/introduction",
+  "totalAssets": 4,
+  "assets": {
+    "eco-efficiency-and-ecopreneurship-model.webp": {
+      "key": "course/bba/sixth-semester/entrepreneurship/introduction/eco-efficiency-and-ecopreneurship-model.535a93ed.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/introduction/eco-efficiency-and-ecopreneurship-model.535a93ed.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 630840
+    },
+    "entrepreneurial-mindset.webp": {
+      "key": "course/bba/sixth-semester/entrepreneurship/introduction/entrepreneurial-mindset.dd815c16.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/introduction/entrepreneurial-mindset.dd815c16.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 665038
+    },
+    "entrepreneurial-process-flow.webp": {
+      "key": "course/bba/sixth-semester/entrepreneurship/introduction/entrepreneurial-process-flow.98d694f7.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/introduction/entrepreneurial-process-flow.98d694f7.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 648264
+    },
+    "types-of-entrepreneur.webp": {
+      "key": "course/bba/sixth-semester/entrepreneurship/introduction/types-of-entrepreneur.0c4c3793.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/introduction/types-of-entrepreneur.0c4c3793.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 481046
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/introduction/eco-efficiency-and-ecopreneurship-model.535a93ed.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/introduction/entrepreneurial-mindset.dd815c16.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/introduction/entrepreneurial-process-flow.98d694f7.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/introduction/types-of-entrepreneur.0c4c3793.webp"
+  ]
+}

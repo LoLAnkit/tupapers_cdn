@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-31T15:00:01.229Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/sixth-semester/e-commerce/e-commerce-infrastructure",
+  "totalAssets": 5,
+  "assets": {
+    "client-server-architecture.webp": {
+      "key": "course/bba/sixth-semester/e-commerce/e-commerce-infrastructure/client-server-architecture.d79c9b91.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-infrastructure/client-server-architecture.d79c9b91.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 642894
+    },
+    "internet-physical-structure.webp": {
+      "key": "course/bba/sixth-semester/e-commerce/e-commerce-infrastructure/internet-physical-structure.cb677a42.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-infrastructure/internet-physical-structure.cb677a42.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 560526
+    },
+    "internet-protocol-layers.webp": {
+      "key": "course/bba/sixth-semester/e-commerce/e-commerce-infrastructure/internet-protocol-layers.f8630137.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-infrastructure/internet-protocol-layers.f8630137.webp",
+      "contentType": "image/webp",
+      "width": 1202,
+      "height": 1308,
+      "bytes": 970030
+    },
+    "mobile-platform-ecosystem.webp": {
+      "key": "course/bba/sixth-semester/e-commerce/e-commerce-infrastructure/mobile-platform-ecosystem.6ea81fbd.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-infrastructure/mobile-platform-ecosystem.6ea81fbd.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 587578
+    },
+    "vpn-and-intranet-setup.webp": {
+      "key": "course/bba/sixth-semester/e-commerce/e-commerce-infrastructure/vpn-and-intranet-setup.2c3c914f.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-infrastructure/vpn-and-intranet-setup.2c3c914f.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 523278
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-infrastructure/client-server-architecture.d79c9b91.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-infrastructure/internet-physical-structure.cb677a42.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-infrastructure/internet-protocol-layers.f8630137.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-infrastructure/mobile-platform-ecosystem.6ea81fbd.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-infrastructure/vpn-and-intranet-setup.2c3c914f.webp"
+  ]
+}

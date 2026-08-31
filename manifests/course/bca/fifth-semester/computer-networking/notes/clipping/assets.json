@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-31T15:00:01.359Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/fifth-semester/computer-networking/notes/clipping",
+  "totalAssets": 4,
+  "assets": {
+    "cohen-sutherland-line-clipping-diagram.webp": {
+      "key": "course/bca/fifth-semester/computer-networking/notes/clipping/cohen-sutherland-line-clipping-diagram.59cd8dab.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/clipping/cohen-sutherland-line-clipping-diagram.59cd8dab.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 747460
+    },
+    "line-clipping.webp": {
+      "key": "course/bca/fifth-semester/computer-networking/notes/clipping/line-clipping.68f9b8e6.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/clipping/line-clipping.68f9b8e6.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 716700
+    },
+    "sutherland-hodgman-polygon-clipping-diagram.webp": {
+      "key": "course/bca/fifth-semester/computer-networking/notes/clipping/sutherland-hodgman-polygon-clipping-diagram.046867fe.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/clipping/sutherland-hodgman-polygon-clipping-diagram.046867fe.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 813616
+    },
+    "window-to-viewport-transformation-diagram.webp": {
+      "key": "course/bca/fifth-semester/computer-networking/notes/clipping/window-to-viewport-transformation-diagram.b6f386b6.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/clipping/window-to-viewport-transformation-diagram.b6f386b6.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 660184
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/clipping/cohen-sutherland-line-clipping-diagram.59cd8dab.webp",
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/clipping/line-clipping.68f9b8e6.webp",
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/clipping/sutherland-hodgman-polygon-clipping-diagram.046867fe.webp",
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/clipping/window-to-viewport-transformation-diagram.b6f386b6.webp"
+  ]
+}

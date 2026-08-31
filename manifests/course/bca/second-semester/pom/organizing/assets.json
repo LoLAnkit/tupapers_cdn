@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-31T15:00:01.425Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/second-semester/pom/organizing",
+  "totalAssets": 4,
+  "assets": {
+    "authority-distribution-model.webp": {
+      "key": "course/bca/second-semester/pom/organizing/authority-distribution-model.0a3e93e7.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/pom/organizing/authority-distribution-model.0a3e93e7.webp",
+      "contentType": "image/webp",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 675948
+    },
+    "elements-of-organizing.webp": {
+      "key": "course/bca/second-semester/pom/organizing/elements-of-organizing.c1085f2f.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/pom/organizing/elements-of-organizing.c1085f2f.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 724000
+    },
+    "forms-of-organizational-design.webp": {
+      "key": "course/bca/second-semester/pom/organizing/forms-of-organizational-design.0b6eadaa.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/pom/organizing/forms-of-organizational-design.0b6eadaa.webp",
+      "contentType": "image/webp",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 726534
+    },
+    "job-design-description-spec-relation.webp": {
+      "key": "course/bca/second-semester/pom/organizing/job-design-description-spec-relation.35e2dda6.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/pom/organizing/job-design-description-spec-relation.35e2dda6.webp",
+      "contentType": "image/webp",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 686608
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/second-semester/pom/organizing/authority-distribution-model.0a3e93e7.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/pom/organizing/elements-of-organizing.c1085f2f.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/pom/organizing/forms-of-organizational-design.0b6eadaa.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/pom/organizing/job-design-description-spec-relation.35e2dda6.webp"
+  ]
+}

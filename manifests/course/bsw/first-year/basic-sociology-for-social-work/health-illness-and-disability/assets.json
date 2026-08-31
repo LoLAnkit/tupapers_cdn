@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-31T15:00:01.498Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/first-year/basic-sociology-for-social-work/health-illness-and-disability",
+  "totalAssets": 2,
+  "assets": {
+    "health-outcomes-mind-map.webp": {
+      "key": "course/bsw/first-year/basic-sociology-for-social-work/health-illness-and-disability/health-outcomes-mind-map.6bfa9065.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/health-illness-and-disability/health-outcomes-mind-map.6bfa9065.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 657158
+    },
+    "social-model-vs-medical-model-chart.webp": {
+      "key": "course/bsw/first-year/basic-sociology-for-social-work/health-illness-and-disability/social-model-vs-medical-model-chart.1fe4058e.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/health-illness-and-disability/social-model-vs-medical-model-chart.1fe4058e.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 848550
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/health-illness-and-disability/health-outcomes-mind-map.6bfa9065.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/health-illness-and-disability/social-model-vs-medical-model-chart.1fe4058e.webp"
+  ]
+}

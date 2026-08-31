@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-31T15:00:01.333Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/sixth-semester/financial-market-and-services/investment-banking",
+  "totalAssets": 4,
+  "assets": {
+    "firm-commitment-vs-best-effort.webp": {
+      "key": "course/bba/sixth-semester/financial-market-and-services/investment-banking/firm-commitment-vs-best-effort.7b2beba2.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/investment-banking/firm-commitment-vs-best-effort.7b2beba2.webp",
+      "contentType": "image/webp",
+      "width": 1147,
+      "height": 1372,
+      "bytes": 581876
+    },
+    "mutual-fund-nav-and-return-calculation.webp": {
+      "key": "course/bba/sixth-semester/financial-market-and-services/investment-banking/mutual-fund-nav-and-return-calculation.3b8e20e9.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/investment-banking/mutual-fund-nav-and-return-calculation.3b8e20e9.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 981522
+    },
+    "securitization-process.webp": {
+      "key": "course/bba/sixth-semester/financial-market-and-services/investment-banking/securitization-process.ecfb2adf.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/investment-banking/securitization-process.ecfb2adf.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 859780
+    },
+    "types-of-mutual-funds.webp": {
+      "key": "course/bba/sixth-semester/financial-market-and-services/investment-banking/types-of-mutual-funds.ac6f340f.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/investment-banking/types-of-mutual-funds.ac6f340f.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 888260
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/investment-banking/firm-commitment-vs-best-effort.7b2beba2.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/investment-banking/mutual-fund-nav-and-return-calculation.3b8e20e9.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/investment-banking/securitization-process.ecfb2adf.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/investment-banking/types-of-mutual-funds.ac6f340f.webp"
+  ]
+}

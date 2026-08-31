@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-31T15:00:01.349Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/fifth-semester/computer-networking/notes/2d-3d-transfromations",
+  "totalAssets": 5,
+  "assets": {
+    "2d-reflection-matrices-explained.webp": {
+      "key": "course/bca/fifth-semester/computer-networking/notes/2d-3d-transfromations/2d-reflection-matrices-explained.808f8def.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/2d-3d-transfromations/2d-reflection-matrices-explained.808f8def.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 706664
+    },
+    "3d-transformation-matrices-overview.webp": {
+      "key": "course/bca/fifth-semester/computer-networking/notes/2d-3d-transfromations/3d-transformation-matrices-overview.97c22328.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/2d-3d-transfromations/3d-transformation-matrices-overview.97c22328.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 823708
+    },
+    "homogeneous-coordinate-transform-pipeline-diagram.webp": {
+      "key": "course/bca/fifth-semester/computer-networking/notes/2d-3d-transfromations/homogeneous-coordinate-transform-pipeline-diagram.ed0e1fa8.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/2d-3d-transfromations/homogeneous-coordinate-transform-pipeline-diagram.ed0e1fa8.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 742932
+    },
+    "order-of-transformations-on-a-square.webp": {
+      "key": "course/bca/fifth-semester/computer-networking/notes/2d-3d-transfromations/order-of-transformations-on-a-square.506c9285.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/2d-3d-transfromations/order-of-transformations-on-a-square.506c9285.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 674142
+    },
+    "rotation-about-an-arbitrary-point-diagram.webp": {
+      "key": "course/bca/fifth-semester/computer-networking/notes/2d-3d-transfromations/rotation-about-an-arbitrary-point-diagram.62651e1f.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/2d-3d-transfromations/rotation-about-an-arbitrary-point-diagram.62651e1f.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 728408
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/2d-3d-transfromations/2d-reflection-matrices-explained.808f8def.webp",
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/2d-3d-transfromations/3d-transformation-matrices-overview.97c22328.webp",
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/2d-3d-transfromations/homogeneous-coordinate-transform-pipeline-diagram.ed0e1fa8.webp",
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/2d-3d-transfromations/order-of-transformations-on-a-square.506c9285.webp",
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/2d-3d-transfromations/rotation-about-an-arbitrary-point-diagram.62651e1f.webp"
+  ]
+}

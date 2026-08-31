@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-31T15:00:01.492Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/first-year/basic-sociology-for-social-work/application-of-sociology",
+  "totalAssets": 2,
+  "assets": {
+    "social-work-intervention-cycle.webp": {
+      "key": "course/bsw/first-year/basic-sociology-for-social-work/application-of-sociology/social-work-intervention-cycle.5386bc42.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/application-of-sociology/social-work-intervention-cycle.5386bc42.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 815128
+    },
+    "urban-suburban-juvenile-crime-comparison.webp": {
+      "key": "course/bsw/first-year/basic-sociology-for-social-work/application-of-sociology/urban-suburban-juvenile-crime-comparison.ef21f06b.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/application-of-sociology/urban-suburban-juvenile-crime-comparison.ef21f06b.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 1050190
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/application-of-sociology/social-work-intervention-cycle.5386bc42.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/application-of-sociology/urban-suburban-juvenile-crime-comparison.ef21f06b.webp"
+  ]
+}

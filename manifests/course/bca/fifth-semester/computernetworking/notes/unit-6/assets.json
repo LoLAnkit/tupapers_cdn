@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-31T15:00:01.405Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/fifth-semester/computernetworking/notes/unit-6",
+  "totalAssets": 4,
+  "assets": {
+    "dhpc-address-assignment-sequence-diagram.webp": {
+      "key": "course/bca/fifth-semester/computernetworking/notes/unit-6/dhpc-address-assignment-sequence-diagram.7ce710b7.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-6/dhpc-address-assignment-sequence-diagram.7ce710b7.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 720618
+    },
+    "email-protocol-stack.webp": {
+      "key": "course/bca/fifth-semester/computernetworking/notes/unit-6/email-protocol-stack.e626d987.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-6/email-protocol-stack.e626d987.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 741416
+    },
+    "ftp-dual-channel-architecture-diagram.webp": {
+      "key": "course/bca/fifth-semester/computernetworking/notes/unit-6/ftp-dual-channel-architecture-diagram.05648c2e.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-6/ftp-dual-channel-architecture-diagram.05648c2e.webp",
+      "contentType": "image/webp",
+      "width": 1365,
+      "height": 1152,
+      "bytes": 759174
+    },
+    "http-request-response-cycle-infographic.webp": {
+      "key": "course/bca/fifth-semester/computernetworking/notes/unit-6/http-request-response-cycle-infographic.f79ec059.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-6/http-request-response-cycle-infographic.f79ec059.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 746042
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-6/dhpc-address-assignment-sequence-diagram.7ce710b7.webp",
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-6/email-protocol-stack.e626d987.webp",
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-6/ftp-dual-channel-architecture-diagram.05648c2e.webp",
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-6/http-request-response-cycle-infographic.f79ec059.webp"
+  ]
+}

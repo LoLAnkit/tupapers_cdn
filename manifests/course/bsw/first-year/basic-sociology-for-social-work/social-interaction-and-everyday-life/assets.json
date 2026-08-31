@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-31T15:00:01.515Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/first-year/basic-sociology-for-social-work/social-interaction-and-everyday-life",
+  "totalAssets": 2,
+  "assets": {
+    "social-interaction-contexts-matrix.webp": {
+      "key": "course/bsw/first-year/basic-sociology-for-social-work/social-interaction-and-everyday-life/social-interaction-contexts-matrix.21d8aa03.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/social-interaction-and-everyday-life/social-interaction-contexts-matrix.21d8aa03.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 671582
+    },
+    "whiteboard-nonverbal-communication-map.webp": {
+      "key": "course/bsw/first-year/basic-sociology-for-social-work/social-interaction-and-everyday-life/whiteboard-nonverbal-communication-map.fb954d3b.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/social-interaction-and-everyday-life/whiteboard-nonverbal-communication-map.fb954d3b.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 703998
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/social-interaction-and-everyday-life/social-interaction-contexts-matrix.21d8aa03.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/social-interaction-and-everyday-life/whiteboard-nonverbal-communication-map.fb954d3b.webp"
+  ]
+}

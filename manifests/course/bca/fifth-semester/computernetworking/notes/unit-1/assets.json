@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-31T15:00:01.378Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/fifth-semester/computernetworking/notes/unit-1",
+  "totalAssets": 4,
+  "assets": {
+    "network-topologies.webp": {
+      "key": "course/bca/fifth-semester/computernetworking/notes/unit-1/network-topologies.6abdc28e.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-1/network-topologies.6abdc28e.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 942868
+    },
+    "osi-reference-model-and-encapsulation-process.webp": {
+      "key": "course/bca/fifth-semester/computernetworking/notes/unit-1/osi-reference-model-and-encapsulation-process.de755608.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-1/osi-reference-model-and-encapsulation-process.de755608.webp",
+      "contentType": "image/webp",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 763082
+    },
+    "osi-vs-tcpip-layer-comparision.webp": {
+      "key": "course/bca/fifth-semester/computernetworking/notes/unit-1/osi-vs-tcpip-layer-comparision.b0d080b3.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-1/osi-vs-tcpip-layer-comparision.b0d080b3.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 1011692
+    },
+    "tcpip-protocol-suite-diagram.webp": {
+      "key": "course/bca/fifth-semester/computernetworking/notes/unit-1/tcpip-protocol-suite-diagram.f66631a4.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-1/tcpip-protocol-suite-diagram.f66631a4.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 1166154
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-1/network-topologies.6abdc28e.webp",
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-1/osi-reference-model-and-encapsulation-process.de755608.webp",
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-1/osi-vs-tcpip-layer-comparision.b0d080b3.webp",
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-1/tcpip-protocol-suite-diagram.f66631a4.webp"
+  ]
+}

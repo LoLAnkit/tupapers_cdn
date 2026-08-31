@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-31T15:00:01.573Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/first-year/intro-to-psychology/sensation-and-perception",
+  "totalAssets": 5,
+  "assets": {
+    "absolute-vs-difference-threshold.webp": {
+      "key": "course/bsw/first-year/intro-to-psychology/sensation-and-perception/absolute-vs-difference-threshold.f36f3134.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/sensation-and-perception/absolute-vs-difference-threshold.f36f3134.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 1156862
+    },
+    "depth-perception-cues.webp": {
+      "key": "course/bsw/first-year/intro-to-psychology/sensation-and-perception/depth-perception-cues.82caefb3.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/sensation-and-perception/depth-perception-cues.82caefb3.webp",
+      "contentType": "image/webp",
+      "width": 1402,
+      "height": 1122,
+      "bytes": 1260396
+    },
+    "factors-influencing-perceptions.webp": {
+      "key": "course/bsw/first-year/intro-to-psychology/sensation-and-perception/factors-influencing-perceptions.6b980e0d.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/sensation-and-perception/factors-influencing-perceptions.6b980e0d.webp",
+      "contentType": "image/webp",
+      "width": 1402,
+      "height": 1122,
+      "bytes": 802710
+    },
+    "gestalt-principles-study-chart.webp": {
+      "key": "course/bsw/first-year/intro-to-psychology/sensation-and-perception/gestalt-principles-study-chart.6c43dbca.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/sensation-and-perception/gestalt-principles-study-chart.6c43dbca.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 752696
+    },
+    "topdown-vs-bottomup-processing.webp": {
+      "key": "course/bsw/first-year/intro-to-psychology/sensation-and-perception/topdown-vs-bottomup-processing.51596dc0.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/sensation-and-perception/topdown-vs-bottomup-processing.51596dc0.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 1203076
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/sensation-and-perception/absolute-vs-difference-threshold.f36f3134.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/sensation-and-perception/depth-perception-cues.82caefb3.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/sensation-and-perception/factors-influencing-perceptions.6b980e0d.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/sensation-and-perception/gestalt-principles-study-chart.6c43dbca.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/sensation-and-perception/topdown-vs-bottomup-processing.51596dc0.webp"
+  ]
+}

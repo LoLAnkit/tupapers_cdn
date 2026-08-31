@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-31T15:00:01.137Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/fourth-semester/marketing/introduction",
+  "totalAssets": 4,
+  "assets": {
+    "chatgpt-image-aug-15-2026-10-13-33-am-1.webp": {
+      "key": "course/bba/fourth-semester/marketing/introduction/chatgpt-image-aug-15-2026-10-13-33-am-1.4b1180f6.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/introduction/chatgpt-image-aug-15-2026-10-13-33-am-1.4b1180f6.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 478222
+    },
+    "marketing-mix-7ps-diagram.webp": {
+      "key": "course/bba/fourth-semester/marketing/introduction/marketing-mix-7ps-diagram.d2af965c.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/introduction/marketing-mix-7ps-diagram.d2af965c.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 536426
+    },
+    "marketing-orientations-continuum-chart.webp": {
+      "key": "course/bba/fourth-semester/marketing/introduction/marketing-orientations-continuum-chart.02d26c98.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/introduction/marketing-orientations-continuum-chart.02d26c98.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 531984
+    },
+    "marketingprocess-flowchart.webp": {
+      "key": "course/bba/fourth-semester/marketing/introduction/marketingprocess-flowchart.3e31ec86.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/introduction/marketingprocess-flowchart.3e31ec86.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 382926
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/introduction/chatgpt-image-aug-15-2026-10-13-33-am-1.4b1180f6.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/introduction/marketing-mix-7ps-diagram.d2af965c.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/introduction/marketing-orientations-continuum-chart.02d26c98.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/introduction/marketingprocess-flowchart.3e31ec86.webp"
+  ]
+}

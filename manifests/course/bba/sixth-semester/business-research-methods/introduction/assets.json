@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-31T15:00:01.194Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/sixth-semester/business-research-methods/introduction",
+  "totalAssets": 4,
+  "assets": {
+    "paradigm-shift-model.webp": {
+      "key": "course/bba/sixth-semester/business-research-methods/introduction/paradigm-shift-model.0dbe33e2.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/introduction/paradigm-shift-model.0dbe33e2.webp",
+      "contentType": "image/webp",
+      "width": 705,
+      "height": 789,
+      "bytes": 249552
+    },
+    "postivism-vs-interpretivism.webp": {
+      "key": "course/bba/sixth-semester/business-research-methods/introduction/postivism-vs-interpretivism.54cfa359.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/introduction/postivism-vs-interpretivism.54cfa359.webp",
+      "contentType": "image/webp",
+      "width": 692,
+      "height": 827,
+      "bytes": 252650
+    },
+    "scientific-research-process.webp": {
+      "key": "course/bba/sixth-semester/business-research-methods/introduction/scientific-research-process.7aaa0e4c.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/introduction/scientific-research-process.7aaa0e4c.webp",
+      "contentType": "image/webp",
+      "width": 640,
+      "height": 828,
+      "bytes": 223394
+    },
+    "types-of-research.webp": {
+      "key": "course/bba/sixth-semester/business-research-methods/introduction/types-of-research.57b2857b.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/introduction/types-of-research.57b2857b.webp",
+      "contentType": "image/webp",
+      "width": 624,
+      "height": 790,
+      "bytes": 224398
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/introduction/paradigm-shift-model.0dbe33e2.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/introduction/postivism-vs-interpretivism.54cfa359.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/introduction/scientific-research-process.7aaa0e4c.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/introduction/types-of-research.57b2857b.webp"
+  ]
+}

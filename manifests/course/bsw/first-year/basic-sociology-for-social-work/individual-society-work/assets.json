@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-31T15:00:01.504Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/first-year/basic-sociology-for-social-work/individual-society-work",
+  "totalAssets": 3,
+  "assets": {
+    "cultural-context-flowchart.webp": {
+      "key": "course/bsw/first-year/basic-sociology-for-social-work/individual-society-work/cultural-context-flowchart.e72f7994.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/individual-society-work/cultural-context-flowchart.e72f7994.webp",
+      "contentType": "image/webp",
+      "width": 1930,
+      "height": 815,
+      "bytes": 686268
+    },
+    "social-changes-mind-map.webp": {
+      "key": "course/bsw/first-year/basic-sociology-for-social-work/individual-society-work/social-changes-mind-map.645639ee.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/individual-society-work/social-changes-mind-map.645639ee.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 660566
+    },
+    "social-structure-pyramid.webp": {
+      "key": "course/bsw/first-year/basic-sociology-for-social-work/individual-society-work/social-structure-pyramid.83692733.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/individual-society-work/social-structure-pyramid.83692733.webp",
+      "contentType": "image/webp",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 962832
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/individual-society-work/cultural-context-flowchart.e72f7994.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/individual-society-work/social-changes-mind-map.645639ee.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/individual-society-work/social-structure-pyramid.83692733.webp"
+  ]
+}

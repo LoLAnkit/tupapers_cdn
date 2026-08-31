@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-31T15:00:01.272Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/sixth-semester/entrepreneurship/creativity-and-innovation",
+  "totalAssets": 4,
+  "assets": {
+    "creativity-techniques.webp": {
+      "key": "course/bba/sixth-semester/entrepreneurship/creativity-and-innovation/creativity-techniques.d8684861.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/creativity-and-innovation/creativity-techniques.d8684861.webp",
+      "contentType": "image/webp",
+      "width": 1692,
+      "height": 929,
+      "bytes": 517362
+    },
+    "disruptive-innovations.webp": {
+      "key": "course/bba/sixth-semester/entrepreneurship/creativity-and-innovation/disruptive-innovations.93ef2d13.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/creativity-and-innovation/disruptive-innovations.93ef2d13.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 374944
+    },
+    "innovation-process-flow.webp": {
+      "key": "course/bba/sixth-semester/entrepreneurship/creativity-and-innovation/innovation-process-flow.419364f3.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/creativity-and-innovation/innovation-process-flow.419364f3.webp",
+      "contentType": "image/webp",
+      "width": 1734,
+      "height": 907,
+      "bytes": 530108
+    },
+    "sources-of-innovations.webp": {
+      "key": "course/bba/sixth-semester/entrepreneurship/creativity-and-innovation/sources-of-innovations.b44e30ba.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/creativity-and-innovation/sources-of-innovations.b44e30ba.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 781942
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/creativity-and-innovation/creativity-techniques.d8684861.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/creativity-and-innovation/disruptive-innovations.93ef2d13.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/creativity-and-innovation/innovation-process-flow.419364f3.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/creativity-and-innovation/sources-of-innovations.b44e30ba.webp"
+  ]
+}

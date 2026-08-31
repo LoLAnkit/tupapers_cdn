@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-31T15:00:01.395Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/fifth-semester/computernetworking/notes/unit-4",
+  "totalAssets": 5,
+  "assets": {
+    "distance-vector-routing.webp": {
+      "key": "course/bca/fifth-semester/computernetworking/notes/unit-4/distance-vector-routing.85f1ee40.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-4/distance-vector-routing.85f1ee40.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 762668
+    },
+    "ipv4-address-classes.webp": {
+      "key": "course/bca/fifth-semester/computernetworking/notes/unit-4/ipv4-address-classes.9567cdce.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-4/ipv4-address-classes.9567cdce.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 772434
+    },
+    "ipv4-data-format.webp": {
+      "key": "course/bca/fifth-semester/computernetworking/notes/unit-4/ipv4-data-format.0ed197f7.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-4/ipv4-data-format.0ed197f7.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 1310630
+    },
+    "ipv4-vs-ipv6-header-comparision.webp": {
+      "key": "course/bca/fifth-semester/computernetworking/notes/unit-4/ipv4-vs-ipv6-header-comparision.0a11c05a.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-4/ipv4-vs-ipv6-header-comparision.0a11c05a.webp",
+      "contentType": "image/webp",
+      "width": 1694,
+      "height": 928,
+      "bytes": 900184
+    },
+    "subnetting-process-flowchart-illustration.webp": {
+      "key": "course/bca/fifth-semester/computernetworking/notes/unit-4/subnetting-process-flowchart-illustration.792df17b.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-4/subnetting-process-flowchart-illustration.792df17b.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 679704
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-4/distance-vector-routing.85f1ee40.webp",
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-4/ipv4-address-classes.9567cdce.webp",
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-4/ipv4-data-format.0ed197f7.webp",
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-4/ipv4-vs-ipv6-header-comparision.0a11c05a.webp",
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-4/subnetting-process-flowchart-illustration.792df17b.webp"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-31T15:00:01.143Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/fourth-semester/marketing/marketing-information-system",
+  "totalAssets": 2,
+  "assets": {
+    "marketing-information-system-flowchart.webp": {
+      "key": "course/bba/fourth-semester/marketing/marketing-information-system/marketing-information-system-flowchart.c9fdafd2.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/marketing-information-system/marketing-information-system-flowchart.c9fdafd2.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 545030
+    },
+    "marketing-research-process.webp": {
+      "key": "course/bba/fourth-semester/marketing/marketing-information-system/marketing-research-process.c3da30b7.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/marketing-information-system/marketing-research-process.c3da30b7.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 411478
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/marketing-information-system/marketing-information-system-flowchart.c9fdafd2.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/marketing-information-system/marketing-research-process.c3da30b7.webp"
+  ]
+}

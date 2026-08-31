@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-31T15:00:01.258Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/sixth-semester/e-commerce/social-networks",
+  "totalAssets": 3,
+  "assets": {
+    "horizontal-vs-vertical-ecommerce-portals.webp": {
+      "key": "course/bba/sixth-semester/e-commerce/social-networks/horizontal-vs-vertical-ecommerce-portals.3437918e.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/social-networks/horizontal-vs-vertical-ecommerce-portals.3437918e.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 522836
+    },
+    "online-community-types.webp": {
+      "key": "course/bba/sixth-semester/e-commerce/social-networks/online-community-types.f46d4ee5.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/social-networks/online-community-types.f46d4ee5.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 528122
+    },
+    "types-of-online-auctions.webp": {
+      "key": "course/bba/sixth-semester/e-commerce/social-networks/types-of-online-auctions.2681bd94.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/social-networks/types-of-online-auctions.2681bd94.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 616926
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/social-networks/horizontal-vs-vertical-ecommerce-portals.3437918e.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/social-networks/online-community-types.f46d4ee5.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/social-networks/types-of-online-auctions.2681bd94.webp"
+  ]
+}

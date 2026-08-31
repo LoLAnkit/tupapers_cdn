@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-31T15:00:01.323Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/sixth-semester/financial-market-and-services/insurance-company-pensions",
+  "totalAssets": 3,
+  "assets": {
+    "annuity-present-value-of-benefit-stream.webp": {
+      "key": "course/bba/sixth-semester/financial-market-and-services/insurance-company-pensions/annuity-present-value-of-benefit-stream.1840d44a.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/insurance-company-pensions/annuity-present-value-of-benefit-stream.1840d44a.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 1307676
+    },
+    "defined-benefit-vs-defined-contribution-pension-plus.webp": {
+      "key": "course/bba/sixth-semester/financial-market-and-services/insurance-company-pensions/defined-benefit-vs-defined-contribution-pension-plus.c68fe77d.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/insurance-company-pensions/defined-benefit-vs-defined-contribution-pension-plus.c68fe77d.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 620876
+    },
+    "types-of-insurance-company.webp": {
+      "key": "course/bba/sixth-semester/financial-market-and-services/insurance-company-pensions/types-of-insurance-company.e76bd2bd.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/insurance-company-pensions/types-of-insurance-company.e76bd2bd.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 516890
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/insurance-company-pensions/annuity-present-value-of-benefit-stream.1840d44a.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/insurance-company-pensions/defined-benefit-vs-defined-contribution-pension-plus.c68fe77d.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/insurance-company-pensions/types-of-insurance-company.e76bd2bd.webp"
+  ]
+}

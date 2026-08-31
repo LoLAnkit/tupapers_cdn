@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-31T15:00:01.636Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/first-year/social-psychology/social-behavior",
+  "totalAssets": 4,
+  "assets": {
+    "abc-model-of-attitude-components.webp": {
+      "key": "course/bsw/first-year/social-psychology/social-behavior/abc-model-of-attitude-components.eafababa.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-behavior/abc-model-of-attitude-components.eafababa.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 662888
+    },
+    "causes-and-reduction-of-prejudice-diagram.webp": {
+      "key": "course/bsw/first-year/social-psychology/social-behavior/causes-and-reduction-of-prejudice-diagram.3bc5d334.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-behavior/causes-and-reduction-of-prejudice-diagram.3bc5d334.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 689504
+    },
+    "cognitive-dissonance-cycle.webp": {
+      "key": "course/bsw/first-year/social-psychology/social-behavior/cognitive-dissonance-cycle.d80ba5c6.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-behavior/cognitive-dissonance-cycle.d80ba5c6.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 944934
+    },
+    "persuasion-routes-flowchart.webp": {
+      "key": "course/bsw/first-year/social-psychology/social-behavior/persuasion-routes-flowchart.3a78e88f.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-behavior/persuasion-routes-flowchart.3a78e88f.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 504488
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-behavior/abc-model-of-attitude-components.eafababa.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-behavior/causes-and-reduction-of-prejudice-diagram.3bc5d334.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-behavior/cognitive-dissonance-cycle.d80ba5c6.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-behavior/persuasion-routes-flowchart.3a78e88f.webp"
+  ]
+}

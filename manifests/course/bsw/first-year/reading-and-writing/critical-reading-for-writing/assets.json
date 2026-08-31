@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-31T15:00:01.588Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/first-year/reading-and-writing/critical-reading-for-writing",
+  "totalAssets": 3,
+  "assets": {
+    "agree-disagree-essay-response-framework.webp": {
+      "key": "course/bsw/first-year/reading-and-writing/critical-reading-for-writing/agree-disagree-essay-response-framework.e814b440.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/critical-reading-for-writing/agree-disagree-essay-response-framework.e814b440.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 1132448
+    },
+    "critical-reading-annotation-system.webp": {
+      "key": "course/bsw/first-year/reading-and-writing/critical-reading-for-writing/critical-reading-annotation-system.534c72a1.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/critical-reading-for-writing/critical-reading-annotation-system.534c72a1.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 897282
+    },
+    "four-levels-of-reading-cycle.webp": {
+      "key": "course/bsw/first-year/reading-and-writing/critical-reading-for-writing/four-levels-of-reading-cycle.919579d0.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/critical-reading-for-writing/four-levels-of-reading-cycle.919579d0.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 971194
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/critical-reading-for-writing/agree-disagree-essay-response-framework.e814b440.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/critical-reading-for-writing/critical-reading-annotation-system.534c72a1.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/critical-reading-for-writing/four-levels-of-reading-cycle.919579d0.webp"
+  ]
+}

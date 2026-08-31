@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-31T15:00:01.159Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/fourth-semester/marketing/promotion-decisions",
+  "totalAssets": 3,
+  "assets": {
+    "marketing-communication-process.webp": {
+      "key": "course/bba/fourth-semester/marketing/promotion-decisions/marketing-communication-process.4b1180f6.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/promotion-decisions/marketing-communication-process.4b1180f6.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 478222
+    },
+    "personal-selling-process.webp": {
+      "key": "course/bba/fourth-semester/marketing/promotion-decisions/personal-selling-process.c1104f8e.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/promotion-decisions/personal-selling-process.c1104f8e.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 370074
+    },
+    "promotion-mix-puzzle-infographic.webp": {
+      "key": "course/bba/fourth-semester/marketing/promotion-decisions/promotion-mix-puzzle-infographic.00b1aa5a.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/promotion-decisions/promotion-mix-puzzle-infographic.00b1aa5a.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 517788
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/promotion-decisions/marketing-communication-process.4b1180f6.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/promotion-decisions/personal-selling-process.c1104f8e.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/promotion-decisions/promotion-mix-puzzle-infographic.00b1aa5a.webp"
+  ]
+}

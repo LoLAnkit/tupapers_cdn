@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-31T15:00:01.543Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/first-year/intro-to-psychology/learning",
+  "totalAssets": 4,
+  "assets": {
+    "behavioural-vs-cognitive-learning.webp": {
+      "key": "course/bsw/first-year/intro-to-psychology/learning/behavioural-vs-cognitive-learning.a616416b.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/learning/behavioural-vs-cognitive-learning.a616416b.webp",
+      "contentType": "image/webp",
+      "width": 1402,
+      "height": 1122,
+      "bytes": 914584
+    },
+    "classical-conditioning-study-guide.webp": {
+      "key": "course/bsw/first-year/intro-to-psychology/learning/classical-conditioning-study-guide.6474fa0e.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/learning/classical-conditioning-study-guide.6474fa0e.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 944512
+    },
+    "operant-conditioning-matrix.webp": {
+      "key": "course/bsw/first-year/intro-to-psychology/learning/operant-conditioning-matrix.27047939.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/learning/operant-conditioning-matrix.27047939.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 728740
+    },
+    "transfer-of-traning.webp": {
+      "key": "course/bsw/first-year/intro-to-psychology/learning/transfer-of-traning.08a60827.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/learning/transfer-of-traning.08a60827.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 1114170
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/learning/behavioural-vs-cognitive-learning.a616416b.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/learning/classical-conditioning-study-guide.6474fa0e.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/learning/operant-conditioning-matrix.27047939.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/learning/transfer-of-traning.08a60827.webp"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-31T15:00:01.128Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/fourth-semester/hrm-and-technology/intro-to-hrm-and-technology",
+  "totalAssets": 3,
+  "assets": {
+    "evolution-of-hr-leadership-roles.webp": {
+      "key": "course/bba/fourth-semester/hrm-and-technology/intro-to-hrm-and-technology/evolution-of-hr-leadership-roles.8961068e.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/intro-to-hrm-and-technology/evolution-of-hr-leadership-roles.8961068e.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 779228
+    },
+    "hrm-functions-and-outcome-framework.webp": {
+      "key": "course/bba/fourth-semester/hrm-and-technology/intro-to-hrm-and-technology/hrm-functions-and-outcome-framework.0a825b69.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/intro-to-hrm-and-technology/hrm-functions-and-outcome-framework.0a825b69.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 737690
+    },
+    "hrm-paradigm-shift-comparison-chart.webp": {
+      "key": "course/bba/fourth-semester/hrm-and-technology/intro-to-hrm-and-technology/hrm-paradigm-shift-comparison-chart.30ae4809.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/intro-to-hrm-and-technology/hrm-paradigm-shift-comparison-chart.30ae4809.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 810362
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/intro-to-hrm-and-technology/evolution-of-hr-leadership-roles.8961068e.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/intro-to-hrm-and-technology/hrm-functions-and-outcome-framework.0a825b69.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/intro-to-hrm-and-technology/hrm-paradigm-shift-comparison-chart.30ae4809.webp"
+  ]
+}

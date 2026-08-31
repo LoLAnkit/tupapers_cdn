@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-31T15:00:01.410Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/fifth-semester/computernetworking/notes/unit-7",
+  "totalAssets": 4,
+  "assets": {
+    "digital-signature-workflow-diagram.webp": {
+      "key": "course/bca/fifth-semester/computernetworking/notes/unit-7/digital-signature-workflow-diagram.d0d73dde.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-7/digital-signature-workflow-diagram.d0d73dde.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 673968
+    },
+    "firewall-packet-filtering-rule-flow.webp": {
+      "key": "course/bca/fifth-semester/computernetworking/notes/unit-7/firewall-packet-filtering-rule-flow.5c14d9b3.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-7/firewall-packet-filtering-rule-flow.5c14d9b3.webp",
+      "contentType": "image/webp",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 664690
+    },
+    "rsa-key-generation-and-encryption-guide.webp": {
+      "key": "course/bca/fifth-semester/computernetworking/notes/unit-7/rsa-key-generation-and-encryption-guide.260d2b77.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-7/rsa-key-generation-and-encryption-guide.260d2b77.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 1095640
+    },
+    "symmetric-vs-asymmetric-cryptography.webp": {
+      "key": "course/bca/fifth-semester/computernetworking/notes/unit-7/symmetric-vs-asymmetric-cryptography.51618f59.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-7/symmetric-vs-asymmetric-cryptography.51618f59.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 1075982
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-7/digital-signature-workflow-diagram.d0d73dde.webp",
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-7/firewall-packet-filtering-rule-flow.5c14d9b3.webp",
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-7/rsa-key-generation-and-encryption-guide.260d2b77.webp",
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-7/symmetric-vs-asymmetric-cryptography.51618f59.webp"
+  ]
+}

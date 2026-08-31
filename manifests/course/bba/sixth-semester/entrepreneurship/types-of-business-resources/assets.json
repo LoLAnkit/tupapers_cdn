@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-31T15:00:01.297Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/sixth-semester/entrepreneurship/types-of-business-resources",
+  "totalAssets": 3,
+  "assets": {
+    "funding-sources.webp": {
+      "key": "course/bba/sixth-semester/entrepreneurship/types-of-business-resources/funding-sources.c3b1cf03.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/types-of-business-resources/funding-sources.c3b1cf03.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 476430
+    },
+    "resources-mind-mapping.webp": {
+      "key": "course/bba/sixth-semester/entrepreneurship/types-of-business-resources/resources-mind-mapping.c2956eba.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/types-of-business-resources/resources-mind-mapping.c2956eba.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 498492
+    },
+    "types-of-business-resources.webp": {
+      "key": "course/bba/sixth-semester/entrepreneurship/types-of-business-resources/types-of-business-resources.59c28dcb.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/types-of-business-resources/types-of-business-resources.59c28dcb.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 530204
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/types-of-business-resources/funding-sources.c3b1cf03.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/types-of-business-resources/resources-mind-mapping.c2956eba.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/types-of-business-resources/types-of-business-resources.59c28dcb.webp"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-31T15:00:01.164Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/fourth-semester/marketing/segmentation-targeting-strategies",
+  "totalAssets": 3,
+  "assets": {
+    "consumer-vs-organizational-market-segmentation.webp": {
+      "key": "course/bba/fourth-semester/marketing/segmentation-targeting-strategies/consumer-vs-organizational-market-segmentation.36377f4a.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/segmentation-targeting-strategies/consumer-vs-organizational-market-segmentation.36377f4a.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 372240
+    },
+    "market-segmentation-process-flowchart.webp": {
+      "key": "course/bba/fourth-semester/marketing/segmentation-targeting-strategies/market-segmentation-process-flowchart.9b0f8e09.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/segmentation-targeting-strategies/market-segmentation-process-flowchart.9b0f8e09.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 474806
+    },
+    "product-positioning-map.webp": {
+      "key": "course/bba/fourth-semester/marketing/segmentation-targeting-strategies/product-positioning-map.94027ec8.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/segmentation-targeting-strategies/product-positioning-map.94027ec8.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 292244
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/segmentation-targeting-strategies/consumer-vs-organizational-market-segmentation.36377f4a.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/segmentation-targeting-strategies/market-segmentation-process-flowchart.9b0f8e09.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/segmentation-targeting-strategies/product-positioning-map.94027ec8.webp"
+  ]
+}

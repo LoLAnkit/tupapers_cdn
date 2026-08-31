@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-31T15:00:01.263Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/sixth-semester/entrepreneurship/business-demography",
+  "totalAssets": 3,
+  "assets": {
+    "business-demography.webp": {
+      "key": "course/bba/sixth-semester/entrepreneurship/business-demography/business-demography.f7ce701a.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/business-demography/business-demography.f7ce701a.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 550754
+    },
+    "source-data-for-business-decision.webp": {
+      "key": "course/bba/sixth-semester/entrepreneurship/business-demography/source-data-for-business-decision.430173ba.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/business-demography/source-data-for-business-decision.430173ba.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 489484
+    },
+    "spheres-of-business-demography.webp": {
+      "key": "course/bba/sixth-semester/entrepreneurship/business-demography/spheres-of-business-demography.bfab414e.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/business-demography/spheres-of-business-demography.bfab414e.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 492526
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/business-demography/business-demography.f7ce701a.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/business-demography/source-data-for-business-decision.430173ba.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/business-demography/spheres-of-business-demography.bfab414e.webp"
+  ]
+}
