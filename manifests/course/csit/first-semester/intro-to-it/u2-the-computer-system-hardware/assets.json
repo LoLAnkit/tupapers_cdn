@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-09T12:50:26.461Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/csit/first-semester/intro-to-it/u2-the-computer-system-hardware",
+  "totalAssets": 4,
+  "assets": {
+    "cpu-internal-organization.webp": {
+      "key": "course/csit/first-semester/intro-to-it/u2-the-computer-system-hardware/cpu-internal-organization.5cab9dcc.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u2-the-computer-system-hardware/cpu-internal-organization.5cab9dcc.webp",
+      "contentType": "image/webp",
+      "width": 1692,
+      "height": 930,
+      "bytes": 514592
+    },
+    "instruction-cycle.webp": {
+      "key": "course/csit/first-semester/intro-to-it/u2-the-computer-system-hardware/instruction-cycle.81f6ed68.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u2-the-computer-system-hardware/instruction-cycle.81f6ed68.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 365156
+    },
+    "instruction-format.webp": {
+      "key": "course/csit/first-semester/intro-to-it/u2-the-computer-system-hardware/instruction-format.6642a8f4.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u2-the-computer-system-hardware/instruction-format.6642a8f4.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 781670
+    },
+    "interconnection-of-computer-units.webp": {
+      "key": "course/csit/first-semester/intro-to-it/u2-the-computer-system-hardware/interconnection-of-computer-units.8808d202.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u2-the-computer-system-hardware/interconnection-of-computer-units.8808d202.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 519616
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u2-the-computer-system-hardware/cpu-internal-organization.5cab9dcc.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u2-the-computer-system-hardware/instruction-cycle.81f6ed68.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u2-the-computer-system-hardware/instruction-format.6642a8f4.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u2-the-computer-system-hardware/interconnection-of-computer-units.8808d202.webp"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-09T12:50:26.521Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/csit/first-semester/physics/u3-fundamentals-of-atomic-theory",
+  "totalAssets": 5,
+  "assets": {
+    "de-broglie-matter-wave.webp": {
+      "key": "course/csit/first-semester/physics/u3-fundamentals-of-atomic-theory/de-broglie-matter-wave.2acb0ec9.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/physics/u3-fundamentals-of-atomic-theory/de-broglie-matter-wave.2acb0ec9.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 310340
+    },
+    "franck-hertz-experiment-setup.webp": {
+      "key": "course/csit/first-semester/physics/u3-fundamentals-of-atomic-theory/franck-hertz-experiment-setup.8f96017c.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/physics/u3-fundamentals-of-atomic-theory/franck-hertz-experiment-setup.8f96017c.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 445780
+    },
+    "franck-hertz-i-v-curve.webp": {
+      "key": "course/csit/first-semester/physics/u3-fundamentals-of-atomic-theory/franck-hertz-i-v-curve.6749b025.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/physics/u3-fundamentals-of-atomic-theory/franck-hertz-i-v-curve.6749b025.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 319172
+    },
+    "heisenberg-uncertainty-principle-conceptual-diagram.webp": {
+      "key": "course/csit/first-semester/physics/u3-fundamentals-of-atomic-theory/heisenberg-uncertainty-principle-conceptual-diagram.05c42321.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/physics/u3-fundamentals-of-atomic-theory/heisenberg-uncertainty-principle-conceptual-diagram.05c42321.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 313738
+    },
+    "hydrogen-spectrum.webp": {
+      "key": "course/csit/first-semester/physics/u3-fundamentals-of-atomic-theory/hydrogen-spectrum.54522792.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/physics/u3-fundamentals-of-atomic-theory/hydrogen-spectrum.54522792.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 524900
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/csit/first-semester/physics/u3-fundamentals-of-atomic-theory/de-broglie-matter-wave.2acb0ec9.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/physics/u3-fundamentals-of-atomic-theory/franck-hertz-experiment-setup.8f96017c.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/physics/u3-fundamentals-of-atomic-theory/franck-hertz-i-v-curve.6749b025.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/physics/u3-fundamentals-of-atomic-theory/heisenberg-uncertainty-principle-conceptual-diagram.05c42321.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/physics/u3-fundamentals-of-atomic-theory/hydrogen-spectrum.54522792.webp"
+  ]
+}

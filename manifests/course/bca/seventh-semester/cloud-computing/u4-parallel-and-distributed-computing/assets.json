@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-09T12:50:25.536Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/seventh-semester/cloud-computing/u4-parallel-and-distributed-computing",
+  "totalAssets": 4,
+  "assets": {
+    "distributed-and-grid-computing-structures.webp": {
+      "key": "course/bca/seventh-semester/cloud-computing/u4-parallel-and-distributed-computing/distributed-and-grid-computing-structures.bf79a230.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u4-parallel-and-distributed-computing/distributed-and-grid-computing-structures.bf79a230.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 486946
+    },
+    "mapreduce-cluster-infrastructure.webp": {
+      "key": "course/bca/seventh-semester/cloud-computing/u4-parallel-and-distributed-computing/mapreduce-cluster-infrastructure.4f868b30.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u4-parallel-and-distributed-computing/mapreduce-cluster-infrastructure.4f868b30.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 468216
+    },
+    "parallel-computing-task-decomposition.webp": {
+      "key": "course/bca/seventh-semester/cloud-computing/u4-parallel-and-distributed-computing/parallel-computing-task-decomposition.3fa55d25.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u4-parallel-and-distributed-computing/parallel-computing-task-decomposition.3fa55d25.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 415170
+    },
+    "thread-based-parallel-execution.webp": {
+      "key": "course/bca/seventh-semester/cloud-computing/u4-parallel-and-distributed-computing/thread-based-parallel-execution.f03b57b8.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u4-parallel-and-distributed-computing/thread-based-parallel-execution.f03b57b8.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 511598
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u4-parallel-and-distributed-computing/distributed-and-grid-computing-structures.bf79a230.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u4-parallel-and-distributed-computing/mapreduce-cluster-infrastructure.4f868b30.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u4-parallel-and-distributed-computing/parallel-computing-task-decomposition.3fa55d25.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u4-parallel-and-distributed-computing/thread-based-parallel-execution.f03b57b8.webp"
+  ]
+}

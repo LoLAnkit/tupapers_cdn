@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-09T12:50:25.955Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/sixth-semester/network-programming/u5-urlconnections",
+  "totalAssets": 4,
+  "assets": {
+    "http-header-retrieval.webp": {
+      "key": "course/bca/sixth-semester/network-programming/u5-urlconnections/http-header-retrieval.1e77ea9b.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u5-urlconnections/http-header-retrieval.1e77ea9b.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 637222
+    },
+    "urlconnection-configuration-state.webp": {
+      "key": "course/bca/sixth-semester/network-programming/u5-urlconnections/urlconnection-configuration-state.f71c4a13.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u5-urlconnections/urlconnection-configuration-state.f71c4a13.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 722086
+    },
+    "urlconnection-lifecycle.webp": {
+      "key": "course/bca/sixth-semester/network-programming/u5-urlconnections/urlconnection-lifecycle.e7c3da49.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u5-urlconnections/urlconnection-lifecycle.e7c3da49.webp",
+      "contentType": "image/webp",
+      "width": 1690,
+      "height": 931,
+      "bytes": 757678
+    },
+    "web-cache-decision-flow.webp": {
+      "key": "course/bca/sixth-semester/network-programming/u5-urlconnections/web-cache-decision-flow.89d07bfc.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u5-urlconnections/web-cache-decision-flow.89d07bfc.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 630574
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u5-urlconnections/http-header-retrieval.1e77ea9b.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u5-urlconnections/urlconnection-configuration-state.f71c4a13.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u5-urlconnections/urlconnection-lifecycle.e7c3da49.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u5-urlconnections/web-cache-decision-flow.89d07bfc.webp"
+  ]
+}

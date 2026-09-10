@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-09T12:50:25.980Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/sixth-semester/network-programming/u9-nonblocking-io",
+  "totalAssets": 3,
+  "assets": {
+    "blocking-vs-nonblocking-communication.webp": {
+      "key": "course/bca/sixth-semester/network-programming/u9-nonblocking-io/blocking-vs-nonblocking-communication.9f7b3055.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u9-nonblocking-io/blocking-vs-nonblocking-communication.9f7b3055.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 489328
+    },
+    "buffer-internal-state.webp": {
+      "key": "course/bca/sixth-semester/network-programming/u9-nonblocking-io/buffer-internal-state.67a51a05.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u9-nonblocking-io/buffer-internal-state.67a51a05.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 681258
+    },
+    "buffer-operation-transitions.webp": {
+      "key": "course/bca/sixth-semester/network-programming/u9-nonblocking-io/buffer-operation-transitions.724915ef.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u9-nonblocking-io/buffer-operation-transitions.724915ef.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 637524
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u9-nonblocking-io/blocking-vs-nonblocking-communication.9f7b3055.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u9-nonblocking-io/buffer-internal-state.67a51a05.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u9-nonblocking-io/buffer-operation-transitions.724915ef.webp"
+  ]
+}

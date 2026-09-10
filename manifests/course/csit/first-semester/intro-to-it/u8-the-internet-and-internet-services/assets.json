@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-09T12:50:26.495Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/csit/first-semester/intro-to-it/u8-the-internet-and-internet-services",
+  "totalAssets": 4,
+  "assets": {
+    "cloud-computing-architecture.webp": {
+      "key": "course/csit/first-semester/intro-to-it/u8-the-internet-and-internet-services/cloud-computing-architecture.b113286b.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u8-the-internet-and-internet-services/cloud-computing-architecture.b113286b.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 428294
+    },
+    "internet-architecture.webp": {
+      "key": "course/csit/first-semester/intro-to-it/u8-the-internet-and-internet-services/internet-architecture.c2cfc9e2.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u8-the-internet-and-internet-services/internet-architecture.c2cfc9e2.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 499464
+    },
+    "internet-of-things-architecture.webp": {
+      "key": "course/csit/first-semester/intro-to-it/u8-the-internet-and-internet-services/internet-of-things-architecture.74c1bff4.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u8-the-internet-and-internet-services/internet-of-things-architecture.74c1bff4.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 345612
+    },
+    "ipv4-address-structure.webp": {
+      "key": "course/csit/first-semester/intro-to-it/u8-the-internet-and-internet-services/ipv4-address-structure.2cd2f8cf.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u8-the-internet-and-internet-services/ipv4-address-structure.2cd2f8cf.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 405216
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u8-the-internet-and-internet-services/cloud-computing-architecture.b113286b.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u8-the-internet-and-internet-services/internet-architecture.c2cfc9e2.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u8-the-internet-and-internet-services/internet-of-things-architecture.74c1bff4.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u8-the-internet-and-internet-services/ipv4-address-structure.2cd2f8cf.webp"
+  ]
+}

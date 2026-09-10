@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-09T12:50:26.358Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/second-year/psychology-for-sw/u2-determinants-of-human-behavior",
+  "totalAssets": 4,
+  "assets": {
+    "genetics-and-behaviour-pathway.webp": {
+      "key": "course/bsw/second-year/psychology-for-sw/u2-determinants-of-human-behavior/genetics-and-behaviour-pathway.81c6c86b.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u2-determinants-of-human-behavior/genetics-and-behaviour-pathway.81c6c86b.webp",
+      "contentType": "image/webp",
+      "width": 2020,
+      "height": 778,
+      "bytes": 905874
+    },
+    "nervous-and-glandular-systems.webp": {
+      "key": "course/bsw/second-year/psychology-for-sw/u2-determinants-of-human-behavior/nervous-and-glandular-systems.c0fc7774.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u2-determinants-of-human-behavior/nervous-and-glandular-systems.c0fc7774.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 1459404
+    },
+    "social-cultural-determinants-of-behaviour.webp": {
+      "key": "course/bsw/second-year/psychology-for-sw/u2-determinants-of-human-behavior/social-cultural-determinants-of-behaviour.a4a6d56f.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u2-determinants-of-human-behavior/social-cultural-determinants-of-behaviour.a4a6d56f.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 1342930
+    },
+    "socialization-environment.webp": {
+      "key": "course/bsw/second-year/psychology-for-sw/u2-determinants-of-human-behavior/socialization-environment.68e97480.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u2-determinants-of-human-behavior/socialization-environment.68e97480.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 1350152
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u2-determinants-of-human-behavior/genetics-and-behaviour-pathway.81c6c86b.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u2-determinants-of-human-behavior/nervous-and-glandular-systems.c0fc7774.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u2-determinants-of-human-behavior/social-cultural-determinants-of-behaviour.a4a6d56f.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u2-determinants-of-human-behavior/socialization-environment.68e97480.webp"
+  ]
+}

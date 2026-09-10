@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-09T12:50:25.764Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/seventh-semester/network-administration/u2-work-station-server-and-services",
+  "totalAssets": 4,
+  "assets": {
+    "network-service-requirement-planning.webp": {
+      "key": "course/bca/seventh-semester/network-administration/u2-work-station-server-and-services/network-service-requirement-planning.d70e104e.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/network-administration/u2-work-station-server-and-services/network-service-requirement-planning.d70e104e.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 799110
+    },
+    "server-hardware-strategy-architecture.webp": {
+      "key": "course/bca/seventh-semester/network-administration/u2-work-station-server-and-services/server-hardware-strategy-architecture.7cb680f1.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/network-administration/u2-work-station-server-and-services/server-hardware-strategy-architecture.7cb680f1.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 1438128
+    },
+    "server-types-and-network-interaction.webp": {
+      "key": "course/bca/seventh-semester/network-administration/u2-work-station-server-and-services/server-types-and-network-interaction.9cbaa48f.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/network-administration/u2-work-station-server-and-services/server-types-and-network-interaction.9cbaa48f.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 631038
+    },
+    "workstation-architecture.webp": {
+      "key": "course/bca/seventh-semester/network-administration/u2-work-station-server-and-services/workstation-architecture.6c188650.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/network-administration/u2-work-station-server-and-services/workstation-architecture.6c188650.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 816942
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/seventh-semester/network-administration/u2-work-station-server-and-services/network-service-requirement-planning.d70e104e.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/network-administration/u2-work-station-server-and-services/server-hardware-strategy-architecture.7cb680f1.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/network-administration/u2-work-station-server-and-services/server-types-and-network-interaction.9cbaa48f.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/network-administration/u2-work-station-server-and-services/workstation-architecture.6c188650.webp"
+  ]
+}

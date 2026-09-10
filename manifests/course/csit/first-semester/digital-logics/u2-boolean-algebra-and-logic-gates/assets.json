@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-09T12:50:26.404Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/csit/first-semester/digital-logics/u2-boolean-algebra-and-logic-gates",
+  "totalAssets": 4,
+  "assets": {
+    "demorgans-theorem-visual-proof.webp": {
+      "key": "course/csit/first-semester/digital-logics/u2-boolean-algebra-and-logic-gates/demorgans-theorem-visual-proof.cb7e0238.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u2-boolean-algebra-and-logic-gates/demorgans-theorem-visual-proof.cb7e0238.webp",
+      "contentType": "image/webp",
+      "width": 1200,
+      "height": 1311,
+      "bytes": 297178
+    },
+    "integrated-circuit-dip-package.webp": {
+      "key": "course/csit/first-semester/digital-logics/u2-boolean-algebra-and-logic-gates/integrated-circuit-dip-package.e53580a5.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u2-boolean-algebra-and-logic-gates/integrated-circuit-dip-package.e53580a5.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 277698
+    },
+    "sop-vs-pos-canonical-form.webp": {
+      "key": "course/csit/first-semester/digital-logics/u2-boolean-algebra-and-logic-gates/sop-vs-pos-canonical-form.6a6b87c2.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u2-boolean-algebra-and-logic-gates/sop-vs-pos-canonical-form.6a6b87c2.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 454438
+    },
+    "standard-logic-gate-symbols.webp": {
+      "key": "course/csit/first-semester/digital-logics/u2-boolean-algebra-and-logic-gates/standard-logic-gate-symbols.e117d7e5.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u2-boolean-algebra-and-logic-gates/standard-logic-gate-symbols.e117d7e5.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 197510
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u2-boolean-algebra-and-logic-gates/demorgans-theorem-visual-proof.cb7e0238.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u2-boolean-algebra-and-logic-gates/integrated-circuit-dip-package.e53580a5.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u2-boolean-algebra-and-logic-gates/sop-vs-pos-canonical-form.6a6b87c2.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u2-boolean-algebra-and-logic-gates/standard-logic-gate-symbols.e117d7e5.webp"
+  ]
+}

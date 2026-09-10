@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-09T12:50:25.631Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/seventh-semester/database-administration/u4-managing-users-roles-and-privileges",
+  "totalAssets": 2,
+  "assets": {
+    "user-account-and-password-lifecycle.webp": {
+      "key": "course/bca/seventh-semester/database-administration/u4-managing-users-roles-and-privileges/user-account-and-password-lifecycle.46f743bb.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/database-administration/u4-managing-users-roles-and-privileges/user-account-and-password-lifecycle.46f743bb.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 303410
+    },
+    "user-role-and-privilege-relationship.webp": {
+      "key": "course/bca/seventh-semester/database-administration/u4-managing-users-roles-and-privileges/user-role-and-privilege-relationship.d5a1b824.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/database-administration/u4-managing-users-roles-and-privileges/user-role-and-privilege-relationship.d5a1b824.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 461368
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/seventh-semester/database-administration/u4-managing-users-roles-and-privileges/user-account-and-password-lifecycle.46f743bb.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/database-administration/u4-managing-users-roles-and-privileges/user-role-and-privilege-relationship.d5a1b824.webp"
+  ]
+}

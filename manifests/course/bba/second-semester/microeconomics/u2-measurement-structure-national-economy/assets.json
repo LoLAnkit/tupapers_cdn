@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-09T12:50:25.134Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/second-semester/microeconomics/u2-measurement-structure-national-economy",
+  "totalAssets": 4,
+  "assets": {
+    "gdp-deflator-and-inflation.webp": {
+      "key": "course/bba/second-semester/microeconomics/u2-measurement-structure-national-economy/gdp-deflator-and-inflation.068e8e20.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/microeconomics/u2-measurement-structure-national-economy/gdp-deflator-and-inflation.068e8e20.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 390408
+    },
+    "national-income-accounting-relationships.webp": {
+      "key": "course/bba/second-semester/microeconomics/u2-measurement-structure-national-economy/national-income-accounting-relationships.7e201fc2.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/microeconomics/u2-measurement-structure-national-economy/national-income-accounting-relationships.7e201fc2.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 1357176
+    },
+    "nominal-real-gdp-and-gdp-deflator.webp": {
+      "key": "course/bba/second-semester/microeconomics/u2-measurement-structure-national-economy/nominal-real-gdp-and-gdp-deflator.e5d25c19.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/microeconomics/u2-measurement-structure-national-economy/nominal-real-gdp-and-gdp-deflator.e5d25c19.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 409812
+    },
+    "three-methods-of-measuring-gdp.webp": {
+      "key": "course/bba/second-semester/microeconomics/u2-measurement-structure-national-economy/three-methods-of-measuring-gdp.eae571f1.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/microeconomics/u2-measurement-structure-national-economy/three-methods-of-measuring-gdp.eae571f1.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 1014678
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/second-semester/microeconomics/u2-measurement-structure-national-economy/gdp-deflator-and-inflation.068e8e20.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/microeconomics/u2-measurement-structure-national-economy/national-income-accounting-relationships.7e201fc2.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/microeconomics/u2-measurement-structure-national-economy/nominal-real-gdp-and-gdp-deflator.e5d25c19.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/microeconomics/u2-measurement-structure-national-economy/three-methods-of-measuring-gdp.eae571f1.webp"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-09T12:50:26.537Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/csit/first-semester/physics/u5-fundamentals-of-solid-state-physics",
+  "totalAssets": 4,
+  "assets": {
+    "bcc-unit-cell.webp": {
+      "key": "course/csit/first-semester/physics/u5-fundamentals-of-solid-state-physics/bcc-unit-cell.cd08136a.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/physics/u5-fundamentals-of-solid-state-physics/bcc-unit-cell.cd08136a.webp",
+      "contentType": "image/webp",
+      "width": 1402,
+      "height": 1122,
+      "bytes": 727366
+    },
+    "energy-band-diagram-e-vs-k.webp": {
+      "key": "course/csit/first-semester/physics/u5-fundamentals-of-solid-state-physics/energy-band-diagram-e-vs-k.5094da51.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/physics/u5-fundamentals-of-solid-state-physics/energy-band-diagram-e-vs-k.5094da51.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 799954
+    },
+    "fermi-dirac-distribution.webp": {
+      "key": "course/csit/first-semester/physics/u5-fundamentals-of-solid-state-physics/fermi-dirac-distribution.f4dc7ea4.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/physics/u5-fundamentals-of-solid-state-physics/fermi-dirac-distribution.f4dc7ea4.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 679216
+    },
+    "kronig-penney-model.webp": {
+      "key": "course/csit/first-semester/physics/u5-fundamentals-of-solid-state-physics/kronig-penney-model.8cf1d7d8.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/physics/u5-fundamentals-of-solid-state-physics/kronig-penney-model.8cf1d7d8.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 826038
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/csit/first-semester/physics/u5-fundamentals-of-solid-state-physics/bcc-unit-cell.cd08136a.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/physics/u5-fundamentals-of-solid-state-physics/energy-band-diagram-e-vs-k.5094da51.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/physics/u5-fundamentals-of-solid-state-physics/fermi-dirac-distribution.f4dc7ea4.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/physics/u5-fundamentals-of-solid-state-physics/kronig-penney-model.8cf1d7d8.webp"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-09T12:50:26.475Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/csit/first-semester/intro-to-it/u5-data-representation",
+  "totalAssets": 4,
+  "assets": {
+    "binary-addition-with-carry.webp": {
+      "key": "course/csit/first-semester/intro-to-it/u5-data-representation/binary-addition-with-carry.7df9fda6.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u5-data-representation/binary-addition-with-carry.7df9fda6.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 379040
+    },
+    "binary-octal-hexadecimal-grouping.webp": {
+      "key": "course/csit/first-semester/intro-to-it/u5-data-representation/binary-octal-hexadecimal-grouping.699d7d65.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u5-data-representation/binary-octal-hexadecimal-grouping.699d7d65.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 471522
+    },
+    "decimal-to-binary-conversion.webp": {
+      "key": "course/csit/first-semester/intro-to-it/u5-data-representation/decimal-to-binary-conversion.9d43eb1e.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u5-data-representation/decimal-to-binary-conversion.9d43eb1e.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 501130
+    },
+    "signed-and-unsigned-binary-representation.webp": {
+      "key": "course/csit/first-semester/intro-to-it/u5-data-representation/signed-and-unsigned-binary-representation.015b8d6b.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u5-data-representation/signed-and-unsigned-binary-representation.015b8d6b.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 463728
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u5-data-representation/binary-addition-with-carry.7df9fda6.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u5-data-representation/binary-octal-hexadecimal-grouping.699d7d65.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u5-data-representation/decimal-to-binary-conversion.9d43eb1e.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u5-data-representation/signed-and-unsigned-binary-representation.015b8d6b.webp"
+  ]
+}

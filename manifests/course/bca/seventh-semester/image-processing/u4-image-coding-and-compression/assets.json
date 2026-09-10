@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-09T12:50:25.739Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/seventh-semester/image-processing/u4-image-coding-and-compression",
+  "totalAssets": 4,
+  "assets": {
+    "huffman-coding-tree.webp": {
+      "key": "course/bca/seventh-semester/image-processing/u4-image-coding-and-compression/huffman-coding-tree.b4620e99.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u4-image-coding-and-compression/huffman-coding-tree.b4620e99.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 1199636
+    },
+    "image-compression-system.webp": {
+      "key": "course/bca/seventh-semester/image-processing/u4-image-coding-and-compression/image-compression-system.4c17bb71.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u4-image-coding-and-compression/image-compression-system.4c17bb71.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 1026768
+    },
+    "jpeg-compression-pipeline.webp": {
+      "key": "course/bca/seventh-semester/image-processing/u4-image-coding-and-compression/jpeg-compression-pipeline.328c8261.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u4-image-coding-and-compression/jpeg-compression-pipeline.328c8261.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 1365628
+    },
+    "run-length-encoding.webp": {
+      "key": "course/bca/seventh-semester/image-processing/u4-image-coding-and-compression/run-length-encoding.bfeae2b8.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u4-image-coding-and-compression/run-length-encoding.bfeae2b8.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 1113978
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u4-image-coding-and-compression/huffman-coding-tree.b4620e99.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u4-image-coding-and-compression/image-compression-system.4c17bb71.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u4-image-coding-and-compression/jpeg-compression-pipeline.328c8261.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u4-image-coding-and-compression/run-length-encoding.bfeae2b8.webp"
+  ]
+}

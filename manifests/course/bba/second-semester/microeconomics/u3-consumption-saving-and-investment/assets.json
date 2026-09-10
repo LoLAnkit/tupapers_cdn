@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-09T12:50:25.139Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/second-semester/microeconomics/u3-consumption-saving-and-investment",
+  "totalAssets": 4,
+  "assets": {
+    "consumption-function.webp": {
+      "key": "course/bba/second-semester/microeconomics/u3-consumption-saving-and-investment/consumption-function.363dfd20.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/microeconomics/u3-consumption-saving-and-investment/consumption-function.363dfd20.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 1120724
+    },
+    "investment-function.webp": {
+      "key": "course/bba/second-semester/microeconomics/u3-consumption-saving-and-investment/investment-function.a1a09cf5.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/microeconomics/u3-consumption-saving-and-investment/investment-function.a1a09cf5.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 889948
+    },
+    "mpc-and-mps-relationship.webp": {
+      "key": "course/bba/second-semester/microeconomics/u3-consumption-saving-and-investment/mpc-and-mps-relationship.13ac79cf.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/microeconomics/u3-consumption-saving-and-investment/mpc-and-mps-relationship.13ac79cf.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 1111718
+    },
+    "saving-function.webp": {
+      "key": "course/bba/second-semester/microeconomics/u3-consumption-saving-and-investment/saving-function.ee524e5d.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/microeconomics/u3-consumption-saving-and-investment/saving-function.ee524e5d.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 1002390
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/second-semester/microeconomics/u3-consumption-saving-and-investment/consumption-function.363dfd20.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/microeconomics/u3-consumption-saving-and-investment/investment-function.a1a09cf5.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/microeconomics/u3-consumption-saving-and-investment/mpc-and-mps-relationship.13ac79cf.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/microeconomics/u3-consumption-saving-and-investment/saving-function.ee524e5d.webp"
+  ]
+}

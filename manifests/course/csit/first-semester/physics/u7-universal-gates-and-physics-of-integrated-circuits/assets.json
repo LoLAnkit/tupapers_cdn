@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-09T12:50:26.602Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/csit/first-semester/physics/u7-universal-gates-and-physics-of-integrated-circuits",
+  "totalAssets": 4,
+  "assets": {
+    "ic-fabrication-process-flow.webp": {
+      "key": "course/csit/first-semester/physics/u7-universal-gates-and-physics-of-integrated-circuits/ic-fabrication-process-flow.e2309be4.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/physics/u7-universal-gates-and-physics-of-integrated-circuits/ic-fabrication-process-flow.e2309be4.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 879516
+    },
+    "nand-nor-universal-gates.webp": {
+      "key": "course/csit/first-semester/physics/u7-universal-gates-and-physics-of-integrated-circuits/nand-nor-universal-gates.c33c8fa5.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/physics/u7-universal-gates-and-physics-of-integrated-circuits/nand-nor-universal-gates.c33c8fa5.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 748874
+    },
+    "sr-latch-memory-circuit.webp": {
+      "key": "course/csit/first-semester/physics/u7-universal-gates-and-physics-of-integrated-circuits/sr-latch-memory-circuit.5bd9343f.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/physics/u7-universal-gates-and-physics-of-integrated-circuits/sr-latch-memory-circuit.5bd9343f.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 772322
+    },
+    "zone-refining-single-crystal-growth.webp": {
+      "key": "course/csit/first-semester/physics/u7-universal-gates-and-physics-of-integrated-circuits/zone-refining-single-crystal-growth.40264790.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/physics/u7-universal-gates-and-physics-of-integrated-circuits/zone-refining-single-crystal-growth.40264790.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 1232412
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/csit/first-semester/physics/u7-universal-gates-and-physics-of-integrated-circuits/ic-fabrication-process-flow.e2309be4.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/physics/u7-universal-gates-and-physics-of-integrated-circuits/nand-nor-universal-gates.c33c8fa5.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/physics/u7-universal-gates-and-physics-of-integrated-circuits/sr-latch-memory-circuit.5bd9343f.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/physics/u7-universal-gates-and-physics-of-integrated-circuits/zone-refining-single-crystal-growth.40264790.webp"
+  ]
+}

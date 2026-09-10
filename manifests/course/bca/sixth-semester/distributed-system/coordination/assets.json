@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-09T12:50:25.857Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/sixth-semester/distributed-system/coordination",
+  "totalAssets": 5,
+  "assets": {
+    "fig-6-1-network-time-protocol-synchronization.webp": {
+      "key": "course/bca/sixth-semester/distributed-system/coordination/fig-6-1-network-time-protocol-synchronization.582cb824.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/coordination/fig-6-1-network-time-protocol-synchronization.582cb824.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 401008
+    },
+    "fig-6-2-berkeley-clock-synchronization.webp": {
+      "key": "course/bca/sixth-semester/distributed-system/coordination/fig-6-2-berkeley-clock-synchronization.8354f8d1.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/coordination/fig-6-2-berkeley-clock-synchronization.8354f8d1.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 516988
+    },
+    "fig-6-3-lamport-logical-clock.webp": {
+      "key": "course/bca/sixth-semester/distributed-system/coordination/fig-6-3-lamport-logical-clock.1170d8a7.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/coordination/fig-6-3-lamport-logical-clock.1170d8a7.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 575012
+    },
+    "fig-6-4-coordinator-election-bully-algorithm.webp": {
+      "key": "course/bca/sixth-semester/distributed-system/coordination/fig-6-4-coordinator-election-bully-algorithm.02346d38.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/coordination/fig-6-4-coordinator-election-bully-algorithm.02346d38.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 602790
+    },
+    "fig-6-5-distributed-mutual-exclusion.webp": {
+      "key": "course/bca/sixth-semester/distributed-system/coordination/fig-6-5-distributed-mutual-exclusion.a2580204.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/coordination/fig-6-5-distributed-mutual-exclusion.a2580204.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 552750
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/coordination/fig-6-1-network-time-protocol-synchronization.582cb824.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/coordination/fig-6-2-berkeley-clock-synchronization.8354f8d1.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/coordination/fig-6-3-lamport-logical-clock.1170d8a7.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/coordination/fig-6-4-coordinator-election-bully-algorithm.02346d38.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/coordination/fig-6-5-distributed-mutual-exclusion.a2580204.webp"
+  ]
+}

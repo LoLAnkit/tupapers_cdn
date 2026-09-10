@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-09T12:50:26.448Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/csit/first-semester/intro-to-it/u10-multimedia",
+  "totalAssets": 3,
+  "assets": {
+    "elements-of-multimedia.webp": {
+      "key": "course/csit/first-semester/intro-to-it/u10-multimedia/elements-of-multimedia.bd26b45c.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u10-multimedia/elements-of-multimedia.bd26b45c.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 356616
+    },
+    "multimedia-applications.webp": {
+      "key": "course/csit/first-semester/intro-to-it/u10-multimedia/multimedia-applications.d5b9df70.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u10-multimedia/multimedia-applications.d5b9df70.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 443266
+    },
+    "multimedia-integration.webp": {
+      "key": "course/csit/first-semester/intro-to-it/u10-multimedia/multimedia-integration.336160c1.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u10-multimedia/multimedia-integration.336160c1.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 388818
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u10-multimedia/elements-of-multimedia.bd26b45c.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u10-multimedia/multimedia-applications.d5b9df70.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u10-multimedia/multimedia-integration.336160c1.webp"
+  ]
+}

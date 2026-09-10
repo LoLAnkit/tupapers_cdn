@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-09T12:50:25.146Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/second-semester/microeconomics/u4-theory-of-income-and-employment",
+  "totalAssets": 5,
+  "assets": {
+    "classical-labour-market-equilibrium.webp": {
+      "key": "course/bba/second-semester/microeconomics/u4-theory-of-income-and-employment/classical-labour-market-equilibrium.37d74630.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/microeconomics/u4-theory-of-income-and-employment/classical-labour-market-equilibrium.37d74630.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 845634
+    },
+    "is-lm-equilibrium.webp": {
+      "key": "course/bba/second-semester/microeconomics/u4-theory-of-income-and-employment/is-lm-equilibrium.54568c12.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/microeconomics/u4-theory-of-income-and-employment/is-lm-equilibrium.54568c12.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 873656
+    },
+    "keynesian-two-sector-equilibrium.webp": {
+      "key": "course/bba/second-semester/microeconomics/u4-theory-of-income-and-employment/keynesian-two-sector-equilibrium.a2411f31.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/microeconomics/u4-theory-of-income-and-employment/keynesian-two-sector-equilibrium.a2411f31.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 688846
+    },
+    "monetary-and-fiscal-policy-in-is-lm.webp": {
+      "key": "course/bba/second-semester/microeconomics/u4-theory-of-income-and-employment/monetary-and-fiscal-policy-in-is-lm.5243842e.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/microeconomics/u4-theory-of-income-and-employment/monetary-and-fiscal-policy-in-is-lm.5243842e.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 934376
+    },
+    "multiplier-process.webp": {
+      "key": "course/bba/second-semester/microeconomics/u4-theory-of-income-and-employment/multiplier-process.d9de34a7.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/microeconomics/u4-theory-of-income-and-employment/multiplier-process.d9de34a7.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 1362352
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/second-semester/microeconomics/u4-theory-of-income-and-employment/classical-labour-market-equilibrium.37d74630.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/microeconomics/u4-theory-of-income-and-employment/is-lm-equilibrium.54568c12.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/microeconomics/u4-theory-of-income-and-employment/keynesian-two-sector-equilibrium.a2411f31.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/microeconomics/u4-theory-of-income-and-employment/monetary-and-fiscal-policy-in-is-lm.5243842e.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/microeconomics/u4-theory-of-income-and-employment/multiplier-process.d9de34a7.webp"
+  ]
+}

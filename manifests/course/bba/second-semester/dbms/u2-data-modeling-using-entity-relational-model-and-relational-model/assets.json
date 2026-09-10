@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-09T12:50:25.090Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/second-semester/dbms/u2-data-modeling-using-entity-relational-model-and-relational-model",
+  "totalAssets": 4,
+  "assets": {
+    "er-diagram-symbols-and-structure.webp": {
+      "key": "course/bba/second-semester/dbms/u2-data-modeling-using-entity-relational-model-and-relational-model/er-diagram-symbols-and-structure.43b2ff17.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u2-data-modeling-using-entity-relational-model-and-relational-model/er-diagram-symbols-and-structure.43b2ff17.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 1216708
+    },
+    "er-to-relational-mapping.webp": {
+      "key": "course/bba/second-semester/dbms/u2-data-modeling-using-entity-relational-model-and-relational-model/er-to-relational-mapping.534296ce.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u2-data-modeling-using-entity-relational-model-and-relational-model/er-to-relational-mapping.534296ce.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 1274166
+    },
+    "mapping-cardinality-and-participation-constraints.webp": {
+      "key": "course/bba/second-semester/dbms/u2-data-modeling-using-entity-relational-model-and-relational-model/mapping-cardinality-and-participation-constraints.bd3f338f.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u2-data-modeling-using-entity-relational-model-and-relational-model/mapping-cardinality-and-participation-constraints.bd3f338f.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 1384536
+    },
+    "specialization-and-generalization.webp": {
+      "key": "course/bba/second-semester/dbms/u2-data-modeling-using-entity-relational-model-and-relational-model/specialization-and-generalization.7336f38d.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u2-data-modeling-using-entity-relational-model-and-relational-model/specialization-and-generalization.7336f38d.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 1293754
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u2-data-modeling-using-entity-relational-model-and-relational-model/er-diagram-symbols-and-structure.43b2ff17.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u2-data-modeling-using-entity-relational-model-and-relational-model/er-to-relational-mapping.534296ce.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u2-data-modeling-using-entity-relational-model-and-relational-model/mapping-cardinality-and-participation-constraints.bd3f338f.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u2-data-modeling-using-entity-relational-model-and-relational-model/specialization-and-generalization.7336f38d.webp"
+  ]
+}

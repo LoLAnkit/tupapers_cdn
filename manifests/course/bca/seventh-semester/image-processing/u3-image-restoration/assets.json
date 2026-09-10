@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-09T12:50:25.733Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/seventh-semester/image-processing/u3-image-restoration",
+  "totalAssets": 4,
+  "assets": {
+    "gaussian-and-salt-and-pepper-noise.webp": {
+      "key": "course/bca/seventh-semester/image-processing/u3-image-restoration/gaussian-and-salt-and-pepper-noise.efa71aef.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u3-image-restoration/gaussian-and-salt-and-pepper-noise.efa71aef.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 507340
+    },
+    "image-degradation-and-restoration-model.webp": {
+      "key": "course/bca/seventh-semester/image-processing/u3-image-restoration/image-degradation-and-restoration-model.278789e2.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u3-image-restoration/image-degradation-and-restoration-model.278789e2.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 1296030
+    },
+    "morphological-erosion-and-dilation.webp": {
+      "key": "course/bca/seventh-semester/image-processing/u3-image-restoration/morphological-erosion-and-dilation.dab8bba7.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u3-image-restoration/morphological-erosion-and-dilation.dab8bba7.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 1185748
+    },
+    "motion-blur-and-restoration.webp": {
+      "key": "course/bca/seventh-semester/image-processing/u3-image-restoration/motion-blur-and-restoration.297b4f2d.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u3-image-restoration/motion-blur-and-restoration.297b4f2d.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 1243640
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u3-image-restoration/gaussian-and-salt-and-pepper-noise.efa71aef.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u3-image-restoration/image-degradation-and-restoration-model.278789e2.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u3-image-restoration/morphological-erosion-and-dilation.dab8bba7.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u3-image-restoration/motion-blur-and-restoration.297b4f2d.webp"
+  ]
+}

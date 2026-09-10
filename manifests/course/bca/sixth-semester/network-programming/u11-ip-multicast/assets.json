@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-09T12:50:25.923Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/sixth-semester/network-programming/u11-ip-multicast",
+  "totalAssets": 3,
+  "assets": {
+    "ip-multicast-topology.webp": {
+      "key": "course/bca/sixth-semester/network-programming/u11-ip-multicast/ip-multicast-topology.5f745370.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u11-ip-multicast/ip-multicast-topology.5f745370.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 571882
+    },
+    "multicast-group-membership.webp": {
+      "key": "course/bca/sixth-semester/network-programming/u11-ip-multicast/multicast-group-membership.f1386aa2.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u11-ip-multicast/multicast-group-membership.f1386aa2.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 584600
+    },
+    "multicastsocket-communication-flow.webp": {
+      "key": "course/bca/sixth-semester/network-programming/u11-ip-multicast/multicastsocket-communication-flow.53c3829b.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u11-ip-multicast/multicastsocket-communication-flow.53c3829b.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 667248
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u11-ip-multicast/ip-multicast-topology.5f745370.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u11-ip-multicast/multicast-group-membership.f1386aa2.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u11-ip-multicast/multicastsocket-communication-flow.53c3829b.webp"
+  ]
+}

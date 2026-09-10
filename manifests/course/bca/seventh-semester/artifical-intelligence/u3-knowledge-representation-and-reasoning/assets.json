@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-09T12:50:25.490Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/seventh-semester/artifical-intelligence/u3-knowledge-representation-and-reasoning",
+  "totalAssets": 5,
+  "assets": {
+    "bayesian-network.webp": {
+      "key": "course/bca/seventh-semester/artifical-intelligence/u3-knowledge-representation-and-reasoning/bayesian-network.4becc6f4.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u3-knowledge-representation-and-reasoning/bayesian-network.4becc6f4.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 806202
+    },
+    "frame-knowledge-representation.webp": {
+      "key": "course/bca/seventh-semester/artifical-intelligence/u3-knowledge-representation-and-reasoning/frame-knowledge-representation.5642eec5.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u3-knowledge-representation-and-reasoning/frame-knowledge-representation.5642eec5.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 888384
+    },
+    "logic-to-cnf-conversion-pipeline.webp": {
+      "key": "course/bca/seventh-semester/artifical-intelligence/u3-knowledge-representation-and-reasoning/logic-to-cnf-conversion-pipeline.ca725396.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u3-knowledge-representation-and-reasoning/logic-to-cnf-conversion-pipeline.ca725396.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 682756
+    },
+    "resolution-refutation-process.webp": {
+      "key": "course/bca/seventh-semester/artifical-intelligence/u3-knowledge-representation-and-reasoning/resolution-refutation-process.60e20655.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u3-knowledge-representation-and-reasoning/resolution-refutation-process.60e20655.webp",
+      "contentType": "image/webp",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 740826
+    },
+    "semantic-network-structure.webp": {
+      "key": "course/bca/seventh-semester/artifical-intelligence/u3-knowledge-representation-and-reasoning/semantic-network-structure.8cc13429.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u3-knowledge-representation-and-reasoning/semantic-network-structure.8cc13429.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 753824
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u3-knowledge-representation-and-reasoning/bayesian-network.4becc6f4.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u3-knowledge-representation-and-reasoning/frame-knowledge-representation.5642eec5.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u3-knowledge-representation-and-reasoning/logic-to-cnf-conversion-pipeline.ca725396.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u3-knowledge-representation-and-reasoning/resolution-refutation-process.60e20655.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u3-knowledge-representation-and-reasoning/semantic-network-structure.8cc13429.webp"
+  ]
+}

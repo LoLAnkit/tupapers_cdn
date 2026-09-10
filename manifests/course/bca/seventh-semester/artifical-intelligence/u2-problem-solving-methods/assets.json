@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-09T12:50:25.484Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/seventh-semester/artifical-intelligence/u2-problem-solving-methods",
+  "totalAssets": 5,
+  "assets": {
+    "astar-and-greedy-best-first-search.webp": {
+      "key": "course/bca/seventh-semester/artifical-intelligence/u2-problem-solving-methods/astar-and-greedy-best-first-search.5158f493.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u2-problem-solving-methods/astar-and-greedy-best-first-search.5158f493.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 686624
+    },
+    "constraint-satisfaction-and-cryptarithmetic.webp": {
+      "key": "course/bca/seventh-semester/artifical-intelligence/u2-problem-solving-methods/constraint-satisfaction-and-cryptarithmetic.3ffed134.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u2-problem-solving-methods/constraint-satisfaction-and-cryptarithmetic.3ffed134.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 714474
+    },
+    "informed-and-uninformed-search-tree.webp": {
+      "key": "course/bca/seventh-semester/artifical-intelligence/u2-problem-solving-methods/informed-and-uninformed-search-tree.e8c3439a.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u2-problem-solving-methods/informed-and-uninformed-search-tree.e8c3439a.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 801440
+    },
+    "iterative-deepening-and-depth-limited-search.webp": {
+      "key": "course/bca/seventh-semester/artifical-intelligence/u2-problem-solving-methods/iterative-deepening-and-depth-limited-search.01e3fe65.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u2-problem-solving-methods/iterative-deepening-and-depth-limited-search.01e3fe65.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 709842
+    },
+    "n-queens-heuristic-search.webp": {
+      "key": "course/bca/seventh-semester/artifical-intelligence/u2-problem-solving-methods/n-queens-heuristic-search.30d9a23a.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u2-problem-solving-methods/n-queens-heuristic-search.30d9a23a.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 780096
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u2-problem-solving-methods/astar-and-greedy-best-first-search.5158f493.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u2-problem-solving-methods/constraint-satisfaction-and-cryptarithmetic.3ffed134.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u2-problem-solving-methods/informed-and-uninformed-search-tree.e8c3439a.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u2-problem-solving-methods/iterative-deepening-and-depth-limited-search.01e3fe65.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u2-problem-solving-methods/n-queens-heuristic-search.30d9a23a.webp"
+  ]
+}

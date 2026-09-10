@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-09T12:50:25.878Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/sixth-semester/distributed-system/security",
+  "totalAssets": 5,
+  "assets": {
+    "fig-9-1-distributed-system-attack-surface.webp": {
+      "key": "course/bca/sixth-semester/distributed-system/security/fig-9-1-distributed-system-attack-surface.ba57bd87.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/security/fig-9-1-distributed-system-attack-surface.ba57bd87.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 1009476
+    },
+    "fig-9-2-public-key-cryptography.webp": {
+      "key": "course/bca/sixth-semester/distributed-system/security/fig-9-2-public-key-cryptography.c5757ea3.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/security/fig-9-2-public-key-cryptography.c5757ea3.webp",
+      "contentType": "image/webp",
+      "width": 1862,
+      "height": 845,
+      "bytes": 667694
+    },
+    "fig-9-3-digital-signature-process.webp": {
+      "key": "course/bca/sixth-semester/distributed-system/security/fig-9-3-digital-signature-process.ca84602f.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/security/fig-9-3-digital-signature-process.ca84602f.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 821020
+    },
+    "fig-9-4-secure-naming-resolution.webp": {
+      "key": "course/bca/sixth-semester/distributed-system/security/fig-9-4-secure-naming-resolution.16028cf9.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/security/fig-9-4-secure-naming-resolution.16028cf9.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 1169610
+    },
+    "fig-9-5-security-management-cycle.webp": {
+      "key": "course/bca/sixth-semester/distributed-system/security/fig-9-5-security-management-cycle.fcfd7611.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/security/fig-9-5-security-management-cycle.fcfd7611.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1197782
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/security/fig-9-1-distributed-system-attack-surface.ba57bd87.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/security/fig-9-2-public-key-cryptography.c5757ea3.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/security/fig-9-3-digital-signature-process.ca84602f.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/security/fig-9-4-secure-naming-resolution.16028cf9.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/security/fig-9-5-security-management-cycle.fcfd7611.webp"
+  ]
+}

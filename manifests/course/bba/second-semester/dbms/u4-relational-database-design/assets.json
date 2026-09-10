@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-09T12:50:25.102Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/second-semester/dbms/u4-relational-database-design",
+  "totalAssets": 4,
+  "assets": {
+    "functional-dependency-diagram.webp": {
+      "key": "course/bba/second-semester/dbms/u4-relational-database-design/functional-dependency-diagram.d46927b2.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u4-relational-database-design/functional-dependency-diagram.d46927b2.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 1259394
+    },
+    "normalization-1nf-to-3nf.webp": {
+      "key": "course/bba/second-semester/dbms/u4-relational-database-design/normalization-1nf-to-3nf.ed85e376.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u4-relational-database-design/normalization-1nf-to-3nf.ed85e376.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 1321668
+    },
+    "normalization-progression.webp": {
+      "key": "course/bba/second-semester/dbms/u4-relational-database-design/normalization-progression.80c7d846.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u4-relational-database-design/normalization-progression.80c7d846.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 649178
+    },
+    "relational-decomposition-properties.webp": {
+      "key": "course/bba/second-semester/dbms/u4-relational-database-design/relational-decomposition-properties.298f38f0.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u4-relational-database-design/relational-decomposition-properties.298f38f0.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 1120612
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u4-relational-database-design/functional-dependency-diagram.d46927b2.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u4-relational-database-design/normalization-1nf-to-3nf.ed85e376.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u4-relational-database-design/normalization-progression.80c7d846.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u4-relational-database-design/relational-decomposition-properties.298f38f0.webp"
+  ]
+}

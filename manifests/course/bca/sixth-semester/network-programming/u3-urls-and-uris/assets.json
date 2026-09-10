@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-09T12:50:25.942Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/sixth-semester/network-programming/u3-urls-and-uris",
+  "totalAssets": 4,
+  "assets": {
+    "uri-resolution.webp": {
+      "key": "course/bca/sixth-semester/network-programming/u3-urls-and-uris/uri-resolution.38c8d392.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u3-urls-and-uris/uri-resolution.38c8d392.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 523230
+    },
+    "url-anatomy.webp": {
+      "key": "course/bca/sixth-semester/network-programming/u3-urls-and-uris/url-anatomy.9f949ec8.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u3-urls-and-uris/url-anatomy.9f949ec8.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 547570
+    },
+    "url-and-uri-relationship.webp": {
+      "key": "course/bca/sixth-semester/network-programming/u3-urls-and-uris/url-and-uri-relationship.afb2d583.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u3-urls-and-uris/url-and-uri-relationship.afb2d583.webp",
+      "contentType": "image/webp",
+      "width": 1232,
+      "height": 1277,
+      "bytes": 925860
+    },
+    "url-encoding-and-decoding.webp": {
+      "key": "course/bca/sixth-semester/network-programming/u3-urls-and-uris/url-encoding-and-decoding.a70e083e.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u3-urls-and-uris/url-encoding-and-decoding.a70e083e.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 865940
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u3-urls-and-uris/uri-resolution.38c8d392.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u3-urls-and-uris/url-anatomy.9f949ec8.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u3-urls-and-uris/url-and-uri-relationship.afb2d583.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u3-urls-and-uris/url-encoding-and-decoding.a70e083e.webp"
+  ]
+}

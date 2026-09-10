@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-09T12:50:25.554Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/seventh-semester/cloud-computing/u6-cloud-platforms-and-applications",
+  "totalAssets": 5,
+  "assets": {
+    "aneka-cloud-platform-architecture.webp": {
+      "key": "course/bca/seventh-semester/cloud-computing/u6-cloud-platforms-and-applications/aneka-cloud-platform-architecture.c37d2b32.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u6-cloud-platforms-and-applications/aneka-cloud-platform-architecture.c37d2b32.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 447374
+    },
+    "business-and-consumer-cloud-applications.webp": {
+      "key": "course/bca/seventh-semester/cloud-computing/u6-cloud-platforms-and-applications/business-and-consumer-cloud-applications.2b84f237.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u6-cloud-platforms-and-applications/business-and-consumer-cloud-applications.2b84f237.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 473244
+    },
+    "microsoft-azure-platform-architecture.webp": {
+      "key": "course/bca/seventh-semester/cloud-computing/u6-cloud-platforms-and-applications/microsoft-azure-platform-architecture.f3cb88a6.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u6-cloud-platforms-and-applications/microsoft-azure-platform-architecture.f3cb88a6.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 450448
+    },
+    "scientific-application-cloud-hpc-workflow.webp": {
+      "key": "course/bca/seventh-semester/cloud-computing/u6-cloud-platforms-and-applications/scientific-application-cloud-hpc-workflow.ba21413c.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u6-cloud-platforms-and-applications/scientific-application-cloud-hpc-workflow.ba21413c.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 797026
+    },
+    "web-services-interaction.webp": {
+      "key": "course/bca/seventh-semester/cloud-computing/u6-cloud-platforms-and-applications/web-services-interaction.1d61a5ec.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u6-cloud-platforms-and-applications/web-services-interaction.1d61a5ec.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 344836
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u6-cloud-platforms-and-applications/aneka-cloud-platform-architecture.c37d2b32.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u6-cloud-platforms-and-applications/business-and-consumer-cloud-applications.2b84f237.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u6-cloud-platforms-and-applications/microsoft-azure-platform-architecture.f3cb88a6.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u6-cloud-platforms-and-applications/scientific-application-cloud-hpc-workflow.ba21413c.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u6-cloud-platforms-and-applications/web-services-interaction.1d61a5ec.webp"
+  ]
+}

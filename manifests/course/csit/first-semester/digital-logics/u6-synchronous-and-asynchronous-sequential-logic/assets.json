@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-09T12:50:26.429Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/csit/first-semester/digital-logics/u6-synchronous-and-asynchronous-sequential-logic",
+  "totalAssets": 5,
+  "assets": {
+    "d-flip-flop.webp": {
+      "key": "course/csit/first-semester/digital-logics/u6-synchronous-and-asynchronous-sequential-logic/d-flip-flop.240ea27d.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u6-synchronous-and-asynchronous-sequential-logic/d-flip-flop.240ea27d.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 406494
+    },
+    "edge-triggering.webp": {
+      "key": "course/csit/first-semester/digital-logics/u6-synchronous-and-asynchronous-sequential-logic/edge-triggering.3e585779.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u6-synchronous-and-asynchronous-sequential-logic/edge-triggering.3e585779.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 412770
+    },
+    "jk-flip-flop-race-condition-and-fix.webp": {
+      "key": "course/csit/first-semester/digital-logics/u6-synchronous-and-asynchronous-sequential-logic/jk-flip-flop-race-condition-and-fix.cbcfface.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u6-synchronous-and-asynchronous-sequential-logic/jk-flip-flop-race-condition-and-fix.cbcfface.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 363066
+    },
+    "sequential-circuit-design-flow.webp": {
+      "key": "course/csit/first-semester/digital-logics/u6-synchronous-and-asynchronous-sequential-logic/sequential-circuit-design-flow.23f5487f.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u6-synchronous-and-asynchronous-sequential-logic/sequential-circuit-design-flow.23f5487f.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 680050
+    },
+    "state-diagram-example.webp": {
+      "key": "course/csit/first-semester/digital-logics/u6-synchronous-and-asynchronous-sequential-logic/state-diagram-example.e068fe1c.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u6-synchronous-and-asynchronous-sequential-logic/state-diagram-example.e068fe1c.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 489148
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u6-synchronous-and-asynchronous-sequential-logic/d-flip-flop.240ea27d.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u6-synchronous-and-asynchronous-sequential-logic/edge-triggering.3e585779.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u6-synchronous-and-asynchronous-sequential-logic/jk-flip-flop-race-condition-and-fix.cbcfface.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u6-synchronous-and-asynchronous-sequential-logic/sequential-circuit-design-flow.23f5487f.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u6-synchronous-and-asynchronous-sequential-logic/state-diagram-example.e068fe1c.webp"
+  ]
+}

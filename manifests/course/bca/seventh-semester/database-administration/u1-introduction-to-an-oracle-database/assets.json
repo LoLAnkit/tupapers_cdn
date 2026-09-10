@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-09T12:50:25.607Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/seventh-semester/database-administration/u1-introduction-to-an-oracle-database",
+  "totalAssets": 4,
+  "assets": {
+    "oracle-database-architecture.webp": {
+      "key": "course/bca/seventh-semester/database-administration/u1-introduction-to-an-oracle-database/oracle-database-architecture.174a7dbb.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/database-administration/u1-introduction-to-an-oracle-database/oracle-database-architecture.174a7dbb.webp",
+      "contentType": "image/webp",
+      "width": 1607,
+      "height": 979,
+      "bytes": 458608
+    },
+    "oracle-instance-and-background-processes.webp": {
+      "key": "course/bca/seventh-semester/database-administration/u1-introduction-to-an-oracle-database/oracle-instance-and-background-processes.d2c04c13.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/database-administration/u1-introduction-to-an-oracle-database/oracle-instance-and-background-processes.d2c04c13.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 421836
+    },
+    "sga-and-pga-memory-structure.webp": {
+      "key": "course/bca/seventh-semester/database-administration/u1-introduction-to-an-oracle-database/sga-and-pga-memory-structure.3d2f4d8a.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/database-administration/u1-introduction-to-an-oracle-database/sga-and-pga-memory-structure.3d2f4d8a.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 394310
+    },
+    "sql-table-and-constraint-relationships.webp": {
+      "key": "course/bca/seventh-semester/database-administration/u1-introduction-to-an-oracle-database/sql-table-and-constraint-relationships.2a74ebd1.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/database-administration/u1-introduction-to-an-oracle-database/sql-table-and-constraint-relationships.2a74ebd1.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 277828
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/seventh-semester/database-administration/u1-introduction-to-an-oracle-database/oracle-database-architecture.174a7dbb.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/database-administration/u1-introduction-to-an-oracle-database/oracle-instance-and-background-processes.d2c04c13.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/database-administration/u1-introduction-to-an-oracle-database/sga-and-pga-memory-structure.3d2f4d8a.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/database-administration/u1-introduction-to-an-oracle-database/sql-table-and-constraint-relationships.2a74ebd1.webp"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-09T12:50:26.422Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/csit/first-semester/digital-logics/u5-combinational-logic-with-msi-and-lsi",
+  "totalAssets": 4,
+  "assets": {
+    "3-to-8-line-decoder.webp": {
+      "key": "course/csit/first-semester/digital-logics/u5-combinational-logic-with-msi-and-lsi/3-to-8-line-decoder.ee6af7e5.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u5-combinational-logic-with-msi-and-lsi/3-to-8-line-decoder.ee6af7e5.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 805324
+    },
+    "4-to-1-multiplexer.webp": {
+      "key": "course/csit/first-semester/digital-logics/u5-combinational-logic-with-msi-and-lsi/4-to-1-multiplexer.58cd92b9.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u5-combinational-logic-with-msi-and-lsi/4-to-1-multiplexer.58cd92b9.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 643428
+    },
+    "pal-vs-pla-comparison.webp": {
+      "key": "course/csit/first-semester/digital-logics/u5-combinational-logic-with-msi-and-lsi/pal-vs-pla-comparison.b9705b55.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u5-combinational-logic-with-msi-and-lsi/pal-vs-pla-comparison.b9705b55.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 749492
+    },
+    "pla-structure.webp": {
+      "key": "course/csit/first-semester/digital-logics/u5-combinational-logic-with-msi-and-lsi/pla-structure.ae7afcc0.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u5-combinational-logic-with-msi-and-lsi/pla-structure.ae7afcc0.webp",
+      "contentType": "image/webp",
+      "width": 1693,
+      "height": 929,
+      "bytes": 679504
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u5-combinational-logic-with-msi-and-lsi/3-to-8-line-decoder.ee6af7e5.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u5-combinational-logic-with-msi-and-lsi/4-to-1-multiplexer.58cd92b9.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u5-combinational-logic-with-msi-and-lsi/pal-vs-pla-comparison.b9705b55.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u5-combinational-logic-with-msi-and-lsi/pla-structure.ae7afcc0.webp"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-09T12:50:25.824Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/sixth-semester/applied-economics/national-income-accounting",
+  "totalAssets": 4,
+  "assets": {
+    "circular-flow-of-income-three-sector-economy.webp": {
+      "key": "course/bca/sixth-semester/applied-economics/national-income-accounting/circular-flow-of-income-three-sector-economy.36541217.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/national-income-accounting/circular-flow-of-income-three-sector-economy.36541217.webp",
+      "contentType": "image/webp",
+      "width": 1586,
+      "height": 992,
+      "bytes": 1305968
+    },
+    "national-income-concepts-step-down-hierarchy.webp": {
+      "key": "course/bca/sixth-semester/applied-economics/national-income-accounting/national-income-concepts-step-down-hierarchy.dd30a15e.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/national-income-accounting/national-income-concepts-step-down-hierarchy.dd30a15e.webp",
+      "contentType": "image/webp",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 1377194
+    },
+    "real-gdp-nominal-gdp-and-deflator.webp": {
+      "key": "course/bca/sixth-semester/applied-economics/national-income-accounting/real-gdp-nominal-gdp-and-deflator.54ae98c3.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/national-income-accounting/real-gdp-nominal-gdp-and-deflator.54ae98c3.webp",
+      "contentType": "image/webp",
+      "width": 1586,
+      "height": 992,
+      "bytes": 1232160
+    },
+    "three-methods-national-income-measurement.webp": {
+      "key": "course/bca/sixth-semester/applied-economics/national-income-accounting/three-methods-national-income-measurement.f6fdbeca.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/national-income-accounting/three-methods-national-income-measurement.f6fdbeca.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1343636
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/national-income-accounting/circular-flow-of-income-three-sector-economy.36541217.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/national-income-accounting/national-income-concepts-step-down-hierarchy.dd30a15e.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/national-income-accounting/real-gdp-nominal-gdp-and-deflator.54ae98c3.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/national-income-accounting/three-methods-national-income-measurement.f6fdbeca.webp"
+  ]
+}
