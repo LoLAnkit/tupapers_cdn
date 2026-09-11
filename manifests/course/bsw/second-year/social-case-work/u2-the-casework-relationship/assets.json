@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-10T06:46:30.621Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/second-year/social-case-work/u2-the-casework-relationship",
+  "totalAssets": 3,
+  "assets": {
+    "desensitization-model.webp": {
+      "key": "course/bsw/second-year/social-case-work/u2-the-casework-relationship/desensitization-model.57b1706e.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u2-the-casework-relationship/desensitization-model.57b1706e.webp",
+      "contentType": "image/webp",
+      "width": 2079,
+      "height": 756,
+      "bytes": 703120
+    },
+    "psychoanalytical-approach-in-casework.webp": {
+      "key": "course/bsw/second-year/social-case-work/u2-the-casework-relationship/psychoanalytical-approach-in-casework.fd90e2e0.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u2-the-casework-relationship/psychoanalytical-approach-in-casework.fd90e2e0.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 766840
+    },
+    "psychosocial-functional-problem-solving-approaches.webp": {
+      "key": "course/bsw/second-year/social-case-work/u2-the-casework-relationship/psychosocial-functional-problem-solving-approaches.0df168e5.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u2-the-casework-relationship/psychosocial-functional-problem-solving-approaches.0df168e5.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 827770
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u2-the-casework-relationship/desensitization-model.57b1706e.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u2-the-casework-relationship/psychoanalytical-approach-in-casework.fd90e2e0.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u2-the-casework-relationship/psychosocial-functional-problem-solving-approaches.0df168e5.webp"
+  ]
+}

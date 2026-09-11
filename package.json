@@ -13,6 +13,8 @@
     "build": "tsx src/index.ts build",
     "upload": "tsx src/index.ts upload",
     "sync": "tsx src/index.ts sync",
+    "tinify": "tsx src/minify-source.ts",
+    "minify:source": "tsx src/minify-source.ts",
     "prune": "tsx src/index.ts prune",
     "scaffold:bca": "tsx scripts/scaffold-bca.ts",
     "typecheck": "tsc --noEmit",
@@ -24,7 +26,8 @@
     "dotenv": "^16.4.5",
     "p-limit": "^6.1.0",
     "sharp": "^0.33.5",
-    "svgo": "^3.3.2"
+    "svgo": "^3.3.2",
+    "tinify": "^1.8.3"
   },
   "devDependencies": {
     "@eslint/js": "^9.11.1",

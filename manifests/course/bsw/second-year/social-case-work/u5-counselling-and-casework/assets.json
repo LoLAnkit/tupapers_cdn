@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-10T06:46:30.681Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/second-year/social-case-work/u5-counselling-and-casework",
+  "totalAssets": 3,
+  "assets": {
+    "areas-of-counselling.webp": {
+      "key": "course/bsw/second-year/social-case-work/u5-counselling-and-casework/areas-of-counselling.bd0bae34.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u5-counselling-and-casework/areas-of-counselling.bd0bae34.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 859170
+    },
+    "counselling-techniques.webp": {
+      "key": "course/bsw/second-year/social-case-work/u5-counselling-and-casework/counselling-techniques.f51f24f5.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u5-counselling-and-casework/counselling-techniques.f51f24f5.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 782534
+    },
+    "phases-in-counselling.webp": {
+      "key": "course/bsw/second-year/social-case-work/u5-counselling-and-casework/phases-in-counselling.d63f072e.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u5-counselling-and-casework/phases-in-counselling.d63f072e.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 691002
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u5-counselling-and-casework/areas-of-counselling.bd0bae34.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u5-counselling-and-casework/counselling-techniques.f51f24f5.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u5-counselling-and-casework/phases-in-counselling.d63f072e.webp"
+  ]
+}

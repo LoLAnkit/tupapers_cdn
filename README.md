@@ -32,6 +32,7 @@ cp .env.example .env   # then fill in your R2 credentials
 | `R2_BUCKET` | `tupapers` |
 | `R2_ENDPOINT` | `https://<ACCOUNT_ID>.r2.cloudflarestorage.com` (auto-derived if left as the placeholder) |
 | `CDN_BASE` | `https://cdn.tupapers.com` |
+| `TINIFY_API_KEY` | TinyPNG Developer API dashboard; keep this only in `.env` |
 
 ## Watermarking
 
@@ -54,7 +55,15 @@ By default, the pipeline automatically looks for `watermark.webp` in the root di
    npm run scaffold:bca
    ```
 
-2. Run the pipeline:
+2. Minify the generated subject folder with TinyPNG. Every chapter and nested folder is scanned recursively, while filenames and extensions stay unchanged:
+
+   ```bash
+   npm run tinify -- "source/course/bba/first-semester/english"
+   ```
+
+   The command processes all compatible images anywhere beneath the named subject folder. Each image is overwritten only after a successful API response. Unchanged files are skipped using a local checksum cache. Use `--all` only when you intentionally want to process every compatible image across the entire `source/` tree.
+
+3. Run the CDN pipeline:
 
    ```bash
    npm run sync            # build + upload
@@ -76,6 +85,8 @@ By default, the pipeline automatically looks for `watermark.webp` in the root di
 | `npm run build` | Optimize `source/` → `dist/`, auto-watermark, update folder `assets.json` manifests. No network. |
 | `npm run upload` | Upload `dist/` objects to R2, skipping ones that already exist. |
 | `npm run sync` | `build` then `upload`. |
+| `npm run tinify -- <subject-folder>` | Recursively TinyPNG-compress every chapter and image under one subject; unchanged files are skipped. |
+| `npm run minify:source -- <paths...>` | Longer alias that also accepts one or more files or folders. |
 | `npm run scaffold:bca` | Create all BCA semester/subject folders under `source/course/bca/`. |
 | `npm run prune` | List bucket objects no longer referenced by any folder manifest (dry-run). |
 | `npm run typecheck` | `tsc --noEmit`. |
@@ -85,6 +96,8 @@ By default, the pipeline automatically looks for `watermark.webp` in the root di
 
 ```bash
 npm run build -- --mode photo                        # lossy WebP q78 (for photographs)
+npm run tinify -- "source/course/bba/first-semester/english" # recursively minify a subject
+npm run tinify -- --all --dry-run                     # preview a deliberate full-source pass
 npm run build -- --max-width 1600                    # clamp very large images
 npm run build -- --watermark-position bottom-left    # watermark position
 npm run build -- --no-watermark                      # turn off watermarking

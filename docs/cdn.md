@@ -15,6 +15,7 @@
 | **Optimized output** | `dist/` (gitignored) |
 | **Manifest** | `manifest.json` (commit this, generated at build time) |
 | **Pipeline** | TypeScript Node 20 CLI via `tsx` + `commander` |
+| **Source minifier** | TinyPNG API via `npm run tinify -- <subject-folder>` |
 | **Cache headers (assets)** | `public, max-age=31536000, immutable` (forever) |
 | **Cache headers (manifest)** | `public, max-age=60, must-revalidate` (short, so updates propagate) |
 
@@ -142,6 +143,12 @@ CDN_BASE=https://cdn.tupapers.com
 
 # Optional: parallel workers for optimize/upload (default 6).
 # CONCURRENCY=6
+
+# TinyPNG Developer API key for explicit source minification.
+TINIFY_API_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+# Optional: parallel TinyPNG requests (default 2).
+# TINIFY_CONCURRENCY=2
 ```
 
 **To obtain credentials:**
@@ -168,6 +175,20 @@ npm run build -- -v              # verbose (list every file)
 - **SVG** → optimized SVG via `svgo` (never rasterized).
 - Output written to `dist/`.
 - `manifest.json` updated with logical → hashed key mappings + dimensions.
+
+### `npm run tinify`
+Recursively compress all newly generated PNG, JPEG, WebP, or AVIF images beneath a subject folder through the TinyPNG API before building. One command automatically handles every chapter and nested folder while preserving every filename and extension. `npm run minify:source` remains available as a longer alias.
+
+```bash
+npm run tinify -- "source/course/bba/first-semester/english" # process the whole subject
+npm run tinify -- --all --dry-run                         # preview full-source processing
+```
+
+- Requires `TINIFY_API_KEY` in `.env`.
+- Uses `.tinify-cache.json` locally to skip unchanged images and avoid repeat API charges.
+- Replaces a file only after the compressed response is fully downloaded.
+- Does not read, delete, or rewrite `dist/` or manifests.
+- `--all` is explicit so the existing source library is never sent accidentally.
 
 ### `npm run upload`
 Upload `dist/` objects to R2. Skips objects that already exist (content-addressed). **Requires credentials.**
@@ -225,6 +246,7 @@ source/course/bca/first-semester/computer-fundamental/notes/diagram/
 
 ### Step 3: Run the pipeline
 ```bash
+npm run tinify -- "source/course/bca/first-semester/computer-fundamental"
 npm run sync
 ```
 

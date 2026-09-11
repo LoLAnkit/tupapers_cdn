@@ -93,3 +93,14 @@ export function concurrency(): number {
   const n = Number(process.env.CONCURRENCY);
   return Number.isFinite(n) && n > 0 ? n : 6;
 }
+
+/** TinyPNG credentials are only needed by the explicit source-minification command. */
+export function tinifyApiKey(): string {
+  return required("TINIFY_API_KEY");
+}
+
+/** Keep API usage conservative by default; configurable for larger batches. */
+export function tinifyConcurrency(): number {
+  const n = Number(process.env.TINIFY_CONCURRENCY);
+  return Number.isFinite(n) && n > 0 ? n : 2;
+}

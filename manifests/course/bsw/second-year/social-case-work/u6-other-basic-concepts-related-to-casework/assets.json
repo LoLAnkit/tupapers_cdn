@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-10T06:46:30.743Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/second-year/social-case-work/u6-other-basic-concepts-related-to-casework",
+  "totalAssets": 3,
+  "assets": {
+    "conflict-and-crisis-relationship.webp": {
+      "key": "course/bsw/second-year/social-case-work/u6-other-basic-concepts-related-to-casework/conflict-and-crisis-relationship.38787e5f.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u6-other-basic-concepts-related-to-casework/conflict-and-crisis-relationship.38787e5f.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 818510
+    },
+    "ego-in-casework-concepts.webp": {
+      "key": "course/bsw/second-year/social-case-work/u6-other-basic-concepts-related-to-casework/ego-in-casework-concepts.8391d3b9.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u6-other-basic-concepts-related-to-casework/ego-in-casework-concepts.8391d3b9.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 881890
+    },
+    "rehabilitation-process.webp": {
+      "key": "course/bsw/second-year/social-case-work/u6-other-basic-concepts-related-to-casework/rehabilitation-process.44224d8e.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u6-other-basic-concepts-related-to-casework/rehabilitation-process.44224d8e.webp",
+      "contentType": "image/webp",
+      "width": 2056,
+      "height": 765,
+      "bytes": 736808
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u6-other-basic-concepts-related-to-casework/conflict-and-crisis-relationship.38787e5f.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u6-other-basic-concepts-related-to-casework/ego-in-casework-concepts.8391d3b9.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u6-other-basic-concepts-related-to-casework/rehabilitation-process.44224d8e.webp"
+  ]
+}

@@ -1,6 +1,7 @@
 node_modules/
 dist/
 .env
+.tinify-cache.json
 *.log
 .DS_Store
 
