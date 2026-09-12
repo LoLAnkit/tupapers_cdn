@@ -139,3 +139,5 @@ manifests/      folder-structured assets.json manifests (commit these)
 eleventy/       drop-in consumer files for the Eleventy site
 watermark.webp  root watermark image (auto-applied on build)
 ```
+
+## I used to manually generate images, minify it and name
