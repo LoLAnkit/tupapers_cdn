@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-16T13:57:38.752Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/csit/third-semester/computer-graphics/u1-introduction",
+  "totalAssets": 6,
+  "assets": {
+    "computer-graphics-application-areas.webp": {
+      "key": "course/csit/third-semester/computer-graphics/u1-introduction/computer-graphics-application-areas.4b7cd453.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u1-introduction/computer-graphics-application-areas.4b7cd453.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 871602
+    },
+    "frame-buffer-memory-layout.webp": {
+      "key": "course/csit/third-semester/computer-graphics/u1-introduction/frame-buffer-memory-layout.53d68583.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u1-introduction/frame-buffer-memory-layout.53d68583.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 704710
+    },
+    "machine-independent-graphics-stack.webp": {
+      "key": "course/csit/third-semester/computer-graphics/u1-introduction/machine-independent-graphics-stack.702134eb.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u1-introduction/machine-independent-graphics-stack.702134eb.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 705884
+    },
+    "raster-scan-display-architecture.webp": {
+      "key": "course/csit/third-semester/computer-graphics/u1-introduction/raster-scan-display-architecture.a0d5eb3c.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u1-introduction/raster-scan-display-architecture.a0d5eb3c.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 646388
+    },
+    "raster-vs-vector-display.webp": {
+      "key": "course/csit/third-semester/computer-graphics/u1-introduction/raster-vs-vector-display.af60e8b5.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u1-introduction/raster-vs-vector-display.af60e8b5.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 693130
+    },
+    "refresh-rate-and-frame-update.webp": {
+      "key": "course/csit/third-semester/computer-graphics/u1-introduction/refresh-rate-and-frame-update.94ca836e.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u1-introduction/refresh-rate-and-frame-update.94ca836e.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 691392
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u1-introduction/computer-graphics-application-areas.4b7cd453.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u1-introduction/frame-buffer-memory-layout.53d68583.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u1-introduction/machine-independent-graphics-stack.702134eb.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u1-introduction/raster-scan-display-architecture.a0d5eb3c.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u1-introduction/raster-vs-vector-display.af60e8b5.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u1-introduction/refresh-rate-and-frame-update.94ca836e.webp"
+  ]
+}

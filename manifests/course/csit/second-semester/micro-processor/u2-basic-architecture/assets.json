@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-16T13:57:38.670Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/csit/second-semester/micro-processor/u2-basic-architecture",
+  "totalAssets": 4,
+  "assets": {
+    "8085-internal-architecture.webp": {
+      "key": "course/csit/second-semester/micro-processor/u2-basic-architecture/8085-internal-architecture.7fcf3b23.webp",
+      "url": "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u2-basic-architecture/8085-internal-architecture.7fcf3b23.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 822292
+    },
+    "ad7-ad0-demultiplexing-with-ale.webp": {
+      "key": "course/csit/second-semester/micro-processor/u2-basic-architecture/ad7-ad0-demultiplexing-with-ale.3c651a99.webp",
+      "url": "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u2-basic-architecture/ad7-ad0-demultiplexing-with-ale.3c651a99.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 475022
+    },
+    "harvard-architecture.webp": {
+      "key": "course/csit/second-semester/micro-processor/u2-basic-architecture/harvard-architecture.1716f6a4.webp",
+      "url": "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u2-basic-architecture/harvard-architecture.1716f6a4.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 892452
+    },
+    "memory-and-io-control-signal-generation.webp": {
+      "key": "course/csit/second-semester/micro-processor/u2-basic-architecture/memory-and-io-control-signal-generation.762b1c2d.webp",
+      "url": "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u2-basic-architecture/memory-and-io-control-signal-generation.762b1c2d.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 340058
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u2-basic-architecture/8085-internal-architecture.7fcf3b23.webp",
+    "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u2-basic-architecture/ad7-ad0-demultiplexing-with-ale.3c651a99.webp",
+    "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u2-basic-architecture/harvard-architecture.1716f6a4.webp",
+    "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u2-basic-architecture/memory-and-io-control-signal-generation.762b1c2d.webp"
+  ]
+}

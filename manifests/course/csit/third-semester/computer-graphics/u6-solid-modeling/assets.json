@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-16T13:57:38.788Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/csit/third-semester/computer-graphics/u6-solid-modeling",
+  "totalAssets": 3,
+  "assets": {
+    "boundary-versus-spatial-partitioning.webp": {
+      "key": "course/csit/third-semester/computer-graphics/u6-solid-modeling/boundary-versus-spatial-partitioning.0fbffd15.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u6-solid-modeling/boundary-versus-spatial-partitioning.0fbffd15.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 510706
+    },
+    "octree-decomposition.webp": {
+      "key": "course/csit/third-semester/computer-graphics/u6-solid-modeling/octree-decomposition.2c743394.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u6-solid-modeling/octree-decomposition.2c743394.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 365800
+    },
+    "sweep-representation.webp": {
+      "key": "course/csit/third-semester/computer-graphics/u6-solid-modeling/sweep-representation.db91edc4.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u6-solid-modeling/sweep-representation.db91edc4.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 712332
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u6-solid-modeling/boundary-versus-spatial-partitioning.0fbffd15.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u6-solid-modeling/octree-decomposition.2c743394.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u6-solid-modeling/sweep-representation.db91edc4.webp"
+  ]
+}

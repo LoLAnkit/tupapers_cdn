@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-16T13:57:37.617Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/first-semester/cfa/u6-computer-security",
+  "totalAssets": 4,
+  "assets": {
+    "cryptography-and-digital-signature.webp": {
+      "key": "course/bca/first-semester/cfa/u6-computer-security/cryptography-and-digital-signature.465227ba.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u6-computer-security/cryptography-and-digital-signature.465227ba.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 927592
+    },
+    "firewall-authentication-and-ids.webp": {
+      "key": "course/bca/first-semester/cfa/u6-computer-security/firewall-authentication-and-ids.9189030a.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u6-computer-security/firewall-authentication-and-ids.9189030a.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 645964
+    },
+    "security-awareness-and-policy-cycle.webp": {
+      "key": "course/bca/first-semester/cfa/u6-computer-security/security-awareness-and-policy-cycle.eba4a36b.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u6-computer-security/security-awareness-and-policy-cycle.eba4a36b.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 370346
+    },
+    "security-threat-and-attack-path.webp": {
+      "key": "course/bca/first-semester/cfa/u6-computer-security/security-threat-and-attack-path.234d17ef.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u6-computer-security/security-threat-and-attack-path.234d17ef.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 717562
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u6-computer-security/cryptography-and-digital-signature.465227ba.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u6-computer-security/firewall-authentication-and-ids.9189030a.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u6-computer-security/security-awareness-and-policy-cycle.eba4a36b.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u6-computer-security/security-threat-and-attack-path.234d17ef.webp"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-16T13:57:38.764Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/csit/third-semester/computer-graphics/u2-scan-conversion-algorithm",
+  "totalAssets": 5,
+  "assets": {
+    "boundary-fill-versus-flood-fill.webp": {
+      "key": "course/csit/third-semester/computer-graphics/u2-scan-conversion-algorithm/boundary-fill-versus-flood-fill.664c0d10.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u2-scan-conversion-algorithm/boundary-fill-versus-flood-fill.664c0d10.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 620948
+    },
+    "bresenham-pixel-decision.webp": {
+      "key": "course/csit/third-semester/computer-graphics/u2-scan-conversion-algorithm/bresenham-pixel-decision.f9b827a1.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u2-scan-conversion-algorithm/bresenham-pixel-decision.f9b827a1.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 449512
+    },
+    "dda-versus-bresenham-raster-path.webp": {
+      "key": "course/csit/third-semester/computer-graphics/u2-scan-conversion-algorithm/dda-versus-bresenham-raster-path.d18794c6.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u2-scan-conversion-algorithm/dda-versus-bresenham-raster-path.d18794c6.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 715788
+    },
+    "mid-point-circle-symmetry.webp": {
+      "key": "course/csit/third-semester/computer-graphics/u2-scan-conversion-algorithm/mid-point-circle-symmetry.70e6f76f.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u2-scan-conversion-algorithm/mid-point-circle-symmetry.70e6f76f.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 397362
+    },
+    "mid-point-ellipse-regions.webp": {
+      "key": "course/csit/third-semester/computer-graphics/u2-scan-conversion-algorithm/mid-point-ellipse-regions.fda0ef72.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u2-scan-conversion-algorithm/mid-point-ellipse-regions.fda0ef72.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 391282
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u2-scan-conversion-algorithm/boundary-fill-versus-flood-fill.664c0d10.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u2-scan-conversion-algorithm/bresenham-pixel-decision.f9b827a1.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u2-scan-conversion-algorithm/dda-versus-bresenham-raster-path.d18794c6.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u2-scan-conversion-algorithm/mid-point-circle-symmetry.70e6f76f.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u2-scan-conversion-algorithm/mid-point-ellipse-regions.fda0ef72.webp"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-16T13:57:37.598Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/first-semester/cfa/u2-computer-hardware",
+  "totalAssets": 4,
+  "assets": {
+    "basic-computer-organization.webp": {
+      "key": "course/bca/first-semester/cfa/u2-computer-hardware/basic-computer-organization.31af1900.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u2-computer-hardware/basic-computer-organization.31af1900.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 475754
+    },
+    "cpu-internal-structure.webp": {
+      "key": "course/bca/first-semester/cfa/u2-computer-hardware/cpu-internal-structure.03fa4eea.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u2-computer-hardware/cpu-internal-structure.03fa4eea.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 728560
+    },
+    "memory-hierarchy.webp": {
+      "key": "course/bca/first-semester/cfa/u2-computer-hardware/memory-hierarchy.ed2c2315.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u2-computer-hardware/memory-hierarchy.ed2c2315.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 764168
+    },
+    "motherboard-components.webp": {
+      "key": "course/bca/first-semester/cfa/u2-computer-hardware/motherboard-components.df1ee434.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u2-computer-hardware/motherboard-components.df1ee434.webp",
+      "contentType": "image/webp",
+      "width": 1222,
+      "height": 1287,
+      "bytes": 735288
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u2-computer-hardware/basic-computer-organization.31af1900.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u2-computer-hardware/cpu-internal-structure.03fa4eea.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u2-computer-hardware/memory-hierarchy.ed2c2315.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u2-computer-hardware/motherboard-components.df1ee434.webp"
+  ]
+}

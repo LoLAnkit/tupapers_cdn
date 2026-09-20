@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-16T13:57:38.138Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bitm/second-semester/business-communication/u1-fundamentals-of-business-communication",
+  "totalAssets": 2,
+  "assets": {
+    "barrier-to-solution-map.webp": {
+      "key": "course/bitm/second-semester/business-communication/u1-fundamentals-of-business-communication/barrier-to-solution-map.3059e1ab.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u1-fundamentals-of-business-communication/barrier-to-solution-map.3059e1ab.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 931064
+    },
+    "communication-process-model.webp": {
+      "key": "course/bitm/second-semester/business-communication/u1-fundamentals-of-business-communication/communication-process-model.d48ab6d9.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u1-fundamentals-of-business-communication/communication-process-model.d48ab6d9.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 579704
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u1-fundamentals-of-business-communication/barrier-to-solution-map.3059e1ab.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u1-fundamentals-of-business-communication/communication-process-model.d48ab6d9.webp"
+  ]
+}

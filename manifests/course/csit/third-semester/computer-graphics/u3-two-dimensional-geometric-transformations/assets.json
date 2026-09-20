@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-16T13:57:38.769Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/csit/third-semester/computer-graphics/u3-two-dimensional-geometric-transformations",
+  "totalAssets": 5,
+  "assets": {
+    "2d-rotation-geometry.webp": {
+      "key": "course/csit/third-semester/computer-graphics/u3-two-dimensional-geometric-transformations/2d-rotation-geometry.9d8d6159.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u3-two-dimensional-geometric-transformations/2d-rotation-geometry.9d8d6159.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 424614
+    },
+    "composite-transformation-sequence.webp": {
+      "key": "course/csit/third-semester/computer-graphics/u3-two-dimensional-geometric-transformations/composite-transformation-sequence.c95d9334.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u3-two-dimensional-geometric-transformations/composite-transformation-sequence.c95d9334.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 479340
+    },
+    "line-clipping-window.webp": {
+      "key": "course/csit/third-semester/computer-graphics/u3-two-dimensional-geometric-transformations/line-clipping-window.e25c5646.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u3-two-dimensional-geometric-transformations/line-clipping-window.e25c5646.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 346300
+    },
+    "reflection-about-arbitrary-line.webp": {
+      "key": "course/csit/third-semester/computer-graphics/u3-two-dimensional-geometric-transformations/reflection-about-arbitrary-line.02fcca33.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u3-two-dimensional-geometric-transformations/reflection-about-arbitrary-line.02fcca33.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 432402
+    },
+    "sutherland-hodgman-polygon-clipping.webp": {
+      "key": "course/csit/third-semester/computer-graphics/u3-two-dimensional-geometric-transformations/sutherland-hodgman-polygon-clipping.3b5c6155.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u3-two-dimensional-geometric-transformations/sutherland-hodgman-polygon-clipping.3b5c6155.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 654164
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u3-two-dimensional-geometric-transformations/2d-rotation-geometry.9d8d6159.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u3-two-dimensional-geometric-transformations/composite-transformation-sequence.c95d9334.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u3-two-dimensional-geometric-transformations/line-clipping-window.e25c5646.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u3-two-dimensional-geometric-transformations/reflection-about-arbitrary-line.02fcca33.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u3-two-dimensional-geometric-transformations/sutherland-hodgman-polygon-clipping.3b5c6155.webp"
+  ]
+}

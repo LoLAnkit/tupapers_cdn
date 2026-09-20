@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-16T13:57:38.826Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/csit/third-semester/dsa/u5-lists",
+  "totalAssets": 4,
+  "assets": {
+    "circular-linked-list.webp": {
+      "key": "course/csit/third-semester/dsa/u5-lists/circular-linked-list.15029e89.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u5-lists/circular-linked-list.15029e89.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 319762
+    },
+    "doubly-linked-list-structure.webp": {
+      "key": "course/csit/third-semester/dsa/u5-lists/doubly-linked-list-structure.797ef211.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u5-lists/doubly-linked-list-structure.797ef211.webp",
+      "contentType": "image/webp",
+      "width": 1993,
+      "height": 789,
+      "bytes": 336850
+    },
+    "insertion-and-deletion-pointer-rewiring.webp": {
+      "key": "course/csit/third-semester/dsa/u5-lists/insertion-and-deletion-pointer-rewiring.1a625f20.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u5-lists/insertion-and-deletion-pointer-rewiring.1a625f20.webp",
+      "contentType": "image/webp",
+      "width": 1226,
+      "height": 1283,
+      "bytes": 755732
+    },
+    "singly-linked-list-structure.webp": {
+      "key": "course/csit/third-semester/dsa/u5-lists/singly-linked-list-structure.78b83f79.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u5-lists/singly-linked-list-structure.78b83f79.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 369836
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u5-lists/circular-linked-list.15029e89.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u5-lists/doubly-linked-list-structure.797ef211.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u5-lists/insertion-and-deletion-pointer-rewiring.1a625f20.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u5-lists/singly-linked-list-structure.78b83f79.webp"
+  ]
+}

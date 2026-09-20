@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-16T13:57:38.817Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/csit/third-semester/dsa/u3-queue",
+  "totalAssets": 4,
+  "assets": {
+    "circular-queue-wraparound.webp": {
+      "key": "course/csit/third-semester/dsa/u3-queue/circular-queue-wraparound.71b83538.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u3-queue/circular-queue-wraparound.71b83538.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 656396
+    },
+    "linear-vs-circular-queue-space-use.webp": {
+      "key": "course/csit/third-semester/dsa/u3-queue/linear-vs-circular-queue-space-use.05debd31.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u3-queue/linear-vs-circular-queue-space-use.05debd31.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 675620
+    },
+    "priority-queue-service-order.webp": {
+      "key": "course/csit/third-semester/dsa/u3-queue/priority-queue-service-order.cdfdd6d3.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u3-queue/priority-queue-service-order.cdfdd6d3.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 401932
+    },
+    "queue-fifo-operations.webp": {
+      "key": "course/csit/third-semester/dsa/u3-queue/queue-fifo-operations.ec54ff68.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u3-queue/queue-fifo-operations.ec54ff68.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 527372
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u3-queue/circular-queue-wraparound.71b83538.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u3-queue/linear-vs-circular-queue-space-use.05debd31.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u3-queue/priority-queue-service-order.cdfdd6d3.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u3-queue/queue-fifo-operations.ec54ff68.webp"
+  ]
+}

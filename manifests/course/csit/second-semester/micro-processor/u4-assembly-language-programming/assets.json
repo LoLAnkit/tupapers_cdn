@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-16T13:57:38.682Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/csit/second-semester/micro-processor/u4-assembly-language-programming",
+  "totalAssets": 4,
+  "assets": {
+    "fig-4-1-addressing-modes.webp": {
+      "key": "course/csit/second-semester/micro-processor/u4-assembly-language-programming/fig-4-1-addressing-modes.2009a084.webp",
+      "url": "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u4-assembly-language-programming/fig-4-1-addressing-modes.2009a084.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 854878
+    },
+    "fig-4-2-push-pop-stack-operation.webp": {
+      "key": "course/csit/second-semester/micro-processor/u4-assembly-language-programming/fig-4-2-push-pop-stack-operation.5f913e19.webp",
+      "url": "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u4-assembly-language-programming/fig-4-2-push-pop-stack-operation.5f913e19.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 809416
+    },
+    "fig-4-3-8085-flag-register.webp": {
+      "key": "course/csit/second-semester/micro-processor/u4-assembly-language-programming/fig-4-3-8085-flag-register.210bbf15.webp",
+      "url": "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u4-assembly-language-programming/fig-4-3-8085-flag-register.210bbf15.webp",
+      "contentType": "image/webp",
+      "width": 1916,
+      "height": 821,
+      "bytes": 756066
+    },
+    "fig-4-4-branching-loop-control-structures.webp": {
+      "key": "course/csit/second-semester/micro-processor/u4-assembly-language-programming/fig-4-4-branching-loop-control-structures.0322cd6a.webp",
+      "url": "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u4-assembly-language-programming/fig-4-4-branching-loop-control-structures.0322cd6a.webp",
+      "contentType": "image/webp",
+      "width": 1916,
+      "height": 821,
+      "bytes": 815144
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u4-assembly-language-programming/fig-4-1-addressing-modes.2009a084.webp",
+    "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u4-assembly-language-programming/fig-4-2-push-pop-stack-operation.5f913e19.webp",
+    "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u4-assembly-language-programming/fig-4-3-8085-flag-register.210bbf15.webp",
+    "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u4-assembly-language-programming/fig-4-4-branching-loop-control-structures.0322cd6a.webp"
+  ]
+}

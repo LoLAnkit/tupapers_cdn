@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-16T13:57:38.699Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/csit/second-semester/micro-processor/u7-advanced-microprocessors",
+  "totalAssets": 4,
+  "assets": {
+    "fig-7-1-8086-biu-eu-architecture.webp": {
+      "key": "course/csit/second-semester/micro-processor/u7-advanced-microprocessors/fig-7-1-8086-biu-eu-architecture.b151ffc7.webp",
+      "url": "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u7-advanced-microprocessors/fig-7-1-8086-biu-eu-architecture.b151ffc7.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 999014
+    },
+    "fig-7-2-8086-segmented-memory-address-formation.webp": {
+      "key": "course/csit/second-semester/micro-processor/u7-advanced-microprocessors/fig-7-2-8086-segmented-memory-address-formation.ec8177f7.webp",
+      "url": "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u7-advanced-microprocessors/fig-7-2-8086-segmented-memory-address-formation.ec8177f7.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 758480
+    },
+    "fig-7-3-80286-protected-mode-descriptor-translation.webp": {
+      "key": "course/csit/second-semester/micro-processor/u7-advanced-microprocessors/fig-7-3-80286-protected-mode-descriptor-translation.e1873a00.webp",
+      "url": "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u7-advanced-microprocessors/fig-7-3-80286-protected-mode-descriptor-translation.e1873a00.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 544558
+    },
+    "fig-7-4-80386-register-organization-and-paging-path.webp": {
+      "key": "course/csit/second-semester/micro-processor/u7-advanced-microprocessors/fig-7-4-80386-register-organization-and-paging-path.90a70508.webp",
+      "url": "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u7-advanced-microprocessors/fig-7-4-80386-register-organization-and-paging-path.90a70508.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 1204758
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u7-advanced-microprocessors/fig-7-1-8086-biu-eu-architecture.b151ffc7.webp",
+    "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u7-advanced-microprocessors/fig-7-2-8086-segmented-memory-address-formation.ec8177f7.webp",
+    "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u7-advanced-microprocessors/fig-7-3-80286-protected-mode-descriptor-translation.e1873a00.webp",
+    "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u7-advanced-microprocessors/fig-7-4-80386-register-organization-and-paging-path.90a70508.webp"
+  ]
+}

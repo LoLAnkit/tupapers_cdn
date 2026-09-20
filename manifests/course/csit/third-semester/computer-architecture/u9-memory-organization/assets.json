@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-16T13:57:38.747Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/csit/third-semester/computer-architecture/u9-memory-organization",
+  "totalAssets": 5,
+  "assets": {
+    "associative-set-associative-mapping.webp": {
+      "key": "course/csit/third-semester/computer-architecture/u9-memory-organization/associative-set-associative-mapping.10c30e50.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u9-memory-organization/associative-set-associative-mapping.10c30e50.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 647828
+    },
+    "cache-hit-miss-operation.webp": {
+      "key": "course/csit/third-semester/computer-architecture/u9-memory-organization/cache-hit-miss-operation.f6aecfd3.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u9-memory-organization/cache-hit-miss-operation.f6aecfd3.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 375104
+    },
+    "direct-cache-mapping.webp": {
+      "key": "course/csit/third-semester/computer-architecture/u9-memory-organization/direct-cache-mapping.e5359f31.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u9-memory-organization/direct-cache-mapping.e5359f31.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 504796
+    },
+    "memory-hierarchy.webp": {
+      "key": "course/csit/third-semester/computer-architecture/u9-memory-organization/memory-hierarchy.4f9ddb10.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u9-memory-organization/memory-hierarchy.4f9ddb10.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 734452
+    },
+    "temporal-spatial-locality.webp": {
+      "key": "course/csit/third-semester/computer-architecture/u9-memory-organization/temporal-spatial-locality.591319f3.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u9-memory-organization/temporal-spatial-locality.591319f3.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 717082
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u9-memory-organization/associative-set-associative-mapping.10c30e50.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u9-memory-organization/cache-hit-miss-operation.f6aecfd3.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u9-memory-organization/direct-cache-mapping.e5359f31.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u9-memory-organization/memory-hierarchy.4f9ddb10.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u9-memory-organization/temporal-spatial-locality.591319f3.webp"
+  ]
+}

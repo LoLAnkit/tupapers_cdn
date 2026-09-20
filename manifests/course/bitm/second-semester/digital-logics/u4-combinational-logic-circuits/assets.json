@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-16T13:57:38.177Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bitm/second-semester/digital-logics/u4-combinational-logic-circuits",
+  "totalAssets": 4,
+  "assets": {
+    "encoder-and-decoder-structures.webp": {
+      "key": "course/bitm/second-semester/digital-logics/u4-combinational-logic-circuits/encoder-and-decoder-structures.1d262af2.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u4-combinational-logic-circuits/encoder-and-decoder-structures.1d262af2.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 326726
+    },
+    "multiplexer-function-implementation.webp": {
+      "key": "course/bitm/second-semester/digital-logics/u4-combinational-logic-circuits/multiplexer-function-implementation.3c1d6619.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u4-combinational-logic-circuits/multiplexer-function-implementation.3c1d6619.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 403782
+    },
+    "pla-pal-and-rom-architectures.webp": {
+      "key": "course/bitm/second-semester/digital-logics/u4-combinational-logic-circuits/pla-pal-and-rom-architectures.a77a695b.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u4-combinational-logic-circuits/pla-pal-and-rom-architectures.a77a695b.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 459998
+    },
+    "three-bit-parallel-adder.webp": {
+      "key": "course/bitm/second-semester/digital-logics/u4-combinational-logic-circuits/three-bit-parallel-adder.c235f64d.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u4-combinational-logic-circuits/three-bit-parallel-adder.c235f64d.webp",
+      "contentType": "image/webp",
+      "width": 1947,
+      "height": 808,
+      "bytes": 259396
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u4-combinational-logic-circuits/encoder-and-decoder-structures.1d262af2.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u4-combinational-logic-circuits/multiplexer-function-implementation.3c1d6619.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u4-combinational-logic-circuits/pla-pal-and-rom-architectures.a77a695b.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u4-combinational-logic-circuits/three-bit-parallel-adder.c235f64d.webp"
+  ]
+}

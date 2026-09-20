@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-16T13:57:38.199Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bitm/second-semester/ob-hrm/u2-understanding-individual-behavior",
+  "totalAssets": 4,
+  "assets": {
+    "big-five-personality-model.webp": {
+      "key": "course/bitm/second-semester/ob-hrm/u2-understanding-individual-behavior/big-five-personality-model.1e171c96.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u2-understanding-individual-behavior/big-five-personality-model.1e171c96.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1011988
+    },
+    "determinants-of-personality.webp": {
+      "key": "course/bitm/second-semester/ob-hrm/u2-understanding-individual-behavior/determinants-of-personality.8f251e4c.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u2-understanding-individual-behavior/determinants-of-personality.8f251e4c.webp",
+      "contentType": "image/webp",
+      "width": 1222,
+      "height": 1287,
+      "bytes": 908228
+    },
+    "factors-affecting-perception.webp": {
+      "key": "course/bitm/second-semester/ob-hrm/u2-understanding-individual-behavior/factors-affecting-perception.0bd01587.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u2-understanding-individual-behavior/factors-affecting-perception.0bd01587.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 819760
+    },
+    "perceptual-process.webp": {
+      "key": "course/bitm/second-semester/ob-hrm/u2-understanding-individual-behavior/perceptual-process.515c9af7.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u2-understanding-individual-behavior/perceptual-process.515c9af7.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 669272
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u2-understanding-individual-behavior/big-five-personality-model.1e171c96.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u2-understanding-individual-behavior/determinants-of-personality.8f251e4c.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u2-understanding-individual-behavior/factors-affecting-perception.0bd01587.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u2-understanding-individual-behavior/perceptual-process.515c9af7.webp"
+  ]
+}

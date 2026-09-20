@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-16T13:57:38.735Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/csit/third-semester/computer-architecture/u7-computer-arithmetic",
+  "totalAssets": 4,
+  "assets": {
+    "booths-multiplication-algorithm.webp": {
+      "key": "course/csit/third-semester/computer-architecture/u7-computer-arithmetic/booths-multiplication-algorithm.a72c8ac4.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u7-computer-arithmetic/booths-multiplication-algorithm.a72c8ac4.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 626242
+    },
+    "non-restoring-division-algorithm.webp": {
+      "key": "course/csit/third-semester/computer-architecture/u7-computer-arithmetic/non-restoring-division-algorithm.7be74f00.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u7-computer-arithmetic/non-restoring-division-algorithm.7be74f00.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 390996
+    },
+    "restoring-division-algorithm.webp": {
+      "key": "course/csit/third-semester/computer-architecture/u7-computer-arithmetic/restoring-division-algorithm.6656f6c4.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u7-computer-arithmetic/restoring-division-algorithm.6656f6c4.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 610994
+    },
+    "signed-twos-complement-addition-subtraction.webp": {
+      "key": "course/csit/third-semester/computer-architecture/u7-computer-arithmetic/signed-twos-complement-addition-subtraction.16f79550.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u7-computer-arithmetic/signed-twos-complement-addition-subtraction.16f79550.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 633244
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u7-computer-arithmetic/booths-multiplication-algorithm.a72c8ac4.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u7-computer-arithmetic/non-restoring-division-algorithm.7be74f00.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u7-computer-arithmetic/restoring-division-algorithm.6656f6c4.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u7-computer-arithmetic/signed-twos-complement-addition-subtraction.16f79550.webp"
+  ]
+}

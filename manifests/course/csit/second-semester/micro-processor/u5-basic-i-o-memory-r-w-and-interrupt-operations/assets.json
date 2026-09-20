@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-16T13:57:38.688Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/csit/second-semester/micro-processor/u5-basic-i-o-memory-r-w-and-interrupt-operations",
+  "totalAssets": 4,
+  "assets": {
+    "fig-5-1-memory-read-write-operations.webp": {
+      "key": "course/csit/second-semester/micro-processor/u5-basic-i-o-memory-r-w-and-interrupt-operations/fig-5-1-memory-read-write-operations.494085fb.webp",
+      "url": "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u5-basic-i-o-memory-r-w-and-interrupt-operations/fig-5-1-memory-read-write-operations.494085fb.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 357756
+    },
+    "fig-5-2-memory-mapped-vs-i-o-mapped.webp": {
+      "key": "course/csit/second-semester/micro-processor/u5-basic-i-o-memory-r-w-and-interrupt-operations/fig-5-2-memory-mapped-vs-i-o-mapped.48e3705d.webp",
+      "url": "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u5-basic-i-o-memory-r-w-and-interrupt-operations/fig-5-2-memory-mapped-vs-i-o-mapped.48e3705d.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 1062178
+    },
+    "fig-5-3-dma-transfer-mechanism.webp": {
+      "key": "course/csit/second-semester/micro-processor/u5-basic-i-o-memory-r-w-and-interrupt-operations/fig-5-3-dma-transfer-mechanism.478ad8c7.webp",
+      "url": "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u5-basic-i-o-memory-r-w-and-interrupt-operations/fig-5-3-dma-transfer-mechanism.478ad8c7.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 603046
+    },
+    "fig-5-4-interrupt-types-and-masking.webp": {
+      "key": "course/csit/second-semester/micro-processor/u5-basic-i-o-memory-r-w-and-interrupt-operations/fig-5-4-interrupt-types-and-masking.bbaad2fd.webp",
+      "url": "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u5-basic-i-o-memory-r-w-and-interrupt-operations/fig-5-4-interrupt-types-and-masking.bbaad2fd.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 655426
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u5-basic-i-o-memory-r-w-and-interrupt-operations/fig-5-1-memory-read-write-operations.494085fb.webp",
+    "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u5-basic-i-o-memory-r-w-and-interrupt-operations/fig-5-2-memory-mapped-vs-i-o-mapped.48e3705d.webp",
+    "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u5-basic-i-o-memory-r-w-and-interrupt-operations/fig-5-3-dma-transfer-mechanism.478ad8c7.webp",
+    "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u5-basic-i-o-memory-r-w-and-interrupt-operations/fig-5-4-interrupt-types-and-masking.bbaad2fd.webp"
+  ]
+}

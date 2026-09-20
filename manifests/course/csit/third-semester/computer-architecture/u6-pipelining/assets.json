@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-16T13:57:38.729Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/csit/third-semester/computer-architecture/u6-pipelining",
+  "totalAssets": 4,
+  "assets": {
+    "flynns-classification.webp": {
+      "key": "course/csit/third-semester/computer-architecture/u6-pipelining/flynns-classification.5377075d.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u6-pipelining/flynns-classification.5377075d.webp",
+      "contentType": "image/webp",
+      "width": 1374,
+      "height": 1145,
+      "bytes": 423952
+    },
+    "four-segment-instruction-pipeline.webp": {
+      "key": "course/csit/third-semester/computer-architecture/u6-pipelining/four-segment-instruction-pipeline.118acce2.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u6-pipelining/four-segment-instruction-pipeline.118acce2.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 776712
+    },
+    "pipeline-hazards-and-solutions.webp": {
+      "key": "course/csit/third-semester/computer-architecture/u6-pipelining/pipeline-hazards-and-solutions.7c55af65.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u6-pipelining/pipeline-hazards-and-solutions.7c55af65.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 599576
+    },
+    "pipeline-speedup.webp": {
+      "key": "course/csit/third-semester/computer-architecture/u6-pipelining/pipeline-speedup.19b0839f.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u6-pipelining/pipeline-speedup.19b0839f.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 590162
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u6-pipelining/flynns-classification.5377075d.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u6-pipelining/four-segment-instruction-pipeline.118acce2.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u6-pipelining/pipeline-hazards-and-solutions.7c55af65.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u6-pipelining/pipeline-speedup.19b0839f.webp"
+  ]
+}

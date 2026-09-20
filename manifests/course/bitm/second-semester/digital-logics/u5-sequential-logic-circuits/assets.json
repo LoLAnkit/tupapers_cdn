@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-16T13:57:38.182Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bitm/second-semester/digital-logics/u5-sequential-logic-circuits",
+  "totalAssets": 4,
+  "assets": {
+    "edge-triggering-waveforms.webp": {
+      "key": "course/bitm/second-semester/digital-logics/u5-sequential-logic-circuits/edge-triggering-waveforms.7b6491f6.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u5-sequential-logic-circuits/edge-triggering-waveforms.7b6491f6.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 282390
+    },
+    "master-slave-flip-flop.webp": {
+      "key": "course/bitm/second-semester/digital-logics/u5-sequential-logic-circuits/master-slave-flip-flop.b80d934a.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u5-sequential-logic-circuits/master-slave-flip-flop.b80d934a.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 342242
+    },
+    "nor-sr-latch-forbidden-state.webp": {
+      "key": "course/bitm/second-semester/digital-logics/u5-sequential-logic-circuits/nor-sr-latch-forbidden-state.44a2d423.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u5-sequential-logic-circuits/nor-sr-latch-forbidden-state.44a2d423.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 376484
+    },
+    "t-and-jk-flip-flop-behavior.webp": {
+      "key": "course/bitm/second-semester/digital-logics/u5-sequential-logic-circuits/t-and-jk-flip-flop-behavior.b79f7350.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u5-sequential-logic-circuits/t-and-jk-flip-flop-behavior.b79f7350.webp",
+      "contentType": "image/webp",
+      "width": 2064,
+      "height": 762,
+      "bytes": 420834
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u5-sequential-logic-circuits/edge-triggering-waveforms.7b6491f6.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u5-sequential-logic-circuits/master-slave-flip-flop.b80d934a.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u5-sequential-logic-circuits/nor-sr-latch-forbidden-state.44a2d423.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u5-sequential-logic-circuits/t-and-jk-flip-flop-behavior.b79f7350.webp"
+  ]
+}

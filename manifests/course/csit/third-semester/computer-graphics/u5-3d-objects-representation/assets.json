@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-16T13:57:38.781Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/csit/third-semester/computer-graphics/u5-3d-objects-representation",
+  "totalAssets": 4,
+  "assets": {
+    "b-spline-local-control.webp": {
+      "key": "course/csit/third-semester/computer-graphics/u5-3d-objects-representation/b-spline-local-control.5665d9b1.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u5-3d-objects-representation/b-spline-local-control.5665d9b1.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 333690
+    },
+    "cubic-bezier-construction.webp": {
+      "key": "course/csit/third-semester/computer-graphics/u5-3d-objects-representation/cubic-bezier-construction.69c0b13c.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u5-3d-objects-representation/cubic-bezier-construction.69c0b13c.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 307208
+    },
+    "polygon-mesh-and-tables.webp": {
+      "key": "course/csit/third-semester/computer-graphics/u5-3d-objects-representation/polygon-mesh-and-tables.c6de156e.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u5-3d-objects-representation/polygon-mesh-and-tables.c6de156e.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 423788
+    },
+    "wireframe-3d-representation.webp": {
+      "key": "course/csit/third-semester/computer-graphics/u5-3d-objects-representation/wireframe-3d-representation.266427c6.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u5-3d-objects-representation/wireframe-3d-representation.266427c6.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 601628
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u5-3d-objects-representation/b-spline-local-control.5665d9b1.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u5-3d-objects-representation/cubic-bezier-construction.69c0b13c.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u5-3d-objects-representation/polygon-mesh-and-tables.c6de156e.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u5-3d-objects-representation/wireframe-3d-representation.266427c6.webp"
+  ]
+}

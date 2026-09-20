@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-16T13:57:38.213Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bitm/second-semester/ob-hrm/u7-organization-management",
+  "totalAssets": 4,
+  "assets": {
+    "fig-7.1-hr-planning-process.webp": {
+      "key": "course/bitm/second-semester/ob-hrm/u7-organization-management/fig-7.1-hr-planning-process.04af7462.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u7-organization-management/fig-7.1-hr-planning-process.04af7462.webp",
+      "contentType": "image/webp",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 852874
+    },
+    "fig-7.2-job-terminology.webp": {
+      "key": "course/bitm/second-semester/ob-hrm/u7-organization-management/fig-7.2-job-terminology.314a16aa.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u7-organization-management/fig-7.2-job-terminology.314a16aa.webp",
+      "contentType": "image/webp",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 1054026
+    },
+    "fig-7.3-organization-management-process.webp": {
+      "key": "course/bitm/second-semester/ob-hrm/u7-organization-management/fig-7.3-organization-management-process.6aefabd4.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u7-organization-management/fig-7.3-organization-management-process.6aefabd4.webp",
+      "contentType": "image/webp",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 669622
+    },
+    "fig-7.4-hris-planning.webp": {
+      "key": "course/bitm/second-semester/ob-hrm/u7-organization-management/fig-7.4-hris-planning.6858f489.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u7-organization-management/fig-7.4-hris-planning.6858f489.webp",
+      "contentType": "image/webp",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 603372
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u7-organization-management/fig-7.1-hr-planning-process.04af7462.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u7-organization-management/fig-7.2-job-terminology.314a16aa.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u7-organization-management/fig-7.3-organization-management-process.6aefabd4.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u7-organization-management/fig-7.4-hris-planning.6858f489.webp"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-16T13:57:38.830Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/csit/third-semester/dsa/u6-sorting",
+  "totalAssets": 4,
+  "assets": {
+    "heap-sort-with-max-heap.webp": {
+      "key": "course/csit/third-semester/dsa/u6-sorting/heap-sort-with-max-heap.b9fec219.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u6-sorting/heap-sort-with-max-heap.b9fec219.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 791486
+    },
+    "insertion-sort-shifting.webp": {
+      "key": "course/csit/third-semester/dsa/u6-sorting/insertion-sort-shifting.dabb4103.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u6-sorting/insertion-sort-shifting.dabb4103.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 571120
+    },
+    "merge-sort-divide-and-merge-tree.webp": {
+      "key": "course/csit/third-semester/dsa/u6-sorting/merge-sort-divide-and-merge-tree.d00a8a5a.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u6-sorting/merge-sort-divide-and-merge-tree.d00a8a5a.webp",
+      "contentType": "image/webp",
+      "width": 1374,
+      "height": 1145,
+      "bytes": 444808
+    },
+    "quick-sort-partition.webp": {
+      "key": "course/csit/third-semester/dsa/u6-sorting/quick-sort-partition.f2ece520.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u6-sorting/quick-sort-partition.f2ece520.webp",
+      "contentType": "image/webp",
+      "width": 1224,
+      "height": 1285,
+      "bytes": 469352
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u6-sorting/heap-sort-with-max-heap.b9fec219.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u6-sorting/insertion-sort-shifting.dabb4103.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u6-sorting/merge-sort-divide-and-merge-tree.d00a8a5a.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u6-sorting/quick-sort-partition.f2ece520.webp"
+  ]
+}

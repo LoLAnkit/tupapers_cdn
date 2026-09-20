@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-16T13:57:38.159Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bitm/second-semester/business-communication/u6-employment-communication-and-professional-branding",
+  "totalAssets": 4,
+  "assets": {
+    "cover-letter-format.webp": {
+      "key": "course/bitm/second-semester/business-communication/u6-employment-communication-and-professional-branding/cover-letter-format.57829bb2.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u6-employment-communication-and-professional-branding/cover-letter-format.57829bb2.webp",
+      "contentType": "image/webp",
+      "width": 1199,
+      "height": 1312,
+      "bytes": 422254
+    },
+    "linkedin-profile-anatomy.webp": {
+      "key": "course/bitm/second-semester/business-communication/u6-employment-communication-and-professional-branding/linkedin-profile-anatomy.60d5db6d.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u6-employment-communication-and-professional-branding/linkedin-profile-anatomy.60d5db6d.webp",
+      "contentType": "image/webp",
+      "width": 1199,
+      "height": 1312,
+      "bytes": 654516
+    },
+    "portfolio-structure.webp": {
+      "key": "course/bitm/second-semester/business-communication/u6-employment-communication-and-professional-branding/portfolio-structure.d50f9273.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u6-employment-communication-and-professional-branding/portfolio-structure.d50f9273.webp",
+      "contentType": "image/webp",
+      "width": 1312,
+      "height": 1199,
+      "bytes": 581196
+    },
+    "resume-format.webp": {
+      "key": "course/bitm/second-semester/business-communication/u6-employment-communication-and-professional-branding/resume-format.3f931b35.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u6-employment-communication-and-professional-branding/resume-format.3f931b35.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 849820
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u6-employment-communication-and-professional-branding/cover-letter-format.57829bb2.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u6-employment-communication-and-professional-branding/linkedin-profile-anatomy.60d5db6d.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u6-employment-communication-and-professional-branding/portfolio-structure.d50f9273.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u6-employment-communication-and-professional-branding/resume-format.3f931b35.webp"
+  ]
+}

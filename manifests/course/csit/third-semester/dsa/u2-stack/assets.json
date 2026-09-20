@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-16T13:57:38.813Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/csit/third-semester/dsa/u2-stack",
+  "totalAssets": 3,
+  "assets": {
+    "infix-to-postfix-conversion.webp": {
+      "key": "course/csit/third-semester/dsa/u2-stack/infix-to-postfix-conversion.d95cfc41.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u2-stack/infix-to-postfix-conversion.d95cfc41.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 413548
+    },
+    "postfix-evaluation-trace.webp": {
+      "key": "course/csit/third-semester/dsa/u2-stack/postfix-evaluation-trace.eaf1db3a.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u2-stack/postfix-evaluation-trace.eaf1db3a.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 399812
+    },
+    "stack-lifo-operations.webp": {
+      "key": "course/csit/third-semester/dsa/u2-stack/stack-lifo-operations.e603bf8b.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u2-stack/stack-lifo-operations.e603bf8b.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 560648
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u2-stack/infix-to-postfix-conversion.d95cfc41.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u2-stack/postfix-evaluation-trace.eaf1db3a.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u2-stack/stack-lifo-operations.e603bf8b.webp"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-16T13:57:38.209Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bitm/second-semester/ob-hrm/u6-intro-hrm",
+  "totalAssets": 4,
+  "assets": {
+    "fig-6.1-quality-of-work-life.webp": {
+      "key": "course/bitm/second-semester/ob-hrm/u6-intro-hrm/fig-6.1-quality-of-work-life.2887bf6d.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u6-intro-hrm/fig-6.1-quality-of-work-life.2887bf6d.webp",
+      "contentType": "image/webp",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 961090
+    },
+    "fig-6.2-hard-and-soft-hrm.webp": {
+      "key": "course/bitm/second-semester/ob-hrm/u6-intro-hrm/fig-6.2-hard-and-soft-hrm.d495ab91.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u6-intro-hrm/fig-6.2-hard-and-soft-hrm.d495ab91.webp",
+      "contentType": "image/webp",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 852380
+    },
+    "fig-6.3-hrm-functions.webp": {
+      "key": "course/bitm/second-semester/ob-hrm/u6-intro-hrm/fig-6.3-hrm-functions.c1251dfc.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u6-intro-hrm/fig-6.3-hrm-functions.c1251dfc.webp",
+      "contentType": "image/webp",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 842850
+    },
+    "fig-6.4-hr-competitive-advantage.webp": {
+      "key": "course/bitm/second-semester/ob-hrm/u6-intro-hrm/fig-6.4-hr-competitive-advantage.807d6624.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u6-intro-hrm/fig-6.4-hr-competitive-advantage.807d6624.webp",
+      "contentType": "image/webp",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 686430
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u6-intro-hrm/fig-6.1-quality-of-work-life.2887bf6d.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u6-intro-hrm/fig-6.2-hard-and-soft-hrm.d495ab91.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u6-intro-hrm/fig-6.3-hrm-functions.c1251dfc.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u6-intro-hrm/fig-6.4-hr-competitive-advantage.807d6624.webp"
+  ]
+}

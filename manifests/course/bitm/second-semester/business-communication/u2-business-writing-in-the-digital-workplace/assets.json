@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-16T13:57:38.142Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bitm/second-semester/business-communication/u2-business-writing-in-the-digital-workplace",
+  "totalAssets": 4,
+  "assets": {
+    "business-memo-format.webp": {
+      "key": "course/bitm/second-semester/business-communication/u2-business-writing-in-the-digital-workplace/business-memo-format.54199662.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u2-business-writing-in-the-digital-workplace/business-memo-format.54199662.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 656532
+    },
+    "collaboration-platform-update-post.webp": {
+      "key": "course/bitm/second-semester/business-communication/u2-business-writing-in-the-digital-workplace/collaboration-platform-update-post.6a5fc538.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u2-business-writing-in-the-digital-workplace/collaboration-platform-update-post.6a5fc538.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 778446
+    },
+    "instant-business-message-example.webp": {
+      "key": "course/bitm/second-semester/business-communication/u2-business-writing-in-the-digital-workplace/instant-business-message-example.99bccff0.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u2-business-writing-in-the-digital-workplace/instant-business-message-example.99bccff0.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 671466
+    },
+    "professional-email-format.webp": {
+      "key": "course/bitm/second-semester/business-communication/u2-business-writing-in-the-digital-workplace/professional-email-format.6d4ef6c1.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u2-business-writing-in-the-digital-workplace/professional-email-format.6d4ef6c1.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 856646
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u2-business-writing-in-the-digital-workplace/business-memo-format.54199662.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u2-business-writing-in-the-digital-workplace/collaboration-platform-update-post.6a5fc538.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u2-business-writing-in-the-digital-workplace/instant-business-message-example.99bccff0.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u2-business-writing-in-the-digital-workplace/professional-email-format.6d4ef6c1.webp"
+  ]
+}

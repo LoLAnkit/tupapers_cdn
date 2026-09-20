@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-16T13:57:37.621Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/first-semester/cfa/u7-contemporary-technology",
+  "totalAssets": 4,
+  "assets": {
+    "blockchain-structure-and-transaction-flow.webp": {
+      "key": "course/bca/first-semester/cfa/u7-contemporary-technology/blockchain-structure-and-transaction-flow.a5f01923.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u7-contemporary-technology/blockchain-structure-and-transaction-flow.a5f01923.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 456662
+    },
+    "iot-with-cloud-computing.webp": {
+      "key": "course/bca/first-semester/cfa/u7-contemporary-technology/iot-with-cloud-computing.107f74eb.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u7-contemporary-technology/iot-with-cloud-computing.107f74eb.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 395388
+    },
+    "neural-network-basics.webp": {
+      "key": "course/bca/first-semester/cfa/u7-contemporary-technology/neural-network-basics.7446fd0b.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u7-contemporary-technology/neural-network-basics.7446fd0b.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 458654
+    },
+    "virtual-reality-vs-augmented-reality.webp": {
+      "key": "course/bca/first-semester/cfa/u7-contemporary-technology/virtual-reality-vs-augmented-reality.1984f73c.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u7-contemporary-technology/virtual-reality-vs-augmented-reality.1984f73c.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 1284742
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u7-contemporary-technology/blockchain-structure-and-transaction-flow.a5f01923.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u7-contemporary-technology/iot-with-cloud-computing.107f74eb.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u7-contemporary-technology/neural-network-basics.7446fd0b.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u7-contemporary-technology/virtual-reality-vs-augmented-reality.1984f73c.webp"
+  ]
+}

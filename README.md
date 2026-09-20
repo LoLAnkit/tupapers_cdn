@@ -106,6 +106,15 @@ npm run upload -- --dry-run -v                       # preview uploads
 npm run prune -- --yes                               # actually delete orphans (default is dry-run)
 ```
 
+
+- After all images are saved, report the subject folder and give the user one recursive batch command using only that subject folder:
+
+   `npm run tinify -- "source/course/[course]/[year-or-semester]/[subject]"`
+
+   Replace the bracketed parts with the actual subject folder path. Do not list individual chapter folders or image files. The command automatically scans every chapter and nested folder inside the subject, minifying all supported images while preserving filenames and extensions. The user will run it locally; do not run it unless explicitly requested. Do not run `npm run build` or `npm run sync` unless explicitly requested.
+
+
+
 ## Eleventy integration
 
 Copy the two files under [`eleventy/`](./eleventy) into your site:

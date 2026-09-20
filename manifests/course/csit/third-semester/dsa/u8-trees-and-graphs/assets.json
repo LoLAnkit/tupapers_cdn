@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-16T13:57:38.842Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/csit/third-semester/dsa/u8-trees-and-graphs",
+  "totalAssets": 4,
+  "assets": {
+    "avl-balancing-rotations.webp": {
+      "key": "course/csit/third-semester/dsa/u8-trees-and-graphs/avl-balancing-rotations.30959902.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u8-trees-and-graphs/avl-balancing-rotations.30959902.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 363150
+    },
+    "bst-operations-traversals-and-tree-levels.webp": {
+      "key": "course/csit/third-semester/dsa/u8-trees-and-graphs/bst-operations-traversals-and-tree-levels.8d215ab9.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u8-trees-and-graphs/bst-operations-traversals-and-tree-levels.8d215ab9.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 654974
+    },
+    "graph-representation-and-bfs.webp": {
+      "key": "course/csit/third-semester/dsa/u8-trees-and-graphs/graph-representation-and-bfs.0bc5caa6.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u8-trees-and-graphs/graph-representation-and-bfs.0bc5caa6.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 582206
+    },
+    "minimum-spanning-tree-with-prim-and-kruskal.webp": {
+      "key": "course/csit/third-semester/dsa/u8-trees-and-graphs/minimum-spanning-tree-with-prim-and-kruskal.964dfbf3.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u8-trees-and-graphs/minimum-spanning-tree-with-prim-and-kruskal.964dfbf3.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 725150
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u8-trees-and-graphs/avl-balancing-rotations.30959902.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u8-trees-and-graphs/bst-operations-traversals-and-tree-levels.8d215ab9.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u8-trees-and-graphs/graph-representation-and-bfs.0bc5caa6.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u8-trees-and-graphs/minimum-spanning-tree-with-prim-and-kruskal.964dfbf3.webp"
+  ]
+}

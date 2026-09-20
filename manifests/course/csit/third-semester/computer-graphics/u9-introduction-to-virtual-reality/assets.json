@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-16T13:57:38.804Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/csit/third-semester/computer-graphics/u9-introduction-to-virtual-reality",
+  "totalAssets": 3,
+  "assets": {
+    "types-of-vr-systems.webp": {
+      "key": "course/csit/third-semester/computer-graphics/u9-introduction-to-virtual-reality/types-of-vr-systems.bb3b966d.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u9-introduction-to-virtual-reality/types-of-vr-systems.bb3b966d.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 968898
+    },
+    "vr-in-education.webp": {
+      "key": "course/csit/third-semester/computer-graphics/u9-introduction-to-virtual-reality/vr-in-education.8363d428.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u9-introduction-to-virtual-reality/vr-in-education.8363d428.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 1062068
+    },
+    "vr-system-components.webp": {
+      "key": "course/csit/third-semester/computer-graphics/u9-introduction-to-virtual-reality/vr-system-components.b59f1b89.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u9-introduction-to-virtual-reality/vr-system-components.b59f1b89.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 769268
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u9-introduction-to-virtual-reality/types-of-vr-systems.bb3b966d.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u9-introduction-to-virtual-reality/vr-in-education.8363d428.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u9-introduction-to-virtual-reality/vr-system-components.b59f1b89.webp"
+  ]
+}

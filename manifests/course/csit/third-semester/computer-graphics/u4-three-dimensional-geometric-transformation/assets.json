@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-16T13:57:38.775Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/csit/third-semester/computer-graphics/u4-three-dimensional-geometric-transformation",
+  "totalAssets": 4,
+  "assets": {
+    "3d-viewing-pipeline.webp": {
+      "key": "course/csit/third-semester/computer-graphics/u4-three-dimensional-geometric-transformation/3d-viewing-pipeline.840f38b3.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u4-three-dimensional-geometric-transformation/3d-viewing-pipeline.840f38b3.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 963264
+    },
+    "orthographic-projection.webp": {
+      "key": "course/csit/third-semester/computer-graphics/u4-three-dimensional-geometric-transformation/orthographic-projection.478cc158.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u4-three-dimensional-geometric-transformation/orthographic-projection.478cc158.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 376240
+    },
+    "parallel-oblique-perspective-rays.webp": {
+      "key": "course/csit/third-semester/computer-graphics/u4-three-dimensional-geometric-transformation/parallel-oblique-perspective-rays.23d86695.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u4-three-dimensional-geometric-transformation/parallel-oblique-perspective-rays.23d86695.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 445984
+    },
+    "projection-family-tree.webp": {
+      "key": "course/csit/third-semester/computer-graphics/u4-three-dimensional-geometric-transformation/projection-family-tree.b8fcf321.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u4-three-dimensional-geometric-transformation/projection-family-tree.b8fcf321.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 703280
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u4-three-dimensional-geometric-transformation/3d-viewing-pipeline.840f38b3.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u4-three-dimensional-geometric-transformation/orthographic-projection.478cc158.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u4-three-dimensional-geometric-transformation/parallel-oblique-perspective-rays.23d86695.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u4-three-dimensional-geometric-transformation/projection-family-tree.b8fcf321.webp"
+  ]
+}
