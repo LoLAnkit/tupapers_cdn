@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.415Z",
+  "generatedAt": "2026-09-21T09:23:02.440Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/second-year/abnormal-psychology/u7-neurodevelopmental-disorders",
   "totalAssets": 4,
   "assets": {
     "adhd-symptom-domains.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u7-neurodevelopmental-disorders/adhd-symptom-domains.9afb76f3.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u7-neurodevelopmental-disorders/adhd-symptom-domains.9afb76f3.webp",
+      "key": "course/bsw/second-year/abnormal-psychology/u7-neurodevelopmental-disorders/adhd-symptom-domains.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u7-neurodevelopmental-disorders/adhd-symptom-domains.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 797570
+      "bytes": 121266,
+      "contentHashed": false
     },
     "autism-spectrum-disorder-features.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u7-neurodevelopmental-disorders/autism-spectrum-disorder-features.144bad39.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u7-neurodevelopmental-disorders/autism-spectrum-disorder-features.144bad39.webp",
+      "key": "course/bsw/second-year/abnormal-psychology/u7-neurodevelopmental-disorders/autism-spectrum-disorder-features.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u7-neurodevelopmental-disorders/autism-spectrum-disorder-features.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 578200
+      "bytes": 60446,
+      "contentHashed": false
     },
     "neurodevelopmental-disorder-classification.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u7-neurodevelopmental-disorders/neurodevelopmental-disorder-classification.b249740f.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u7-neurodevelopmental-disorders/neurodevelopmental-disorder-classification.b249740f.webp",
+      "key": "course/bsw/second-year/abnormal-psychology/u7-neurodevelopmental-disorders/neurodevelopmental-disorder-classification.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u7-neurodevelopmental-disorders/neurodevelopmental-disorder-classification.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 807860
+      "bytes": 117432,
+      "contentHashed": false
     },
     "specific-learning-disorder-domains.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u7-neurodevelopmental-disorders/specific-learning-disorder-domains.8e2fb03f.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u7-neurodevelopmental-disorders/specific-learning-disorder-domains.8e2fb03f.webp",
+      "key": "course/bsw/second-year/abnormal-psychology/u7-neurodevelopmental-disorders/specific-learning-disorder-domains.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u7-neurodevelopmental-disorders/specific-learning-disorder-domains.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 751152
+      "bytes": 116100,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u7-neurodevelopmental-disorders/adhd-symptom-domains.9afb76f3.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u7-neurodevelopmental-disorders/autism-spectrum-disorder-features.144bad39.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u7-neurodevelopmental-disorders/neurodevelopmental-disorder-classification.b249740f.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u7-neurodevelopmental-disorders/specific-learning-disorder-domains.8e2fb03f.webp"
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u7-neurodevelopmental-disorders/adhd-symptom-domains.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u7-neurodevelopmental-disorders/autism-spectrum-disorder-features.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u7-neurodevelopmental-disorders/neurodevelopmental-disorder-classification.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u7-neurodevelopmental-disorders/specific-learning-disorder-domains.webp"
   ]
 }

@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.150Z",
+  "generatedAt": "2026-09-21T09:23:02.255Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bitm/second-semester/business-communication/u4-oral-and-interpersonal-communication",
   "totalAssets": 4,
   "assets": {
     "business-presentation-structure.webp": {
-      "key": "course/bitm/second-semester/business-communication/u4-oral-and-interpersonal-communication/business-presentation-structure.9bb3d23b.webp",
-      "url": "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u4-oral-and-interpersonal-communication/business-presentation-structure.9bb3d23b.webp",
+      "key": "course/bitm/second-semester/business-communication/u4-oral-and-interpersonal-communication/business-presentation-structure.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u4-oral-and-interpersonal-communication/business-presentation-structure.webp",
       "contentType": "image/webp",
       "width": 2048,
       "height": 768,
-      "bytes": 627156
+      "bytes": 88832,
+      "contentHashed": false
     },
     "interview-response-using-star.webp": {
-      "key": "course/bitm/second-semester/business-communication/u4-oral-and-interpersonal-communication/interview-response-using-star.eaad9ec1.webp",
-      "url": "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u4-oral-and-interpersonal-communication/interview-response-using-star.eaad9ec1.webp",
+      "key": "course/bitm/second-semester/business-communication/u4-oral-and-interpersonal-communication/interview-response-using-star.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u4-oral-and-interpersonal-communication/interview-response-using-star.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 786170
+      "bytes": 108738,
+      "contentHashed": false
     },
     "meeting-agenda-and-minutes-format.webp": {
-      "key": "course/bitm/second-semester/business-communication/u4-oral-and-interpersonal-communication/meeting-agenda-and-minutes-format.fc87792c.webp",
-      "url": "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u4-oral-and-interpersonal-communication/meeting-agenda-and-minutes-format.fc87792c.webp",
+      "key": "course/bitm/second-semester/business-communication/u4-oral-and-interpersonal-communication/meeting-agenda-and-minutes-format.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u4-oral-and-interpersonal-communication/meeting-agenda-and-minutes-format.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 572044
+      "bytes": 81254,
+      "contentHashed": false
     },
     "persuasion-cues-in-speaking.webp": {
-      "key": "course/bitm/second-semester/business-communication/u4-oral-and-interpersonal-communication/persuasion-cues-in-speaking.c4245571.webp",
-      "url": "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u4-oral-and-interpersonal-communication/persuasion-cues-in-speaking.c4245571.webp",
+      "key": "course/bitm/second-semester/business-communication/u4-oral-and-interpersonal-communication/persuasion-cues-in-speaking.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u4-oral-and-interpersonal-communication/persuasion-cues-in-speaking.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 509304
+      "bytes": 132298,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u4-oral-and-interpersonal-communication/business-presentation-structure.9bb3d23b.webp",
-    "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u4-oral-and-interpersonal-communication/interview-response-using-star.eaad9ec1.webp",
-    "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u4-oral-and-interpersonal-communication/meeting-agenda-and-minutes-format.fc87792c.webp",
-    "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u4-oral-and-interpersonal-communication/persuasion-cues-in-speaking.c4245571.webp"
+    "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u4-oral-and-interpersonal-communication/business-presentation-structure.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u4-oral-and-interpersonal-communication/interview-response-using-star.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u4-oral-and-interpersonal-communication/meeting-agenda-and-minutes-format.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u4-oral-and-interpersonal-communication/persuasion-cues-in-speaking.webp"
   ]
 }

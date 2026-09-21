@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.384Z",
+  "generatedAt": "2026-09-21T09:23:02.419Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/second-year/abnormal-psychology/u10-treatment-approaches",
   "totalAssets": 4,
   "assets": {
     "behavioral-treatment-process.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u10-treatment-approaches/behavioral-treatment-process.ab7af36e.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u10-treatment-approaches/behavioral-treatment-process.ab7af36e.webp",
+      "key": "course/bsw/second-year/abnormal-psychology/u10-treatment-approaches/behavioral-treatment-process.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u10-treatment-approaches/behavioral-treatment-process.webp",
       "contentType": "image/webp",
       "width": 1942,
       "height": 809,
-      "bytes": 669272
+      "bytes": 89808,
+      "contentHashed": false
     },
     "cognitive-behavioral-model.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u10-treatment-approaches/cognitive-behavioral-model.ce2936bd.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u10-treatment-approaches/cognitive-behavioral-model.ce2936bd.webp",
+      "key": "course/bsw/second-year/abnormal-psychology/u10-treatment-approaches/cognitive-behavioral-model.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u10-treatment-approaches/cognitive-behavioral-model.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 566718
+      "bytes": 57976,
+      "contentHashed": false
     },
     "cognitive-therapy-process.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u10-treatment-approaches/cognitive-therapy-process.b2d00d6d.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u10-treatment-approaches/cognitive-therapy-process.b2d00d6d.webp",
+      "key": "course/bsw/second-year/abnormal-psychology/u10-treatment-approaches/cognitive-therapy-process.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u10-treatment-approaches/cognitive-therapy-process.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 764062
+      "bytes": 129278,
+      "contentHashed": false
     },
     "treatment-approach-map.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u10-treatment-approaches/treatment-approach-map.673c01af.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u10-treatment-approaches/treatment-approach-map.673c01af.webp",
+      "key": "course/bsw/second-year/abnormal-psychology/u10-treatment-approaches/treatment-approach-map.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u10-treatment-approaches/treatment-approach-map.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 859870
+      "bytes": 148020,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u10-treatment-approaches/behavioral-treatment-process.ab7af36e.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u10-treatment-approaches/cognitive-behavioral-model.ce2936bd.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u10-treatment-approaches/cognitive-therapy-process.b2d00d6d.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u10-treatment-approaches/treatment-approach-map.673c01af.webp"
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u10-treatment-approaches/behavioral-treatment-process.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u10-treatment-approaches/cognitive-behavioral-model.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u10-treatment-approaches/cognitive-therapy-process.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u10-treatment-approaches/treatment-approach-map.webp"
   ]
 }

@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:01.811Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/fourth-semester/operating-system/u5-file-management",
+  "totalAssets": 4,
+  "assets": {
+    "directory-hierarchy-and-path-resolution.webp": {
+      "key": "course/bca/fourth-semester/operating-system/u5-file-management/directory-hierarchy-and-path-resolution.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/operating-system/u5-file-management/directory-hierarchy-and-path-resolution.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 106754,
+      "contentHashed": false
+    },
+    "file-allocation-methods.webp": {
+      "key": "course/bca/fourth-semester/operating-system/u5-file-management/file-allocation-methods.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/operating-system/u5-file-management/file-allocation-methods.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 180832,
+      "contentHashed": false
+    },
+    "file-system-layout-on-disk.webp": {
+      "key": "course/bca/fourth-semester/operating-system/u5-file-management/file-system-layout-on-disk.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/operating-system/u5-file-management/file-system-layout-on-disk.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 151408,
+      "contentHashed": false
+    },
+    "free-space-management.webp": {
+      "key": "course/bca/fourth-semester/operating-system/u5-file-management/free-space-management.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/operating-system/u5-file-management/free-space-management.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 129394,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/fourth-semester/operating-system/u5-file-management/directory-hierarchy-and-path-resolution.webp",
+    "https://cdn.tupapers.com/course/bca/fourth-semester/operating-system/u5-file-management/file-allocation-methods.webp",
+    "https://cdn.tupapers.com/course/bca/fourth-semester/operating-system/u5-file-management/file-system-layout-on-disk.webp",
+    "https://cdn.tupapers.com/course/bca/fourth-semester/operating-system/u5-file-management/free-space-management.webp"
+  ]
+}

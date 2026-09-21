@@ -1,56 +1,61 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.342Z",
+  "generatedAt": "2026-09-21T09:23:01.203Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bba/fourth-semester/sociology-for-business-mgt/intro-to-sociology",
   "totalAssets": 5,
   "assets": {
     "business-application-of-anthropology.webp": {
-      "key": "course/bba/fourth-semester/sociology-for-business-mgt/intro-to-sociology/business-application-of-anthropology.6a725986.webp",
-      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-business-mgt/intro-to-sociology/business-application-of-anthropology.6a725986.webp",
+      "key": "course/bba/fourth-semester/sociology-for-business-mgt/intro-to-sociology/business-application-of-anthropology.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-business-mgt/intro-to-sociology/business-application-of-anthropology.webp",
       "contentType": "image/webp",
       "width": 1024,
       "height": 1536,
-      "bytes": 914212
+      "bytes": 157668,
+      "contentHashed": false
     },
     "development-of-sociology-in-nepal.webp": {
-      "key": "course/bba/fourth-semester/sociology-for-business-mgt/intro-to-sociology/development-of-sociology-in-nepal.a27e09ea.webp",
-      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-business-mgt/intro-to-sociology/development-of-sociology-in-nepal.a27e09ea.webp",
+      "key": "course/bba/fourth-semester/sociology-for-business-mgt/intro-to-sociology/development-of-sociology-in-nepal.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-business-mgt/intro-to-sociology/development-of-sociology-in-nepal.webp",
       "contentType": "image/webp",
       "width": 1024,
       "height": 1536,
-      "bytes": 882522
+      "bytes": 204400,
+      "contentHashed": false
     },
     "social-management-studies-relation.webp": {
-      "key": "course/bba/fourth-semester/sociology-for-business-mgt/intro-to-sociology/social-management-studies-relation.953cc354.webp",
-      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-business-mgt/intro-to-sociology/social-management-studies-relation.953cc354.webp",
+      "key": "course/bba/fourth-semester/sociology-for-business-mgt/intro-to-sociology/social-management-studies-relation.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-business-mgt/intro-to-sociology/social-management-studies-relation.webp",
       "contentType": "image/webp",
       "width": 1492,
       "height": 1054,
-      "bytes": 1340692
+      "bytes": 162686,
+      "contentHashed": false
     },
     "sociology-timeline.webp": {
-      "key": "course/bba/fourth-semester/sociology-for-business-mgt/intro-to-sociology/sociology-timeline.dbd1ff96.webp",
-      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-business-mgt/intro-to-sociology/sociology-timeline.dbd1ff96.webp",
+      "key": "course/bba/fourth-semester/sociology-for-business-mgt/intro-to-sociology/sociology-timeline.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-business-mgt/intro-to-sociology/sociology-timeline.webp",
       "contentType": "image/webp",
       "width": 1692,
       "height": 930,
-      "bytes": 1320952
+      "bytes": 158366,
+      "contentHashed": false
     },
     "three-perspective-comparision-chart.webp": {
-      "key": "course/bba/fourth-semester/sociology-for-business-mgt/intro-to-sociology/three-perspective-comparision-chart.657d1069.webp",
-      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-business-mgt/intro-to-sociology/three-perspective-comparision-chart.657d1069.webp",
+      "key": "course/bba/fourth-semester/sociology-for-business-mgt/intro-to-sociology/three-perspective-comparision-chart.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-business-mgt/intro-to-sociology/three-perspective-comparision-chart.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 793702
+      "bytes": 196270,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-business-mgt/intro-to-sociology/business-application-of-anthropology.6a725986.webp",
-    "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-business-mgt/intro-to-sociology/development-of-sociology-in-nepal.a27e09ea.webp",
-    "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-business-mgt/intro-to-sociology/social-management-studies-relation.953cc354.webp",
-    "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-business-mgt/intro-to-sociology/sociology-timeline.dbd1ff96.webp",
-    "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-business-mgt/intro-to-sociology/three-perspective-comparision-chart.657d1069.webp"
+    "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-business-mgt/intro-to-sociology/business-application-of-anthropology.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-business-mgt/intro-to-sociology/development-of-sociology-in-nepal.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-business-mgt/intro-to-sociology/social-management-studies-relation.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-business-mgt/intro-to-sociology/sociology-timeline.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-business-mgt/intro-to-sociology/three-perspective-comparision-chart.webp"
   ]
 }

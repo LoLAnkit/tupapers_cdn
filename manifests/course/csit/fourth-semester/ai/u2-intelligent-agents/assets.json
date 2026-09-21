@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:02.599Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/csit/fourth-semester/ai/u2-intelligent-agents",
+  "totalAssets": 3,
+  "assets": {
+    "agent-environment-interaction-loop.webp": {
+      "key": "course/csit/fourth-semester/ai/u2-intelligent-agents/agent-environment-interaction-loop.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/ai/u2-intelligent-agents/agent-environment-interaction-loop.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 185530,
+      "contentHashed": false
+    },
+    "environment-property-spectrum.webp": {
+      "key": "course/csit/fourth-semester/ai/u2-intelligent-agents/environment-property-spectrum.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/ai/u2-intelligent-agents/environment-property-spectrum.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 130698,
+      "contentHashed": false
+    },
+    "peas-framework-example.webp": {
+      "key": "course/csit/fourth-semester/ai/u2-intelligent-agents/peas-framework-example.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/ai/u2-intelligent-agents/peas-framework-example.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 200280,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/csit/fourth-semester/ai/u2-intelligent-agents/agent-environment-interaction-loop.webp",
+    "https://cdn.tupapers.com/course/csit/fourth-semester/ai/u2-intelligent-agents/environment-property-spectrum.webp",
+    "https://cdn.tupapers.com/course/csit/fourth-semester/ai/u2-intelligent-agents/peas-framework-example.webp"
+  ]
+}

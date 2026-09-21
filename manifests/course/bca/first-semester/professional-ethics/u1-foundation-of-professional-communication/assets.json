@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:01.614Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication",
+  "totalAssets": 6,
+  "assets": {
+    "barriers-to-effective-communication.webp": {
+      "key": "course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/barriers-to-effective-communication.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/barriers-to-effective-communication.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 111102,
+      "contentHashed": false
+    },
+    "communication-process.webp": {
+      "key": "course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/communication-process.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/communication-process.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 71522,
+      "contentHashed": false
+    },
+    "language-fundamentals-map.webp": {
+      "key": "course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/language-fundamentals-map.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/language-fundamentals-map.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 138180,
+      "contentHashed": false
+    },
+    "nonverbal-communication-cues.webp": {
+      "key": "course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/nonverbal-communication-cues.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/nonverbal-communication-cues.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 152902,
+      "contentHashed": false
+    },
+    "professional-communication-principles-in-action.webp": {
+      "key": "course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/professional-communication-principles-in-action.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/professional-communication-principles-in-action.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 409914,
+      "contentHashed": false
+    },
+    "tense-timeline.webp": {
+      "key": "course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/tense-timeline.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/tense-timeline.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 115990,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/barriers-to-effective-communication.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/communication-process.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/language-fundamentals-map.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/nonverbal-communication-cues.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/professional-communication-principles-in-action.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/tense-timeline.webp"
+  ]
+}

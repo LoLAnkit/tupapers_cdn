@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.724Z",
+  "generatedAt": "2026-09-21T09:23:02.725Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/csit/third-semester/computer-architecture/u5-central-processing-unit",
   "totalAssets": 4,
   "assets": {
     "addressing-modes.webp": {
-      "key": "course/csit/third-semester/computer-architecture/u5-central-processing-unit/addressing-modes.f35dd66e.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u5-central-processing-unit/addressing-modes.f35dd66e.webp",
+      "key": "course/csit/third-semester/computer-architecture/u5-central-processing-unit/addressing-modes.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u5-central-processing-unit/addressing-modes.webp",
       "contentType": "image/webp",
       "width": 2056,
       "height": 765,
-      "bytes": 464284
+      "bytes": 108144,
+      "contentHashed": false
     },
     "cpu-organization.webp": {
-      "key": "course/csit/third-semester/computer-architecture/u5-central-processing-unit/cpu-organization.ce646907.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u5-central-processing-unit/cpu-organization.ce646907.webp",
+      "key": "course/csit/third-semester/computer-architecture/u5-central-processing-unit/cpu-organization.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u5-central-processing-unit/cpu-organization.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 679756
+      "bytes": 98030,
+      "contentHashed": false
     },
     "instruction-formats-zero-one-two-three-address.webp": {
-      "key": "course/csit/third-semester/computer-architecture/u5-central-processing-unit/instruction-formats-zero-one-two-three-address.08b2cf46.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u5-central-processing-unit/instruction-formats-zero-one-two-three-address.08b2cf46.webp",
+      "key": "course/csit/third-semester/computer-architecture/u5-central-processing-unit/instruction-formats-zero-one-two-three-address.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u5-central-processing-unit/instruction-formats-zero-one-two-three-address.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 375014
+      "bytes": 67290,
+      "contentHashed": false
     },
     "risc-and-cisc-execution-paths.webp": {
-      "key": "course/csit/third-semester/computer-architecture/u5-central-processing-unit/risc-and-cisc-execution-paths.750bdf16.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u5-central-processing-unit/risc-and-cisc-execution-paths.750bdf16.webp",
+      "key": "course/csit/third-semester/computer-architecture/u5-central-processing-unit/risc-and-cisc-execution-paths.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u5-central-processing-unit/risc-and-cisc-execution-paths.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 488368
+      "bytes": 103346,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u5-central-processing-unit/addressing-modes.f35dd66e.webp",
-    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u5-central-processing-unit/cpu-organization.ce646907.webp",
-    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u5-central-processing-unit/instruction-formats-zero-one-two-three-address.08b2cf46.webp",
-    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u5-central-processing-unit/risc-and-cisc-execution-paths.750bdf16.webp"
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u5-central-processing-unit/addressing-modes.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u5-central-processing-unit/cpu-organization.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u5-central-processing-unit/instruction-formats-zero-one-two-three-address.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u5-central-processing-unit/risc-and-cisc-execution-paths.webp"
   ]
 }

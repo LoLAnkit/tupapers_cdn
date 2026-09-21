@@ -1,38 +1,41 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.328Z",
+  "generatedAt": "2026-09-21T09:23:01.192Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bba/fourth-semester/marketing/promotion-decisions",
   "totalAssets": 3,
   "assets": {
     "marketing-communication-process.webp": {
-      "key": "course/bba/fourth-semester/marketing/promotion-decisions/marketing-communication-process.4b1180f6.webp",
-      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/promotion-decisions/marketing-communication-process.4b1180f6.webp",
+      "key": "course/bba/fourth-semester/marketing/promotion-decisions/marketing-communication-process.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/promotion-decisions/marketing-communication-process.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 478222
+      "bytes": 101022,
+      "contentHashed": false
     },
     "personal-selling-process.webp": {
-      "key": "course/bba/fourth-semester/marketing/promotion-decisions/personal-selling-process.c1104f8e.webp",
-      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/promotion-decisions/personal-selling-process.c1104f8e.webp",
+      "key": "course/bba/fourth-semester/marketing/promotion-decisions/personal-selling-process.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/promotion-decisions/personal-selling-process.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 370074
+      "bytes": 74838,
+      "contentHashed": false
     },
     "promotion-mix-puzzle-infographic.webp": {
-      "key": "course/bba/fourth-semester/marketing/promotion-decisions/promotion-mix-puzzle-infographic.00b1aa5a.webp",
-      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/promotion-decisions/promotion-mix-puzzle-infographic.00b1aa5a.webp",
+      "key": "course/bba/fourth-semester/marketing/promotion-decisions/promotion-mix-puzzle-infographic.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/promotion-decisions/promotion-mix-puzzle-infographic.webp",
       "contentType": "image/webp",
       "width": 1254,
       "height": 1254,
-      "bytes": 517788
+      "bytes": 107294,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/promotion-decisions/marketing-communication-process.4b1180f6.webp",
-    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/promotion-decisions/personal-selling-process.c1104f8e.webp",
-    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/promotion-decisions/promotion-mix-puzzle-infographic.00b1aa5a.webp"
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/promotion-decisions/marketing-communication-process.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/promotion-decisions/personal-selling-process.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/promotion-decisions/promotion-mix-puzzle-infographic.webp"
   ]
 }

@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.579Z",
+  "generatedAt": "2026-09-21T09:23:01.553Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/fifth-semester/computernetworking/notes/unit-5",
   "totalAssets": 4,
   "assets": {
     "tcp-congestion-phase-diagram.webp": {
-      "key": "course/bca/fifth-semester/computernetworking/notes/unit-5/tcp-congestion-phase-diagram.0dbbb3e2.webp",
-      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-5/tcp-congestion-phase-diagram.0dbbb3e2.webp",
+      "key": "course/bca/fifth-semester/computernetworking/notes/unit-5/tcp-congestion-phase-diagram.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-5/tcp-congestion-phase-diagram.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 759308
+      "bytes": 121122,
+      "contentHashed": false
     },
     "tcp-segment-header-format-diagram.webp": {
-      "key": "course/bca/fifth-semester/computernetworking/notes/unit-5/tcp-segment-header-format-diagram.4eff7ac5.webp",
-      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-5/tcp-segment-header-format-diagram.4eff7ac5.webp",
+      "key": "course/bca/fifth-semester/computernetworking/notes/unit-5/tcp-segment-header-format-diagram.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-5/tcp-segment-header-format-diagram.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 674942
+      "bytes": 99792,
+      "contentHashed": false
     },
     "tcp-three-way-handshake-diagram.webp": {
-      "key": "course/bca/fifth-semester/computernetworking/notes/unit-5/tcp-three-way-handshake-diagram.a1d08f88.webp",
-      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-5/tcp-three-way-handshake-diagram.a1d08f88.webp",
+      "key": "course/bca/fifth-semester/computernetworking/notes/unit-5/tcp-three-way-handshake-diagram.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-5/tcp-three-way-handshake-diagram.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 697292
+      "bytes": 107284,
+      "contentHashed": false
     },
     "tcp-vs-udpfeature-comparison-chart.webp": {
-      "key": "course/bca/fifth-semester/computernetworking/notes/unit-5/tcp-vs-udpfeature-comparison-chart.4d282b67.webp",
-      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-5/tcp-vs-udpfeature-comparison-chart.4d282b67.webp",
+      "key": "course/bca/fifth-semester/computernetworking/notes/unit-5/tcp-vs-udpfeature-comparison-chart.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-5/tcp-vs-udpfeature-comparison-chart.webp",
       "contentType": "image/webp",
       "width": 1341,
       "height": 1173,
-      "bytes": 923042
+      "bytes": 179938,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-5/tcp-congestion-phase-diagram.0dbbb3e2.webp",
-    "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-5/tcp-segment-header-format-diagram.4eff7ac5.webp",
-    "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-5/tcp-three-way-handshake-diagram.a1d08f88.webp",
-    "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-5/tcp-vs-udpfeature-comparison-chart.4d282b67.webp"
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-5/tcp-congestion-phase-diagram.webp",
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-5/tcp-segment-header-format-diagram.webp",
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-5/tcp-three-way-handshake-diagram.webp",
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-5/tcp-vs-udpfeature-comparison-chart.webp"
   ]
 }

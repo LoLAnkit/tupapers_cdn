@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.484Z",
+  "generatedAt": "2026-09-21T09:23:01.331Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bba/sixth-semester/entrepreneurship/introduction",
   "totalAssets": 4,
   "assets": {
     "eco-efficiency-and-ecopreneurship-model.webp": {
-      "key": "course/bba/sixth-semester/entrepreneurship/introduction/eco-efficiency-and-ecopreneurship-model.535a93ed.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/introduction/eco-efficiency-and-ecopreneurship-model.535a93ed.webp",
+      "key": "course/bba/sixth-semester/entrepreneurship/introduction/eco-efficiency-and-ecopreneurship-model.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/introduction/eco-efficiency-and-ecopreneurship-model.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 630840
+      "bytes": 105464,
+      "contentHashed": false
     },
     "entrepreneurial-mindset.webp": {
-      "key": "course/bba/sixth-semester/entrepreneurship/introduction/entrepreneurial-mindset.dd815c16.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/introduction/entrepreneurial-mindset.dd815c16.webp",
+      "key": "course/bba/sixth-semester/entrepreneurship/introduction/entrepreneurial-mindset.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/introduction/entrepreneurial-mindset.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 665038
+      "bytes": 111634,
+      "contentHashed": false
     },
     "entrepreneurial-process-flow.webp": {
-      "key": "course/bba/sixth-semester/entrepreneurship/introduction/entrepreneurial-process-flow.98d694f7.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/introduction/entrepreneurial-process-flow.98d694f7.webp",
+      "key": "course/bba/sixth-semester/entrepreneurship/introduction/entrepreneurial-process-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/introduction/entrepreneurial-process-flow.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 648264
+      "bytes": 107456,
+      "contentHashed": false
     },
     "types-of-entrepreneur.webp": {
-      "key": "course/bba/sixth-semester/entrepreneurship/introduction/types-of-entrepreneur.0c4c3793.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/introduction/types-of-entrepreneur.0c4c3793.webp",
+      "key": "course/bba/sixth-semester/entrepreneurship/introduction/types-of-entrepreneur.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/introduction/types-of-entrepreneur.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 481046
+      "bytes": 88120,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/introduction/eco-efficiency-and-ecopreneurship-model.535a93ed.webp",
-    "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/introduction/entrepreneurial-mindset.dd815c16.webp",
-    "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/introduction/entrepreneurial-process-flow.98d694f7.webp",
-    "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/introduction/types-of-entrepreneur.0c4c3793.webp"
+    "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/introduction/eco-efficiency-and-ecopreneurship-model.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/introduction/entrepreneurial-mindset.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/introduction/entrepreneurial-process-flow.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/introduction/types-of-entrepreneur.webp"
   ]
 }

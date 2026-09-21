@@ -1,38 +1,41 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.784Z",
+  "generatedAt": "2026-09-21T09:23:01.963Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/seventh-semester/e-governance/u1-introduction",
   "totalAssets": 3,
   "assets": {
     "digital-divide-and-digital-inclusion-map.webp": {
-      "key": "course/bca/seventh-semester/e-governance/u1-introduction/digital-divide-and-digital-inclusion-map.6b167291.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u1-introduction/digital-divide-and-digital-inclusion-map.6b167291.webp",
+      "key": "course/bca/seventh-semester/e-governance/u1-introduction/digital-divide-and-digital-inclusion-map.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u1-introduction/digital-divide-and-digital-inclusion-map.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 385708
+      "bytes": 74942,
+      "contentHashed": false
     },
     "electronic-service-delivery-flow.webp": {
-      "key": "course/bca/seventh-semester/e-governance/u1-introduction/electronic-service-delivery-flow.14d060c9.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u1-introduction/electronic-service-delivery-flow.14d060c9.webp",
+      "key": "course/bca/seventh-semester/e-governance/u1-introduction/electronic-service-delivery-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u1-introduction/electronic-service-delivery-flow.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 462506
+      "bytes": 61186,
+      "contentHashed": false
     },
     "hello-sarkar-grievance-handling-flow.webp": {
-      "key": "course/bca/seventh-semester/e-governance/u1-introduction/hello-sarkar-grievance-handling-flow.c548d93a.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u1-introduction/hello-sarkar-grievance-handling-flow.c548d93a.webp",
+      "key": "course/bca/seventh-semester/e-governance/u1-introduction/hello-sarkar-grievance-handling-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u1-introduction/hello-sarkar-grievance-handling-flow.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 411318
+      "bytes": 55178,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u1-introduction/digital-divide-and-digital-inclusion-map.6b167291.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u1-introduction/electronic-service-delivery-flow.14d060c9.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u1-introduction/hello-sarkar-grievance-handling-flow.c548d93a.webp"
+    "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u1-introduction/digital-divide-and-digital-inclusion-map.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u1-introduction/electronic-service-delivery-flow.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u1-introduction/hello-sarkar-grievance-handling-flow.webp"
   ]
 }

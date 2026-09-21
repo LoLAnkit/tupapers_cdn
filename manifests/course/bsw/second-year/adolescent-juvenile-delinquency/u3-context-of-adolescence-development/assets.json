@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.450Z",
+  "generatedAt": "2026-09-21T09:23:02.457Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/second-year/adolescent-juvenile-delinquency/u3-context-of-adolescence-development",
   "totalAssets": 4,
   "assets": {
     "adolescent-development-context.webp": {
-      "key": "course/bsw/second-year/adolescent-juvenile-delinquency/u3-context-of-adolescence-development/adolescent-development-context.ff7be5d6.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u3-context-of-adolescence-development/adolescent-development-context.ff7be5d6.webp",
+      "key": "course/bsw/second-year/adolescent-juvenile-delinquency/u3-context-of-adolescence-development/adolescent-development-context.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u3-context-of-adolescence-development/adolescent-development-context.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 748476
+      "bytes": 139958,
+      "contentHashed": false
     },
     "gender-development-model.webp": {
-      "key": "course/bsw/second-year/adolescent-juvenile-delinquency/u3-context-of-adolescence-development/gender-development-model.196e1a23.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u3-context-of-adolescence-development/gender-development-model.196e1a23.webp",
+      "key": "course/bsw/second-year/adolescent-juvenile-delinquency/u3-context-of-adolescence-development/gender-development-model.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u3-context-of-adolescence-development/gender-development-model.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 944724
+      "bytes": 131252,
+      "contentHashed": false
     },
     "self-and-identity-development.webp": {
-      "key": "course/bsw/second-year/adolescent-juvenile-delinquency/u3-context-of-adolescence-development/self-and-identity-development.2b608762.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u3-context-of-adolescence-development/self-and-identity-development.2b608762.webp",
+      "key": "course/bsw/second-year/adolescent-juvenile-delinquency/u3-context-of-adolescence-development/self-and-identity-development.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u3-context-of-adolescence-development/self-and-identity-development.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 776152
+      "bytes": 86480,
+      "contentHashed": false
     },
     "sexuality-and-sex-education-pathway.webp": {
-      "key": "course/bsw/second-year/adolescent-juvenile-delinquency/u3-context-of-adolescence-development/sexuality-and-sex-education-pathway.e97ceb1f.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u3-context-of-adolescence-development/sexuality-and-sex-education-pathway.e97ceb1f.webp",
+      "key": "course/bsw/second-year/adolescent-juvenile-delinquency/u3-context-of-adolescence-development/sexuality-and-sex-education-pathway.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u3-context-of-adolescence-development/sexuality-and-sex-education-pathway.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 910034
+      "bytes": 145296,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u3-context-of-adolescence-development/adolescent-development-context.ff7be5d6.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u3-context-of-adolescence-development/gender-development-model.196e1a23.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u3-context-of-adolescence-development/self-and-identity-development.2b608762.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u3-context-of-adolescence-development/sexuality-and-sex-education-pathway.e97ceb1f.webp"
+    "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u3-context-of-adolescence-development/adolescent-development-context.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u3-context-of-adolescence-development/gender-development-model.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u3-context-of-adolescence-development/self-and-identity-development.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u3-context-of-adolescence-development/sexuality-and-sex-education-pathway.webp"
   ]
 }

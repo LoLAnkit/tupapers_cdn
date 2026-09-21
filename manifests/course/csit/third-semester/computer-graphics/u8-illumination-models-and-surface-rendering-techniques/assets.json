@@ -1,38 +1,41 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.799Z",
+  "generatedAt": "2026-09-21T09:23:02.765Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/csit/third-semester/computer-graphics/u8-illumination-models-and-surface-rendering-techniques",
   "totalAssets": 3,
   "assets": {
     "constant-gouraud-and-phong-shading.webp": {
-      "key": "course/csit/third-semester/computer-graphics/u8-illumination-models-and-surface-rendering-techniques/constant-gouraud-and-phong-shading.0b073188.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u8-illumination-models-and-surface-rendering-techniques/constant-gouraud-and-phong-shading.0b073188.webp",
+      "key": "course/csit/third-semester/computer-graphics/u8-illumination-models-and-surface-rendering-techniques/constant-gouraud-and-phong-shading.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u8-illumination-models-and-surface-rendering-techniques/constant-gouraud-and-phong-shading.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 757130
+      "bytes": 113096,
+      "contentHashed": false
     },
     "intensity-attenuation-with-distance.webp": {
-      "key": "course/csit/third-semester/computer-graphics/u8-illumination-models-and-surface-rendering-techniques/intensity-attenuation-with-distance.909b7ec7.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u8-illumination-models-and-surface-rendering-techniques/intensity-attenuation-with-distance.909b7ec7.webp",
+      "key": "course/csit/third-semester/computer-graphics/u8-illumination-models-and-surface-rendering-techniques/intensity-attenuation-with-distance.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u8-illumination-models-and-surface-rendering-techniques/intensity-attenuation-with-distance.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 399534
+      "bytes": 59886,
+      "contentHashed": false
     },
     "phong-illumination-components.webp": {
-      "key": "course/csit/third-semester/computer-graphics/u8-illumination-models-and-surface-rendering-techniques/phong-illumination-components.ed47493f.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u8-illumination-models-and-surface-rendering-techniques/phong-illumination-components.ed47493f.webp",
+      "key": "course/csit/third-semester/computer-graphics/u8-illumination-models-and-surface-rendering-techniques/phong-illumination-components.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u8-illumination-models-and-surface-rendering-techniques/phong-illumination-components.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 661338
+      "bytes": 84188,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u8-illumination-models-and-surface-rendering-techniques/constant-gouraud-and-phong-shading.0b073188.webp",
-    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u8-illumination-models-and-surface-rendering-techniques/intensity-attenuation-with-distance.909b7ec7.webp",
-    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u8-illumination-models-and-surface-rendering-techniques/phong-illumination-components.ed47493f.webp"
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u8-illumination-models-and-surface-rendering-techniques/constant-gouraud-and-phong-shading.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u8-illumination-models-and-surface-rendering-techniques/intensity-attenuation-with-distance.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u8-illumination-models-and-surface-rendering-techniques/phong-illumination-components.webp"
   ]
 }

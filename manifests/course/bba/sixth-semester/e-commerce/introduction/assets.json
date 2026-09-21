@@ -1,38 +1,41 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.453Z",
+  "generatedAt": "2026-09-21T09:23:01.308Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bba/sixth-semester/e-commerce/introduction",
   "totalAssets": 3,
   "assets": {
     "forces-driving-e-commerce-growth.webp": {
-      "key": "course/bba/sixth-semester/e-commerce/introduction/forces-driving-e-commerce-growth.79434279.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/introduction/forces-driving-e-commerce-growth.79434279.webp",
+      "key": "course/bba/sixth-semester/e-commerce/introduction/forces-driving-e-commerce-growth.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/introduction/forces-driving-e-commerce-growth.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 734800
+      "bytes": 114288,
+      "contentHashed": false
     },
     "types-of-e-commerce.webp": {
-      "key": "course/bba/sixth-semester/e-commerce/introduction/types-of-e-commerce.2e13614b.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/introduction/types-of-e-commerce.2e13614b.webp",
+      "key": "course/bba/sixth-semester/e-commerce/introduction/types-of-e-commerce.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/introduction/types-of-e-commerce.webp",
       "contentType": "image/webp",
       "width": 1254,
       "height": 1254,
-      "bytes": 523284
+      "bytes": 91128,
+      "contentHashed": false
     },
     "unique-feature-of-ecommerce.webp": {
-      "key": "course/bba/sixth-semester/e-commerce/introduction/unique-feature-of-ecommerce.1d016c31.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/introduction/unique-feature-of-ecommerce.1d016c31.webp",
+      "key": "course/bba/sixth-semester/e-commerce/introduction/unique-feature-of-ecommerce.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/introduction/unique-feature-of-ecommerce.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 547396
+      "bytes": 147558,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/introduction/forces-driving-e-commerce-growth.79434279.webp",
-    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/introduction/types-of-e-commerce.2e13614b.webp",
-    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/introduction/unique-feature-of-ecommerce.1d016c31.webp"
+    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/introduction/forces-driving-e-commerce-growth.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/introduction/types-of-e-commerce.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/introduction/unique-feature-of-ecommerce.webp"
   ]
 }

@@ -1,65 +1,71 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.565Z",
+  "generatedAt": "2026-09-21T09:23:02.534Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/csit/first-semester/digital-logics/u7-registers-and-counters",
   "totalAssets": 6,
   "assets": {
     "3-bit-synchronous-up-counter-t-ff.webp": {
-      "key": "course/csit/first-semester/digital-logics/u7-registers-and-counters/3-bit-synchronous-up-counter-t-ff.44e289e7.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u7-registers-and-counters/3-bit-synchronous-up-counter-t-ff.44e289e7.webp",
+      "key": "course/csit/first-semester/digital-logics/u7-registers-and-counters/3-bit-synchronous-up-counter-t-ff.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u7-registers-and-counters/3-bit-synchronous-up-counter-t-ff.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 678870
+      "bytes": 77128,
+      "contentHashed": false
     },
     "all-four-shift-register-modes.webp": {
-      "key": "course/csit/first-semester/digital-logics/u7-registers-and-counters/all-four-shift-register-modes.97aa46c3.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u7-registers-and-counters/all-four-shift-register-modes.97aa46c3.webp",
+      "key": "course/csit/first-semester/digital-logics/u7-registers-and-counters/all-four-shift-register-modes.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u7-registers-and-counters/all-four-shift-register-modes.webp",
       "contentType": "image/webp",
       "width": 1254,
       "height": 1254,
-      "bytes": 816056
+      "bytes": 97550,
+      "contentHashed": false
     },
     "modulo-n-asynchronous-ripple-counter-timing.webp": {
-      "key": "course/csit/first-semester/digital-logics/u7-registers-and-counters/modulo-n-asynchronous-ripple-counter-timing.2fd976dc.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u7-registers-and-counters/modulo-n-asynchronous-ripple-counter-timing.2fd976dc.webp",
+      "key": "course/csit/first-semester/digital-logics/u7-registers-and-counters/modulo-n-asynchronous-ripple-counter-timing.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u7-registers-and-counters/modulo-n-asynchronous-ripple-counter-timing.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 480746
+      "bytes": 55670,
+      "contentHashed": false
     },
     "piso-shift-register.webp": {
-      "key": "course/csit/first-semester/digital-logics/u7-registers-and-counters/piso-shift-register.c5380f04.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u7-registers-and-counters/piso-shift-register.c5380f04.webp",
+      "key": "course/csit/first-semester/digital-logics/u7-registers-and-counters/piso-shift-register.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u7-registers-and-counters/piso-shift-register.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 489678
+      "bytes": 44720,
+      "contentHashed": false
     },
     "ripple-asynchronous-counter.webp": {
-      "key": "course/csit/first-semester/digital-logics/u7-registers-and-counters/ripple-asynchronous-counter.56019014.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u7-registers-and-counters/ripple-asynchronous-counter.56019014.webp",
+      "key": "course/csit/first-semester/digital-logics/u7-registers-and-counters/ripple-asynchronous-counter.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u7-registers-and-counters/ripple-asynchronous-counter.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 500558
+      "bytes": 49308,
+      "contentHashed": false
     },
     "synchronous-counter.webp": {
-      "key": "course/csit/first-semester/digital-logics/u7-registers-and-counters/synchronous-counter.cd2ca412.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u7-registers-and-counters/synchronous-counter.cd2ca412.webp",
+      "key": "course/csit/first-semester/digital-logics/u7-registers-and-counters/synchronous-counter.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u7-registers-and-counters/synchronous-counter.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 543706
+      "bytes": 49346,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u7-registers-and-counters/3-bit-synchronous-up-counter-t-ff.44e289e7.webp",
-    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u7-registers-and-counters/all-four-shift-register-modes.97aa46c3.webp",
-    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u7-registers-and-counters/modulo-n-asynchronous-ripple-counter-timing.2fd976dc.webp",
-    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u7-registers-and-counters/piso-shift-register.c5380f04.webp",
-    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u7-registers-and-counters/ripple-asynchronous-counter.56019014.webp",
-    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u7-registers-and-counters/synchronous-counter.cd2ca412.webp"
+    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u7-registers-and-counters/3-bit-synchronous-up-counter-t-ff.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u7-registers-and-counters/all-four-shift-register-modes.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u7-registers-and-counters/modulo-n-asynchronous-ripple-counter-timing.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u7-registers-and-counters/piso-shift-register.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u7-registers-and-counters/ripple-asynchronous-counter.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u7-registers-and-counters/synchronous-counter.webp"
   ]
 }

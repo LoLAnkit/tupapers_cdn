@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:02.181Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bhm/fourth-semester/front-office-management/u2-room-pricing-and-availability",
+  "totalAssets": 3,
+  "assets": {
+    "hubbart-formula-flow.webp": {
+      "key": "course/bhm/fourth-semester/front-office-management/u2-room-pricing-and-availability/hubbart-formula-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u2-room-pricing-and-availability/hubbart-formula-flow.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 104688,
+      "contentHashed": false
+    },
+    "room-availability-forecast-cycle.webp": {
+      "key": "course/bhm/fourth-semester/front-office-management/u2-room-pricing-and-availability/room-availability-forecast-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u2-room-pricing-and-availability/room-availability-forecast-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 86356,
+      "contentHashed": false
+    },
+    "room-rate-establishment-map.webp": {
+      "key": "course/bhm/fourth-semester/front-office-management/u2-room-pricing-and-availability/room-rate-establishment-map.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u2-room-pricing-and-availability/room-rate-establishment-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 78278,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u2-room-pricing-and-availability/hubbart-formula-flow.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u2-room-pricing-and-availability/room-availability-forecast-cycle.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u2-room-pricing-and-availability/room-rate-establishment-map.webp"
+  ]
+}

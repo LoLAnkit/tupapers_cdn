@@ -1,38 +1,41 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.570Z",
+  "generatedAt": "2026-09-21T09:23:02.538Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/csit/first-semester/intro-to-it/u1-introduction-to-computer",
   "totalAssets": 3,
   "assets": {
     "analog-vs-digital-computer.webp": {
-      "key": "course/csit/first-semester/intro-to-it/u1-introduction-to-computer/analog-vs-digital-computer.2447269d.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u1-introduction-to-computer/analog-vs-digital-computer.2447269d.webp",
+      "key": "course/csit/first-semester/intro-to-it/u1-introduction-to-computer/analog-vs-digital-computer.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u1-introduction-to-computer/analog-vs-digital-computer.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 433688
+      "bytes": 60410,
+      "contentHashed": false
     },
     "basic-computer-system.webp": {
-      "key": "course/csit/first-semester/intro-to-it/u1-introduction-to-computer/basic-computer-system.b25ff2da.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u1-introduction-to-computer/basic-computer-system.b25ff2da.webp",
+      "key": "course/csit/first-semester/intro-to-it/u1-introduction-to-computer/basic-computer-system.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u1-introduction-to-computer/basic-computer-system.webp",
       "contentType": "image/webp",
       "width": 1705,
       "height": 923,
-      "bytes": 440778
+      "bytes": 61640,
+      "contentHashed": false
     },
     "classification-of-computers-by-size.webp": {
-      "key": "course/csit/first-semester/intro-to-it/u1-introduction-to-computer/classification-of-computers-by-size.134b2bb5.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u1-introduction-to-computer/classification-of-computers-by-size.134b2bb5.webp",
+      "key": "course/csit/first-semester/intro-to-it/u1-introduction-to-computer/classification-of-computers-by-size.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u1-introduction-to-computer/classification-of-computers-by-size.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 638264
+      "bytes": 150866,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u1-introduction-to-computer/analog-vs-digital-computer.2447269d.webp",
-    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u1-introduction-to-computer/basic-computer-system.b25ff2da.webp",
-    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u1-introduction-to-computer/classification-of-computers-by-size.134b2bb5.webp"
+    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u1-introduction-to-computer/analog-vs-digital-computer.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u1-introduction-to-computer/basic-computer-system.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u1-introduction-to-computer/classification-of-computers-by-size.webp"
   ]
 }

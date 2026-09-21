@@ -1,65 +1,71 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.194Z",
+  "generatedAt": "2026-09-21T09:23:02.291Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bitm/second-semester/ob-hrm/u1-introduction-to-organizational-behavior",
   "totalAssets": 6,
   "assets": {
     "challenges-and-opportunities-of-organizational-behavior.webp": {
-      "key": "course/bitm/second-semester/ob-hrm/u1-introduction-to-organizational-behavior/challenges-and-opportunities-of-organizational-behavior.cae3d03c.webp",
-      "url": "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u1-introduction-to-organizational-behavior/challenges-and-opportunities-of-organizational-behavior.cae3d03c.webp",
+      "key": "course/bitm/second-semester/ob-hrm/u1-introduction-to-organizational-behavior/challenges-and-opportunities-of-organizational-behavior.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u1-introduction-to-organizational-behavior/challenges-and-opportunities-of-organizational-behavior.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 1196424
+      "bytes": 173836,
+      "contentHashed": false
     },
     "emerging-issues-in-organizational-behavior.webp": {
-      "key": "course/bitm/second-semester/ob-hrm/u1-introduction-to-organizational-behavior/emerging-issues-in-organizational-behavior.82b2c9f8.webp",
-      "url": "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u1-introduction-to-organizational-behavior/emerging-issues-in-organizational-behavior.82b2c9f8.webp",
+      "key": "course/bitm/second-semester/ob-hrm/u1-introduction-to-organizational-behavior/emerging-issues-in-organizational-behavior.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u1-introduction-to-organizational-behavior/emerging-issues-in-organizational-behavior.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 1099760
+      "bytes": 185788,
+      "contentHashed": false
     },
     "importance-of-organizational-behavior.webp": {
-      "key": "course/bitm/second-semester/ob-hrm/u1-introduction-to-organizational-behavior/importance-of-organizational-behavior.5e0433b2.webp",
-      "url": "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u1-introduction-to-organizational-behavior/importance-of-organizational-behavior.5e0433b2.webp",
+      "key": "course/bitm/second-semester/ob-hrm/u1-introduction-to-organizational-behavior/importance-of-organizational-behavior.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u1-introduction-to-organizational-behavior/importance-of-organizational-behavior.webp",
       "contentType": "image/webp",
       "width": 2172,
       "height": 724,
-      "bytes": 791060
+      "bytes": 124642,
+      "contentHashed": false
     },
     "models-of-organizational-behavior.webp": {
-      "key": "course/bitm/second-semester/ob-hrm/u1-introduction-to-organizational-behavior/models-of-organizational-behavior.891cfdbd.webp",
-      "url": "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u1-introduction-to-organizational-behavior/models-of-organizational-behavior.891cfdbd.webp",
+      "key": "course/bitm/second-semester/ob-hrm/u1-introduction-to-organizational-behavior/models-of-organizational-behavior.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u1-introduction-to-organizational-behavior/models-of-organizational-behavior.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 1043268
+      "bytes": 213546,
+      "contentHashed": false
     },
     "nature-of-organizational-behavior.webp": {
-      "key": "course/bitm/second-semester/ob-hrm/u1-introduction-to-organizational-behavior/nature-of-organizational-behavior.b417c789.webp",
-      "url": "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u1-introduction-to-organizational-behavior/nature-of-organizational-behavior.b417c789.webp",
+      "key": "course/bitm/second-semester/ob-hrm/u1-introduction-to-organizational-behavior/nature-of-organizational-behavior.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u1-introduction-to-organizational-behavior/nature-of-organizational-behavior.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 940460
+      "bytes": 133418,
+      "contentHashed": false
     },
     "organizational-behavior-concept-map.webp": {
-      "key": "course/bitm/second-semester/ob-hrm/u1-introduction-to-organizational-behavior/organizational-behavior-concept-map.b74f5c2d.webp",
-      "url": "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u1-introduction-to-organizational-behavior/organizational-behavior-concept-map.b74f5c2d.webp",
+      "key": "course/bitm/second-semester/ob-hrm/u1-introduction-to-organizational-behavior/organizational-behavior-concept-map.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u1-introduction-to-organizational-behavior/organizational-behavior-concept-map.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 853384
+      "bytes": 131272,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u1-introduction-to-organizational-behavior/challenges-and-opportunities-of-organizational-behavior.cae3d03c.webp",
-    "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u1-introduction-to-organizational-behavior/emerging-issues-in-organizational-behavior.82b2c9f8.webp",
-    "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u1-introduction-to-organizational-behavior/importance-of-organizational-behavior.5e0433b2.webp",
-    "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u1-introduction-to-organizational-behavior/models-of-organizational-behavior.891cfdbd.webp",
-    "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u1-introduction-to-organizational-behavior/nature-of-organizational-behavior.b417c789.webp",
-    "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u1-introduction-to-organizational-behavior/organizational-behavior-concept-map.b74f5c2d.webp"
+    "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u1-introduction-to-organizational-behavior/challenges-and-opportunities-of-organizational-behavior.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u1-introduction-to-organizational-behavior/emerging-issues-in-organizational-behavior.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u1-introduction-to-organizational-behavior/importance-of-organizational-behavior.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u1-introduction-to-organizational-behavior/models-of-organizational-behavior.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u1-introduction-to-organizational-behavior/nature-of-organizational-behavior.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u1-introduction-to-organizational-behavior/organizational-behavior-concept-map.webp"
   ]
 }

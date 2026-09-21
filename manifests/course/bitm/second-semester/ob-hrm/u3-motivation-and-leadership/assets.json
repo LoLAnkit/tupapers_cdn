@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.204Z",
+  "generatedAt": "2026-09-21T09:23:02.298Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bitm/second-semester/ob-hrm/u3-motivation-and-leadership",
   "totalAssets": 4,
   "assets": {
     "employee-participation-and-motivation.webp": {
-      "key": "course/bitm/second-semester/ob-hrm/u3-motivation-and-leadership/employee-participation-and-motivation.e4ea5538.webp",
-      "url": "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u3-motivation-and-leadership/employee-participation-and-motivation.e4ea5538.webp",
+      "key": "course/bitm/second-semester/ob-hrm/u3-motivation-and-leadership/employee-participation-and-motivation.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u3-motivation-and-leadership/employee-participation-and-motivation.webp",
       "contentType": "image/webp",
       "width": 1312,
       "height": 1199,
-      "bytes": 814942
+      "bytes": 114984,
+      "contentHashed": false
     },
     "intrinsic-and-extrinsic-motivation.webp": {
-      "key": "course/bitm/second-semester/ob-hrm/u3-motivation-and-leadership/intrinsic-and-extrinsic-motivation.87355271.webp",
-      "url": "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u3-motivation-and-leadership/intrinsic-and-extrinsic-motivation.87355271.webp",
+      "key": "course/bitm/second-semester/ob-hrm/u3-motivation-and-leadership/intrinsic-and-extrinsic-motivation.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u3-motivation-and-leadership/intrinsic-and-extrinsic-motivation.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 813788
+      "bytes": 125794,
+      "contentHashed": false
     },
     "major-motivation-theories.webp": {
-      "key": "course/bitm/second-semester/ob-hrm/u3-motivation-and-leadership/major-motivation-theories.5ca0442b.webp",
-      "url": "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u3-motivation-and-leadership/major-motivation-theories.5ca0442b.webp",
+      "key": "course/bitm/second-semester/ob-hrm/u3-motivation-and-leadership/major-motivation-theories.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u3-motivation-and-leadership/major-motivation-theories.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 996998
+      "bytes": 144346,
+      "contentHashed": false
     },
     "organizational-justice.webp": {
-      "key": "course/bitm/second-semester/ob-hrm/u3-motivation-and-leadership/organizational-justice.c95dfe92.webp",
-      "url": "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u3-motivation-and-leadership/organizational-justice.c95dfe92.webp",
+      "key": "course/bitm/second-semester/ob-hrm/u3-motivation-and-leadership/organizational-justice.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u3-motivation-and-leadership/organizational-justice.webp",
       "contentType": "image/webp",
       "width": 1312,
       "height": 1199,
-      "bytes": 866714
+      "bytes": 115334,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u3-motivation-and-leadership/employee-participation-and-motivation.e4ea5538.webp",
-    "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u3-motivation-and-leadership/intrinsic-and-extrinsic-motivation.87355271.webp",
-    "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u3-motivation-and-leadership/major-motivation-theories.5ca0442b.webp",
-    "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u3-motivation-and-leadership/organizational-justice.c95dfe92.webp"
+    "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u3-motivation-and-leadership/employee-participation-and-motivation.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u3-motivation-and-leadership/intrinsic-and-extrinsic-motivation.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u3-motivation-and-leadership/major-motivation-theories.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u3-motivation-and-leadership/organizational-justice.webp"
   ]
 }

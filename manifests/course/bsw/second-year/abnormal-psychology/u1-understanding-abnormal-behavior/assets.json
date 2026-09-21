@@ -1,38 +1,41 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.379Z",
+  "generatedAt": "2026-09-21T09:23:02.416Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior",
   "totalAssets": 3,
   "assets": {
     "assessment-of-abnormal-behavior.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/assessment-of-abnormal-behavior.d1a89597.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/assessment-of-abnormal-behavior.d1a89597.webp",
+      "key": "course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/assessment-of-abnormal-behavior.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/assessment-of-abnormal-behavior.webp",
       "contentType": "image/webp",
       "width": 1994,
       "height": 789,
-      "bytes": 668578
+      "bytes": 66790,
+      "contentHashed": false
     },
     "classification-systems-dsm-5-and-icd-10-cm.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/classification-systems-dsm-5-and-icd-10-cm.e7d6be2f.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/classification-systems-dsm-5-and-icd-10-cm.e7d6be2f.webp",
+      "key": "course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/classification-systems-dsm-5-and-icd-10-cm.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/classification-systems-dsm-5-and-icd-10-cm.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 600720
+      "bytes": 53412,
+      "contentHashed": false
     },
     "mental-status-examination-domains.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/mental-status-examination-domains.646b3f49.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/mental-status-examination-domains.646b3f49.webp",
+      "key": "course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/mental-status-examination-domains.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/mental-status-examination-domains.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 779560
+      "bytes": 105992,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/assessment-of-abnormal-behavior.d1a89597.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/classification-systems-dsm-5-and-icd-10-cm.e7d6be2f.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/mental-status-examination-domains.646b3f49.webp"
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/assessment-of-abnormal-behavior.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/classification-systems-dsm-5-and-icd-10-cm.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/mental-status-examination-domains.webp"
   ]
 }

@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.142Z",
+  "generatedAt": "2026-09-21T09:23:02.249Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bitm/second-semester/business-communication/u2-business-writing-in-the-digital-workplace",
   "totalAssets": 4,
   "assets": {
     "business-memo-format.webp": {
-      "key": "course/bitm/second-semester/business-communication/u2-business-writing-in-the-digital-workplace/business-memo-format.54199662.webp",
-      "url": "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u2-business-writing-in-the-digital-workplace/business-memo-format.54199662.webp",
+      "key": "course/bitm/second-semester/business-communication/u2-business-writing-in-the-digital-workplace/business-memo-format.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u2-business-writing-in-the-digital-workplace/business-memo-format.webp",
       "contentType": "image/webp",
       "width": 1024,
       "height": 1536,
-      "bytes": 656532
+      "bytes": 62584,
+      "contentHashed": false
     },
     "collaboration-platform-update-post.webp": {
-      "key": "course/bitm/second-semester/business-communication/u2-business-writing-in-the-digital-workplace/collaboration-platform-update-post.6a5fc538.webp",
-      "url": "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u2-business-writing-in-the-digital-workplace/collaboration-platform-update-post.6a5fc538.webp",
+      "key": "course/bitm/second-semester/business-communication/u2-business-writing-in-the-digital-workplace/collaboration-platform-update-post.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u2-business-writing-in-the-digital-workplace/collaboration-platform-update-post.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 778446
+      "bytes": 99378,
+      "contentHashed": false
     },
     "instant-business-message-example.webp": {
-      "key": "course/bitm/second-semester/business-communication/u2-business-writing-in-the-digital-workplace/instant-business-message-example.99bccff0.webp",
-      "url": "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u2-business-writing-in-the-digital-workplace/instant-business-message-example.99bccff0.webp",
+      "key": "course/bitm/second-semester/business-communication/u2-business-writing-in-the-digital-workplace/instant-business-message-example.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u2-business-writing-in-the-digital-workplace/instant-business-message-example.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 671466
+      "bytes": 70002,
+      "contentHashed": false
     },
     "professional-email-format.webp": {
-      "key": "course/bitm/second-semester/business-communication/u2-business-writing-in-the-digital-workplace/professional-email-format.6d4ef6c1.webp",
-      "url": "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u2-business-writing-in-the-digital-workplace/professional-email-format.6d4ef6c1.webp",
+      "key": "course/bitm/second-semester/business-communication/u2-business-writing-in-the-digital-workplace/professional-email-format.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u2-business-writing-in-the-digital-workplace/professional-email-format.webp",
       "contentType": "image/webp",
       "width": 1024,
       "height": 1536,
-      "bytes": 856646
+      "bytes": 134846,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u2-business-writing-in-the-digital-workplace/business-memo-format.54199662.webp",
-    "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u2-business-writing-in-the-digital-workplace/collaboration-platform-update-post.6a5fc538.webp",
-    "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u2-business-writing-in-the-digital-workplace/instant-business-message-example.99bccff0.webp",
-    "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u2-business-writing-in-the-digital-workplace/professional-email-format.6d4ef6c1.webp"
+    "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u2-business-writing-in-the-digital-workplace/business-memo-format.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u2-business-writing-in-the-digital-workplace/collaboration-platform-update-post.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u2-business-writing-in-the-digital-workplace/instant-business-message-example.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u2-business-writing-in-the-digital-workplace/professional-email-format.webp"
   ]
 }

@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.677Z",
+  "generatedAt": "2026-09-21T09:23:02.695Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/csit/second-semester/micro-processor/u3-instruction-cycle",
   "totalAssets": 4,
   "assets": {
     "instruction-cycle-flow.webp": {
-      "key": "course/csit/second-semester/micro-processor/u3-instruction-cycle/instruction-cycle-flow.1d0ee96e.webp",
-      "url": "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u3-instruction-cycle/instruction-cycle-flow.1d0ee96e.webp",
+      "key": "course/csit/second-semester/micro-processor/u3-instruction-cycle/instruction-cycle-flow.webp",
+      "url": "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u3-instruction-cycle/instruction-cycle-flow.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 686034
+      "bytes": 112350,
+      "contentHashed": false
     },
     "instruction-cycle-machine-cycle-t-state-relationship.webp": {
-      "key": "course/csit/second-semester/micro-processor/u3-instruction-cycle/instruction-cycle-machine-cycle-t-state-relationship.8f0d2483.webp",
-      "url": "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u3-instruction-cycle/instruction-cycle-machine-cycle-t-state-relationship.8f0d2483.webp",
+      "key": "course/csit/second-semester/micro-processor/u3-instruction-cycle/instruction-cycle-machine-cycle-t-state-relationship.webp",
+      "url": "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u3-instruction-cycle/instruction-cycle-machine-cycle-t-state-relationship.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 450870
+      "bytes": 104398,
+      "contentHashed": false
     },
     "machine-cycle-composition-common-8085-instructions.webp": {
-      "key": "course/csit/second-semester/micro-processor/u3-instruction-cycle/machine-cycle-composition-common-8085-instructions.0c2b78e5.webp",
-      "url": "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u3-instruction-cycle/machine-cycle-composition-common-8085-instructions.0c2b78e5.webp",
+      "key": "course/csit/second-semester/micro-processor/u3-instruction-cycle/machine-cycle-composition-common-8085-instructions.webp",
+      "url": "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u3-instruction-cycle/machine-cycle-composition-common-8085-instructions.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 800562
+      "bytes": 165462,
+      "contentHashed": false
     },
     "sta-instruction-timing-diagram.webp": {
-      "key": "course/csit/second-semester/micro-processor/u3-instruction-cycle/sta-instruction-timing-diagram.ed71962c.webp",
-      "url": "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u3-instruction-cycle/sta-instruction-timing-diagram.ed71962c.webp",
+      "key": "course/csit/second-semester/micro-processor/u3-instruction-cycle/sta-instruction-timing-diagram.webp",
+      "url": "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u3-instruction-cycle/sta-instruction-timing-diagram.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 442696
+      "bytes": 77392,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u3-instruction-cycle/instruction-cycle-flow.1d0ee96e.webp",
-    "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u3-instruction-cycle/instruction-cycle-machine-cycle-t-state-relationship.8f0d2483.webp",
-    "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u3-instruction-cycle/machine-cycle-composition-common-8085-instructions.0c2b78e5.webp",
-    "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u3-instruction-cycle/sta-instruction-timing-diagram.ed71962c.webp"
+    "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u3-instruction-cycle/instruction-cycle-flow.webp",
+    "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u3-instruction-cycle/instruction-cycle-machine-cycle-t-state-relationship.webp",
+    "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u3-instruction-cycle/machine-cycle-composition-common-8085-instructions.webp",
+    "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u3-instruction-cycle/sta-instruction-timing-diagram.webp"
   ]
 }

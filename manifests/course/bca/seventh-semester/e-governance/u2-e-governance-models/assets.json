@@ -1,56 +1,61 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.788Z",
+  "generatedAt": "2026-09-21T09:23:01.967Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/seventh-semester/e-governance/u2-e-governance-models",
   "totalAssets": 5,
   "assets": {
     "critical-flow-model.webp": {
-      "key": "course/bca/seventh-semester/e-governance/u2-e-governance-models/critical-flow-model.ee6a19e0.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u2-e-governance-models/critical-flow-model.ee6a19e0.webp",
+      "key": "course/bca/seventh-semester/e-governance/u2-e-governance-models/critical-flow-model.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u2-e-governance-models/critical-flow-model.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 331396
+      "bytes": 51902,
+      "contentHashed": false
     },
     "e-governance-models-toward-good-governance.webp": {
-      "key": "course/bca/seventh-semester/e-governance/u2-e-governance-models/e-governance-models-toward-good-governance.c17b0ea6.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u2-e-governance-models/e-governance-models-toward-good-governance.c17b0ea6.webp",
+      "key": "course/bca/seventh-semester/e-governance/u2-e-governance-models/e-governance-models-toward-good-governance.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u2-e-governance-models/e-governance-models-toward-good-governance.webp",
       "contentType": "image/webp",
       "width": 1254,
       "height": 1254,
-      "bytes": 533194
+      "bytes": 66996,
+      "contentHashed": false
     },
     "five-level-e-governance-maturity-model.webp": {
-      "key": "course/bca/seventh-semester/e-governance/u2-e-governance-models/five-level-e-governance-maturity-model.dfaddeba.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u2-e-governance-models/five-level-e-governance-maturity-model.dfaddeba.webp",
+      "key": "course/bca/seventh-semester/e-governance/u2-e-governance-models/five-level-e-governance-maturity-model.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u2-e-governance-models/five-level-e-governance-maturity-model.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 507866
+      "bytes": 107664,
+      "contentHashed": false
     },
     "interactive-service-model-g2c2g.webp": {
-      "key": "course/bca/seventh-semester/e-governance/u2-e-governance-models/interactive-service-model-g2c2g.0848b782.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u2-e-governance-models/interactive-service-model-g2c2g.0848b782.webp",
+      "key": "course/bca/seventh-semester/e-governance/u2-e-governance-models/interactive-service-model-g2c2g.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u2-e-governance-models/interactive-service-model-g2c2g.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 337756
+      "bytes": 54776,
+      "contentHashed": false
     },
     "mobilization-and-lobbying-model.webp": {
-      "key": "course/bca/seventh-semester/e-governance/u2-e-governance-models/mobilization-and-lobbying-model.aa82f6c7.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u2-e-governance-models/mobilization-and-lobbying-model.aa82f6c7.webp",
+      "key": "course/bca/seventh-semester/e-governance/u2-e-governance-models/mobilization-and-lobbying-model.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u2-e-governance-models/mobilization-and-lobbying-model.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 295892
+      "bytes": 55034,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u2-e-governance-models/critical-flow-model.ee6a19e0.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u2-e-governance-models/e-governance-models-toward-good-governance.c17b0ea6.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u2-e-governance-models/five-level-e-governance-maturity-model.dfaddeba.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u2-e-governance-models/interactive-service-model-g2c2g.0848b782.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u2-e-governance-models/mobilization-and-lobbying-model.aa82f6c7.webp"
+    "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u2-e-governance-models/critical-flow-model.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u2-e-governance-models/e-governance-models-toward-good-governance.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u2-e-governance-models/five-level-e-governance-maturity-model.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u2-e-governance-models/interactive-service-model-g2c2g.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u2-e-governance-models/mobilization-and-lobbying-model.webp"
   ]
 }

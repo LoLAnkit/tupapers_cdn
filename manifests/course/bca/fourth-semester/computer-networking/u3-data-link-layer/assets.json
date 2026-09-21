@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:01.749Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/fourth-semester/computer-networking/u3-data-link-layer",
+  "totalAssets": 4,
+  "assets": {
+    "crc-and-arq-error-control.webp": {
+      "key": "course/bca/fourth-semester/computer-networking/u3-data-link-layer/crc-and-arq-error-control.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/computer-networking/u3-data-link-layer/crc-and-arq-error-control.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 124146,
+      "contentHashed": false
+    },
+    "dll-sublayers-and-frame-flow.webp": {
+      "key": "course/bca/fourth-semester/computer-networking/u3-data-link-layer/dll-sublayers-and-frame-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/computer-networking/u3-data-link-layer/dll-sublayers-and-frame-flow.webp",
+      "contentType": "image/webp",
+      "width": 1227,
+      "height": 1282,
+      "bytes": 120312,
+      "contentHashed": false
+    },
+    "shared-medium-access.webp": {
+      "key": "course/bca/fourth-semester/computer-networking/u3-data-link-layer/shared-medium-access.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/computer-networking/u3-data-link-layer/shared-medium-access.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 105850,
+      "contentHashed": false
+    },
+    "virtual-circuit-and-atm-path.webp": {
+      "key": "course/bca/fourth-semester/computer-networking/u3-data-link-layer/virtual-circuit-and-atm-path.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/computer-networking/u3-data-link-layer/virtual-circuit-and-atm-path.webp",
+      "contentType": "image/webp",
+      "width": 1910,
+      "height": 823,
+      "bytes": 81676,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/fourth-semester/computer-networking/u3-data-link-layer/crc-and-arq-error-control.webp",
+    "https://cdn.tupapers.com/course/bca/fourth-semester/computer-networking/u3-data-link-layer/dll-sublayers-and-frame-flow.webp",
+    "https://cdn.tupapers.com/course/bca/fourth-semester/computer-networking/u3-data-link-layer/shared-medium-access.webp",
+    "https://cdn.tupapers.com/course/bca/fourth-semester/computer-networking/u3-data-link-layer/virtual-circuit-and-atm-path.webp"
+  ]
+}

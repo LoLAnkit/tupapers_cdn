@@ -1,23 +1,23 @@
 # TUpapers CDN — Complete Setup & Operation Guide
 
-**Purpose:** Single source of truth for the content-addressed R2 asset pipeline. Tag this file (`#cdn.md`) when onboarding agents to replicate the entire setup or populate asset folders.
+**Purpose:** Single source of truth for the R2 asset pipeline. Build minifies raster images locally with Sharp and applies a bottom-right watermark.
 
 ---
 
 ## Quick Reference
 
-| Aspect | Value |
-|--------|-------|
-| **Bucket** | `tupapers` (Cloudflare R2) |
-| **CDN base** | `https://cdn.tupapers.com` |
-| **Key pattern** | `course/<program>/<semester>/<subject>/notes/<category>/<file>.<hash>.ext` |
-| **Source root** | `source/` (mirrors bucket taxonomy exactly) |
-| **Optimized output** | `dist/` (gitignored) |
-| **Manifest** | `manifest.json` (commit this, generated at build time) |
-| **Pipeline** | TypeScript Node 20 CLI via `tsx` + `commander` |
-| **Source minifier** | TinyPNG API via `npm run tinify -- <subject-folder>` |
-| **Cache headers (assets)** | `public, max-age=31536000, immutable` (forever) |
-| **Cache headers (manifest)** | `public, max-age=60, must-revalidate` (short, so updates propagate) |
+| Aspect                       | Value                                                                                                  |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------ |
+| **Bucket**                   | `tupapers` (Cloudflare R2)                                                                             |
+| **CDN base**                 | `https://cdn.tupapers.com`                                                                             |
+| **Key pattern**              | New: `course/<program>/<semester>/<subject>/notes/<category>/<file>.ext`; existing hashes remain valid |
+| **Source root**              | `source/` (mirrors bucket taxonomy exactly)                                                            |
+| **Build output**             | `dist/` (gitignored)                                                                                   |
+| **Manifest**                 | `manifest.json` (commit this, generated at build time)                                                 |
+| **Pipeline**                 | TypeScript Node 20 CLI via `tsx` + `commander`                                                         |
+| **Source minifier**          | Sharp during `npm run build`                                                                           |
+| **Cache headers (assets)**   | Normal: `public, max-age=300, must-revalidate`; hashed legacy: immutable for one year                  |
+| **Cache headers (manifest)** | `public, max-age=60, must-revalidate` (short, so updates propagate)                                    |
 
 ---
 
@@ -26,32 +26,31 @@
 The pipeline consists of two fully decoupled pieces:
 
 ### 1. Asset Pipeline (this repo)
+
 - **Runs:** Once per asset batch (when you add/update images).
 - **Input:** Raw images in `source/` (PNG, JPG, WebP, GIF, AVIF, TIFF, SVG).
-- **Output:** Optimized files in `dist/` + `manifest.json`.
+- **Output:** Exact source bytes in `dist/` + folder manifests.
 - **Upload target:** R2 bucket `tupapers`.
 - **No web framework needed.** It's a CLI tool.
 
 ### 2. Consuming Site (Eleventy, separate repo)
+
 - **Runs:** At build time.
 - **Input:** `manifest.json` (committed or fetched).
-- **Output:** Image tags with hashed CDN URLs pre-built into HTML.
+- **Output:** Image tags with manifest-resolved CDN URLs pre-built into HTML.
 - **No coupling:** Site doesn't care how pipeline works; pipeline doesn't care about site framework.
 
 ---
 
-## Content Hashing Strategy
+## Filename and compression strategy
 
-**Why:** Each image URL is immutable forever. Updates produce *new* URLs; old cached copies become harmless orphans.
+The build does not calculate new hashes. Sharp converts raster inputs to WebP at quality 82 and applies the configured watermark locally, without API limits.
 
-**How:**
-1. Optimize the image (PNG/JPG → WebP, SVG → svgo-optimized SVG).
-2. Hash the *optimized bytes* with SHA-256.
-3. Take the first **8 hex chars** (~4.3B values).
-4. Rename: `addressing-modes.png` → `addressing-modes.7e8d3c41.webp`.
-5. Folder structure **never changes** (folders are immutable logical paths).
+The local `.sharp-build-cache.json` skips unchanged source files. Only new or changed images, or images affected by changed build settings, are processed again.
 
-**Idempotency:** Re-running on an unchanged image produces the same hash → same filename → no re-upload (content-addressed).
+Existing `name.<hash>.webp` files have been copied from `dist/` into the same paths under `source/`, making those deployed filenames canonical inputs. Their old logical manifest names remain aliases, so existing site references do not break. The build never cleans old `dist/` files.
+
+The migration can be audited at any time with `npm run migrate:hashed-source`. Add `--apply` to copy missing canonical files. Superseded raw files are ignored by build and are only removed when `--remove-originals` is explicitly included.
 
 ---
 
@@ -63,9 +62,8 @@ tupapers_cdn/
 │  ├─ index.ts                   # CLI entry (build/upload/sync/prune commands)
 │  ├─ config.ts                  # Load .env, R2 client, constants
 │  ├─ discover.ts                # Walk source/ → list of image files
-│  ├─ optimize.ts                # sharp (raster→webp) + svgo (svg) → optimized bytes
-│  ├─ hash.ts                    # SHA-256(bytes)[:8]
-│  ├─ keys.ts                    # Build logical + hashed R2 keys from source path
+│  ├─ optimize.ts                # Read dimensions without changing image bytes
+│  ├─ keys.ts                    # Build output keys and recognize existing hash names
 │  ├─ upload.ts                  # HeadObject (skip if exists) → PutObject
 │  ├─ manifest.ts                # Read/merge/write manifest.json (sorted keys)
 │  └─ prune.ts                   # List/delete orphaned bucket objects (dry-run default)
@@ -116,6 +114,7 @@ tupapers_cdn/
 ## Environment Setup
 
 ### Prerequisites
+
 - Node.js **20.x LTS or newer**.
 - Cloudflare R2 bucket `tupapers` with custom domain `cdn.tupapers.com` **already created and connected**.
 - Scoped API token (Object Read & Write, bucket `tupapers` only).
@@ -141,19 +140,15 @@ R2_ENDPOINT=https://<R2_ACCOUNT_ID>.r2.cloudflarestorage.com
 # Public CDN base.
 CDN_BASE=https://cdn.tupapers.com
 
-# Optional: parallel workers for optimize/upload (default 6).
+# Optional: parallel workers for copy/upload (default 6).
 # CONCURRENCY=6
 
-# TinyPNG Developer API key for explicit source minification.
-TINIFY_API_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-# Optional: parallel TinyPNG requests (default 2).
-# TINIFY_CONCURRENCY=2
 ```
 
 **To obtain credentials:**
-1. Cloudflare dashboard → R2 → *Manage API Tokens*.
-2. *Create API Token* → permissions **Object Read & Write**, scope **apply to specific buckets only** → select **tupapers**.
+
+1. Cloudflare dashboard → R2 → _Manage API Tokens_.
+2. _Create API Token_ → permissions **Object Read & Write**, scope **apply to specific buckets only** → select **tupapers**.
 3. Copy **Access Key ID** and **Secret Access Key** immediately (shown only once).
 4. Account ID is shown on the R2 overview page.
 
@@ -162,36 +157,22 @@ TINIFY_API_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ## CLI Commands
 
 ### `npm run build`
-Optimize `source/` → `dist/`, update `manifest.json`. **No network, no credentials needed.**
+
+Sharp-minify `source/` raster images to WebP, apply the watermark, and update folder manifests. **No network or credentials needed.**
 
 ```bash
-npm run build                    # graphic mode (diagrams), auto-detect quality
-npm run build -- --mode photo    # lossy quality 78 (photographs)
-npm run build -- --max-width 1600 # clamp very large images to 1600px
+npm run build                    # Sharp WebP minification + bottom-right watermark
 npm run build -- -v              # verbose (list every file)
 ```
 
-- **Raster images** (PNG, JPG, etc.) → WebP (quality depends on `--mode`).
-- **SVG** → optimized SVG via `svgo` (never rasterized).
+- Raster images become optimized WebP files with the watermark applied.
+- SVG files remain vector files and are copied unchanged.
 - Output written to `dist/`.
-- `manifest.json` updated with logical → hashed key mappings + dimensions.
-
-### `npm run tinify`
-Recursively compress all newly generated PNG, JPEG, WebP, or AVIF images beneath a subject folder through the TinyPNG API before building. One command automatically handles every chapter and nested folder while preserving every filename and extension. `npm run minify:source` remains available as a longer alias.
-
-```bash
-npm run tinify -- "source/course/bba/first-semester/english" # process the whole subject
-npm run tinify -- --all --dry-run                         # preview full-source processing
-```
-
-- Requires `TINIFY_API_KEY` in `.env`.
-- Uses `.tinify-cache.json` locally to skip unchanged images and avoid repeat API charges.
-- Replaces a file only after the compressed response is fully downloaded.
-- Does not read, delete, or rewrite `dist/` or manifests.
-- `--all` is explicit so the existing source library is never sent accidentally.
+- Folder `assets.json` files are updated with URLs and dimensions.
 
 ### `npm run upload`
-Upload `dist/` objects to R2. Skips objects that already exist (content-addressed). **Requires credentials.**
+
+Upload manifest-referenced `dist/` objects to R2. Existing hashed objects are skipped; normal-name objects are uploaded again so changed bytes replace the old version. **Requires credentials.**
 
 ```bash
 npm run upload                     # upload, skip existing
@@ -201,6 +182,7 @@ npm run upload -- -v               # verbose (list every upload)
 ```
 
 ### `npm run sync`
+
 `build` + `upload` in one shot. **Most common operation.**
 
 ```bash
@@ -211,6 +193,7 @@ npm run sync -- --dry-run -v            # preview (no actual uploads)
 ```
 
 ### `npm run prune`
+
 List (or delete) bucket objects no longer referenced by the manifest. **Dry-run by default.**
 
 ```bash
@@ -226,11 +209,13 @@ npm run prune -- --prefix course/bca/ # limit scan to a prefix
 **Example: BCA 1st Semester Computer Fundamentals diagrams.**
 
 ### Step 1: Create folder structure
+
 ```
 source/course/bca/first-semester/computer-fundamental/notes/diagram/
 ```
 
 ### Step 2: Drop raw images (PNG, JPG, SVG)
+
 ```
 source/course/bca/first-semester/computer-fundamental/notes/diagram/
 ├─ addressing-modes.png
@@ -240,38 +225,45 @@ source/course/bca/first-semester/computer-fundamental/notes/diagram/
 ```
 
 **File naming:**
+
 - Use **kebab-case** (lowercase, hyphens for spaces).
 - Use **descriptive names** (e.g., `addressing-modes`, not `fig1`).
 - Extensions: `.png`, `.jpg`, `.svg`, `.webp`, `.gif`, `.avif`, `.tiff`.
 
 ### Step 3: Run the pipeline
+
 ```bash
-npm run tinify -- "source/course/bca/first-semester/computer-fundamental"
+npm run build
 npm run sync
 ```
 
 Output:
+
 ```
-✓ build: 4 image(s) → dist/ (...KB), manifest.json updated.
+✓ build: 4 written, 0 existing hashed image(s) preserved → dist/ (...KB).
 ✓ upload: 4 uploaded, 0 skipped.
 ```
 
 ### Step 4: Commit to site repo
+
 ```bash
 git add manifest.json
 git commit -m "Add BCA 1st sem computer-fundamental diagrams"
 ```
 
 ### Step 5: Eleventy site uses it
+
 In a template:
+
 ```njk
-{% cdnImg "course/bca/first-semester/computer-fundamental/notes/diagram/addressing-modes.webp",
+{% cdnImg "course/bca/first-semester/computer-fundamental/notes/diagram/addressing-modes.png",
           "Direct vs indirect addressing modes", "rounded shadow" %}
 ```
 
-The template references the **stable logical path**. The `cdn.js` data loader resolves it to the hashed URL:
+The template references the manifest key. For a new normal-name image, `cdn.js` resolves it to:
+
 ```
-https://cdn.tupapers.com/course/bca/first-semester/computer-fundamental/notes/diagram/addressing-modes.7e8d3c41.webp
+https://cdn.tupapers.com/course/bca/first-semester/computer-fundamental/notes/diagram/addressing-modes.png
 ```
 
 ---
@@ -341,6 +333,7 @@ source/course/bca/
 ```
 
 **To auto-generate these folders**, run:
+
 ```bash
 # PowerShell on Windows
 $semesters = @(1..8)
@@ -424,21 +417,22 @@ One file per semester. Each asset entry contains the **pre-built full CDN URL** 
 ```
 
 **Key fields:**
+
 - **Logical key** (the dict key): stable `course/<program>/<semester>/<subject>/notes/<category>/<filename>.ext` — never changes.
 - **`key`**: actual R2 object key with content hash. Changes when image bytes change.
 - **`url`**: full pre-built CDN URL. Use this directly in `<img src>`. Changes when `key` changes.
 - **`width`**, **`height`**: stored at build time — use as HTML `width`/`height` attributes to eliminate layout shift.
-- **`bytes`**: optimized file size.
+- **`bytes`**: copied file size.
 
 ### Why sharding, not a flat file
 
-| Problem | Flat manifest.json | Sharded manifests/ |
-|---------|-------------------|-------------------|
-| Git diff readability | Every sync = one giant diff | Diff scoped to one semester |
-| Site startup time | Parse entire file for every build | Load only the shard(s) needed |
-| Scale | Degrades linearly | Bounded: each shard ≤ ~50 entries |
-| Finding a specific asset | Search entire file | Open `course.<prog>.<sem>.json` directly |
-| Adding a new program | Adds entries to one file | Creates one new shard file |
+| Problem                  | Flat manifest.json                | Sharded manifests/                       |
+| ------------------------ | --------------------------------- | ---------------------------------------- |
+| Git diff readability     | Every sync = one giant diff       | Diff scoped to one semester              |
+| Site startup time        | Parse entire file for every build | Load only the shard(s) needed            |
+| Scale                    | Degrades linearly                 | Bounded: each shard ≤ ~50 entries        |
+| Finding a specific asset | Search entire file                | Open `course.<prog>.<sem>.json` directly |
+| Adding a new program     | Adds entries to one file          | Creates one new shard file               |
 
 ### How the Eleventy consumer uses shards
 
@@ -472,7 +466,7 @@ const registerCdnImg = require("./eleventy/cdnImg.eleventy.cjs");
 
 module.exports = function (eleventyConfig) {
   registerCdnImg(eleventyConfig);
-  
+
   // ... rest of your config
 };
 ```
@@ -485,8 +479,17 @@ module.exports = function (eleventyConfig) {
 ```
 
 **Output:**
+
 ```html
-<img src="https://cdn.tupapers.com/course/bca/first-semester/computer-fundamental/notes/diagram/addressing-modes.7e8d3c41.webp" alt="Direct vs indirect addressing modes" class="rounded shadow" width="1200" height="640" loading="lazy" decoding="async">
+<img
+  src="https://cdn.tupapers.com/course/bca/first-semester/computer-fundamental/notes/diagram/addressing-modes.7e8d3c41.webp"
+  alt="Direct vs indirect addressing modes"
+  class="rounded shadow"
+  width="1200"
+  height="640"
+  loading="lazy"
+  decoding="async"
+/>
 ```
 
 ---
@@ -502,6 +505,7 @@ module.exports = function (eleventyConfig) {
 ### Cache Rules (optional, belt-and-suspenders)
 
 Set a Cloudflare Cache Rule for `cdn.tupapers.com`:
+
 - **Match:** Hostname equals `cdn.tupapers.com`
 - **Action:** **Eligible for cache**, Edge TTL **1 year**.
 - Rationale: Pipeline already sets `Cache-Control: public, max-age=31536000, immutable` per object; this reinforces it at the CDN edge.
@@ -511,6 +515,7 @@ Set a Cloudflare Cache Rule for `cdn.tupapers.com`:
 CORS is **not needed** for plain `<img>` tags. Enable it only if you later use `<canvas>`, WebGL, or JS `fetch()` on images:
 
 Bucket → Settings → CORS Policy:
+
 ```json
 [
   {
@@ -527,10 +532,10 @@ Bucket → Settings → CORS Policy:
 
 ### Image Mode Selection
 
-| Mode | Quality | Best for | Output |
-|------|---------|----------|--------|
-| `graphic` (default) | Near-lossless | Diagrams, figures, UI screenshots | `.webp` (sharp quality 90) |
-| `photo` | Lossy q78 | Photographs, rendered scenes | `.webp` (sharp quality 78, effort 5) |
+| Mode                | Quality       | Best for                          | Output                               |
+| ------------------- | ------------- | --------------------------------- | ------------------------------------ |
+| `graphic` (default) | Near-lossless | Diagrams, figures, UI screenshots | `.webp` (sharp quality 90)           |
+| `photo`             | Lossy q78     | Photographs, rendered scenes      | `.webp` (sharp quality 78, effort 5) |
 
 ### Processing Pipeline
 
@@ -562,18 +567,23 @@ Cached:  public, max-age=31536000, immutable
 ## Troubleshooting
 
 ### Build fails: "source/ is empty"
+
 **Fix:** Ensure your course folders and images exist under `source/course/<program>/<semester>/...`.
 
 ### Upload fails: "Missing or placeholder env var"
+
 **Fix:** Copy `.env.example` → `.env` and fill in real R2 credentials.
 
 ### Upload skips everything: "object already exists"
+
 **Normal behavior.** Content-addressed: same bytes = same hash = already uploaded. To force re-upload, delete the object in R2 or change the source image.
 
 ### Manifest.json not updating
+
 **Fix:** Run `npm run build` first (no credentials needed). If that fails, check Node version (`node --version` ≥ 20.x).
 
 ### Eleventy template can't resolve image
+
 **Fix:** Ensure the logical path in `{% cdnImg %}` matches exactly an entry in `manifest.json`. Use an editor search to verify.
 
 ---
@@ -581,6 +591,7 @@ Cached:  public, max-age=31536000, immutable
 ## Git Workflow
 
 ### Asset Pipeline Repo
+
 ```bash
 # Local
 npm run sync
@@ -593,6 +604,7 @@ git push
 ```
 
 ### Eleventy Site Repo
+
 ```bash
 # Pull in the updated manifest
 git pull
@@ -609,21 +621,25 @@ git push
 ## Maintenance
 
 ### Monthly: Check orphans
+
 ```bash
 npm run prune
 ```
 
 If orphans exist, review them (from old image updates). Delete after confirming no active links:
+
 ```bash
 npm run prune -- --yes
 ```
 
 ### Quarterly: Review cache stats
+
 - Cloudflare dashboard → Analytics → `cdn.tupapers.com`.
 - Monitor cache hit ratio (target: >95%).
 - If HIT rate is low, verify cache rules are active.
 
 ### Yearly: Archive old manifest
+
 Keep a backup of `manifest.json` in version control (Git already does this), but no special action needed. Assets are immutable and live forever.
 
 ---
@@ -639,22 +655,23 @@ When you tag `#cdn.md` in a prompt, the agent can:
 5. **Integrate the CDN** into a new Eleventy site (copy `eleventy/` files, register shortcode).
 
 **Example prompts:**
+
 - "Set up the BCA folder structure for all 8 semesters in source/"
 - "Help me debug why upload is failing"
 - "Integrate the CDN into my Eleventy site"
-- "Explain the content hashing strategy"
+- "Explain how existing hashed source filenames and new normal filenames coexist"
 - "Update manifest.json and push to R2"
 
 ---
 
 ## Summary
 
-| Step | Command | Time | Credentials? |
-|------|---------|------|--------------|
-| **Setup** | `npm install; cp .env.example .env` | 2 min | Yes (fill `.env`) |
-| **Build** | `npm run build` | 10–30 sec | No |
-| **Upload** | `npm run upload` | 5–30 sec | Yes |
-| **Combined** | `npm run sync` | 20–60 sec | Yes |
-| **Maintain** | `npm run prune` | 5 sec | Yes |
+| Step         | Command                             | Time      | Credentials?      |
+| ------------ | ----------------------------------- | --------- | ----------------- |
+| **Setup**    | `npm install; cp .env.example .env` | 2 min     | Yes (fill `.env`) |
+| **Build**    | `npm run build`                     | 10–30 sec | No                |
+| **Upload**   | `npm run upload`                    | 5–30 sec  | Yes               |
+| **Combined** | `npm run sync`                      | 20–60 sec | Yes               |
+| **Maintain** | `npm run prune`                     | 5 sec     | Yes               |
 
 **Typical workflow:** Drop 5–10 images in `source/` → `npm run sync` (45 sec) → commit `manifest.json` → site rebuilds.

@@ -1,38 +1,41 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.236Z",
+  "generatedAt": "2026-09-21T09:23:02.322Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/first-year/basic-sociology-for-social-work/social-institutions",
   "totalAssets": 3,
   "assets": {
     "government-social-control-flowchart.webp": {
-      "key": "course/bsw/first-year/basic-sociology-for-social-work/social-institutions/government-social-control-flowchart.478d9cec.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/social-institutions/government-social-control-flowchart.478d9cec.webp",
+      "key": "course/bsw/first-year/basic-sociology-for-social-work/social-institutions/government-social-control-flowchart.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/social-institutions/government-social-control-flowchart.webp",
       "contentType": "image/webp",
       "width": 1024,
       "height": 1536,
-      "bytes": 607694
+      "bytes": 64026,
+      "contentHashed": false
     },
     "marrige-types-in-nepal.webp": {
-      "key": "course/bsw/first-year/basic-sociology-for-social-work/social-institutions/marrige-types-in-nepal.c61217fb.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/social-institutions/marrige-types-in-nepal.c61217fb.webp",
+      "key": "course/bsw/first-year/basic-sociology-for-social-work/social-institutions/marrige-types-in-nepal.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/social-institutions/marrige-types-in-nepal.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 677602
+      "bytes": 98462,
+      "contentHashed": false
     },
     "society-six-pillars-diagram.webp": {
-      "key": "course/bsw/first-year/basic-sociology-for-social-work/social-institutions/society-six-pillars-diagram.854495b9.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/social-institutions/society-six-pillars-diagram.854495b9.webp",
+      "key": "course/bsw/first-year/basic-sociology-for-social-work/social-institutions/society-six-pillars-diagram.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/social-institutions/society-six-pillars-diagram.webp",
       "contentType": "image/webp",
       "width": 1254,
       "height": 1254,
-      "bytes": 859612
+      "bytes": 111848,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/social-institutions/government-social-control-flowchart.478d9cec.webp",
-    "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/social-institutions/marrige-types-in-nepal.c61217fb.webp",
-    "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/social-institutions/society-six-pillars-diagram.854495b9.webp"
+    "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/social-institutions/government-social-control-flowchart.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/social-institutions/marrige-types-in-nepal.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/social-institutions/society-six-pillars-diagram.webp"
   ]
 }

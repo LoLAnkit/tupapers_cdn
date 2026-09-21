@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.652Z",
+  "generatedAt": "2026-09-21T09:23:02.588Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/csit/first-semester/physics/u6-semiconductor-and-semiconductor-devices",
   "totalAssets": 4,
   "assets": {
     "bjt-common-emitter-voltage-amplifier.webp": {
-      "key": "course/csit/first-semester/physics/u6-semiconductor-and-semiconductor-devices/bjt-common-emitter-voltage-amplifier.27c741ab.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/physics/u6-semiconductor-and-semiconductor-devices/bjt-common-emitter-voltage-amplifier.27c741ab.webp",
+      "key": "course/csit/first-semester/physics/u6-semiconductor-and-semiconductor-devices/bjt-common-emitter-voltage-amplifier.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/physics/u6-semiconductor-and-semiconductor-devices/bjt-common-emitter-voltage-amplifier.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 711286
+      "bytes": 50754,
+      "contentHashed": false
     },
     "bjt-energy-band-potential-barrier.webp": {
-      "key": "course/csit/first-semester/physics/u6-semiconductor-and-semiconductor-devices/bjt-energy-band-potential-barrier.8a1bc702.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/physics/u6-semiconductor-and-semiconductor-devices/bjt-energy-band-potential-barrier.8a1bc702.webp",
+      "key": "course/csit/first-semester/physics/u6-semiconductor-and-semiconductor-devices/bjt-energy-band-potential-barrier.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/physics/u6-semiconductor-and-semiconductor-devices/bjt-energy-band-potential-barrier.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 1140896
+      "bytes": 91592,
+      "contentHashed": false
     },
     "electrical-conductivity-vs-inverse-temperature.webp": {
-      "key": "course/csit/first-semester/physics/u6-semiconductor-and-semiconductor-devices/electrical-conductivity-vs-inverse-temperature.1b877f01.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/physics/u6-semiconductor-and-semiconductor-devices/electrical-conductivity-vs-inverse-temperature.1b877f01.webp",
+      "key": "course/csit/first-semester/physics/u6-semiconductor-and-semiconductor-devices/electrical-conductivity-vs-inverse-temperature.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/physics/u6-semiconductor-and-semiconductor-devices/electrical-conductivity-vs-inverse-temperature.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 761164
+      "bytes": 61896,
+      "contentHashed": false
     },
     "fermi-level-n-type-p-type-semiconductors.webp": {
-      "key": "course/csit/first-semester/physics/u6-semiconductor-and-semiconductor-devices/fermi-level-n-type-p-type-semiconductors.46802492.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/physics/u6-semiconductor-and-semiconductor-devices/fermi-level-n-type-p-type-semiconductors.46802492.webp",
+      "key": "course/csit/first-semester/physics/u6-semiconductor-and-semiconductor-devices/fermi-level-n-type-p-type-semiconductors.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/physics/u6-semiconductor-and-semiconductor-devices/fermi-level-n-type-p-type-semiconductors.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 1067100
+      "bytes": 78492,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/csit/first-semester/physics/u6-semiconductor-and-semiconductor-devices/bjt-common-emitter-voltage-amplifier.27c741ab.webp",
-    "https://cdn.tupapers.com/course/csit/first-semester/physics/u6-semiconductor-and-semiconductor-devices/bjt-energy-band-potential-barrier.8a1bc702.webp",
-    "https://cdn.tupapers.com/course/csit/first-semester/physics/u6-semiconductor-and-semiconductor-devices/electrical-conductivity-vs-inverse-temperature.1b877f01.webp",
-    "https://cdn.tupapers.com/course/csit/first-semester/physics/u6-semiconductor-and-semiconductor-devices/fermi-level-n-type-p-type-semiconductors.46802492.webp"
+    "https://cdn.tupapers.com/course/csit/first-semester/physics/u6-semiconductor-and-semiconductor-devices/bjt-common-emitter-voltage-amplifier.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/physics/u6-semiconductor-and-semiconductor-devices/bjt-energy-band-potential-barrier.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/physics/u6-semiconductor-and-semiconductor-devices/electrical-conductivity-vs-inverse-temperature.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/physics/u6-semiconductor-and-semiconductor-devices/fermi-level-n-type-p-type-semiconductors.webp"
   ]
 }

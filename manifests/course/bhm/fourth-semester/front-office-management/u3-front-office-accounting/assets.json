@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:02.185Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bhm/fourth-semester/front-office-management/u3-front-office-accounting",
+  "totalAssets": 3,
+  "assets": {
+    "front-office-accounting-structure.webp": {
+      "key": "course/bhm/fourth-semester/front-office-management/u3-front-office-accounting/front-office-accounting-structure.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u3-front-office-accounting/front-office-accounting-structure.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 68254,
+      "contentHashed": false
+    },
+    "guest-accounting-cycle.webp": {
+      "key": "course/bhm/fourth-semester/front-office-management/u3-front-office-accounting/guest-accounting-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u3-front-office-accounting/guest-accounting-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 94660,
+      "contentHashed": false
+    },
+    "guest-ledger-vs-city-ledger-flow.webp": {
+      "key": "course/bhm/fourth-semester/front-office-management/u3-front-office-accounting/guest-ledger-vs-city-ledger-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u3-front-office-accounting/guest-ledger-vs-city-ledger-flow.webp",
+      "contentType": "image/webp",
+      "width": 1831,
+      "height": 859,
+      "bytes": 88082,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u3-front-office-accounting/front-office-accounting-structure.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u3-front-office-accounting/guest-accounting-cycle.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u3-front-office-accounting/guest-ledger-vs-city-ledger-flow.webp"
+  ]
+}

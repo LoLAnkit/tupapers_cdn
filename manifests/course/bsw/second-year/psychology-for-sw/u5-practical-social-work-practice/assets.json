@@ -1,38 +1,41 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.488Z",
+  "generatedAt": "2026-09-21T09:23:02.486Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/second-year/psychology-for-sw/u5-practical-social-work-practice",
   "totalAssets": 3,
   "assets": {
     "fieldwork-supervision-evaluation-process.webp": {
-      "key": "course/bsw/second-year/psychology-for-sw/u5-practical-social-work-practice/fieldwork-supervision-evaluation-process.abdf836b.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u5-practical-social-work-practice/fieldwork-supervision-evaluation-process.abdf836b.webp",
+      "key": "course/bsw/second-year/psychology-for-sw/u5-practical-social-work-practice/fieldwork-supervision-evaluation-process.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u5-practical-social-work-practice/fieldwork-supervision-evaluation-process.webp",
       "contentType": "image/webp",
       "width": 2046,
       "height": 768,
-      "bytes": 709024
+      "bytes": 66554,
+      "contentHashed": false
     },
     "psychosocial-analysis-framework.webp": {
-      "key": "course/bsw/second-year/psychology-for-sw/u5-practical-social-work-practice/psychosocial-analysis-framework.d704f7fe.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u5-practical-social-work-practice/psychosocial-analysis-framework.d704f7fe.webp",
+      "key": "course/bsw/second-year/psychology-for-sw/u5-practical-social-work-practice/psychosocial-analysis-framework.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u5-practical-social-work-practice/psychosocial-analysis-framework.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 943260
+      "bytes": 114446,
+      "contentHashed": false
     },
     "social-work-field-practice-workflow.webp": {
-      "key": "course/bsw/second-year/psychology-for-sw/u5-practical-social-work-practice/social-work-field-practice-workflow.4296d73b.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u5-practical-social-work-practice/social-work-field-practice-workflow.4296d73b.webp",
+      "key": "course/bsw/second-year/psychology-for-sw/u5-practical-social-work-practice/social-work-field-practice-workflow.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u5-practical-social-work-practice/social-work-field-practice-workflow.webp",
       "contentType": "image/webp",
       "width": 2172,
       "height": 724,
-      "bytes": 711718
+      "bytes": 61412,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u5-practical-social-work-practice/fieldwork-supervision-evaluation-process.abdf836b.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u5-practical-social-work-practice/psychosocial-analysis-framework.d704f7fe.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u5-practical-social-work-practice/social-work-field-practice-workflow.4296d73b.webp"
+    "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u5-practical-social-work-practice/fieldwork-supervision-evaluation-process.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u5-practical-social-work-practice/psychosocial-analysis-framework.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u5-practical-social-work-practice/social-work-field-practice-workflow.webp"
   ]
 }

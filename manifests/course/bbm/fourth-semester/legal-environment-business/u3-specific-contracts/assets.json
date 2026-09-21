@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:01.447Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbm/fourth-semester/legal-environment-business/u3-specific-contracts",
+  "totalAssets": 5,
+  "assets": {
+    "agency-relationship-triangle.webp": {
+      "key": "course/bbm/fourth-semester/legal-environment-business/u3-specific-contracts/agency-relationship-triangle.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/legal-environment-business/u3-specific-contracts/agency-relationship-triangle.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 68536,
+      "contentHashed": false
+    },
+    "agency-relationship.webp": {
+      "key": "course/bbm/fourth-semester/legal-environment-business/u3-specific-contracts/agency-relationship.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/legal-environment-business/u3-specific-contracts/agency-relationship.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 77742,
+      "contentHashed": false
+    },
+    "carriage-by-sea-documents.webp": {
+      "key": "course/bbm/fourth-semester/legal-environment-business/u3-specific-contracts/carriage-by-sea-documents.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/legal-environment-business/u3-specific-contracts/carriage-by-sea-documents.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 105284,
+      "contentHashed": false
+    },
+    "incoterms-2020-responsibility-transfer.webp": {
+      "key": "course/bbm/fourth-semester/legal-environment-business/u3-specific-contracts/incoterms-2020-responsibility-transfer.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/legal-environment-business/u3-specific-contracts/incoterms-2020-responsibility-transfer.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 98144,
+      "contentHashed": false
+    },
+    "sale-of-goods-transfer.webp": {
+      "key": "course/bbm/fourth-semester/legal-environment-business/u3-specific-contracts/sale-of-goods-transfer.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/legal-environment-business/u3-specific-contracts/sale-of-goods-transfer.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 83898,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/legal-environment-business/u3-specific-contracts/agency-relationship-triangle.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/legal-environment-business/u3-specific-contracts/agency-relationship.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/legal-environment-business/u3-specific-contracts/carriage-by-sea-documents.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/legal-environment-business/u3-specific-contracts/incoterms-2020-responsibility-transfer.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/legal-environment-business/u3-specific-contracts/sale-of-goods-transfer.webp"
+  ]
+}

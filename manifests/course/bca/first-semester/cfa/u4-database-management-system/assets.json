@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.607Z",
+  "generatedAt": "2026-09-21T09:23:01.583Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/first-semester/cfa/u4-database-management-system",
   "totalAssets": 4,
   "assets": {
     "data-mining-and-big-data-pipeline.webp": {
-      "key": "course/bca/first-semester/cfa/u4-database-management-system/data-mining-and-big-data-pipeline.55c49617.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u4-database-management-system/data-mining-and-big-data-pipeline.55c49617.webp",
+      "key": "course/bca/first-semester/cfa/u4-database-management-system/data-mining-and-big-data-pipeline.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u4-database-management-system/data-mining-and-big-data-pipeline.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 767144
+      "bytes": 122144,
+      "contentHashed": false
     },
     "data-warehouse-flow.webp": {
-      "key": "course/bca/first-semester/cfa/u4-database-management-system/data-warehouse-flow.a6154c47.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u4-database-management-system/data-warehouse-flow.a6154c47.webp",
+      "key": "course/bca/first-semester/cfa/u4-database-management-system/data-warehouse-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u4-database-management-system/data-warehouse-flow.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 689548
+      "bytes": 84636,
+      "contentHashed": false
     },
     "database-models.webp": {
-      "key": "course/bca/first-semester/cfa/u4-database-management-system/database-models.2b7c0bb5.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u4-database-management-system/database-models.2b7c0bb5.webp",
+      "key": "course/bca/first-semester/cfa/u4-database-management-system/database-models.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u4-database-management-system/database-models.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 399224
+      "bytes": 103606,
+      "contentHashed": false
     },
     "database-system-architecture.webp": {
-      "key": "course/bca/first-semester/cfa/u4-database-management-system/database-system-architecture.9fa742cb.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u4-database-management-system/database-system-architecture.9fa742cb.webp",
+      "key": "course/bca/first-semester/cfa/u4-database-management-system/database-system-architecture.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u4-database-management-system/database-system-architecture.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 430838
+      "bytes": 86904,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u4-database-management-system/data-mining-and-big-data-pipeline.55c49617.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u4-database-management-system/data-warehouse-flow.a6154c47.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u4-database-management-system/database-models.2b7c0bb5.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u4-database-management-system/database-system-architecture.9fa742cb.webp"
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u4-database-management-system/data-mining-and-big-data-pipeline.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u4-database-management-system/data-warehouse-flow.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u4-database-management-system/database-models.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u4-database-management-system/database-system-architecture.webp"
   ]
 }

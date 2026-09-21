@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:01.405Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbm/fourth-semester/financial-management/u3-capital-budgeting",
+  "totalAssets": 4,
+  "assets": {
+    "capital-budgeting-process.webp": {
+      "key": "course/bbm/fourth-semester/financial-management/u3-capital-budgeting/capital-budgeting-process.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/financial-management/u3-capital-budgeting/capital-budgeting-process.webp",
+      "contentType": "image/webp",
+      "width": 2126,
+      "height": 740,
+      "bytes": 106768,
+      "contentHashed": false
+    },
+    "npv-profile-and-irr.webp": {
+      "key": "course/bbm/fourth-semester/financial-management/u3-capital-budgeting/npv-profile-and-irr.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/financial-management/u3-capital-budgeting/npv-profile-and-irr.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 41752,
+      "contentHashed": false
+    },
+    "project-cash-flow-timeline.webp": {
+      "key": "course/bbm/fourth-semester/financial-management/u3-capital-budgeting/project-cash-flow-timeline.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/financial-management/u3-capital-budgeting/project-cash-flow-timeline.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 59814,
+      "contentHashed": false
+    },
+    "unequal-life-project-comparison.webp": {
+      "key": "course/bbm/fourth-semester/financial-management/u3-capital-budgeting/unequal-life-project-comparison.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/financial-management/u3-capital-budgeting/unequal-life-project-comparison.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 83712,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/financial-management/u3-capital-budgeting/capital-budgeting-process.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/financial-management/u3-capital-budgeting/npv-profile-and-irr.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/financial-management/u3-capital-budgeting/project-cash-flow-timeline.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/financial-management/u3-capital-budgeting/unequal-life-project-comparison.webp"
+  ]
+}

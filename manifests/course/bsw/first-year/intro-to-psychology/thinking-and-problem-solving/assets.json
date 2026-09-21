@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.302Z",
+  "generatedAt": "2026-09-21T09:23:02.363Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/first-year/intro-to-psychology/thinking-and-problem-solving",
   "totalAssets": 4,
   "assets": {
     "creative-vs-critical-thinking-chart.webp": {
-      "key": "course/bsw/first-year/intro-to-psychology/thinking-and-problem-solving/creative-vs-critical-thinking-chart.4bf1176b.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/thinking-and-problem-solving/creative-vs-critical-thinking-chart.4bf1176b.webp",
+      "key": "course/bsw/first-year/intro-to-psychology/thinking-and-problem-solving/creative-vs-critical-thinking-chart.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/thinking-and-problem-solving/creative-vs-critical-thinking-chart.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 949894
+      "bytes": 174558,
+      "contentHashed": false
     },
     "elements-of-thinking-venn-diagram.webp": {
-      "key": "course/bsw/first-year/intro-to-psychology/thinking-and-problem-solving/elements-of-thinking-venn-diagram.467a2efb.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/thinking-and-problem-solving/elements-of-thinking-venn-diagram.467a2efb.webp",
+      "key": "course/bsw/first-year/intro-to-psychology/thinking-and-problem-solving/elements-of-thinking-venn-diagram.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/thinking-and-problem-solving/elements-of-thinking-venn-diagram.webp",
       "contentType": "image/webp",
       "width": 1254,
       "height": 1254,
-      "bytes": 1087014
+      "bytes": 167944,
+      "contentHashed": false
     },
     "four-stages-of-creative-thinking.webp": {
-      "key": "course/bsw/first-year/intro-to-psychology/thinking-and-problem-solving/four-stages-of-creative-thinking.8f2479f6.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/thinking-and-problem-solving/four-stages-of-creative-thinking.8f2479f6.webp",
+      "key": "course/bsw/first-year/intro-to-psychology/thinking-and-problem-solving/four-stages-of-creative-thinking.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/thinking-and-problem-solving/four-stages-of-creative-thinking.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 947698
+      "bytes": 133244,
+      "contentHashed": false
     },
     "problem-solving-thinking-cycle.webp": {
-      "key": "course/bsw/first-year/intro-to-psychology/thinking-and-problem-solving/problem-solving-thinking-cycle.367f7fc5.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/thinking-and-problem-solving/problem-solving-thinking-cycle.367f7fc5.webp",
+      "key": "course/bsw/first-year/intro-to-psychology/thinking-and-problem-solving/problem-solving-thinking-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/thinking-and-problem-solving/problem-solving-thinking-cycle.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 809916
+      "bytes": 132718,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/thinking-and-problem-solving/creative-vs-critical-thinking-chart.4bf1176b.webp",
-    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/thinking-and-problem-solving/elements-of-thinking-venn-diagram.467a2efb.webp",
-    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/thinking-and-problem-solving/four-stages-of-creative-thinking.8f2479f6.webp",
-    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/thinking-and-problem-solving/problem-solving-thinking-cycle.367f7fc5.webp"
+    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/thinking-and-problem-solving/creative-vs-critical-thinking-chart.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/thinking-and-problem-solving/elements-of-thinking-venn-diagram.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/thinking-and-problem-solving/four-stages-of-creative-thinking.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/thinking-and-problem-solving/problem-solving-thinking-cycle.webp"
   ]
 }

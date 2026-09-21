@@ -1,38 +1,41 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.420Z",
+  "generatedAt": "2026-09-21T09:23:01.269Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bba/sixth-semester/business-research-methods/literature-searching",
   "totalAssets": 3,
   "assets": {
     "deduction-vs-induction.webp": {
-      "key": "course/bba/sixth-semester/business-research-methods/literature-searching/deduction-vs-induction.893433bb.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/literature-searching/deduction-vs-induction.893433bb.webp",
+      "key": "course/bba/sixth-semester/business-research-methods/literature-searching/deduction-vs-induction.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/literature-searching/deduction-vs-induction.webp",
       "contentType": "image/webp",
       "width": 1053,
       "height": 659,
-      "bytes": 285512
+      "bytes": 35968,
+      "contentHashed": false
     },
     "steps-ofliterature-survey.webp": {
-      "key": "course/bba/sixth-semester/business-research-methods/literature-searching/steps-ofliterature-survey.41f44e64.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/literature-searching/steps-ofliterature-survey.41f44e64.webp",
+      "key": "course/bba/sixth-semester/business-research-methods/literature-searching/steps-ofliterature-survey.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/literature-searching/steps-ofliterature-survey.webp",
       "contentType": "image/webp",
       "width": 849,
       "height": 685,
-      "bytes": 273932
+      "bytes": 40854,
+      "contentHashed": false
     },
     "theoretical-framework-structure.webp": {
-      "key": "course/bba/sixth-semester/business-research-methods/literature-searching/theoretical-framework-structure.143f743f.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/literature-searching/theoretical-framework-structure.143f743f.webp",
+      "key": "course/bba/sixth-semester/business-research-methods/literature-searching/theoretical-framework-structure.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/literature-searching/theoretical-framework-structure.webp",
       "contentType": "image/webp",
       "width": 1265,
       "height": 539,
-      "bytes": 269604
+      "bytes": 31274,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/literature-searching/deduction-vs-induction.893433bb.webp",
-    "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/literature-searching/steps-ofliterature-survey.41f44e64.webp",
-    "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/literature-searching/theoretical-framework-structure.143f743f.webp"
+    "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/literature-searching/deduction-vs-induction.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/literature-searching/steps-ofliterature-survey.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/literature-searching/theoretical-framework-structure.webp"
   ]
 }

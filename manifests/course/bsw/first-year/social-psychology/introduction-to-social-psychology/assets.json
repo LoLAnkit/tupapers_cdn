@@ -1,38 +1,41 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.345Z",
+  "generatedAt": "2026-09-21T09:23:02.388Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/first-year/social-psychology/introduction-to-social-psychology",
   "totalAssets": 3,
   "assets": {
     "research-methods-overview-flowchart.webp": {
-      "key": "course/bsw/first-year/social-psychology/introduction-to-social-psychology/research-methods-overview-flowchart.3be00695.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/introduction-to-social-psychology/research-methods-overview-flowchart.3be00695.webp",
+      "key": "course/bsw/first-year/social-psychology/introduction-to-social-psychology/research-methods-overview-flowchart.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/introduction-to-social-psychology/research-methods-overview-flowchart.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 626484
+      "bytes": 160310,
+      "contentHashed": false
     },
     "social-psychology-connections-diagram.webp": {
-      "key": "course/bsw/first-year/social-psychology/introduction-to-social-psychology/social-psychology-connections-diagram.fc09e680.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/introduction-to-social-psychology/social-psychology-connections-diagram.fc09e680.webp",
+      "key": "course/bsw/first-year/social-psychology/introduction-to-social-psychology/social-psychology-connections-diagram.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/introduction-to-social-psychology/social-psychology-connections-diagram.webp",
       "contentType": "image/webp",
       "width": 1254,
       "height": 1254,
-      "bytes": 1244658
+      "bytes": 155500,
+      "contentHashed": false
     },
     "social-psychology-historical-timeline.webp": {
-      "key": "course/bsw/first-year/social-psychology/introduction-to-social-psychology/social-psychology-historical-timeline.7c9ece10.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/introduction-to-social-psychology/social-psychology-historical-timeline.7c9ece10.webp",
+      "key": "course/bsw/first-year/social-psychology/introduction-to-social-psychology/social-psychology-historical-timeline.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/introduction-to-social-psychology/social-psychology-historical-timeline.webp",
       "contentType": "image/webp",
       "width": 1881,
       "height": 836,
-      "bytes": 634606
+      "bytes": 115950,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/introduction-to-social-psychology/research-methods-overview-flowchart.3be00695.webp",
-    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/introduction-to-social-psychology/social-psychology-connections-diagram.fc09e680.webp",
-    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/introduction-to-social-psychology/social-psychology-historical-timeline.7c9ece10.webp"
+    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/introduction-to-social-psychology/research-methods-overview-flowchart.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/introduction-to-social-psychology/social-psychology-connections-diagram.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/introduction-to-social-psychology/social-psychology-historical-timeline.webp"
   ]
 }

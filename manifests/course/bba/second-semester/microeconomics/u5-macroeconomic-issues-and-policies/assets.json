@@ -1,56 +1,61 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.402Z",
+  "generatedAt": "2026-09-21T09:23:01.255Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bba/second-semester/microeconomics/u5-macroeconomic-issues-and-policies",
   "totalAssets": 5,
   "assets": {
     "balance-of-payments-structure.webp": {
-      "key": "course/bba/second-semester/microeconomics/u5-macroeconomic-issues-and-policies/balance-of-payments-structure.1234fa28.webp",
-      "url": "https://cdn.tupapers.com/course/bba/second-semester/microeconomics/u5-macroeconomic-issues-and-policies/balance-of-payments-structure.1234fa28.webp",
+      "key": "course/bba/second-semester/microeconomics/u5-macroeconomic-issues-and-policies/balance-of-payments-structure.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/microeconomics/u5-macroeconomic-issues-and-policies/balance-of-payments-structure.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 1337158
+      "bytes": 177234,
+      "contentHashed": false
     },
     "business-cycle-phases.webp": {
-      "key": "course/bba/second-semester/microeconomics/u5-macroeconomic-issues-and-policies/business-cycle-phases.65c06fd8.webp",
-      "url": "https://cdn.tupapers.com/course/bba/second-semester/microeconomics/u5-macroeconomic-issues-and-policies/business-cycle-phases.65c06fd8.webp",
+      "key": "course/bba/second-semester/microeconomics/u5-macroeconomic-issues-and-policies/business-cycle-phases.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/microeconomics/u5-macroeconomic-issues-and-policies/business-cycle-phases.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 961514
+      "bytes": 70570,
+      "contentHashed": false
     },
     "cost-push-inflation.webp": {
-      "key": "course/bba/second-semester/microeconomics/u5-macroeconomic-issues-and-policies/cost-push-inflation.b7bef58b.webp",
-      "url": "https://cdn.tupapers.com/course/bba/second-semester/microeconomics/u5-macroeconomic-issues-and-policies/cost-push-inflation.b7bef58b.webp",
+      "key": "course/bba/second-semester/microeconomics/u5-macroeconomic-issues-and-policies/cost-push-inflation.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/microeconomics/u5-macroeconomic-issues-and-policies/cost-push-inflation.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 767936
+      "bytes": 63510,
+      "contentHashed": false
     },
     "demand-pull-inflation.webp": {
-      "key": "course/bba/second-semester/microeconomics/u5-macroeconomic-issues-and-policies/demand-pull-inflation.41bf5994.webp",
-      "url": "https://cdn.tupapers.com/course/bba/second-semester/microeconomics/u5-macroeconomic-issues-and-policies/demand-pull-inflation.41bf5994.webp",
+      "key": "course/bba/second-semester/microeconomics/u5-macroeconomic-issues-and-policies/demand-pull-inflation.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/microeconomics/u5-macroeconomic-issues-and-policies/demand-pull-inflation.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 832570
+      "bytes": 61416,
+      "contentHashed": false
     },
     "exchange-rate-determination.webp": {
-      "key": "course/bba/second-semester/microeconomics/u5-macroeconomic-issues-and-policies/exchange-rate-determination.e380ee76.webp",
-      "url": "https://cdn.tupapers.com/course/bba/second-semester/microeconomics/u5-macroeconomic-issues-and-policies/exchange-rate-determination.e380ee76.webp",
+      "key": "course/bba/second-semester/microeconomics/u5-macroeconomic-issues-and-policies/exchange-rate-determination.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/microeconomics/u5-macroeconomic-issues-and-policies/exchange-rate-determination.webp",
       "contentType": "image/webp",
       "width": 1568,
       "height": 1003,
-      "bytes": 967648
+      "bytes": 89056,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bba/second-semester/microeconomics/u5-macroeconomic-issues-and-policies/balance-of-payments-structure.1234fa28.webp",
-    "https://cdn.tupapers.com/course/bba/second-semester/microeconomics/u5-macroeconomic-issues-and-policies/business-cycle-phases.65c06fd8.webp",
-    "https://cdn.tupapers.com/course/bba/second-semester/microeconomics/u5-macroeconomic-issues-and-policies/cost-push-inflation.b7bef58b.webp",
-    "https://cdn.tupapers.com/course/bba/second-semester/microeconomics/u5-macroeconomic-issues-and-policies/demand-pull-inflation.41bf5994.webp",
-    "https://cdn.tupapers.com/course/bba/second-semester/microeconomics/u5-macroeconomic-issues-and-policies/exchange-rate-determination.e380ee76.webp"
+    "https://cdn.tupapers.com/course/bba/second-semester/microeconomics/u5-macroeconomic-issues-and-policies/balance-of-payments-structure.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/microeconomics/u5-macroeconomic-issues-and-policies/business-cycle-phases.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/microeconomics/u5-macroeconomic-issues-and-policies/cost-push-inflation.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/microeconomics/u5-macroeconomic-issues-and-policies/demand-pull-inflation.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/microeconomics/u5-macroeconomic-issues-and-policies/exchange-rate-determination.webp"
   ]
 }

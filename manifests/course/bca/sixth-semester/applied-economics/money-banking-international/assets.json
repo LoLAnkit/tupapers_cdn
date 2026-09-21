@@ -1,56 +1,61 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.862Z",
+  "generatedAt": "2026-09-21T09:23:02.042Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/sixth-semester/applied-economics/money-banking-international",
   "totalAssets": 5,
   "assets": {
     "balance-of-trade-vs-balance-of-payment.webp": {
-      "key": "course/bca/sixth-semester/applied-economics/money-banking-international/balance-of-trade-vs-balance-of-payment.89c05476.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/money-banking-international/balance-of-trade-vs-balance-of-payment.89c05476.webp",
+      "key": "course/bca/sixth-semester/applied-economics/money-banking-international/balance-of-trade-vs-balance-of-payment.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/money-banking-international/balance-of-trade-vs-balance-of-payment.webp",
       "contentType": "image/webp",
       "width": 1122,
       "height": 1402,
-      "bytes": 1448278
+      "bytes": 209234,
+      "contentHashed": false
     },
     "functions-of-money.webp": {
-      "key": "course/bca/sixth-semester/applied-economics/money-banking-international/functions-of-money.9c91e2be.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/money-banking-international/functions-of-money.9c91e2be.webp",
+      "key": "course/bca/sixth-semester/applied-economics/money-banking-international/functions-of-money.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/money-banking-international/functions-of-money.webp",
       "contentType": "image/webp",
       "width": 1254,
       "height": 1254,
-      "bytes": 1438978
+      "bytes": 183562,
+      "contentHashed": false
     },
     "inflation-types-and-adverse-effects.webp": {
-      "key": "course/bca/sixth-semester/applied-economics/money-banking-international/inflation-types-and-adverse-effects.ea4b5b3c.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/money-banking-international/inflation-types-and-adverse-effects.ea4b5b3c.webp",
+      "key": "course/bca/sixth-semester/applied-economics/money-banking-international/inflation-types-and-adverse-effects.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/money-banking-international/inflation-types-and-adverse-effects.webp",
       "contentType": "image/webp",
       "width": 1586,
       "height": 992,
-      "bytes": 1504152
+      "bytes": 231254,
+      "contentHashed": false
     },
     "money-supply-components-m1-m2.webp": {
-      "key": "course/bca/sixth-semester/applied-economics/money-banking-international/money-supply-components-m1-m2.ae9d6b80.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/money-banking-international/money-supply-components-m1-m2.ae9d6b80.webp",
+      "key": "course/bca/sixth-semester/applied-economics/money-banking-international/money-supply-components-m1-m2.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/money-banking-international/money-supply-components-m1-m2.webp",
       "contentType": "image/webp",
       "width": 1122,
       "height": 1402,
-      "bytes": 1476086
+      "bytes": 262934,
+      "contentHashed": false
     },
     "nepal-rastra-bank-central-bank-functions.webp": {
-      "key": "course/bca/sixth-semester/applied-economics/money-banking-international/nepal-rastra-bank-central-bank-functions.42da721c.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/money-banking-international/nepal-rastra-bank-central-bank-functions.42da721c.webp",
+      "key": "course/bca/sixth-semester/applied-economics/money-banking-international/nepal-rastra-bank-central-bank-functions.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/money-banking-international/nepal-rastra-bank-central-bank-functions.webp",
       "contentType": "image/webp",
       "width": 1586,
       "height": 992,
-      "bytes": 1112524
+      "bytes": 115830,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/money-banking-international/balance-of-trade-vs-balance-of-payment.89c05476.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/money-banking-international/functions-of-money.9c91e2be.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/money-banking-international/inflation-types-and-adverse-effects.ea4b5b3c.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/money-banking-international/money-supply-components-m1-m2.ae9d6b80.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/money-banking-international/nepal-rastra-bank-central-bank-functions.42da721c.webp"
+    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/money-banking-international/balance-of-trade-vs-balance-of-payment.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/money-banking-international/functions-of-money.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/money-banking-international/inflation-types-and-adverse-effects.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/money-banking-international/money-supply-components-m1-m2.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/money-banking-international/nepal-rastra-bank-central-bank-functions.webp"
   ]
 }

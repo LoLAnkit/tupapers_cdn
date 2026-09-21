@@ -1,29 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.245Z",
+  "generatedAt": "2026-09-21T09:23:02.328Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/first-year/basic-sociology-for-social-work/social-stratification-and-inequality",
   "totalAssets": 2,
   "assets": {
     "dimensions-of-inequality.webp": {
-      "key": "course/bsw/first-year/basic-sociology-for-social-work/social-stratification-and-inequality/dimensions-of-inequality.d21488d0.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/social-stratification-and-inequality/dimensions-of-inequality.d21488d0.webp",
+      "key": "course/bsw/first-year/basic-sociology-for-social-work/social-stratification-and-inequality/dimensions-of-inequality.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/social-stratification-and-inequality/dimensions-of-inequality.webp",
       "contentType": "image/webp",
       "width": 1254,
       "height": 1254,
-      "bytes": 728130
+      "bytes": 91164,
+      "contentHashed": false
     },
     "social-stratification-pyramid.webp": {
-      "key": "course/bsw/first-year/basic-sociology-for-social-work/social-stratification-and-inequality/social-stratification-pyramid.c676fec8.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/social-stratification-and-inequality/social-stratification-pyramid.c676fec8.webp",
+      "key": "course/bsw/first-year/basic-sociology-for-social-work/social-stratification-and-inequality/social-stratification-pyramid.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/social-stratification-and-inequality/social-stratification-pyramid.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 783928
+      "bytes": 108702,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/social-stratification-and-inequality/dimensions-of-inequality.d21488d0.webp",
-    "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/social-stratification-and-inequality/social-stratification-pyramid.c676fec8.webp"
+    "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/social-stratification-and-inequality/dimensions-of-inequality.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/social-stratification-and-inequality/social-stratification-pyramid.webp"
   ]
 }

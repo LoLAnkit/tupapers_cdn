@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.821Z",
+  "generatedAt": "2026-09-21T09:23:02.782Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/csit/third-semester/dsa/u4-recursion",
   "totalAssets": 4,
   "assets": {
     "recursive-call-and-return-stack.webp": {
-      "key": "course/csit/third-semester/dsa/u4-recursion/recursive-call-and-return-stack.13d0c478.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u4-recursion/recursive-call-and-return-stack.13d0c478.webp",
+      "key": "course/csit/third-semester/dsa/u4-recursion/recursive-call-and-return-stack.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u4-recursion/recursive-call-and-return-stack.webp",
       "contentType": "image/webp",
       "width": 1312,
       "height": 1199,
-      "bytes": 516402
+      "bytes": 103212,
+      "contentHashed": false
     },
     "recursive-euclidean-gcd.webp": {
-      "key": "course/csit/third-semester/dsa/u4-recursion/recursive-euclidean-gcd.3451a6bc.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u4-recursion/recursive-euclidean-gcd.3451a6bc.webp",
+      "key": "course/csit/third-semester/dsa/u4-recursion/recursive-euclidean-gcd.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u4-recursion/recursive-euclidean-gcd.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 427640
+      "bytes": 72614,
+      "contentHashed": false
     },
     "tail-vs-non-tail-recursion.webp": {
-      "key": "course/csit/third-semester/dsa/u4-recursion/tail-vs-non-tail-recursion.c7dacb00.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u4-recursion/tail-vs-non-tail-recursion.c7dacb00.webp",
+      "key": "course/csit/third-semester/dsa/u4-recursion/tail-vs-non-tail-recursion.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u4-recursion/tail-vs-non-tail-recursion.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 454966
+      "bytes": 96540,
+      "contentHashed": false
     },
     "tower-of-hanoi-movement.webp": {
-      "key": "course/csit/third-semester/dsa/u4-recursion/tower-of-hanoi-movement.d4bf0e34.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u4-recursion/tower-of-hanoi-movement.d4bf0e34.webp",
+      "key": "course/csit/third-semester/dsa/u4-recursion/tower-of-hanoi-movement.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u4-recursion/tower-of-hanoi-movement.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 521094
+      "bytes": 114228,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u4-recursion/recursive-call-and-return-stack.13d0c478.webp",
-    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u4-recursion/recursive-euclidean-gcd.3451a6bc.webp",
-    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u4-recursion/tail-vs-non-tail-recursion.c7dacb00.webp",
-    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u4-recursion/tower-of-hanoi-movement.d4bf0e34.webp"
+    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u4-recursion/recursive-call-and-return-stack.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u4-recursion/recursive-euclidean-gcd.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u4-recursion/tail-vs-non-tail-recursion.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u4-recursion/tower-of-hanoi-movement.webp"
   ]
 }

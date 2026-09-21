@@ -1,38 +1,41 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.510Z",
+  "generatedAt": "2026-09-21T09:23:01.347Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bba/sixth-semester/financial-market-and-services/financial-market-regulation",
   "totalAssets": 3,
   "assets": {
     "monetary-policy-transmission-mechanism.webp": {
-      "key": "course/bba/sixth-semester/financial-market-and-services/financial-market-regulation/monetary-policy-transmission-mechanism.568ebde7.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/financial-market-regulation/monetary-policy-transmission-mechanism.568ebde7.webp",
+      "key": "course/bba/sixth-semester/financial-market-and-services/financial-market-regulation/monetary-policy-transmission-mechanism.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/financial-market-regulation/monetary-policy-transmission-mechanism.webp",
       "contentType": "image/webp",
       "width": 1728,
       "height": 910,
-      "bytes": 783566
+      "bytes": 143912,
+      "contentHashed": false
     },
     "regulatory-framework-of-financial-market.webp": {
-      "key": "course/bba/sixth-semester/financial-market-and-services/financial-market-regulation/regulatory-framework-of-financial-market.c2c62689.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/financial-market-regulation/regulatory-framework-of-financial-market.c2c62689.webp",
+      "key": "course/bba/sixth-semester/financial-market-and-services/financial-market-regulation/regulatory-framework-of-financial-market.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/financial-market-regulation/regulatory-framework-of-financial-market.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 923168
+      "bytes": 188914,
+      "contentHashed": false
     },
     "scope-of-financial-services.webp": {
-      "key": "course/bba/sixth-semester/financial-market-and-services/financial-market-regulation/scope-of-financial-services.8d5d1bcb.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/financial-market-regulation/scope-of-financial-services.8d5d1bcb.webp",
+      "key": "course/bba/sixth-semester/financial-market-and-services/financial-market-regulation/scope-of-financial-services.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/financial-market-regulation/scope-of-financial-services.webp",
       "contentType": "image/webp",
       "width": 1254,
       "height": 1254,
-      "bytes": 851984
+      "bytes": 144462,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/financial-market-regulation/monetary-policy-transmission-mechanism.568ebde7.webp",
-    "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/financial-market-regulation/regulatory-framework-of-financial-market.c2c62689.webp",
-    "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/financial-market-regulation/scope-of-financial-services.8d5d1bcb.webp"
+    "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/financial-market-regulation/monetary-policy-transmission-mechanism.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/financial-market-regulation/regulatory-framework-of-financial-market.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/financial-market-regulation/scope-of-financial-services.webp"
   ]
 }

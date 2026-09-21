@@ -1,56 +1,61 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.601Z",
+  "generatedAt": "2026-09-21T09:23:02.558Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/csit/first-semester/intro-to-it/u6-computer-software",
   "totalAssets": 5,
   "assets": {
     "memory-management.webp": {
-      "key": "course/csit/first-semester/intro-to-it/u6-computer-software/memory-management.1fca239d.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u6-computer-software/memory-management.1fca239d.webp",
+      "key": "course/csit/first-semester/intro-to-it/u6-computer-software/memory-management.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u6-computer-software/memory-management.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 604174
+      "bytes": 89118,
+      "contentHashed": false
     },
     "operating-system-functions.webp": {
-      "key": "course/csit/first-semester/intro-to-it/u6-computer-software/operating-system-functions.cc16e055.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u6-computer-software/operating-system-functions.cc16e055.webp",
+      "key": "course/csit/first-semester/intro-to-it/u6-computer-software/operating-system-functions.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u6-computer-software/operating-system-functions.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 553630
+      "bytes": 82226,
+      "contentHashed": false
     },
     "process-management.webp": {
-      "key": "course/csit/first-semester/intro-to-it/u6-computer-software/process-management.6914f68a.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u6-computer-software/process-management.6914f68a.webp",
+      "key": "course/csit/first-semester/intro-to-it/u6-computer-software/process-management.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u6-computer-software/process-management.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 613482
+      "bytes": 56840,
+      "contentHashed": false
     },
     "software-classification.webp": {
-      "key": "course/csit/first-semester/intro-to-it/u6-computer-software/software-classification.05aa9def.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u6-computer-software/software-classification.05aa9def.webp",
+      "key": "course/csit/first-semester/intro-to-it/u6-computer-software/software-classification.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u6-computer-software/software-classification.webp",
       "contentType": "image/webp",
       "width": 1692,
       "height": 930,
-      "bytes": 401752
+      "bytes": 62550,
+      "contentHashed": false
     },
     "system-and-application-software-interaction.webp": {
-      "key": "course/csit/first-semester/intro-to-it/u6-computer-software/system-and-application-software-interaction.c80022d0.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u6-computer-software/system-and-application-software-interaction.c80022d0.webp",
+      "key": "course/csit/first-semester/intro-to-it/u6-computer-software/system-and-application-software-interaction.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u6-computer-software/system-and-application-software-interaction.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 503150
+      "bytes": 85304,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u6-computer-software/memory-management.1fca239d.webp",
-    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u6-computer-software/operating-system-functions.cc16e055.webp",
-    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u6-computer-software/process-management.6914f68a.webp",
-    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u6-computer-software/software-classification.05aa9def.webp",
-    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u6-computer-software/system-and-application-software-interaction.c80022d0.webp"
+    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u6-computer-software/memory-management.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u6-computer-software/operating-system-functions.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u6-computer-software/process-management.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u6-computer-software/software-classification.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u6-computer-software/system-and-application-software-interaction.webp"
   ]
 }

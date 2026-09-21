@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.394Z",
+  "generatedAt": "2026-09-21T09:23:02.427Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/second-year/abnormal-psychology/u3-anxiety-obsessive-compulsive-and-trauma-and-stressor-related-disorders",
   "totalAssets": 4,
   "assets": {
     "anxiety-and-avoidance-cycle.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u3-anxiety-obsessive-compulsive-and-trauma-and-stressor-related-disorders/anxiety-and-avoidance-cycle.529a35e5.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u3-anxiety-obsessive-compulsive-and-trauma-and-stressor-related-disorders/anxiety-and-avoidance-cycle.529a35e5.webp",
+      "key": "course/bsw/second-year/abnormal-psychology/u3-anxiety-obsessive-compulsive-and-trauma-and-stressor-related-disorders/anxiety-and-avoidance-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u3-anxiety-obsessive-compulsive-and-trauma-and-stressor-related-disorders/anxiety-and-avoidance-cycle.webp",
       "contentType": "image/webp",
       "width": 1254,
       "height": 1254,
-      "bytes": 836536
+      "bytes": 137296,
+      "contentHashed": false
     },
     "anxiety-disorder-family.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u3-anxiety-obsessive-compulsive-and-trauma-and-stressor-related-disorders/anxiety-disorder-family.d3b180fa.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u3-anxiety-obsessive-compulsive-and-trauma-and-stressor-related-disorders/anxiety-disorder-family.d3b180fa.webp",
+      "key": "course/bsw/second-year/abnormal-psychology/u3-anxiety-obsessive-compulsive-and-trauma-and-stressor-related-disorders/anxiety-disorder-family.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u3-anxiety-obsessive-compulsive-and-trauma-and-stressor-related-disorders/anxiety-disorder-family.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 790178
+      "bytes": 118720,
+      "contentHashed": false
     },
     "obsessive-compulsive-cycle.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u3-anxiety-obsessive-compulsive-and-trauma-and-stressor-related-disorders/obsessive-compulsive-cycle.778b0841.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u3-anxiety-obsessive-compulsive-and-trauma-and-stressor-related-disorders/obsessive-compulsive-cycle.778b0841.webp",
+      "key": "course/bsw/second-year/abnormal-psychology/u3-anxiety-obsessive-compulsive-and-trauma-and-stressor-related-disorders/obsessive-compulsive-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u3-anxiety-obsessive-compulsive-and-trauma-and-stressor-related-disorders/obsessive-compulsive-cycle.webp",
       "contentType": "image/webp",
       "width": 1254,
       "height": 1254,
-      "bytes": 892684
+      "bytes": 127536,
+      "contentHashed": false
     },
     "trauma-and-stressor-related-disorder-pathway.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u3-anxiety-obsessive-compulsive-and-trauma-and-stressor-related-disorders/trauma-and-stressor-related-disorder-pathway.503cc406.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u3-anxiety-obsessive-compulsive-and-trauma-and-stressor-related-disorders/trauma-and-stressor-related-disorder-pathway.503cc406.webp",
+      "key": "course/bsw/second-year/abnormal-psychology/u3-anxiety-obsessive-compulsive-and-trauma-and-stressor-related-disorders/trauma-and-stressor-related-disorder-pathway.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u3-anxiety-obsessive-compulsive-and-trauma-and-stressor-related-disorders/trauma-and-stressor-related-disorder-pathway.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 740082
+      "bytes": 91062,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u3-anxiety-obsessive-compulsive-and-trauma-and-stressor-related-disorders/anxiety-and-avoidance-cycle.529a35e5.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u3-anxiety-obsessive-compulsive-and-trauma-and-stressor-related-disorders/anxiety-disorder-family.d3b180fa.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u3-anxiety-obsessive-compulsive-and-trauma-and-stressor-related-disorders/obsessive-compulsive-cycle.778b0841.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u3-anxiety-obsessive-compulsive-and-trauma-and-stressor-related-disorders/trauma-and-stressor-related-disorder-pathway.503cc406.webp"
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u3-anxiety-obsessive-compulsive-and-trauma-and-stressor-related-disorders/anxiety-and-avoidance-cycle.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u3-anxiety-obsessive-compulsive-and-trauma-and-stressor-related-disorders/anxiety-disorder-family.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u3-anxiety-obsessive-compulsive-and-trauma-and-stressor-related-disorders/obsessive-compulsive-cycle.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u3-anxiety-obsessive-compulsive-and-trauma-and-stressor-related-disorders/trauma-and-stressor-related-disorder-pathway.webp"
   ]
 }

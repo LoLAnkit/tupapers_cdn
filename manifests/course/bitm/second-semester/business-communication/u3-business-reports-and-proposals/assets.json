@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.146Z",
+  "generatedAt": "2026-09-21T09:23:02.252Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bitm/second-semester/business-communication/u3-business-reports-and-proposals",
   "totalAssets": 4,
   "assets": {
     "business-proposal-format.webp": {
-      "key": "course/bitm/second-semester/business-communication/u3-business-reports-and-proposals/business-proposal-format.1e22c1a5.webp",
-      "url": "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u3-business-reports-and-proposals/business-proposal-format.1e22c1a5.webp",
+      "key": "course/bitm/second-semester/business-communication/u3-business-reports-and-proposals/business-proposal-format.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u3-business-reports-and-proposals/business-proposal-format.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 802054
+      "bytes": 131704,
+      "contentHashed": false
     },
     "business-report-format.webp": {
-      "key": "course/bitm/second-semester/business-communication/u3-business-reports-and-proposals/business-report-format.0368afc6.webp",
-      "url": "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u3-business-reports-and-proposals/business-report-format.0368afc6.webp",
+      "key": "course/bitm/second-semester/business-communication/u3-business-reports-and-proposals/business-report-format.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u3-business-reports-and-proposals/business-report-format.webp",
       "contentType": "image/webp",
       "width": 1983,
       "height": 793,
-      "bytes": 408522
+      "bytes": 57028,
+      "contentHashed": false
     },
     "executive-summary-one-page-model.webp": {
-      "key": "course/bitm/second-semester/business-communication/u3-business-reports-and-proposals/executive-summary-one-page-model.dc0db644.webp",
-      "url": "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u3-business-reports-and-proposals/executive-summary-one-page-model.dc0db644.webp",
+      "key": "course/bitm/second-semester/business-communication/u3-business-reports-and-proposals/executive-summary-one-page-model.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u3-business-reports-and-proposals/executive-summary-one-page-model.webp",
       "contentType": "image/webp",
       "width": 1024,
       "height": 1536,
-      "bytes": 998602
+      "bytes": 171782,
+      "contentHashed": false
     },
     "visual-data-presentation-guide.webp": {
-      "key": "course/bitm/second-semester/business-communication/u3-business-reports-and-proposals/visual-data-presentation-guide.a0b70162.webp",
-      "url": "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u3-business-reports-and-proposals/visual-data-presentation-guide.a0b70162.webp",
+      "key": "course/bitm/second-semester/business-communication/u3-business-reports-and-proposals/visual-data-presentation-guide.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u3-business-reports-and-proposals/visual-data-presentation-guide.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 753828
+      "bytes": 96736,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u3-business-reports-and-proposals/business-proposal-format.1e22c1a5.webp",
-    "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u3-business-reports-and-proposals/business-report-format.0368afc6.webp",
-    "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u3-business-reports-and-proposals/executive-summary-one-page-model.dc0db644.webp",
-    "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u3-business-reports-and-proposals/visual-data-presentation-guide.a0b70162.webp"
+    "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u3-business-reports-and-proposals/business-proposal-format.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u3-business-reports-and-proposals/business-report-format.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u3-business-reports-and-proposals/executive-summary-one-page-model.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u3-business-reports-and-proposals/visual-data-presentation-guide.webp"
   ]
 }

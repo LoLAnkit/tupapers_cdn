@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.727Z",
+  "generatedAt": "2026-09-21T09:23:01.914Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/seventh-semester/cyber-law/u1-an-overview-of-ethics",
   "totalAssets": 4,
   "assets": {
     "acceptable-use-of-it-resources.webp": {
-      "key": "course/bca/seventh-semester/cyber-law/u1-an-overview-of-ethics/acceptable-use-of-it-resources.6ca22625.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u1-an-overview-of-ethics/acceptable-use-of-it-resources.6ca22625.webp",
+      "key": "course/bca/seventh-semester/cyber-law/u1-an-overview-of-ethics/acceptable-use-of-it-resources.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u1-an-overview-of-ethics/acceptable-use-of-it-resources.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 389028
+      "bytes": 70922,
+      "contentHashed": false
     },
     "csr-and-good-business-ethics-stakeholder-map.webp": {
-      "key": "course/bca/seventh-semester/cyber-law/u1-an-overview-of-ethics/csr-and-good-business-ethics-stakeholder-map.e0bd7c1e.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u1-an-overview-of-ethics/csr-and-good-business-ethics-stakeholder-map.e0bd7c1e.webp",
+      "key": "course/bca/seventh-semester/cyber-law/u1-an-overview-of-ethics/csr-and-good-business-ethics-stakeholder-map.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u1-an-overview-of-ethics/csr-and-good-business-ethics-stakeholder-map.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 377444
+      "bytes": 83686,
+      "contentHashed": false
     },
     "ethical-decision-making-process.webp": {
-      "key": "course/bca/seventh-semester/cyber-law/u1-an-overview-of-ethics/ethical-decision-making-process.178f9132.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u1-an-overview-of-ethics/ethical-decision-making-process.178f9132.webp",
+      "key": "course/bca/seventh-semester/cyber-law/u1-an-overview-of-ethics/ethical-decision-making-process.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u1-an-overview-of-ethics/ethical-decision-making-process.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 331978
+      "bytes": 67672,
+      "contentHashed": false
     },
     "it-professionalism-framework.webp": {
-      "key": "course/bca/seventh-semester/cyber-law/u1-an-overview-of-ethics/it-professionalism-framework.ae994698.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u1-an-overview-of-ethics/it-professionalism-framework.ae994698.webp",
+      "key": "course/bca/seventh-semester/cyber-law/u1-an-overview-of-ethics/it-professionalism-framework.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u1-an-overview-of-ethics/it-professionalism-framework.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 599064
+      "bytes": 115958,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u1-an-overview-of-ethics/acceptable-use-of-it-resources.6ca22625.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u1-an-overview-of-ethics/csr-and-good-business-ethics-stakeholder-map.e0bd7c1e.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u1-an-overview-of-ethics/ethical-decision-making-process.178f9132.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u1-an-overview-of-ethics/it-professionalism-framework.ae994698.webp"
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u1-an-overview-of-ethics/acceptable-use-of-it-resources.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u1-an-overview-of-ethics/csr-and-good-business-ethics-stakeholder-map.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u1-an-overview-of-ethics/ethical-decision-making-process.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u1-an-overview-of-ethics/it-professionalism-framework.webp"
   ]
 }

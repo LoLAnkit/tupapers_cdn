@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:02.662Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/csit/fourth-semester/dbms/u9-concurrency-control-techniques",
+  "totalAssets": 4,
+  "assets": {
+    "concurrency-problems.webp": {
+      "key": "course/csit/fourth-semester/dbms/u9-concurrency-control-techniques/concurrency-problems.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/dbms/u9-concurrency-control-techniques/concurrency-problems.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 118508,
+      "contentHashed": false
+    },
+    "deadlock.webp": {
+      "key": "course/csit/fourth-semester/dbms/u9-concurrency-control-techniques/deadlock.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/dbms/u9-concurrency-control-techniques/deadlock.webp",
+      "contentType": "image/webp",
+      "width": 1374,
+      "height": 1145,
+      "bytes": 52672,
+      "contentHashed": false
+    },
+    "optimistic-vs-multiversion-cc.webp": {
+      "key": "course/csit/fourth-semester/dbms/u9-concurrency-control-techniques/optimistic-vs-multiversion-cc.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/dbms/u9-concurrency-control-techniques/optimistic-vs-multiversion-cc.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 138500,
+      "contentHashed": false
+    },
+    "two-phase-locking-phases.webp": {
+      "key": "course/csit/fourth-semester/dbms/u9-concurrency-control-techniques/two-phase-locking-phases.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/dbms/u9-concurrency-control-techniques/two-phase-locking-phases.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 110876,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/csit/fourth-semester/dbms/u9-concurrency-control-techniques/concurrency-problems.webp",
+    "https://cdn.tupapers.com/course/csit/fourth-semester/dbms/u9-concurrency-control-techniques/deadlock.webp",
+    "https://cdn.tupapers.com/course/csit/fourth-semester/dbms/u9-concurrency-control-techniques/optimistic-vs-multiversion-cc.webp",
+    "https://cdn.tupapers.com/course/csit/fourth-semester/dbms/u9-concurrency-control-techniques/two-phase-locking-phases.webp"
+  ]
+}

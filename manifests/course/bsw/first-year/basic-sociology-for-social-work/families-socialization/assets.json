@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.218Z",
+  "generatedAt": "2026-09-21T09:23:02.312Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/first-year/basic-sociology-for-social-work/families-socialization",
   "totalAssets": 4,
   "assets": {
     "agents-of-socialization-diagram.webp": {
-      "key": "course/bsw/first-year/basic-sociology-for-social-work/families-socialization/agents-of-socialization-diagram.015aa2ba.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/families-socialization/agents-of-socialization-diagram.015aa2ba.webp",
+      "key": "course/bsw/first-year/basic-sociology-for-social-work/families-socialization/agents-of-socialization-diagram.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/families-socialization/agents-of-socialization-diagram.webp",
       "contentType": "image/webp",
       "width": 1254,
       "height": 1254,
-      "bytes": 659014
+      "bytes": 73068,
+      "contentHashed": false
     },
     "family-types-in-nepal-diagram.webp": {
-      "key": "course/bsw/first-year/basic-sociology-for-social-work/families-socialization/family-types-in-nepal-diagram.7988a13a.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/families-socialization/family-types-in-nepal-diagram.7988a13a.webp",
+      "key": "course/bsw/first-year/basic-sociology-for-social-work/families-socialization/family-types-in-nepal-diagram.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/families-socialization/family-types-in-nepal-diagram.webp",
       "contentType": "image/webp",
       "width": 1402,
       "height": 1122,
-      "bytes": 906756
+      "bytes": 136032,
+      "contentHashed": false
     },
     "gender-socialization-process.webp": {
-      "key": "course/bsw/first-year/basic-sociology-for-social-work/families-socialization/gender-socialization-process.6b638cf0.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/families-socialization/gender-socialization-process.6b638cf0.webp",
+      "key": "course/bsw/first-year/basic-sociology-for-social-work/families-socialization/gender-socialization-process.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/families-socialization/gender-socialization-process.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 839246
+      "bytes": 143332,
+      "contentHashed": false
     },
     "lifelong-socialization-journey.webp": {
-      "key": "course/bsw/first-year/basic-sociology-for-social-work/families-socialization/lifelong-socialization-journey.bdcff83a.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/families-socialization/lifelong-socialization-journey.bdcff83a.webp",
+      "key": "course/bsw/first-year/basic-sociology-for-social-work/families-socialization/lifelong-socialization-journey.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/families-socialization/lifelong-socialization-journey.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 919390
+      "bytes": 162972,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/families-socialization/agents-of-socialization-diagram.015aa2ba.webp",
-    "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/families-socialization/family-types-in-nepal-diagram.7988a13a.webp",
-    "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/families-socialization/gender-socialization-process.6b638cf0.webp",
-    "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/families-socialization/lifelong-socialization-journey.bdcff83a.webp"
+    "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/families-socialization/agents-of-socialization-diagram.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/families-socialization/family-types-in-nepal-diagram.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/families-socialization/gender-socialization-process.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/families-socialization/lifelong-socialization-journey.webp"
   ]
 }

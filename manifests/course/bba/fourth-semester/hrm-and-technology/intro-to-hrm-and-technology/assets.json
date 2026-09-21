@@ -1,38 +1,41 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.303Z",
+  "generatedAt": "2026-09-21T09:23:01.160Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bba/fourth-semester/hrm-and-technology/intro-to-hrm-and-technology",
   "totalAssets": 3,
   "assets": {
     "evolution-of-hr-leadership-roles.webp": {
-      "key": "course/bba/fourth-semester/hrm-and-technology/intro-to-hrm-and-technology/evolution-of-hr-leadership-roles.8961068e.webp",
-      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/intro-to-hrm-and-technology/evolution-of-hr-leadership-roles.8961068e.webp",
+      "key": "course/bba/fourth-semester/hrm-and-technology/intro-to-hrm-and-technology/evolution-of-hr-leadership-roles.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/intro-to-hrm-and-technology/evolution-of-hr-leadership-roles.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 779228
+      "bytes": 142474,
+      "contentHashed": false
     },
     "hrm-functions-and-outcome-framework.webp": {
-      "key": "course/bba/fourth-semester/hrm-and-technology/intro-to-hrm-and-technology/hrm-functions-and-outcome-framework.0a825b69.webp",
-      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/intro-to-hrm-and-technology/hrm-functions-and-outcome-framework.0a825b69.webp",
+      "key": "course/bba/fourth-semester/hrm-and-technology/intro-to-hrm-and-technology/hrm-functions-and-outcome-framework.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/intro-to-hrm-and-technology/hrm-functions-and-outcome-framework.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 737690
+      "bytes": 141144,
+      "contentHashed": false
     },
     "hrm-paradigm-shift-comparison-chart.webp": {
-      "key": "course/bba/fourth-semester/hrm-and-technology/intro-to-hrm-and-technology/hrm-paradigm-shift-comparison-chart.30ae4809.webp",
-      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/intro-to-hrm-and-technology/hrm-paradigm-shift-comparison-chart.30ae4809.webp",
+      "key": "course/bba/fourth-semester/hrm-and-technology/intro-to-hrm-and-technology/hrm-paradigm-shift-comparison-chart.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/intro-to-hrm-and-technology/hrm-paradigm-shift-comparison-chart.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 810362
+      "bytes": 119060,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/intro-to-hrm-and-technology/evolution-of-hr-leadership-roles.8961068e.webp",
-    "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/intro-to-hrm-and-technology/hrm-functions-and-outcome-framework.0a825b69.webp",
-    "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/intro-to-hrm-and-technology/hrm-paradigm-shift-comparison-chart.30ae4809.webp"
+    "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/intro-to-hrm-and-technology/evolution-of-hr-leadership-roles.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/intro-to-hrm-and-technology/hrm-functions-and-outcome-framework.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/intro-to-hrm-and-technology/hrm-paradigm-shift-comparison-chart.webp"
   ]
 }

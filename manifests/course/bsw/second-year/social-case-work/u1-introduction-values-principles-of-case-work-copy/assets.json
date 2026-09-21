@@ -1,29 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.494Z",
+  "generatedAt": "2026-09-21T09:23:02.489Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/second-year/social-case-work/u1-introduction-values-principles-of-case-work-copy",
   "totalAssets": 2,
   "assets": {
     "scope-of-case-work.webp": {
-      "key": "course/bsw/second-year/social-case-work/u1-introduction-values-principles-of-case-work-copy/scope-of-case-work.d01e96df.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u1-introduction-values-principles-of-case-work-copy/scope-of-case-work.d01e96df.webp",
+      "key": "course/bsw/second-year/social-case-work/u1-introduction-values-principles-of-case-work-copy/scope-of-case-work.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u1-introduction-values-principles-of-case-work-copy/scope-of-case-work.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 1050452
+      "bytes": 140864,
+      "contentHashed": false
     },
     "values-and-principles-map.webp": {
-      "key": "course/bsw/second-year/social-case-work/u1-introduction-values-principles-of-case-work-copy/values-and-principles-map.96f8f3b3.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u1-introduction-values-principles-of-case-work-copy/values-and-principles-map.96f8f3b3.webp",
+      "key": "course/bsw/second-year/social-case-work/u1-introduction-values-principles-of-case-work-copy/values-and-principles-map.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u1-introduction-values-principles-of-case-work-copy/values-and-principles-map.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 915464
+      "bytes": 126476,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u1-introduction-values-principles-of-case-work-copy/scope-of-case-work.d01e96df.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u1-introduction-values-principles-of-case-work-copy/values-and-principles-map.96f8f3b3.webp"
+    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u1-introduction-values-principles-of-case-work-copy/scope-of-case-work.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u1-introduction-values-principles-of-case-work-copy/values-and-principles-map.webp"
   ]
 }

@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.837Z",
+  "generatedAt": "2026-09-21T09:23:02.018Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/seventh-semester/network-administration/u4-service-recommendation",
   "totalAssets": 4,
   "assets": {
     "backup-and-restore-model.webp": {
-      "key": "course/bca/seventh-semester/network-administration/u4-service-recommendation/backup-and-restore-model.f35af88f.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/network-administration/u4-service-recommendation/backup-and-restore-model.f35af88f.webp",
+      "key": "course/bca/seventh-semester/network-administration/u4-service-recommendation/backup-and-restore-model.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/network-administration/u4-service-recommendation/backup-and-restore-model.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 407304
+      "bytes": 78582,
+      "contentHashed": false
     },
     "dns-dhcp-and-vpn-service-interaction.webp": {
-      "key": "course/bca/seventh-semester/network-administration/u4-service-recommendation/dns-dhcp-and-vpn-service-interaction.5723ed99.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/network-administration/u4-service-recommendation/dns-dhcp-and-vpn-service-interaction.5723ed99.webp",
+      "key": "course/bca/seventh-semester/network-administration/u4-service-recommendation/dns-dhcp-and-vpn-service-interaction.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/network-administration/u4-service-recommendation/dns-dhcp-and-vpn-service-interaction.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 387588
+      "bytes": 54702,
+      "contentHashed": false
     },
     "network-print-service-architecture.webp": {
-      "key": "course/bca/seventh-semester/network-administration/u4-service-recommendation/network-print-service-architecture.999d380a.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/network-administration/u4-service-recommendation/network-print-service-architecture.999d380a.webp",
+      "key": "course/bca/seventh-semester/network-administration/u4-service-recommendation/network-print-service-architecture.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/network-administration/u4-service-recommendation/network-print-service-architecture.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 505124
+      "bytes": 102374,
+      "contentHashed": false
     },
     "network-service-monitoring-cycle.webp": {
-      "key": "course/bca/seventh-semester/network-administration/u4-service-recommendation/network-service-monitoring-cycle.9f2b1d82.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/network-administration/u4-service-recommendation/network-service-monitoring-cycle.9f2b1d82.webp",
+      "key": "course/bca/seventh-semester/network-administration/u4-service-recommendation/network-service-monitoring-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/network-administration/u4-service-recommendation/network-service-monitoring-cycle.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 576146
+      "bytes": 93420,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/seventh-semester/network-administration/u4-service-recommendation/backup-and-restore-model.f35af88f.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/network-administration/u4-service-recommendation/dns-dhcp-and-vpn-service-interaction.5723ed99.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/network-administration/u4-service-recommendation/network-print-service-architecture.999d380a.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/network-administration/u4-service-recommendation/network-service-monitoring-cycle.9f2b1d82.webp"
+    "https://cdn.tupapers.com/course/bca/seventh-semester/network-administration/u4-service-recommendation/backup-and-restore-model.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/network-administration/u4-service-recommendation/dns-dhcp-and-vpn-service-interaction.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/network-administration/u4-service-recommendation/network-print-service-architecture.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/network-administration/u4-service-recommendation/network-service-monitoring-cycle.webp"
   ]
 }

@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:01.753Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/fourth-semester/computer-networking/u4-network-layer",
+  "totalAssets": 4,
+  "assets": {
+    "ipv4-and-ipv6-datagram-formats.webp": {
+      "key": "course/bca/fourth-semester/computer-networking/u4-network-layer/ipv4-and-ipv6-datagram-formats.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/computer-networking/u4-network-layer/ipv4-and-ipv6-datagram-formats.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 112830,
+      "contentHashed": false
+    },
+    "ipv4-subnetting-tree.webp": {
+      "key": "course/bca/fourth-semester/computer-networking/u4-network-layer/ipv4-subnetting-tree.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/computer-networking/u4-network-layer/ipv4-subnetting-tree.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 124334,
+      "contentHashed": false
+    },
+    "ipv4-to-ipv6-transition.webp": {
+      "key": "course/bca/fourth-semester/computer-networking/u4-network-layer/ipv4-to-ipv6-transition.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/computer-networking/u4-network-layer/ipv4-to-ipv6-transition.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 103878,
+      "contentHashed": false
+    },
+    "routing-computation-view.webp": {
+      "key": "course/bca/fourth-semester/computer-networking/u4-network-layer/routing-computation-view.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/computer-networking/u4-network-layer/routing-computation-view.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 191040,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/fourth-semester/computer-networking/u4-network-layer/ipv4-and-ipv6-datagram-formats.webp",
+    "https://cdn.tupapers.com/course/bca/fourth-semester/computer-networking/u4-network-layer/ipv4-subnetting-tree.webp",
+    "https://cdn.tupapers.com/course/bca/fourth-semester/computer-networking/u4-network-layer/ipv4-to-ipv6-transition.webp",
+    "https://cdn.tupapers.com/course/bca/fourth-semester/computer-networking/u4-network-layer/routing-computation-view.webp"
+  ]
+}

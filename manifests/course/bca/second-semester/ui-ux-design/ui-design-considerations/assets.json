@@ -1,56 +1,61 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.657Z",
+  "generatedAt": "2026-09-21T09:23:01.847Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/second-semester/ui-ux-design/ui-design-considerations",
   "totalAssets": 5,
   "assets": {
     "color-schema-types.webp": {
-      "key": "course/bca/second-semester/ui-ux-design/ui-design-considerations/color-schema-types.c351557b.webp",
-      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/ui-design-considerations/color-schema-types.c351557b.webp",
+      "key": "course/bca/second-semester/ui-ux-design/ui-design-considerations/color-schema-types.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/ui-design-considerations/color-schema-types.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 715954
+      "bytes": 81642,
+      "contentHashed": false
     },
     "navigations-models.webp": {
-      "key": "course/bca/second-semester/ui-ux-design/ui-design-considerations/navigations-models.734b1615.webp",
-      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/ui-design-considerations/navigations-models.734b1615.webp",
+      "key": "course/bca/second-semester/ui-ux-design/ui-design-considerations/navigations-models.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/ui-design-considerations/navigations-models.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 444628
+      "bytes": 76128,
+      "contentHashed": false
     },
     "page-layout-anatomy.webp": {
-      "key": "course/bca/second-semester/ui-ux-design/ui-design-considerations/page-layout-anatomy.b0988214.webp",
-      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/ui-design-considerations/page-layout-anatomy.b0988214.webp",
+      "key": "course/bca/second-semester/ui-ux-design/ui-design-considerations/page-layout-anatomy.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/ui-design-considerations/page-layout-anatomy.webp",
       "contentType": "image/webp",
       "width": 1402,
       "height": 1122,
-      "bytes": 396472
+      "bytes": 91784,
+      "contentHashed": false
     },
     "types-of-navigation.webp": {
-      "key": "course/bca/second-semester/ui-ux-design/ui-design-considerations/types-of-navigation.e3775a4b.webp",
-      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/ui-design-considerations/types-of-navigation.e3775a4b.webp",
+      "key": "course/bca/second-semester/ui-ux-design/ui-design-considerations/types-of-navigation.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/ui-design-considerations/types-of-navigation.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 525242
+      "bytes": 114922,
+      "contentHashed": false
     },
     "visual-hierarchy-principles.webp": {
-      "key": "course/bca/second-semester/ui-ux-design/ui-design-considerations/visual-hierarchy-principles.9b8f8a5a.webp",
-      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/ui-design-considerations/visual-hierarchy-principles.9b8f8a5a.webp",
+      "key": "course/bca/second-semester/ui-ux-design/ui-design-considerations/visual-hierarchy-principles.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/ui-design-considerations/visual-hierarchy-principles.webp",
       "contentType": "image/webp",
       "width": 1254,
       "height": 1254,
-      "bytes": 507508
+      "bytes": 108542,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/ui-design-considerations/color-schema-types.c351557b.webp",
-    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/ui-design-considerations/navigations-models.734b1615.webp",
-    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/ui-design-considerations/page-layout-anatomy.b0988214.webp",
-    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/ui-design-considerations/types-of-navigation.e3775a4b.webp",
-    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/ui-design-considerations/visual-hierarchy-principles.9b8f8a5a.webp"
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/ui-design-considerations/color-schema-types.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/ui-design-considerations/navigations-models.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/ui-design-considerations/page-layout-anatomy.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/ui-design-considerations/types-of-navigation.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/ui-design-considerations/visual-hierarchy-principles.webp"
   ]
 }

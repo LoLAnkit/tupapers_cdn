@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.598Z",
+  "generatedAt": "2026-09-21T09:23:01.573Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/first-semester/cfa/u2-computer-hardware",
   "totalAssets": 4,
   "assets": {
     "basic-computer-organization.webp": {
-      "key": "course/bca/first-semester/cfa/u2-computer-hardware/basic-computer-organization.31af1900.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u2-computer-hardware/basic-computer-organization.31af1900.webp",
+      "key": "course/bca/first-semester/cfa/u2-computer-hardware/basic-computer-organization.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u2-computer-hardware/basic-computer-organization.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 475754
+      "bytes": 79140,
+      "contentHashed": false
     },
     "cpu-internal-structure.webp": {
-      "key": "course/bca/first-semester/cfa/u2-computer-hardware/cpu-internal-structure.03fa4eea.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u2-computer-hardware/cpu-internal-structure.03fa4eea.webp",
+      "key": "course/bca/first-semester/cfa/u2-computer-hardware/cpu-internal-structure.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u2-computer-hardware/cpu-internal-structure.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 728560
+      "bytes": 94418,
+      "contentHashed": false
     },
     "memory-hierarchy.webp": {
-      "key": "course/bca/first-semester/cfa/u2-computer-hardware/memory-hierarchy.ed2c2315.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u2-computer-hardware/memory-hierarchy.ed2c2315.webp",
+      "key": "course/bca/first-semester/cfa/u2-computer-hardware/memory-hierarchy.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u2-computer-hardware/memory-hierarchy.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 764168
+      "bytes": 102976,
+      "contentHashed": false
     },
     "motherboard-components.webp": {
-      "key": "course/bca/first-semester/cfa/u2-computer-hardware/motherboard-components.df1ee434.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u2-computer-hardware/motherboard-components.df1ee434.webp",
+      "key": "course/bca/first-semester/cfa/u2-computer-hardware/motherboard-components.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u2-computer-hardware/motherboard-components.webp",
       "contentType": "image/webp",
       "width": 1222,
       "height": 1287,
-      "bytes": 735288
+      "bytes": 249274,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u2-computer-hardware/basic-computer-organization.31af1900.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u2-computer-hardware/cpu-internal-structure.03fa4eea.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u2-computer-hardware/memory-hierarchy.ed2c2315.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u2-computer-hardware/motherboard-components.df1ee434.webp"
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u2-computer-hardware/basic-computer-organization.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u2-computer-hardware/cpu-internal-structure.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u2-computer-hardware/memory-hierarchy.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u2-computer-hardware/motherboard-components.webp"
   ]
 }

@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:02.145Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bhm/fourth-semester/food-beverage-mgt/u3-f-and-b-control-system",
+  "totalAssets": 4,
+  "assets": {
+    "f-and-b-control-cycle.webp": {
+      "key": "course/bhm/fourth-semester/food-beverage-mgt/u3-f-and-b-control-system/f-and-b-control-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/food-beverage-mgt/u3-f-and-b-control-system/f-and-b-control-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 111356,
+      "contentHashed": false
+    },
+    "food-and-beverage-cost-elements.webp": {
+      "key": "course/bhm/fourth-semester/food-beverage-mgt/u3-f-and-b-control-system/food-and-beverage-cost-elements.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/food-beverage-mgt/u3-f-and-b-control-system/food-and-beverage-cost-elements.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 124650,
+      "contentHashed": false
+    },
+    "receiving-and-store-control.webp": {
+      "key": "course/bhm/fourth-semester/food-beverage-mgt/u3-f-and-b-control-system/receiving-and-store-control.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/food-beverage-mgt/u3-f-and-b-control-system/receiving-and-store-control.webp",
+      "contentType": "image/webp",
+      "width": 2059,
+      "height": 764,
+      "bytes": 84170,
+      "contentHashed": false
+    },
+    "revenue-leakage-prevention-with-technology.webp": {
+      "key": "course/bhm/fourth-semester/food-beverage-mgt/u3-f-and-b-control-system/revenue-leakage-prevention-with-technology.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/food-beverage-mgt/u3-f-and-b-control-system/revenue-leakage-prevention-with-technology.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 127264,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/food-beverage-mgt/u3-f-and-b-control-system/f-and-b-control-cycle.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/food-beverage-mgt/u3-f-and-b-control-system/food-and-beverage-cost-elements.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/food-beverage-mgt/u3-f-and-b-control-system/receiving-and-store-control.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/food-beverage-mgt/u3-f-and-b-control-system/revenue-leakage-prevention-with-technology.webp"
+  ]
+}

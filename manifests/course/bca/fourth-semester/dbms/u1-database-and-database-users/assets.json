@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:01.768Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/fourth-semester/dbms/u1-database-and-database-users",
+  "totalAssets": 6,
+  "assets": {
+    "actors-on-the-scene.webp": {
+      "key": "course/bca/fourth-semester/dbms/u1-database-and-database-users/actors-on-the-scene.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u1-database-and-database-users/actors-on-the-scene.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 143124,
+      "contentHashed": false
+    },
+    "advantages-of-dbms.webp": {
+      "key": "course/bca/fourth-semester/dbms/u1-database-and-database-users/advantages-of-dbms.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u1-database-and-database-users/advantages-of-dbms.webp",
+      "contentType": "image/webp",
+      "width": 1312,
+      "height": 1199,
+      "bytes": 85498,
+      "contentHashed": false
+    },
+    "database-system-environment.webp": {
+      "key": "course/bca/fourth-semester/dbms/u1-database-and-database-users/database-system-environment.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u1-database-and-database-users/database-system-environment.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 94988,
+      "contentHashed": false
+    },
+    "dbms-components-overview.webp": {
+      "key": "course/bca/fourth-semester/dbms/u1-database-and-database-users/dbms-components-overview.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u1-database-and-database-users/dbms-components-overview.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 98972,
+      "contentHashed": false
+    },
+    "file-system-vs-dbms.webp": {
+      "key": "course/bca/fourth-semester/dbms/u1-database-and-database-users/file-system-vs-dbms.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u1-database-and-database-users/file-system-vs-dbms.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 164322,
+      "contentHashed": false
+    },
+    "workers-behind-the-scene.webp": {
+      "key": "course/bca/fourth-semester/dbms/u1-database-and-database-users/workers-behind-the-scene.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u1-database-and-database-users/workers-behind-the-scene.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 150050,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u1-database-and-database-users/actors-on-the-scene.webp",
+    "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u1-database-and-database-users/advantages-of-dbms.webp",
+    "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u1-database-and-database-users/database-system-environment.webp",
+    "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u1-database-and-database-users/dbms-components-overview.webp",
+    "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u1-database-and-database-users/file-system-vs-dbms.webp",
+    "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u1-database-and-database-users/workers-behind-the-scene.webp"
+  ]
+}

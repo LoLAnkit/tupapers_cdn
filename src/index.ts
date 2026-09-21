@@ -1,20 +1,28 @@
 #!/usr/bin/env node
 import fs from "node:fs/promises";
 import path from "node:path";
+import { createHash } from "node:crypto";
 import { Command } from "commander";
 import pLimit from "p-limit";
 import {
   DIST_DIR,
   SOURCE_DIR,
   DEFAULT_WATERMARK_PATH,
+  SHARP_BUILD_CACHE_PATH,
+  CACHE_CONTROL,
+  MUTABLE_ASSET_CACHE_CONTROL,
   cdnBaseOnly,
   concurrency,
   getR2,
 } from "./config.js";
 import { discover } from "./discover.js";
-import { optimizeImage, type OptimizeOptions, type WatermarkPosition } from "./optimize.js";
-import { hashBytes } from "./hash.js";
-import { buildKeys } from "./keys.js";
+import {
+  inspectImage,
+  optimizeImage,
+  type OptimizeOptions,
+  type WatermarkPosition,
+} from "./optimize.js";
+import { buildNormalKey, logicalKeyForOutput } from "./keys.js";
 import {
   writeFolderManifests,
   cleanupLegacyManifests,
@@ -36,10 +44,15 @@ const CONTENT_TYPES: Record<string, string> = {
   ".jpeg": "image/jpeg",
   ".gif": "image/gif",
   ".avif": "image/avif",
+  ".tiff": "image/tiff",
 };
 
 function contentTypeFor(key: string): string {
   return CONTENT_TYPES[path.extname(key).toLowerCase()] ?? "application/octet-stream";
+}
+
+function isContentHashed(entry: AssetEntry): boolean {
+  return entry.contentHashed ?? /\.[0-9a-f]{8}\.[^./]+$/i.test(entry.key);
 }
 
 function fmtBytes(n: number): string {
@@ -48,40 +61,94 @@ function fmtBytes(n: number): string {
   return `${(n / 1024 / 1024).toFixed(2)} MB`;
 }
 
-function parseMode(value: string): "graphic" | "photo" {
-  if (value !== "graphic" && value !== "photo") {
-    throw new Error(`--mode must be "graphic" or "photo" (got "${value}")`);
+// ---------------------------------------------------------------------------
+// Build
+// ---------------------------------------------------------------------------
+
+interface BuildOpts {
+  quality: number;
+  maxWidth?: number;
+  watermarkPath?: string;
+  noWatermark: boolean;
+  watermarkPosition: WatermarkPosition;
+  force: boolean;
+  adoptExisting: boolean;
+  verbose: boolean;
+}
+
+interface SharpBuildCacheEntry {
+  sourceRelPath: string;
+  sourceSize: number;
+  sourceMtimeMs: number;
+  signature: string;
+  asset: AssetEntry;
+}
+
+interface SharpBuildCache {
+  version: 1;
+  entries: Record<string, SharpBuildCacheEntry>;
+}
+
+function sha256(data: Buffer): string {
+  return createHash("sha256").update(data).digest("hex");
+}
+
+async function readBuildCache(): Promise<SharpBuildCache> {
+  try {
+    const parsed = JSON.parse(
+      await fs.readFile(SHARP_BUILD_CACHE_PATH, "utf8"),
+    ) as Partial<SharpBuildCache>;
+    if (parsed.version === 1 && parsed.entries && typeof parsed.entries === "object") {
+      return { version: 1, entries: parsed.entries } as SharpBuildCache;
+    }
+  } catch {
+    // First run or stale/unreadable cache: rebuild affected images safely.
   }
-  return value;
+  return { version: 1, entries: {} };
+}
+
+async function writeBuildCache(cache: SharpBuildCache): Promise<void> {
+  const sortedEntries = Object.fromEntries(
+    Object.entries(cache.entries).sort(([left], [right]) => left.localeCompare(right)),
+  );
+  const tempPath = `${SHARP_BUILD_CACHE_PATH}.${process.pid}.tmp`;
+  await fs.writeFile(
+    tempPath,
+    `${JSON.stringify({ version: 1, entries: sortedEntries }, null, 2)}\n`,
+    "utf8",
+  );
+  await fs.rename(tempPath, SHARP_BUILD_CACHE_PATH);
+}
+
+async function exists(filePath: string): Promise<boolean> {
+  try {
+    await fs.access(filePath);
+    return true;
+  } catch {
+    return false;
+  }
+}
+
+function parseQuality(value: string): number {
+  const quality = Number(value);
+  if (!Number.isInteger(quality) || quality < 1 || quality > 100) {
+    throw new Error(`--quality must be an integer from 1 to 100 (got "${value}")`);
+  }
+  return quality;
 }
 
 function parsePosition(value: string): WatermarkPosition {
-  const valid: WatermarkPosition[] = [
+  const positions: WatermarkPosition[] = [
     "bottom-right",
     "bottom-left",
     "top-right",
     "top-left",
     "center",
   ];
-  if (!valid.includes(value as WatermarkPosition)) {
-    throw new Error(
-      `--watermark-position must be one of: ${valid.join(", ")} (got "${value}")`,
-    );
+  if (!positions.includes(value as WatermarkPosition)) {
+    throw new Error(`Invalid watermark position: ${value}`);
   }
   return value as WatermarkPosition;
-}
-
-// ---------------------------------------------------------------------------
-// Build
-// ---------------------------------------------------------------------------
-
-interface BuildOpts {
-  mode: "graphic" | "photo";
-  maxWidth?: number;
-  watermarkPath?: string;
-  noWatermark?: boolean;
-  watermarkPosition?: WatermarkPosition;
-  verbose: boolean;
 }
 
 async function runBuild(opts: BuildOpts): Promise<void> {
@@ -93,67 +160,140 @@ async function runBuild(opts: BuildOpts): Promise<void> {
     return;
   }
 
-  // Load watermark image if available
   let watermarkBuffer: Buffer | undefined;
-  let watermarkSource: string | null = null;
-
   if (!opts.noWatermark) {
-    const wmPath = opts.watermarkPath || DEFAULT_WATERMARK_PATH;
+    const watermarkPath = opts.watermarkPath ?? DEFAULT_WATERMARK_PATH;
     try {
-      watermarkBuffer = await fs.readFile(wmPath);
-      watermarkSource = path.basename(wmPath);
+      watermarkBuffer = await fs.readFile(watermarkPath);
     } catch {
-      if (opts.watermarkPath) {
-        console.warn(`⚠ Specified watermark file not found at: ${opts.watermarkPath}`);
-      }
+      throw new Error(`Watermark file not found: ${watermarkPath}`);
     }
   }
 
-  const limit = pLimit(concurrency());
   const optimizeOpts: OptimizeOptions = {
-    mode: opts.mode,
+    quality: opts.quality,
     maxWidth: opts.maxWidth,
     watermarkBuffer,
-    watermarkPosition: opts.watermarkPosition ?? "bottom-right",
+    watermarkPosition: opts.watermarkPosition,
   };
+  const buildSignature = JSON.stringify({
+    encoder: "sharp-webp-v1",
+    cdnBase,
+    quality: opts.quality,
+    maxWidth: opts.maxWidth ?? null,
+    watermark: watermarkBuffer ? sha256(watermarkBuffer) : null,
+    watermarkPosition: opts.watermarkPosition,
+  });
+  const cache = await readBuildCache();
 
+  const limit = pLimit(concurrency());
   let built = 0;
+  let skipped = 0;
+  let adopted = 0;
+  let superseded = 0;
   let totalBytes = 0;
   const allAssets: Record<string, AssetEntry> = {};
 
+  const plans = files.map((file) => {
+    const sourceExt = path.extname(file.absPath).toLowerCase();
+    const sourceKey = buildNormalKey(file.relPath, sourceExt);
+    const canonicalSource = logicalKeyForOutput(sourceKey) !== sourceKey;
+    const outputExt = sourceExt === ".svg" ? ".svg" : ".webp";
+    const outputKey = logicalKeyForOutput(buildNormalKey(file.relPath, outputExt));
+    return { file, sourceExt, outputKey, logicalKey: outputKey, canonicalSource };
+  });
+
+  const canonicalHashedKeys = new Set(
+    plans.filter((plan) => plan.canonicalSource).map((plan) => plan.logicalKey),
+  );
+
+  const activePlans = plans.filter((plan) => {
+    if (!plan.canonicalSource && canonicalHashedKeys.has(plan.logicalKey)) {
+      superseded += 1;
+      if (opts.verbose) console.log(`  ignore ${plan.file.relPath} (hashed source exists)`);
+      return false;
+    }
+    return true;
+  });
+
+  console.log(`▶ checking ${activePlans.length} image(s) with Sharp cache...`);
+  let completed = 0;
+
   await Promise.all(
-    files.map((file) =>
+    activePlans.map((plan) =>
       limit(async () => {
-        const input = await fs.readFile(file.absPath);
-        const optimized = await optimizeImage(input, path.extname(file.absPath), optimizeOpts);
-        const hash = hashBytes(optimized.data);
-        const { logicalKey, hashedKey } = buildKeys(file.relPath, optimized.ext, hash);
-        const url = `${cdnBase}/${hashedKey}`;
-        const distPath = path.join(DIST_DIR, hashedKey);
+        const sourceStat = await fs.stat(plan.file.absPath);
+        const distPath = path.join(DIST_DIR, plan.outputKey);
+        const cached = cache.entries[plan.outputKey];
+        const cacheMatches =
+          !opts.force &&
+          cached?.sourceRelPath === plan.file.relPath &&
+          cached.sourceSize === sourceStat.size &&
+          cached.sourceMtimeMs === sourceStat.mtimeMs &&
+          cached.signature === buildSignature &&
+          (await exists(distPath));
 
-        await fs.mkdir(path.dirname(distPath), { recursive: true });
-        await fs.writeFile(distPath, optimized.data);
+        if (cacheMatches) {
+          allAssets[plan.logicalKey] = cached.asset;
+          totalBytes += cached.asset.bytes;
+          skipped += 1;
+        } else {
+          let prepared;
+          if (opts.adoptExisting && (await exists(distPath))) {
+            prepared = await inspectImage(
+              await fs.readFile(distPath),
+              path.extname(plan.outputKey),
+            );
+            adopted += 1;
+          } else {
+            const input = await fs.readFile(plan.file.absPath);
+            prepared = await optimizeImage(input, plan.sourceExt, optimizeOpts);
+            await fs.mkdir(path.dirname(distPath), { recursive: true });
+            await fs.writeFile(distPath, prepared.data);
+            built += 1;
+          }
 
-        allAssets[logicalKey] = {
-          key: hashedKey,
-          url,
-          contentType: optimized.contentType,
-          width: optimized.width,
-          height: optimized.height,
-          bytes: optimized.data.length,
-        };
+          const asset: AssetEntry = {
+            key: plan.outputKey,
+            url: `${cdnBase}/${plan.outputKey}`,
+            contentType: prepared.contentType,
+            width: prepared.width,
+            height: prepared.height,
+            bytes: prepared.data.length,
+            contentHashed: false,
+          };
+          allAssets[plan.logicalKey] = asset;
+          totalBytes += asset.bytes;
+          cache.entries[plan.outputKey] = {
+            sourceRelPath: plan.file.relPath,
+            sourceSize: sourceStat.size,
+            sourceMtimeMs: sourceStat.mtimeMs,
+            signature: buildSignature,
+            asset,
+          };
+        }
+        completed += 1;
 
-        built += 1;
-        totalBytes += optimized.data.length;
+        if (!opts.verbose && (completed === activePlans.length || completed % 100 === 0)) {
+          console.log(
+            `  checked ${completed}/${activePlans.length} ` +
+              `(${built} processed, ${skipped} skipped, ${adopted} adopted)`,
+          );
+        }
 
         if (opts.verbose) {
-          console.log(`  ${file.relPath}`);
-          console.log(`    → ${hashedKey}  (${fmtBytes(optimized.data.length)})`);
-          console.log(`    ↗ ${url}`);
+          const asset = allAssets[plan.logicalKey]!;
+          console.log(`  ${plan.file.relPath}`);
+          console.log(`    → ${plan.outputKey}  (${fmtBytes(asset.bytes)})`);
+          console.log(`    ↗ ${asset.url}`);
         }
       }),
     ),
   );
+
+  // Save this before manifest generation so a transient manifest write failure
+  // never forces every image through Sharp again.
+  await writeBuildCache(cache);
 
   // Clean up old flat shard files if they exist
   await cleanupLegacyManifests();
@@ -161,12 +301,10 @@ async function runBuild(opts: BuildOpts): Promise<void> {
   // Write folder-level assets.json manifests mirroring source directory structure
   const folderPaths = await writeFolderManifests(allAssets, cdnBase);
 
-  const wmStatus = watermarkBuffer
-    ? `watermarked with "${watermarkSource}" (${opts.watermarkPosition ?? "bottom-right"})`
-    : "no watermark";
-
   console.log(
-    `✓ build: ${built} image(s) → dist/ (${fmtBytes(totalBytes)}) [${wmStatus}]\n` +
+    `✓ build: ${built} image(s) Sharp-minified${watermarkBuffer ? " + watermarked" : ""}, ` +
+      `${skipped} skipped, ${adopted} adopted, ` +
+      `${superseded} superseded raw source file(s) ignored → dist/ (${fmtBytes(totalBytes)})\n` +
       `  folder manifests: ${folderPaths.length} assets.json file(s) generated`,
   );
 
@@ -202,7 +340,7 @@ async function runUpload(opts: UploadOpts): Promise<void> {
   let missing = 0;
 
   // 1. Collect all asset entries from all folder manifests
-  const entriesMap = new Map<string, { key: string; contentType: string }>();
+  const entriesMap = new Map<string, AssetEntry>();
 
   for (const target of folderTargets) {
     try {
@@ -234,7 +372,9 @@ async function runUpload(opts: UploadOpts): Promise<void> {
           return;
         }
 
-        if (await objectExists(client, bucket, entry.key)) {
+        const contentHashed = isContentHashed(entry);
+
+        if (contentHashed && (await objectExists(client, bucket, entry.key))) {
           skipped += 1;
           if (opts.verbose) console.log(`  skip  ${entry.key}`);
           return;
@@ -251,6 +391,7 @@ async function runUpload(opts: UploadOpts): Promise<void> {
           key: entry.key,
           body,
           contentType: entry.contentType || contentTypeFor(entry.key),
+          cacheControl: contentHashed ? CACHE_CONTROL : MUTABLE_ASSET_CACHE_CONTROL,
         });
         uploaded += 1;
         if (opts.verbose) console.log(`  up    ${entry.key}`);
@@ -312,38 +453,41 @@ async function runPrune(opts: { yes: boolean; prefix?: string }): Promise<void> 
 // ---------------------------------------------------------------------------
 
 const program = new Command();
-program
-  .name("tupapers-assets")
-  .description("R2 asset CDN pipeline for TUpapers")
-  .version("1.0.0");
+program.name("tupapers-assets").description("R2 asset CDN pipeline for TUpapers").version("1.0.0");
 
 program
   .command("build")
-  .description("Optimize source/ images → dist/ + update folder assets.json manifests (no upload)")
-  .option("--mode <mode>", "graphic (near-lossless) or photo (lossy q78)", "graphic")
-  .option("--max-width <px>", "clamp max width in px (never upscales)", (v) => parseInt(v, 10))
+  .description(
+    "Sharp-minify source/ images + watermark → dist/ + update folder assets.json manifests",
+  )
+  .option("--quality <1-100>", "WebP quality for raster images", parseQuality, 82)
+  .option("--max-width <px>", "maximum raster width (never upscales)", (v) => Number(v))
   .option("--watermark <path>", "custom watermark image path")
-  .option("--no-watermark", "disable watermarking")
+  .option("--no-watermark", "build without watermark")
+  .option("--force", "reprocess every image, ignoring the local Sharp cache")
+  .option("--adopt-existing", "cache current dist outputs without reprocessing them")
   .option(
-    "--watermark-position <pos>",
-    "position: bottom-right, bottom-left, top-right, top-left, center",
+    "--watermark-position <position>",
+    "bottom-right, bottom-left, top-right, top-left, or center",
     "bottom-right",
   )
   .option("-v, --verbose", "list every processed file with CDN URL")
   .action(async (o) => {
     await runBuild({
-      mode: parseMode(o.mode),
+      quality: o.quality,
       maxWidth: o.maxWidth,
       watermarkPath: o.watermark,
       noWatermark: o.watermark === false,
       watermarkPosition: parsePosition(o.watermarkPosition),
+      force: !!o.force,
+      adoptExisting: !!o.adoptExisting,
       verbose: !!o.verbose,
     });
   });
 
 program
   .command("upload")
-  .description("Upload dist/ objects to R2 (skips objects that already exist)")
+  .description("Upload manifest assets to R2 (replace normal names; skip existing hashes)")
   .option("--dry-run", "show what would upload without uploading")
   .option("--publish-manifest", "also upload folder assets.json manifests to R2")
   .option("-v, --verbose", "list every object decision")
@@ -358,13 +502,15 @@ program
 program
   .command("sync")
   .description("build + upload in one shot")
-  .option("--mode <mode>", "graphic or photo", "graphic")
-  .option("--max-width <px>", "clamp max width in px", (v) => parseInt(v, 10))
+  .option("--quality <1-100>", "WebP quality for raster images", parseQuality, 82)
+  .option("--max-width <px>", "maximum raster width (never upscales)", (v) => Number(v))
   .option("--watermark <path>", "custom watermark image path")
-  .option("--no-watermark", "disable watermarking")
+  .option("--no-watermark", "build without watermark")
+  .option("--force", "reprocess every image, ignoring the local Sharp cache")
+  .option("--adopt-existing", "cache current dist outputs without reprocessing them")
   .option(
-    "--watermark-position <pos>",
-    "position: bottom-right, bottom-left, top-right, top-left, center",
+    "--watermark-position <position>",
+    "bottom-right, bottom-left, top-right, top-left, or center",
     "bottom-right",
   )
   .option("--dry-run", "build, then show what would upload")
@@ -372,11 +518,13 @@ program
   .option("-v, --verbose", "verbose output")
   .action(async (o) => {
     await runBuild({
-      mode: parseMode(o.mode),
+      quality: o.quality,
       maxWidth: o.maxWidth,
       watermarkPath: o.watermark,
       noWatermark: o.watermark === false,
       watermarkPosition: parsePosition(o.watermarkPosition),
+      force: !!o.force,
+      adoptExisting: !!o.adoptExisting,
       verbose: !!o.verbose,
     });
     await runUpload({

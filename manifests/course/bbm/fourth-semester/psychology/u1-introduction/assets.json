@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:01.456Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbm/fourth-semester/psychology/u1-introduction",
+  "totalAssets": 6,
+  "assets": {
+    "behavioral-vs-cognitive-perspectives.webp": {
+      "key": "course/bbm/fourth-semester/psychology/u1-introduction/behavioral-vs-cognitive-perspectives.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u1-introduction/behavioral-vs-cognitive-perspectives.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 162852,
+      "contentHashed": false
+    },
+    "goals-of-psychology.webp": {
+      "key": "course/bbm/fourth-semester/psychology/u1-introduction/goals-of-psychology.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u1-introduction/goals-of-psychology.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 114394,
+      "contentHashed": false
+    },
+    "major-perspectives-in-psychology.webp": {
+      "key": "course/bbm/fourth-semester/psychology/u1-introduction/major-perspectives-in-psychology.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u1-introduction/major-perspectives-in-psychology.webp",
+      "contentType": "image/webp",
+      "width": 1305,
+      "height": 1205,
+      "bytes": 169866,
+      "contentHashed": false
+    },
+    "psychodynamic-vs-biological-models.webp": {
+      "key": "course/bbm/fourth-semester/psychology/u1-introduction/psychodynamic-vs-biological-models.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u1-introduction/psychodynamic-vs-biological-models.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 283930,
+      "contentHashed": false
+    },
+    "roots-and-history-of-psychology.webp": {
+      "key": "course/bbm/fourth-semester/psychology/u1-introduction/roots-and-history-of-psychology.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u1-introduction/roots-and-history-of-psychology.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 172540,
+      "contentHashed": false
+    },
+    "scope-of-psychology.webp": {
+      "key": "course/bbm/fourth-semester/psychology/u1-introduction/scope-of-psychology.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u1-introduction/scope-of-psychology.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 162862,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u1-introduction/behavioral-vs-cognitive-perspectives.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u1-introduction/goals-of-psychology.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u1-introduction/major-perspectives-in-psychology.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u1-introduction/psychodynamic-vs-biological-models.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u1-introduction/roots-and-history-of-psychology.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u1-introduction/scope-of-psychology.webp"
+  ]
+}

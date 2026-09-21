@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:01.737Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/fourth-semester/ai/u6-applications-of-ai",
+  "totalAssets": 4,
+  "assets": {
+    "expert-system-architecture.webp": {
+      "key": "course/bca/fourth-semester/ai/u6-applications-of-ai/expert-system-architecture.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/ai/u6-applications-of-ai/expert-system-architecture.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 67828,
+      "contentHashed": false
+    },
+    "expert-system-development-lifecycle.webp": {
+      "key": "course/bca/fourth-semester/ai/u6-applications-of-ai/expert-system-development-lifecycle.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/ai/u6-applications-of-ai/expert-system-development-lifecycle.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 84788,
+      "contentHashed": false
+    },
+    "nlp-processing-pipeline.webp": {
+      "key": "course/bca/fourth-semester/ai/u6-applications-of-ai/nlp-processing-pipeline.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/ai/u6-applications-of-ai/nlp-processing-pipeline.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 157724,
+      "contentHashed": false
+    },
+    "robotics-with-machine-vision.webp": {
+      "key": "course/bca/fourth-semester/ai/u6-applications-of-ai/robotics-with-machine-vision.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/ai/u6-applications-of-ai/robotics-with-machine-vision.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 130812,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/fourth-semester/ai/u6-applications-of-ai/expert-system-architecture.webp",
+    "https://cdn.tupapers.com/course/bca/fourth-semester/ai/u6-applications-of-ai/expert-system-development-lifecycle.webp",
+    "https://cdn.tupapers.com/course/bca/fourth-semester/ai/u6-applications-of-ai/nlp-processing-pipeline.webp",
+    "https://cdn.tupapers.com/course/bca/fourth-semester/ai/u6-applications-of-ai/robotics-with-machine-vision.webp"
+  ]
+}

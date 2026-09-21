@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.804Z",
+  "generatedAt": "2026-09-21T09:23:01.984Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/seventh-semester/image-processing/u1-fundamental-of-image-processing",
   "totalAssets": 4,
   "assets": {
     "basic-pixel-relationships.webp": {
-      "key": "course/bca/seventh-semester/image-processing/u1-fundamental-of-image-processing/basic-pixel-relationships.c390d60c.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u1-fundamental-of-image-processing/basic-pixel-relationships.c390d60c.webp",
+      "key": "course/bca/seventh-semester/image-processing/u1-fundamental-of-image-processing/basic-pixel-relationships.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u1-fundamental-of-image-processing/basic-pixel-relationships.webp",
       "contentType": "image/webp",
       "width": 1254,
       "height": 1254,
-      "bytes": 1411320
+      "bytes": 180198,
+      "contentHashed": false
     },
     "color-models.webp": {
-      "key": "course/bca/seventh-semester/image-processing/u1-fundamental-of-image-processing/color-models.62f33c8e.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u1-fundamental-of-image-processing/color-models.62f33c8e.webp",
+      "key": "course/bca/seventh-semester/image-processing/u1-fundamental-of-image-processing/color-models.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u1-fundamental-of-image-processing/color-models.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 791892
+      "bytes": 178212,
+      "contentHashed": false
     },
     "digital-image-processing-system.webp": {
-      "key": "course/bca/seventh-semester/image-processing/u1-fundamental-of-image-processing/digital-image-processing-system.de2c28b3.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u1-fundamental-of-image-processing/digital-image-processing-system.de2c28b3.webp",
+      "key": "course/bca/seventh-semester/image-processing/u1-fundamental-of-image-processing/digital-image-processing-system.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u1-fundamental-of-image-processing/digital-image-processing-system.webp",
       "contentType": "image/webp",
       "width": 1747,
       "height": 900,
-      "bytes": 974136
+      "bytes": 112786,
+      "contentHashed": false
     },
     "sampling-and-quantization.webp": {
-      "key": "course/bca/seventh-semester/image-processing/u1-fundamental-of-image-processing/sampling-and-quantization.c9c9b10d.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u1-fundamental-of-image-processing/sampling-and-quantization.c9c9b10d.webp",
+      "key": "course/bca/seventh-semester/image-processing/u1-fundamental-of-image-processing/sampling-and-quantization.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u1-fundamental-of-image-processing/sampling-and-quantization.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 372034
+      "bytes": 75070,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u1-fundamental-of-image-processing/basic-pixel-relationships.c390d60c.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u1-fundamental-of-image-processing/color-models.62f33c8e.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u1-fundamental-of-image-processing/digital-image-processing-system.de2c28b3.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u1-fundamental-of-image-processing/sampling-and-quantization.c9c9b10d.webp"
+    "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u1-fundamental-of-image-processing/basic-pixel-relationships.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u1-fundamental-of-image-processing/color-models.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u1-fundamental-of-image-processing/digital-image-processing-system.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u1-fundamental-of-image-processing/sampling-and-quantization.webp"
   ]
 }

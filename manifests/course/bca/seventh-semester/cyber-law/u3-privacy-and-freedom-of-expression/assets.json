@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.736Z",
+  "generatedAt": "2026-09-21T09:23:01.921Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/seventh-semester/cyber-law/u3-privacy-and-freedom-of-expression",
   "totalAssets": 4,
   "assets": {
     "electronic-discovery-process.webp": {
-      "key": "course/bca/seventh-semester/cyber-law/u3-privacy-and-freedom-of-expression/electronic-discovery-process.995d02fe.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u3-privacy-and-freedom-of-expression/electronic-discovery-process.995d02fe.webp",
+      "key": "course/bca/seventh-semester/cyber-law/u3-privacy-and-freedom-of-expression/electronic-discovery-process.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u3-privacy-and-freedom-of-expression/electronic-discovery-process.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 345728
+      "bytes": 66366,
+      "contentHashed": false
     },
     "freedom-of-expression-key-issue-map.webp": {
-      "key": "course/bca/seventh-semester/cyber-law/u3-privacy-and-freedom-of-expression/freedom-of-expression-key-issue-map.c983dcd8.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u3-privacy-and-freedom-of-expression/freedom-of-expression-key-issue-map.c983dcd8.webp",
+      "key": "course/bca/seventh-semester/cyber-law/u3-privacy-and-freedom-of-expression/freedom-of-expression-key-issue-map.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u3-privacy-and-freedom-of-expression/freedom-of-expression-key-issue-map.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 533240
+      "bytes": 108636,
+      "contentHashed": false
     },
     "internet-privacy-and-anonymity-exposure-map.webp": {
-      "key": "course/bca/seventh-semester/cyber-law/u3-privacy-and-freedom-of-expression/internet-privacy-and-anonymity-exposure-map.3de81426.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u3-privacy-and-freedom-of-expression/internet-privacy-and-anonymity-exposure-map.3de81426.webp",
+      "key": "course/bca/seventh-semester/cyber-law/u3-privacy-and-freedom-of-expression/internet-privacy-and-anonymity-exposure-map.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u3-privacy-and-freedom-of-expression/internet-privacy-and-anonymity-exposure-map.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 488090
+      "bytes": 96020,
+      "contentHashed": false
     },
     "workplace-monitoring-and-surveillance-flow.webp": {
-      "key": "course/bca/seventh-semester/cyber-law/u3-privacy-and-freedom-of-expression/workplace-monitoring-and-surveillance-flow.6f9040bb.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u3-privacy-and-freedom-of-expression/workplace-monitoring-and-surveillance-flow.6f9040bb.webp",
+      "key": "course/bca/seventh-semester/cyber-law/u3-privacy-and-freedom-of-expression/workplace-monitoring-and-surveillance-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u3-privacy-and-freedom-of-expression/workplace-monitoring-and-surveillance-flow.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 506972
+      "bytes": 102474,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u3-privacy-and-freedom-of-expression/electronic-discovery-process.995d02fe.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u3-privacy-and-freedom-of-expression/freedom-of-expression-key-issue-map.c983dcd8.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u3-privacy-and-freedom-of-expression/internet-privacy-and-anonymity-exposure-map.3de81426.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u3-privacy-and-freedom-of-expression/workplace-monitoring-and-surveillance-flow.6f9040bb.webp"
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u3-privacy-and-freedom-of-expression/electronic-discovery-process.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u3-privacy-and-freedom-of-expression/freedom-of-expression-key-issue-map.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u3-privacy-and-freedom-of-expression/internet-privacy-and-anonymity-exposure-map.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u3-privacy-and-freedom-of-expression/workplace-monitoring-and-surveillance-flow.webp"
   ]
 }

@@ -1,38 +1,41 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.339Z",
+  "generatedAt": "2026-09-21T09:23:02.392Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/first-year/social-psychology/groups-and-individuals",
   "totalAssets": 3,
   "assets": {
     "components-of-social-group.webp": {
-      "key": "course/bsw/first-year/social-psychology/groups-and-individuals/components-of-social-group.08c4d33e.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/groups-and-individuals/components-of-social-group.08c4d33e.webp",
+      "key": "course/bsw/first-year/social-psychology/groups-and-individuals/components-of-social-group.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/groups-and-individuals/components-of-social-group.webp",
       "contentType": "image/webp",
       "width": 1254,
       "height": 1254,
-      "bytes": 947708
+      "bytes": 141622,
+      "contentHashed": false
     },
     "reducing-social-loafing.webp": {
-      "key": "course/bsw/first-year/social-psychology/groups-and-individuals/reducing-social-loafing.3bb8aa92.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/groups-and-individuals/reducing-social-loafing.3bb8aa92.webp",
+      "key": "course/bsw/first-year/social-psychology/groups-and-individuals/reducing-social-loafing.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/groups-and-individuals/reducing-social-loafing.webp",
       "contentType": "image/webp",
       "width": 1024,
       "height": 1536,
-      "bytes": 488596
+      "bytes": 123730,
+      "contentHashed": false
     },
     "social-facilitation-vs-social-loafing-infographic.webp": {
-      "key": "course/bsw/first-year/social-psychology/groups-and-individuals/social-facilitation-vs-social-loafing-infographic.5eea4008.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/groups-and-individuals/social-facilitation-vs-social-loafing-infographic.5eea4008.webp",
+      "key": "course/bsw/first-year/social-psychology/groups-and-individuals/social-facilitation-vs-social-loafing-infographic.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/groups-and-individuals/social-facilitation-vs-social-loafing-infographic.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 519802
+      "bytes": 171880,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/groups-and-individuals/components-of-social-group.08c4d33e.webp",
-    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/groups-and-individuals/reducing-social-loafing.3bb8aa92.webp",
-    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/groups-and-individuals/social-facilitation-vs-social-loafing-infographic.5eea4008.webp"
+    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/groups-and-individuals/components-of-social-group.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/groups-and-individuals/reducing-social-loafing.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/groups-and-individuals/social-facilitation-vs-social-loafing-infographic.webp"
   ]
 }

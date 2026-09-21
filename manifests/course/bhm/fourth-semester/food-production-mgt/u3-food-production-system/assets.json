@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:02.161Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bhm/fourth-semester/food-production-mgt/u3-food-production-system",
+  "totalAssets": 4,
+  "assets": {
+    "centralized-and-conventional-production-flow.webp": {
+      "key": "course/bhm/fourth-semester/food-production-mgt/u3-food-production-system/centralized-and-conventional-production-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u3-food-production-system/centralized-and-conventional-production-flow.webp",
+      "contentType": "image/webp",
+      "width": 1916,
+      "height": 821,
+      "bytes": 132552,
+      "contentHashed": false
+    },
+    "cook-chill-process-flow.webp": {
+      "key": "course/bhm/fourth-semester/food-production-mgt/u3-food-production-system/cook-chill-process-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u3-food-production-system/cook-chill-process-flow.webp",
+      "contentType": "image/webp",
+      "width": 2098,
+      "height": 749,
+      "bytes": 149380,
+      "contentHashed": false
+    },
+    "cook-freeze-process-flow.webp": {
+      "key": "course/bhm/fourth-semester/food-production-mgt/u3-food-production-system/cook-freeze-process-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u3-food-production-system/cook-freeze-process-flow.webp",
+      "contentType": "image/webp",
+      "width": 2055,
+      "height": 765,
+      "bytes": 173492,
+      "contentHashed": false
+    },
+    "fast-food-production-line.webp": {
+      "key": "course/bhm/fourth-semester/food-production-mgt/u3-food-production-system/fast-food-production-line.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u3-food-production-system/fast-food-production-line.webp",
+      "contentType": "image/webp",
+      "width": 1902,
+      "height": 827,
+      "bytes": 253028,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u3-food-production-system/centralized-and-conventional-production-flow.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u3-food-production-system/cook-chill-process-flow.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u3-food-production-system/cook-freeze-process-flow.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u3-food-production-system/fast-food-production-line.webp"
+  ]
+}

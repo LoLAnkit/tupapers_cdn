@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:02.633Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/csit/fourth-semester/computer-networking/u7-multimedia-future-networking",
+  "totalAssets": 4,
+  "assets": {
+    "nfv-architecture.webp": {
+      "key": "course/csit/fourth-semester/computer-networking/u7-multimedia-future-networking/nfv-architecture.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/computer-networking/u7-multimedia-future-networking/nfv-architecture.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 92672,
+      "contentHashed": false
+    },
+    "ngn-layered-architecture.webp": {
+      "key": "course/csit/fourth-semester/computer-networking/u7-multimedia-future-networking/ngn-layered-architecture.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/computer-networking/u7-multimedia-future-networking/ngn-layered-architecture.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 157192,
+      "contentHashed": false
+    },
+    "sctp-multistreaming-and-multihoming.webp": {
+      "key": "course/csit/fourth-semester/computer-networking/u7-multimedia-future-networking/sctp-multistreaming-and-multihoming.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/computer-networking/u7-multimedia-future-networking/sctp-multistreaming-and-multihoming.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 99862,
+      "contentHashed": false
+    },
+    "sdn-control-and-data-planes.webp": {
+      "key": "course/csit/fourth-semester/computer-networking/u7-multimedia-future-networking/sdn-control-and-data-planes.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/computer-networking/u7-multimedia-future-networking/sdn-control-and-data-planes.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 103066,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/csit/fourth-semester/computer-networking/u7-multimedia-future-networking/nfv-architecture.webp",
+    "https://cdn.tupapers.com/course/csit/fourth-semester/computer-networking/u7-multimedia-future-networking/ngn-layered-architecture.webp",
+    "https://cdn.tupapers.com/course/csit/fourth-semester/computer-networking/u7-multimedia-future-networking/sctp-multistreaming-and-multihoming.webp",
+    "https://cdn.tupapers.com/course/csit/fourth-semester/computer-networking/u7-multimedia-future-networking/sdn-control-and-data-planes.webp"
+  ]
+}

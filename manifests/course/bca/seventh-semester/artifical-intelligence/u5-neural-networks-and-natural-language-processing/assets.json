@@ -1,56 +1,61 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.693Z",
+  "generatedAt": "2026-09-21T09:23:01.883Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/seventh-semester/artifical-intelligence/u5-neural-networks-and-natural-language-processing",
   "totalAssets": 5,
   "assets": {
     "artificial-neuron-model.webp": {
-      "key": "course/bca/seventh-semester/artifical-intelligence/u5-neural-networks-and-natural-language-processing/artificial-neuron-model.6971edab.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u5-neural-networks-and-natural-language-processing/artificial-neuron-model.6971edab.webp",
+      "key": "course/bca/seventh-semester/artifical-intelligence/u5-neural-networks-and-natural-language-processing/artificial-neuron-model.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u5-neural-networks-and-natural-language-processing/artificial-neuron-model.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 313380
+      "bytes": 40634,
+      "contentHashed": false
     },
     "back-propagation-training.webp": {
-      "key": "course/bca/seventh-semester/artifical-intelligence/u5-neural-networks-and-natural-language-processing/back-propagation-training.f66d2997.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u5-neural-networks-and-natural-language-processing/back-propagation-training.f66d2997.webp",
+      "key": "course/bca/seventh-semester/artifical-intelligence/u5-neural-networks-and-natural-language-processing/back-propagation-training.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u5-neural-networks-and-natural-language-processing/back-propagation-training.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 504548
+      "bytes": 96418,
+      "contentHashed": false
     },
     "feed-forward-and-feedback-neural-networks.webp": {
-      "key": "course/bca/seventh-semester/artifical-intelligence/u5-neural-networks-and-natural-language-processing/feed-forward-and-feedback-neural-networks.404ee201.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u5-neural-networks-and-natural-language-processing/feed-forward-and-feedback-neural-networks.404ee201.webp",
+      "key": "course/bca/seventh-semester/artifical-intelligence/u5-neural-networks-and-natural-language-processing/feed-forward-and-feedback-neural-networks.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u5-neural-networks-and-natural-language-processing/feed-forward-and-feedback-neural-networks.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 496360
+      "bytes": 103314,
+      "contentHashed": false
     },
     "hopfield-network.webp": {
-      "key": "course/bca/seventh-semester/artifical-intelligence/u5-neural-networks-and-natural-language-processing/hopfield-network.f32a9ce5.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u5-neural-networks-and-natural-language-processing/hopfield-network.f32a9ce5.webp",
+      "key": "course/bca/seventh-semester/artifical-intelligence/u5-neural-networks-and-natural-language-processing/hopfield-network.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u5-neural-networks-and-natural-language-processing/hopfield-network.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 393344
+      "bytes": 65856,
+      "contentHashed": false
     },
     "perceptron-for-logic-gates.webp": {
-      "key": "course/bca/seventh-semester/artifical-intelligence/u5-neural-networks-and-natural-language-processing/perceptron-for-logic-gates.b64a7c0a.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u5-neural-networks-and-natural-language-processing/perceptron-for-logic-gates.b64a7c0a.webp",
+      "key": "course/bca/seventh-semester/artifical-intelligence/u5-neural-networks-and-natural-language-processing/perceptron-for-logic-gates.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u5-neural-networks-and-natural-language-processing/perceptron-for-logic-gates.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 519468
+      "bytes": 365008,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u5-neural-networks-and-natural-language-processing/artificial-neuron-model.6971edab.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u5-neural-networks-and-natural-language-processing/back-propagation-training.f66d2997.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u5-neural-networks-and-natural-language-processing/feed-forward-and-feedback-neural-networks.404ee201.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u5-neural-networks-and-natural-language-processing/hopfield-network.f32a9ce5.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u5-neural-networks-and-natural-language-processing/perceptron-for-logic-gates.b64a7c0a.webp"
+    "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u5-neural-networks-and-natural-language-processing/artificial-neuron-model.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u5-neural-networks-and-natural-language-processing/back-propagation-training.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u5-neural-networks-and-natural-language-processing/feed-forward-and-feedback-neural-networks.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u5-neural-networks-and-natural-language-processing/hopfield-network.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u5-neural-networks-and-natural-language-processing/perceptron-for-logic-gates.webp"
   ]
 }

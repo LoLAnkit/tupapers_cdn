@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.626Z",
+  "generatedAt": "2026-09-21T09:23:02.575Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/csit/first-semester/physics/u2-electric-and-magnetic-field",
   "totalAssets": 4,
   "assets": {
     "electromagnetic-wave-propagation.webp": {
-      "key": "course/csit/first-semester/physics/u2-electric-and-magnetic-field/electromagnetic-wave-propagation.c08946f3.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/physics/u2-electric-and-magnetic-field/electromagnetic-wave-propagation.c08946f3.webp",
+      "key": "course/csit/first-semester/physics/u2-electric-and-magnetic-field/electromagnetic-wave-propagation.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/physics/u2-electric-and-magnetic-field/electromagnetic-wave-propagation.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 511934
+      "bytes": 88302,
+      "contentHashed": false
     },
     "force-on-current-carrying-wire.webp": {
-      "key": "course/csit/first-semester/physics/u2-electric-and-magnetic-field/force-on-current-carrying-wire.3d966521.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/physics/u2-electric-and-magnetic-field/force-on-current-carrying-wire.3d966521.webp",
+      "key": "course/csit/first-semester/physics/u2-electric-and-magnetic-field/force-on-current-carrying-wire.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/physics/u2-electric-and-magnetic-field/force-on-current-carrying-wire.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 405266
+      "bytes": 66030,
+      "contentHashed": false
     },
     "hall-effect-setup.webp": {
-      "key": "course/csit/first-semester/physics/u2-electric-and-magnetic-field/hall-effect-setup.865dfb7f.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/physics/u2-electric-and-magnetic-field/hall-effect-setup.865dfb7f.webp",
+      "key": "course/csit/first-semester/physics/u2-electric-and-magnetic-field/hall-effect-setup.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/physics/u2-electric-and-magnetic-field/hall-effect-setup.webp",
       "contentType": "image/webp",
       "width": 1402,
       "height": 1122,
-      "bytes": 486974
+      "bytes": 54710,
+      "contentHashed": false
     },
     "magnetic-force-on-moving-charge.webp": {
-      "key": "course/csit/first-semester/physics/u2-electric-and-magnetic-field/magnetic-force-on-moving-charge.48d6e77d.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/physics/u2-electric-and-magnetic-field/magnetic-force-on-moving-charge.48d6e77d.webp",
+      "key": "course/csit/first-semester/physics/u2-electric-and-magnetic-field/magnetic-force-on-moving-charge.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/physics/u2-electric-and-magnetic-field/magnetic-force-on-moving-charge.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 324776
+      "bytes": 51294,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/csit/first-semester/physics/u2-electric-and-magnetic-field/electromagnetic-wave-propagation.c08946f3.webp",
-    "https://cdn.tupapers.com/course/csit/first-semester/physics/u2-electric-and-magnetic-field/force-on-current-carrying-wire.3d966521.webp",
-    "https://cdn.tupapers.com/course/csit/first-semester/physics/u2-electric-and-magnetic-field/hall-effect-setup.865dfb7f.webp",
-    "https://cdn.tupapers.com/course/csit/first-semester/physics/u2-electric-and-magnetic-field/magnetic-force-on-moving-charge.48d6e77d.webp"
+    "https://cdn.tupapers.com/course/csit/first-semester/physics/u2-electric-and-magnetic-field/electromagnetic-wave-propagation.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/physics/u2-electric-and-magnetic-field/force-on-current-carrying-wire.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/physics/u2-electric-and-magnetic-field/hall-effect-setup.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/physics/u2-electric-and-magnetic-field/magnetic-force-on-moving-charge.webp"
   ]
 }

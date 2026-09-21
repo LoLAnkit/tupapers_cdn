@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.448Z",
+  "generatedAt": "2026-09-21T09:23:01.294Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bba/sixth-semester/e-commerce/e-commerce-security",
   "totalAssets": 4,
   "assets": {
     "2127db9c-5881-4c75-92e6-2c025ec2935a-1.webp": {
-      "key": "course/bba/sixth-semester/e-commerce/e-commerce-security/2127db9c-5881-4c75-92e6-2c025ec2935a-1.b577b793.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-security/2127db9c-5881-4c75-92e6-2c025ec2935a-1.b577b793.webp",
+      "key": "course/bba/sixth-semester/e-commerce/e-commerce-security/2127db9c-5881-4c75-92e6-2c025ec2935a-1.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-security/2127db9c-5881-4c75-92e6-2c025ec2935a-1.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 857608
+      "bytes": 203620,
+      "contentHashed": false
     },
     "68553925-9cfd-4bb2-8c8f-7074db1d8eef-1.webp": {
-      "key": "course/bba/sixth-semester/e-commerce/e-commerce-security/68553925-9cfd-4bb2-8c8f-7074db1d8eef-1.fba637fa.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-security/68553925-9cfd-4bb2-8c8f-7074db1d8eef-1.fba637fa.webp",
+      "key": "course/bba/sixth-semester/e-commerce/e-commerce-security/68553925-9cfd-4bb2-8c8f-7074db1d8eef-1.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-security/68553925-9cfd-4bb2-8c8f-7074db1d8eef-1.webp",
       "contentType": "image/webp",
       "width": 1254,
       "height": 1254,
-      "bytes": 541722
+      "bytes": 110064,
+      "contentHashed": false
     },
     "c841ef53-1d86-45f0-a3f8-99405224d741-1.webp": {
-      "key": "course/bba/sixth-semester/e-commerce/e-commerce-security/c841ef53-1d86-45f0-a3f8-99405224d741-1.9919c94f.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-security/c841ef53-1d86-45f0-a3f8-99405224d741-1.9919c94f.webp",
+      "key": "course/bba/sixth-semester/e-commerce/e-commerce-security/c841ef53-1d86-45f0-a3f8-99405224d741-1.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-security/c841ef53-1d86-45f0-a3f8-99405224d741-1.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 511614
+      "bytes": 122436,
+      "contentHashed": false
     },
     "online-credit-card-transaction-flow.webp": {
-      "key": "course/bba/sixth-semester/e-commerce/e-commerce-security/online-credit-card-transaction-flow.015e5874.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-security/online-credit-card-transaction-flow.015e5874.webp",
+      "key": "course/bba/sixth-semester/e-commerce/e-commerce-security/online-credit-card-transaction-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-security/online-credit-card-transaction-flow.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 503954
+      "bytes": 102748,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-security/2127db9c-5881-4c75-92e6-2c025ec2935a-1.b577b793.webp",
-    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-security/68553925-9cfd-4bb2-8c8f-7074db1d8eef-1.fba637fa.webp",
-    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-security/c841ef53-1d86-45f0-a3f8-99405224d741-1.9919c94f.webp",
-    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-security/online-credit-card-transaction-flow.015e5874.webp"
+    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-security/2127db9c-5881-4c75-92e6-2c025ec2935a-1.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-security/68553925-9cfd-4bb2-8c8f-7074db1d8eef-1.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-security/c841ef53-1d86-45f0-a3f8-99405224d741-1.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-security/online-credit-card-transaction-flow.webp"
   ]
 }

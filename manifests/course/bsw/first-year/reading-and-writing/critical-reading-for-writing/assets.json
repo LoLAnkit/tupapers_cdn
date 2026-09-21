@@ -1,38 +1,41 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.312Z",
+  "generatedAt": "2026-09-21T09:23:02.371Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/first-year/reading-and-writing/critical-reading-for-writing",
   "totalAssets": 3,
   "assets": {
     "agree-disagree-essay-response-framework.webp": {
-      "key": "course/bsw/first-year/reading-and-writing/critical-reading-for-writing/agree-disagree-essay-response-framework.e814b440.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/critical-reading-for-writing/agree-disagree-essay-response-framework.e814b440.webp",
+      "key": "course/bsw/first-year/reading-and-writing/critical-reading-for-writing/agree-disagree-essay-response-framework.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/critical-reading-for-writing/agree-disagree-essay-response-framework.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 1132448
+      "bytes": 112750,
+      "contentHashed": false
     },
     "critical-reading-annotation-system.webp": {
-      "key": "course/bsw/first-year/reading-and-writing/critical-reading-for-writing/critical-reading-annotation-system.534c72a1.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/critical-reading-for-writing/critical-reading-annotation-system.534c72a1.webp",
+      "key": "course/bsw/first-year/reading-and-writing/critical-reading-for-writing/critical-reading-annotation-system.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/critical-reading-for-writing/critical-reading-annotation-system.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 897282
+      "bytes": 195422,
+      "contentHashed": false
     },
     "four-levels-of-reading-cycle.webp": {
-      "key": "course/bsw/first-year/reading-and-writing/critical-reading-for-writing/four-levels-of-reading-cycle.919579d0.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/critical-reading-for-writing/four-levels-of-reading-cycle.919579d0.webp",
+      "key": "course/bsw/first-year/reading-and-writing/critical-reading-for-writing/four-levels-of-reading-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/critical-reading-for-writing/four-levels-of-reading-cycle.webp",
       "contentType": "image/webp",
       "width": 1254,
       "height": 1254,
-      "bytes": 971194
+      "bytes": 141308,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/critical-reading-for-writing/agree-disagree-essay-response-framework.e814b440.webp",
-    "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/critical-reading-for-writing/critical-reading-annotation-system.534c72a1.webp",
-    "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/critical-reading-for-writing/four-levels-of-reading-cycle.919579d0.webp"
+    "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/critical-reading-for-writing/agree-disagree-essay-response-framework.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/critical-reading-for-writing/critical-reading-annotation-system.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/critical-reading-for-writing/four-levels-of-reading-cycle.webp"
   ]
 }

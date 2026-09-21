@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:02.200Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bhm/fourth-semester/front-office-management/u9-hotel-safety-and-security",
+  "totalAssets": 3,
+  "assets": {
+    "accessible-and-lady-guest-security-measures.webp": {
+      "key": "course/bhm/fourth-semester/front-office-management/u9-hotel-safety-and-security/accessible-and-lady-guest-security-measures.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u9-hotel-safety-and-security/accessible-and-lady-guest-security-measures.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 172476,
+      "contentHashed": false
+    },
+    "front-office-security-response-flow.webp": {
+      "key": "course/bhm/fourth-semester/front-office-management/u9-hotel-safety-and-security/front-office-security-response-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u9-hotel-safety-and-security/front-office-security-response-flow.webp",
+      "contentType": "image/webp",
+      "width": 1879,
+      "height": 837,
+      "bytes": 53682,
+      "contentHashed": false
+    },
+    "hotel-security-layers.webp": {
+      "key": "course/bhm/fourth-semester/front-office-management/u9-hotel-safety-and-security/hotel-security-layers.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u9-hotel-safety-and-security/hotel-security-layers.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 113748,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u9-hotel-safety-and-security/accessible-and-lady-guest-security-measures.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u9-hotel-safety-and-security/front-office-security-response-flow.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u9-hotel-safety-and-security/hotel-security-layers.webp"
+  ]
+}

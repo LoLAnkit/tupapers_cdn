@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.833Z",
+  "generatedAt": "2026-09-21T09:23:02.013Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/seventh-semester/network-administration/u3-infrastructure",
   "totalAssets": 4,
   "assets": {
     "datacenter-architecture-and-components.webp": {
-      "key": "course/bca/seventh-semester/network-administration/u3-infrastructure/datacenter-architecture-and-components.ad5c2881.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/network-administration/u3-infrastructure/datacenter-architecture-and-components.ad5c2881.webp",
+      "key": "course/bca/seventh-semester/network-administration/u3-infrastructure/datacenter-architecture-and-components.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/network-administration/u3-infrastructure/datacenter-architecture-and-components.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 813118
+      "bytes": 119556,
+      "contentHashed": false
     },
     "datacenter-security-zones.webp": {
-      "key": "course/bca/seventh-semester/network-administration/u3-infrastructure/datacenter-security-zones.ca83bbc5.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/network-administration/u3-infrastructure/datacenter-security-zones.ca83bbc5.webp",
+      "key": "course/bca/seventh-semester/network-administration/u3-infrastructure/datacenter-security-zones.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/network-administration/u3-infrastructure/datacenter-security-zones.webp",
       "contentType": "image/webp",
       "width": 1195,
       "height": 1316,
-      "bytes": 1138622
+      "bytes": 177518,
+      "contentHashed": false
     },
     "physical-vs-logical-network-view.webp": {
-      "key": "course/bca/seventh-semester/network-administration/u3-infrastructure/physical-vs-logical-network-view.17f0d67d.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/network-administration/u3-infrastructure/physical-vs-logical-network-view.17f0d67d.webp",
+      "key": "course/bca/seventh-semester/network-administration/u3-infrastructure/physical-vs-logical-network-view.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/network-administration/u3-infrastructure/physical-vs-logical-network-view.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 744550
+      "bytes": 104138,
+      "contentHashed": false
     },
     "remote-administration-path.webp": {
-      "key": "course/bca/seventh-semester/network-administration/u3-infrastructure/remote-administration-path.25c8d158.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/network-administration/u3-infrastructure/remote-administration-path.25c8d158.webp",
+      "key": "course/bca/seventh-semester/network-administration/u3-infrastructure/remote-administration-path.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/network-administration/u3-infrastructure/remote-administration-path.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 702200
+      "bytes": 62398,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/seventh-semester/network-administration/u3-infrastructure/datacenter-architecture-and-components.ad5c2881.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/network-administration/u3-infrastructure/datacenter-security-zones.ca83bbc5.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/network-administration/u3-infrastructure/physical-vs-logical-network-view.17f0d67d.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/network-administration/u3-infrastructure/remote-administration-path.25c8d158.webp"
+    "https://cdn.tupapers.com/course/bca/seventh-semester/network-administration/u3-infrastructure/datacenter-architecture-and-components.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/network-administration/u3-infrastructure/datacenter-security-zones.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/network-administration/u3-infrastructure/physical-vs-logical-network-view.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/network-administration/u3-infrastructure/remote-administration-path.webp"
   ]
 }

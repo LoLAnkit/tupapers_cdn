@@ -1,38 +1,41 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.250Z",
+  "generatedAt": "2026-09-21T09:23:02.332Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/first-year/basic-sociology-for-social-work/what-is-sociology",
   "totalAssets": 3,
   "assets": {
     "development-of-social-thinking.webp": {
-      "key": "course/bsw/first-year/basic-sociology-for-social-work/what-is-sociology/development-of-social-thinking.c0852825.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/what-is-sociology/development-of-social-thinking.c0852825.webp",
+      "key": "course/bsw/first-year/basic-sociology-for-social-work/what-is-sociology/development-of-social-thinking.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/what-is-sociology/development-of-social-thinking.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 792928
+      "bytes": 114048,
+      "contentHashed": false
     },
     "sociology-and-social-work-venn-diagram.webp": {
-      "key": "course/bsw/first-year/basic-sociology-for-social-work/what-is-sociology/sociology-and-social-work-venn-diagram.7ac93b9c.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/what-is-sociology/sociology-and-social-work-venn-diagram.7ac93b9c.webp",
+      "key": "course/bsw/first-year/basic-sociology-for-social-work/what-is-sociology/sociology-and-social-work-venn-diagram.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/what-is-sociology/sociology-and-social-work-venn-diagram.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 667498
+      "bytes": 106878,
+      "contentHashed": false
     },
     "theoretical-perspectives-comparision.webp": {
-      "key": "course/bsw/first-year/basic-sociology-for-social-work/what-is-sociology/theoretical-perspectives-comparision.8721f2dc.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/what-is-sociology/theoretical-perspectives-comparision.8721f2dc.webp",
+      "key": "course/bsw/first-year/basic-sociology-for-social-work/what-is-sociology/theoretical-perspectives-comparision.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/what-is-sociology/theoretical-perspectives-comparision.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 848482
+      "bytes": 163360,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/what-is-sociology/development-of-social-thinking.c0852825.webp",
-    "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/what-is-sociology/sociology-and-social-work-venn-diagram.7ac93b9c.webp",
-    "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/what-is-sociology/theoretical-perspectives-comparision.8721f2dc.webp"
+    "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/what-is-sociology/development-of-social-thinking.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/what-is-sociology/sociology-and-social-work-venn-diagram.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/basic-sociology-for-social-work/what-is-sociology/theoretical-perspectives-comparision.webp"
   ]
 }

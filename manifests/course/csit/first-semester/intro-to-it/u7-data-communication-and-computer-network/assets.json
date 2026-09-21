@@ -1,56 +1,61 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.605Z",
+  "generatedAt": "2026-09-21T09:23:02.561Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/csit/first-semester/intro-to-it/u7-data-communication-and-computer-network",
   "totalAssets": 5,
   "assets": {
     "communication-protocol-flow.webp": {
-      "key": "course/csit/first-semester/intro-to-it/u7-data-communication-and-computer-network/communication-protocol-flow.ef50b264.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u7-data-communication-and-computer-network/communication-protocol-flow.ef50b264.webp",
+      "key": "course/csit/first-semester/intro-to-it/u7-data-communication-and-computer-network/communication-protocol-flow.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u7-data-communication-and-computer-network/communication-protocol-flow.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 410036
+      "bytes": 92706,
+      "contentHashed": false
     },
     "data-transmission-media.webp": {
-      "key": "course/csit/first-semester/intro-to-it/u7-data-communication-and-computer-network/data-transmission-media.eab348ee.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u7-data-communication-and-computer-network/data-transmission-media.eab348ee.webp",
+      "key": "course/csit/first-semester/intro-to-it/u7-data-communication-and-computer-network/data-transmission-media.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u7-data-communication-and-computer-network/data-transmission-media.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 406124
+      "bytes": 87256,
+      "contentHashed": false
     },
     "lan-man-wan-coverage.webp": {
-      "key": "course/csit/first-semester/intro-to-it/u7-data-communication-and-computer-network/lan-man-wan-coverage.7488323b.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u7-data-communication-and-computer-network/lan-man-wan-coverage.7488323b.webp",
+      "key": "course/csit/first-semester/intro-to-it/u7-data-communication-and-computer-network/lan-man-wan-coverage.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u7-data-communication-and-computer-network/lan-man-wan-coverage.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 486720
+      "bytes": 136398,
+      "contentHashed": false
     },
     "network-devices-and-placement.webp": {
-      "key": "course/csit/first-semester/intro-to-it/u7-data-communication-and-computer-network/network-devices-and-placement.2452108a.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u7-data-communication-and-computer-network/network-devices-and-placement.2452108a.webp",
+      "key": "course/csit/first-semester/intro-to-it/u7-data-communication-and-computer-network/network-devices-and-placement.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u7-data-communication-and-computer-network/network-devices-and-placement.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 484408
+      "bytes": 109160,
+      "contentHashed": false
     },
     "network-topologies.webp": {
-      "key": "course/csit/first-semester/intro-to-it/u7-data-communication-and-computer-network/network-topologies.c1bc456d.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u7-data-communication-and-computer-network/network-topologies.c1bc456d.webp",
+      "key": "course/csit/first-semester/intro-to-it/u7-data-communication-and-computer-network/network-topologies.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u7-data-communication-and-computer-network/network-topologies.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 399488
+      "bytes": 68412,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u7-data-communication-and-computer-network/communication-protocol-flow.ef50b264.webp",
-    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u7-data-communication-and-computer-network/data-transmission-media.eab348ee.webp",
-    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u7-data-communication-and-computer-network/lan-man-wan-coverage.7488323b.webp",
-    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u7-data-communication-and-computer-network/network-devices-and-placement.2452108a.webp",
-    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u7-data-communication-and-computer-network/network-topologies.c1bc456d.webp"
+    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u7-data-communication-and-computer-network/communication-protocol-flow.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u7-data-communication-and-computer-network/data-transmission-media.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u7-data-communication-and-computer-network/lan-man-wan-coverage.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u7-data-communication-and-computer-network/network-devices-and-placement.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u7-data-communication-and-computer-network/network-topologies.webp"
   ]
 }

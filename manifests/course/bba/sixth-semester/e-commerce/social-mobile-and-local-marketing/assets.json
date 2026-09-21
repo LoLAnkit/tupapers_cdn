@@ -1,38 +1,41 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.458Z",
+  "generatedAt": "2026-09-21T09:23:01.304Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bba/sixth-semester/e-commerce/social-mobile-and-local-marketing",
   "totalAssets": 3,
   "assets": {
     "location-based-marketing-flow.webp": {
-      "key": "course/bba/sixth-semester/e-commerce/social-mobile-and-local-marketing/location-based-marketing-flow.99685da8.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/social-mobile-and-local-marketing/location-based-marketing-flow.99685da8.webp",
+      "key": "course/bba/sixth-semester/e-commerce/social-mobile-and-local-marketing/location-based-marketing-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/social-mobile-and-local-marketing/location-based-marketing-flow.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 537066
+      "bytes": 138518,
+      "contentHashed": false
     },
     "mobile-marketing-channels.webp": {
-      "key": "course/bba/sixth-semester/e-commerce/social-mobile-and-local-marketing/mobile-marketing-channels.dce0e1a7.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/social-mobile-and-local-marketing/mobile-marketing-channels.dce0e1a7.webp",
+      "key": "course/bba/sixth-semester/e-commerce/social-mobile-and-local-marketing/mobile-marketing-channels.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/social-mobile-and-local-marketing/mobile-marketing-channels.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 539224
+      "bytes": 156108,
+      "contentHashed": false
     },
     "social-media-marketing-channels.webp": {
-      "key": "course/bba/sixth-semester/e-commerce/social-mobile-and-local-marketing/social-media-marketing-channels.331c2b74.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/social-mobile-and-local-marketing/social-media-marketing-channels.331c2b74.webp",
+      "key": "course/bba/sixth-semester/e-commerce/social-mobile-and-local-marketing/social-media-marketing-channels.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/social-mobile-and-local-marketing/social-media-marketing-channels.webp",
       "contentType": "image/webp",
       "width": 1254,
       "height": 1254,
-      "bytes": 596680
+      "bytes": 135268,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/social-mobile-and-local-marketing/location-based-marketing-flow.99685da8.webp",
-    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/social-mobile-and-local-marketing/mobile-marketing-channels.dce0e1a7.webp",
-    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/social-mobile-and-local-marketing/social-media-marketing-channels.331c2b74.webp"
+    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/social-mobile-and-local-marketing/location-based-marketing-flow.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/social-mobile-and-local-marketing/mobile-marketing-channels.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/social-mobile-and-local-marketing/social-media-marketing-channels.webp"
   ]
 }

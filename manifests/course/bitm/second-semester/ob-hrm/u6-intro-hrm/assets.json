@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.209Z",
+  "generatedAt": "2026-09-21T09:23:02.301Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bitm/second-semester/ob-hrm/u6-intro-hrm",
   "totalAssets": 4,
   "assets": {
     "fig-6.1-quality-of-work-life.webp": {
-      "key": "course/bitm/second-semester/ob-hrm/u6-intro-hrm/fig-6.1-quality-of-work-life.2887bf6d.webp",
-      "url": "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u6-intro-hrm/fig-6.1-quality-of-work-life.2887bf6d.webp",
+      "key": "course/bitm/second-semester/ob-hrm/u6-intro-hrm/fig-6.1-quality-of-work-life.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u6-intro-hrm/fig-6.1-quality-of-work-life.webp",
       "contentType": "image/webp",
       "width": 1448,
       "height": 1086,
-      "bytes": 961090
+      "bytes": 122680,
+      "contentHashed": false
     },
     "fig-6.2-hard-and-soft-hrm.webp": {
-      "key": "course/bitm/second-semester/ob-hrm/u6-intro-hrm/fig-6.2-hard-and-soft-hrm.d495ab91.webp",
-      "url": "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u6-intro-hrm/fig-6.2-hard-and-soft-hrm.d495ab91.webp",
+      "key": "course/bitm/second-semester/ob-hrm/u6-intro-hrm/fig-6.2-hard-and-soft-hrm.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u6-intro-hrm/fig-6.2-hard-and-soft-hrm.webp",
       "contentType": "image/webp",
       "width": 1448,
       "height": 1086,
-      "bytes": 852380
+      "bytes": 111524,
+      "contentHashed": false
     },
     "fig-6.3-hrm-functions.webp": {
-      "key": "course/bitm/second-semester/ob-hrm/u6-intro-hrm/fig-6.3-hrm-functions.c1251dfc.webp",
-      "url": "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u6-intro-hrm/fig-6.3-hrm-functions.c1251dfc.webp",
+      "key": "course/bitm/second-semester/ob-hrm/u6-intro-hrm/fig-6.3-hrm-functions.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u6-intro-hrm/fig-6.3-hrm-functions.webp",
       "contentType": "image/webp",
       "width": 1448,
       "height": 1086,
-      "bytes": 842850
+      "bytes": 136648,
+      "contentHashed": false
     },
     "fig-6.4-hr-competitive-advantage.webp": {
-      "key": "course/bitm/second-semester/ob-hrm/u6-intro-hrm/fig-6.4-hr-competitive-advantage.807d6624.webp",
-      "url": "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u6-intro-hrm/fig-6.4-hr-competitive-advantage.807d6624.webp",
+      "key": "course/bitm/second-semester/ob-hrm/u6-intro-hrm/fig-6.4-hr-competitive-advantage.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u6-intro-hrm/fig-6.4-hr-competitive-advantage.webp",
       "contentType": "image/webp",
       "width": 1448,
       "height": 1086,
-      "bytes": 686430
+      "bytes": 79986,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u6-intro-hrm/fig-6.1-quality-of-work-life.2887bf6d.webp",
-    "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u6-intro-hrm/fig-6.2-hard-and-soft-hrm.d495ab91.webp",
-    "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u6-intro-hrm/fig-6.3-hrm-functions.c1251dfc.webp",
-    "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u6-intro-hrm/fig-6.4-hr-competitive-advantage.807d6624.webp"
+    "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u6-intro-hrm/fig-6.1-quality-of-work-life.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u6-intro-hrm/fig-6.2-hard-and-soft-hrm.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u6-intro-hrm/fig-6.3-hrm-functions.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/ob-hrm/u6-intro-hrm/fig-6.4-hr-competitive-advantage.webp"
   ]
 }

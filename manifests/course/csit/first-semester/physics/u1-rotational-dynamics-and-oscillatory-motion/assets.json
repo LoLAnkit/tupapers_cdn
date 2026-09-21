@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.621Z",
+  "generatedAt": "2026-09-21T09:23:02.571Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/csit/first-semester/physics/u1-rotational-dynamics-and-oscillatory-motion",
   "totalAssets": 4,
   "assets": {
     "ice-skater-angular-momentum-conservation.webp": {
-      "key": "course/csit/first-semester/physics/u1-rotational-dynamics-and-oscillatory-motion/ice-skater-angular-momentum-conservation.3ffd6809.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/physics/u1-rotational-dynamics-and-oscillatory-motion/ice-skater-angular-momentum-conservation.3ffd6809.webp",
+      "key": "course/csit/first-semester/physics/u1-rotational-dynamics-and-oscillatory-motion/ice-skater-angular-momentum-conservation.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/physics/u1-rotational-dynamics-and-oscillatory-motion/ice-skater-angular-momentum-conservation.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 375380
+      "bytes": 73310,
+      "contentHashed": false
     },
     "mass-spring-shm-diagram.webp": {
-      "key": "course/csit/first-semester/physics/u1-rotational-dynamics-and-oscillatory-motion/mass-spring-shm-diagram.23661be9.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/physics/u1-rotational-dynamics-and-oscillatory-motion/mass-spring-shm-diagram.23661be9.webp",
+      "key": "course/csit/first-semester/physics/u1-rotational-dynamics-and-oscillatory-motion/mass-spring-shm-diagram.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/physics/u1-rotational-dynamics-and-oscillatory-motion/mass-spring-shm-diagram.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 486092
+      "bytes": 85182,
+      "contentHashed": false
     },
     "rolling-ball-on-inclined-plane.webp": {
-      "key": "course/csit/first-semester/physics/u1-rotational-dynamics-and-oscillatory-motion/rolling-ball-on-inclined-plane.907f08c7.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/physics/u1-rotational-dynamics-and-oscillatory-motion/rolling-ball-on-inclined-plane.907f08c7.webp",
+      "key": "course/csit/first-semester/physics/u1-rotational-dynamics-and-oscillatory-motion/rolling-ball-on-inclined-plane.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/physics/u1-rotational-dynamics-and-oscillatory-motion/rolling-ball-on-inclined-plane.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 419304
+      "bytes": 79732,
+      "contentHashed": false
     },
     "shm-displacement-velocity-acceleration-phase-plot.webp": {
-      "key": "course/csit/first-semester/physics/u1-rotational-dynamics-and-oscillatory-motion/shm-displacement-velocity-acceleration-phase-plot.29fe8a37.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/physics/u1-rotational-dynamics-and-oscillatory-motion/shm-displacement-velocity-acceleration-phase-plot.29fe8a37.webp",
+      "key": "course/csit/first-semester/physics/u1-rotational-dynamics-and-oscillatory-motion/shm-displacement-velocity-acceleration-phase-plot.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/physics/u1-rotational-dynamics-and-oscillatory-motion/shm-displacement-velocity-acceleration-phase-plot.webp",
       "contentType": "image/webp",
       "width": 1568,
       "height": 1003,
-      "bytes": 630100
+      "bytes": 62734,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/csit/first-semester/physics/u1-rotational-dynamics-and-oscillatory-motion/ice-skater-angular-momentum-conservation.3ffd6809.webp",
-    "https://cdn.tupapers.com/course/csit/first-semester/physics/u1-rotational-dynamics-and-oscillatory-motion/mass-spring-shm-diagram.23661be9.webp",
-    "https://cdn.tupapers.com/course/csit/first-semester/physics/u1-rotational-dynamics-and-oscillatory-motion/rolling-ball-on-inclined-plane.907f08c7.webp",
-    "https://cdn.tupapers.com/course/csit/first-semester/physics/u1-rotational-dynamics-and-oscillatory-motion/shm-displacement-velocity-acceleration-phase-plot.29fe8a37.webp"
+    "https://cdn.tupapers.com/course/csit/first-semester/physics/u1-rotational-dynamics-and-oscillatory-motion/ice-skater-angular-momentum-conservation.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/physics/u1-rotational-dynamics-and-oscillatory-motion/mass-spring-shm-diagram.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/physics/u1-rotational-dynamics-and-oscillatory-motion/rolling-ball-on-inclined-plane.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/physics/u1-rotational-dynamics-and-oscillatory-motion/shm-displacement-velocity-acceleration-phase-plot.webp"
   ]
 }

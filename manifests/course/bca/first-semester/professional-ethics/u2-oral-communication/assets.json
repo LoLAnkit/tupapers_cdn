@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:01.619Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/first-semester/professional-ethics/u2-oral-communication",
+  "totalAssets": 4,
+  "assets": {
+    "effective-presentation-setup.webp": {
+      "key": "course/bca/first-semester/professional-ethics/u2-oral-communication/effective-presentation-setup.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u2-oral-communication/effective-presentation-setup.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 387776,
+      "contentHashed": false
+    },
+    "interviewing-and-professional-dialogue.webp": {
+      "key": "course/bca/first-semester/professional-ethics/u2-oral-communication/interviewing-and-professional-dialogue.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u2-oral-communication/interviewing-and-professional-dialogue.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 288024,
+      "contentHashed": false
+    },
+    "meeting-agenda-to-minutes-cycle.webp": {
+      "key": "course/bca/first-semester/professional-ethics/u2-oral-communication/meeting-agenda-to-minutes-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u2-oral-communication/meeting-agenda-to-minutes-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 82704,
+      "contentHashed": false
+    },
+    "telephone-conversation-flow.webp": {
+      "key": "course/bca/first-semester/professional-ethics/u2-oral-communication/telephone-conversation-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u2-oral-communication/telephone-conversation-flow.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 92576,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u2-oral-communication/effective-presentation-setup.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u2-oral-communication/interviewing-and-professional-dialogue.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u2-oral-communication/meeting-agenda-to-minutes-cycle.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u2-oral-communication/telephone-conversation-flow.webp"
+  ]
+}

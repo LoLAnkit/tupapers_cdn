@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:02.595Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/csit/fourth-semester/ai/u1-introduction",
+  "totalAssets": 4,
+  "assets": {
+    "agent-environment-interaction-loop.webp": {
+      "key": "course/csit/fourth-semester/ai/u1-introduction/agent-environment-interaction-loop.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/ai/u1-introduction/agent-environment-interaction-loop.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 84904,
+      "contentHashed": false
+    },
+    "application-ofoai-landscape.webp": {
+      "key": "course/csit/fourth-semester/ai/u1-introduction/application-ofoai-landscape.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/ai/u1-introduction/application-ofoai-landscape.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 138342,
+      "contentHashed": false
+    },
+    "foundations-of-ai-map.webp": {
+      "key": "course/csit/fourth-semester/ai/u1-introduction/foundations-of-ai-map.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/ai/u1-introduction/foundations-of-ai-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 101670,
+      "contentHashed": false
+    },
+    "four-ai-perspectives.webp": {
+      "key": "course/csit/fourth-semester/ai/u1-introduction/four-ai-perspectives.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/ai/u1-introduction/four-ai-perspectives.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 132384,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/csit/fourth-semester/ai/u1-introduction/agent-environment-interaction-loop.webp",
+    "https://cdn.tupapers.com/course/csit/fourth-semester/ai/u1-introduction/application-ofoai-landscape.webp",
+    "https://cdn.tupapers.com/course/csit/fourth-semester/ai/u1-introduction/foundations-of-ai-map.webp",
+    "https://cdn.tupapers.com/course/csit/fourth-semester/ai/u1-introduction/four-ai-perspectives.webp"
+  ]
+}

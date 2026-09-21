@@ -1,38 +1,41 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.324Z",
+  "generatedAt": "2026-09-21T09:23:02.378Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/first-year/reading-and-writing/narration-description",
   "totalAssets": 3,
   "assets": {
     "4-level-of-interacting-with-text.webp": {
-      "key": "course/bsw/first-year/reading-and-writing/narration-description/4-level-of-interacting-with-text.efc8f880.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/narration-description/4-level-of-interacting-with-text.efc8f880.webp",
+      "key": "course/bsw/first-year/reading-and-writing/narration-description/4-level-of-interacting-with-text.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/narration-description/4-level-of-interacting-with-text.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 1214168
+      "bytes": 179558,
+      "contentHashed": false
     },
     "narration-vs-description.webp": {
-      "key": "course/bsw/first-year/reading-and-writing/narration-description/narration-vs-description.15557dfb.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/narration-description/narration-vs-description.15557dfb.webp",
+      "key": "course/bsw/first-year/reading-and-writing/narration-description/narration-vs-description.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/narration-description/narration-vs-description.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 914002
+      "bytes": 165992,
+      "contentHashed": false
     },
     "note-making-hierarchy.webp": {
-      "key": "course/bsw/first-year/reading-and-writing/narration-description/note-making-hierarchy.74853817.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/narration-description/note-making-hierarchy.74853817.webp",
+      "key": "course/bsw/first-year/reading-and-writing/narration-description/note-making-hierarchy.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/narration-description/note-making-hierarchy.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 1022970
+      "bytes": 129780,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/narration-description/4-level-of-interacting-with-text.efc8f880.webp",
-    "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/narration-description/narration-vs-description.15557dfb.webp",
-    "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/narration-description/note-making-hierarchy.74853817.webp"
+    "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/narration-description/4-level-of-interacting-with-text.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/narration-description/narration-vs-description.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/narration-description/note-making-hierarchy.webp"
   ]
 }

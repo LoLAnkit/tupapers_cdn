@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.536Z",
+  "generatedAt": "2026-09-21T09:23:01.364Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bba/sixth-semester/financial-market-and-services/securities-firms",
   "totalAssets": 4,
   "assets": {
     "broker-vs-dealer-role-comparision.webp": {
-      "key": "course/bba/sixth-semester/financial-market-and-services/securities-firms/broker-vs-dealer-role-comparision.23ea7e4e.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/securities-firms/broker-vs-dealer-role-comparision.23ea7e4e.webp",
+      "key": "course/bba/sixth-semester/financial-market-and-services/securities-firms/broker-vs-dealer-role-comparision.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/securities-firms/broker-vs-dealer-role-comparision.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 763292
+      "bytes": 153274,
+      "contentHashed": false
     },
     "cds-and-clearing-limited-trade-settlement-cycle.webp": {
-      "key": "course/bba/sixth-semester/financial-market-and-services/securities-firms/cds-and-clearing-limited-trade-settlement-cycle.f948a930.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/securities-firms/cds-and-clearing-limited-trade-settlement-cycle.f948a930.webp",
+      "key": "course/bba/sixth-semester/financial-market-and-services/securities-firms/cds-and-clearing-limited-trade-settlement-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/securities-firms/cds-and-clearing-limited-trade-settlement-cycle.webp",
       "contentType": "image/webp",
       "width": 1694,
       "height": 928,
-      "bytes": 718902
+      "bytes": 165100,
+      "contentHashed": false
     },
     "credit-rate-processing.webp": {
-      "key": "course/bba/sixth-semester/financial-market-and-services/securities-firms/credit-rate-processing.8048dcb8.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/securities-firms/credit-rate-processing.8048dcb8.webp",
+      "key": "course/bba/sixth-semester/financial-market-and-services/securities-firms/credit-rate-processing.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/securities-firms/credit-rate-processing.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 591694
+      "bytes": 172124,
+      "contentHashed": false
     },
     "rating-scale.webp": {
-      "key": "course/bba/sixth-semester/financial-market-and-services/securities-firms/rating-scale.a03549e7.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/securities-firms/rating-scale.a03549e7.webp",
+      "key": "course/bba/sixth-semester/financial-market-and-services/securities-firms/rating-scale.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/securities-firms/rating-scale.webp",
       "contentType": "image/webp",
       "width": 1024,
       "height": 1536,
-      "bytes": 1239466
+      "bytes": 172988,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/securities-firms/broker-vs-dealer-role-comparision.23ea7e4e.webp",
-    "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/securities-firms/cds-and-clearing-limited-trade-settlement-cycle.f948a930.webp",
-    "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/securities-firms/credit-rate-processing.8048dcb8.webp",
-    "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/securities-firms/rating-scale.a03549e7.webp"
+    "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/securities-firms/broker-vs-dealer-role-comparision.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/securities-firms/cds-and-clearing-limited-trade-settlement-cycle.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/securities-firms/credit-rate-processing.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/securities-firms/rating-scale.webp"
   ]
 }

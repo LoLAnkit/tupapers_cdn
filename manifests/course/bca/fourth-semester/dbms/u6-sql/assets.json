@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:01.785Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/fourth-semester/dbms/u6-sql",
+  "totalAssets": 3,
+  "assets": {
+    "ddl-vs-dml-vs-dcl.webp": {
+      "key": "course/bca/fourth-semester/dbms/u6-sql/ddl-vs-dml-vs-dcl.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u6-sql/ddl-vs-dml-vs-dcl.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 118276,
+      "contentHashed": false
+    },
+    "join-types-illustrated.webp": {
+      "key": "course/bca/fourth-semester/dbms/u6-sql/join-types-illustrated.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u6-sql/join-types-illustrated.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 175584,
+      "contentHashed": false
+    },
+    "sql-query-execution-flow.webp": {
+      "key": "course/bca/fourth-semester/dbms/u6-sql/sql-query-execution-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u6-sql/sql-query-execution-flow.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 113750,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u6-sql/ddl-vs-dml-vs-dcl.webp",
+    "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u6-sql/join-types-illustrated.webp",
+    "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u6-sql/sql-query-execution-flow.webp"
+  ]
+}

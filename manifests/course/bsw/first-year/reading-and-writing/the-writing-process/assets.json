@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.329Z",
+  "generatedAt": "2026-09-21T09:23:02.381Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/first-year/reading-and-writing/the-writing-process",
   "totalAssets": 4,
   "assets": {
     "argumentative-essay-structure-flowchart.webp": {
-      "key": "course/bsw/first-year/reading-and-writing/the-writing-process/argumentative-essay-structure-flowchart.011963d1.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/the-writing-process/argumentative-essay-structure-flowchart.011963d1.webp",
+      "key": "course/bsw/first-year/reading-and-writing/the-writing-process/argumentative-essay-structure-flowchart.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/the-writing-process/argumentative-essay-structure-flowchart.webp",
       "contentType": "image/webp",
       "width": 1024,
       "height": 1536,
-      "bytes": 1245984
+      "bytes": 166486,
+      "contentHashed": false
     },
     "colorful-pre-writing-techniques.webp": {
-      "key": "course/bsw/first-year/reading-and-writing/the-writing-process/colorful-pre-writing-techniques.1c80b215.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/the-writing-process/colorful-pre-writing-techniques.1c80b215.webp",
+      "key": "course/bsw/first-year/reading-and-writing/the-writing-process/colorful-pre-writing-techniques.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/the-writing-process/colorful-pre-writing-techniques.webp",
       "contentType": "image/webp",
       "width": 1254,
       "height": 1254,
-      "bytes": 1260394
+      "bytes": 113804,
+      "contentHashed": false
     },
     "general-to-specific-topic-funne.webp": {
-      "key": "course/bsw/first-year/reading-and-writing/the-writing-process/general-to-specific-topic-funne.70c98dfc.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/the-writing-process/general-to-specific-topic-funne.70c98dfc.webp",
+      "key": "course/bsw/first-year/reading-and-writing/the-writing-process/general-to-specific-topic-funne.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/the-writing-process/general-to-specific-topic-funne.webp",
       "contentType": "image/webp",
       "width": 1024,
       "height": 1536,
-      "bytes": 1234588
+      "bytes": 164250,
+      "contentHashed": false
     },
     "writing-process-flowchart.webp": {
-      "key": "course/bsw/first-year/reading-and-writing/the-writing-process/writing-process-flowchart.caca9f16.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/the-writing-process/writing-process-flowchart.caca9f16.webp",
+      "key": "course/bsw/first-year/reading-and-writing/the-writing-process/writing-process-flowchart.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/the-writing-process/writing-process-flowchart.webp",
       "contentType": "image/webp",
       "width": 1024,
       "height": 1536,
-      "bytes": 382362
+      "bytes": 45902,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/the-writing-process/argumentative-essay-structure-flowchart.011963d1.webp",
-    "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/the-writing-process/colorful-pre-writing-techniques.1c80b215.webp",
-    "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/the-writing-process/general-to-specific-topic-funne.70c98dfc.webp",
-    "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/the-writing-process/writing-process-flowchart.caca9f16.webp"
+    "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/the-writing-process/argumentative-essay-structure-flowchart.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/the-writing-process/colorful-pre-writing-techniques.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/the-writing-process/general-to-specific-topic-funne.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/the-writing-process/writing-process-flowchart.webp"
   ]
 }

@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.693Z",
+  "generatedAt": "2026-09-21T09:23:02.705Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/csit/second-semester/micro-processor/u6-input-output-interfaces",
   "totalAssets": 4,
   "assets": {
     "fig-6-1-8255a-internal-architecture-and-ports.webp": {
-      "key": "course/csit/second-semester/micro-processor/u6-input-output-interfaces/fig-6-1-8255a-internal-architecture-and-ports.cd167b81.webp",
-      "url": "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u6-input-output-interfaces/fig-6-1-8255a-internal-architecture-and-ports.cd167b81.webp",
+      "key": "course/csit/second-semester/micro-processor/u6-input-output-interfaces/fig-6-1-8255a-internal-architecture-and-ports.webp",
+      "url": "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u6-input-output-interfaces/fig-6-1-8255a-internal-architecture-and-ports.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 885582
+      "bytes": 108374,
+      "contentHashed": false
     },
     "fig-6-2-8255a-operating-modes.webp": {
-      "key": "course/csit/second-semester/micro-processor/u6-input-output-interfaces/fig-6-2-8255a-operating-modes.46fa0e94.webp",
-      "url": "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u6-input-output-interfaces/fig-6-2-8255a-operating-modes.46fa0e94.webp",
+      "key": "course/csit/second-semester/micro-processor/u6-input-output-interfaces/fig-6-2-8255a-operating-modes.webp",
+      "url": "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u6-input-output-interfaces/fig-6-2-8255a-operating-modes.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 785410
+      "bytes": 112966,
+      "contentHashed": false
     },
     "fig-6-3-8259a-programmable-interrupt-controller.webp": {
-      "key": "course/csit/second-semester/micro-processor/u6-input-output-interfaces/fig-6-3-8259a-programmable-interrupt-controller.5913a344.webp",
-      "url": "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u6-input-output-interfaces/fig-6-3-8259a-programmable-interrupt-controller.5913a344.webp",
+      "key": "course/csit/second-semester/micro-processor/u6-input-output-interfaces/fig-6-3-8259a-programmable-interrupt-controller.webp",
+      "url": "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u6-input-output-interfaces/fig-6-3-8259a-programmable-interrupt-controller.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 852840
+      "bytes": 113262,
+      "contentHashed": false
     },
     "fig-6-4-rs-232-dte-dce-connection.webp": {
-      "key": "course/csit/second-semester/micro-processor/u6-input-output-interfaces/fig-6-4-rs-232-dte-dce-connection.34c703a1.webp",
-      "url": "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u6-input-output-interfaces/fig-6-4-rs-232-dte-dce-connection.34c703a1.webp",
+      "key": "course/csit/second-semester/micro-processor/u6-input-output-interfaces/fig-6-4-rs-232-dte-dce-connection.webp",
+      "url": "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u6-input-output-interfaces/fig-6-4-rs-232-dte-dce-connection.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 722162
+      "bytes": 79404,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u6-input-output-interfaces/fig-6-1-8255a-internal-architecture-and-ports.cd167b81.webp",
-    "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u6-input-output-interfaces/fig-6-2-8255a-operating-modes.46fa0e94.webp",
-    "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u6-input-output-interfaces/fig-6-3-8259a-programmable-interrupt-controller.5913a344.webp",
-    "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u6-input-output-interfaces/fig-6-4-rs-232-dte-dce-connection.34c703a1.webp"
+    "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u6-input-output-interfaces/fig-6-1-8255a-internal-architecture-and-ports.webp",
+    "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u6-input-output-interfaces/fig-6-2-8255a-operating-modes.webp",
+    "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u6-input-output-interfaces/fig-6-3-8259a-programmable-interrupt-controller.webp",
+    "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u6-input-output-interfaces/fig-6-4-rs-232-dte-dce-connection.webp"
   ]
 }

@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.922Z",
+  "generatedAt": "2026-09-21T09:23:02.088Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/sixth-semester/network-programming/u1-introduction",
   "totalAssets": 4,
   "assets": {
     "client-server-model.webp": {
-      "key": "course/bca/sixth-semester/network-programming/u1-introduction/client-server-model.f66647c1.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u1-introduction/client-server-model.f66647c1.webp",
+      "key": "course/bca/sixth-semester/network-programming/u1-introduction/client-server-model.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u1-introduction/client-server-model.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 578124
+      "bytes": 128010,
+      "contentHashed": false
     },
     "network-application-design-flow.webp": {
-      "key": "course/bca/sixth-semester/network-programming/u1-introduction/network-application-design-flow.2660a80b.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u1-introduction/network-application-design-flow.2660a80b.webp",
+      "key": "course/bca/sixth-semester/network-programming/u1-introduction/network-application-design-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u1-introduction/network-application-design-flow.webp",
       "contentType": "image/webp",
       "width": 1775,
       "height": 886,
-      "bytes": 575268
+      "bytes": 109572,
+      "contentHashed": false
     },
     "network-programming-application-scope.webp": {
-      "key": "course/bca/sixth-semester/network-programming/u1-introduction/network-programming-application-scope.acb9f443.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u1-introduction/network-programming-application-scope.acb9f443.webp",
+      "key": "course/bca/sixth-semester/network-programming/u1-introduction/network-programming-application-scope.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u1-introduction/network-programming-application-scope.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 579490
+      "bytes": 124736,
+      "contentHashed": false
     },
     "network-programming-platforms-map.webp": {
-      "key": "course/bca/sixth-semester/network-programming/u1-introduction/network-programming-platforms-map.f7b6a384.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u1-introduction/network-programming-platforms-map.f7b6a384.webp",
+      "key": "course/bca/sixth-semester/network-programming/u1-introduction/network-programming-platforms-map.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u1-introduction/network-programming-platforms-map.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 631700
+      "bytes": 151730,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u1-introduction/client-server-model.f66647c1.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u1-introduction/network-application-design-flow.2660a80b.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u1-introduction/network-programming-application-scope.acb9f443.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u1-introduction/network-programming-platforms-map.f7b6a384.webp"
+    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u1-introduction/client-server-model.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u1-introduction/network-application-design-flow.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u1-introduction/network-programming-application-scope.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u1-introduction/network-programming-platforms-map.webp"
   ]
 }

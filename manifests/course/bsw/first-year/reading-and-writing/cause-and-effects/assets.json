@@ -1,38 +1,41 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.307Z",
+  "generatedAt": "2026-09-21T09:23:02.368Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/first-year/reading-and-writing/cause-and-effects",
   "totalAssets": 3,
   "assets": {
     "block-vs-point-by-point-organization.webp": {
-      "key": "course/bsw/first-year/reading-and-writing/cause-and-effects/block-vs-point-by-point-organization.010b68f9.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/cause-and-effects/block-vs-point-by-point-organization.010b68f9.webp",
+      "key": "course/bsw/first-year/reading-and-writing/cause-and-effects/block-vs-point-by-point-organization.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/cause-and-effects/block-vs-point-by-point-organization.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 647638
+      "bytes": 118132,
+      "contentHashed": false
     },
     "cause-and-effect-chain.webp": {
-      "key": "course/bsw/first-year/reading-and-writing/cause-and-effects/cause-and-effect-chain.f8027508.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/cause-and-effects/cause-and-effect-chain.f8027508.webp",
+      "key": "course/bsw/first-year/reading-and-writing/cause-and-effects/cause-and-effect-chain.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/cause-and-effects/cause-and-effect-chain.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 407176
+      "bytes": 95596,
+      "contentHashed": false
     },
     "comparison-and-contrast.webp": {
-      "key": "course/bsw/first-year/reading-and-writing/cause-and-effects/comparison-and-contrast.dfb3d1c4.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/cause-and-effects/comparison-and-contrast.dfb3d1c4.webp",
+      "key": "course/bsw/first-year/reading-and-writing/cause-and-effects/comparison-and-contrast.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/cause-and-effects/comparison-and-contrast.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 1224824
+      "bytes": 147552,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/cause-and-effects/block-vs-point-by-point-organization.010b68f9.webp",
-    "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/cause-and-effects/cause-and-effect-chain.f8027508.webp",
-    "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/cause-and-effects/comparison-and-contrast.dfb3d1c4.webp"
+    "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/cause-and-effects/block-vs-point-by-point-organization.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/cause-and-effects/cause-and-effect-chain.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/cause-and-effects/comparison-and-contrast.webp"
   ]
 }

@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.719Z",
+  "generatedAt": "2026-09-21T09:23:02.720Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/csit/third-semester/computer-architecture/u4-microprogrammed-control",
   "totalAssets": 4,
   "assets": {
     "address-sequencing-and-conditional-branch.webp": {
-      "key": "course/csit/third-semester/computer-architecture/u4-microprogrammed-control/address-sequencing-and-conditional-branch.694d7a2c.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u4-microprogrammed-control/address-sequencing-and-conditional-branch.694d7a2c.webp",
+      "key": "course/csit/third-semester/computer-architecture/u4-microprogrammed-control/address-sequencing-and-conditional-branch.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u4-microprogrammed-control/address-sequencing-and-conditional-branch.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 401318
+      "bytes": 82076,
+      "contentHashed": false
     },
     "control-memory-and-control-word-path.webp": {
-      "key": "course/csit/third-semester/computer-architecture/u4-microprogrammed-control/control-memory-and-control-word-path.9996febd.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u4-microprogrammed-control/control-memory-and-control-word-path.9996febd.webp",
+      "key": "course/csit/third-semester/computer-architecture/u4-microprogrammed-control/control-memory-and-control-word-path.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u4-microprogrammed-control/control-memory-and-control-word-path.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 550168
+      "bytes": 113592,
+      "contentHashed": false
     },
     "microinstruction-format.webp": {
-      "key": "course/csit/third-semester/computer-architecture/u4-microprogrammed-control/microinstruction-format.3dc30149.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u4-microprogrammed-control/microinstruction-format.3dc30149.webp",
+      "key": "course/csit/third-semester/computer-architecture/u4-microprogrammed-control/microinstruction-format.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u4-microprogrammed-control/microinstruction-format.webp",
       "contentType": "image/webp",
       "width": 1983,
       "height": 793,
-      "bytes": 364136
+      "bytes": 73572,
+      "contentHashed": false
     },
     "microprogram-sequencer.webp": {
-      "key": "course/csit/third-semester/computer-architecture/u4-microprogrammed-control/microprogram-sequencer.d09dc150.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u4-microprogrammed-control/microprogram-sequencer.d09dc150.webp",
+      "key": "course/csit/third-semester/computer-architecture/u4-microprogrammed-control/microprogram-sequencer.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u4-microprogrammed-control/microprogram-sequencer.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 490564
+      "bytes": 74316,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u4-microprogrammed-control/address-sequencing-and-conditional-branch.694d7a2c.webp",
-    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u4-microprogrammed-control/control-memory-and-control-word-path.9996febd.webp",
-    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u4-microprogrammed-control/microinstruction-format.3dc30149.webp",
-    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u4-microprogrammed-control/microprogram-sequencer.d09dc150.webp"
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u4-microprogrammed-control/address-sequencing-and-conditional-branch.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u4-microprogrammed-control/control-memory-and-control-word-path.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u4-microprogrammed-control/microinstruction-format.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u4-microprogrammed-control/microprogram-sequencer.webp"
   ]
 }

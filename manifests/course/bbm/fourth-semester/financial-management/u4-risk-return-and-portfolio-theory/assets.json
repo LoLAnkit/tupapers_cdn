@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:01.410Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbm/fourth-semester/financial-management/u4-risk-return-and-portfolio-theory",
+  "totalAssets": 4,
+  "assets": {
+    "diversification-effect.webp": {
+      "key": "course/bbm/fourth-semester/financial-management/u4-risk-return-and-portfolio-theory/diversification-effect.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/financial-management/u4-risk-return-and-portfolio-theory/diversification-effect.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 59592,
+      "contentHashed": false
+    },
+    "efficient-frontier.webp": {
+      "key": "course/bbm/fourth-semester/financial-management/u4-risk-return-and-portfolio-theory/efficient-frontier.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/financial-management/u4-risk-return-and-portfolio-theory/efficient-frontier.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 83074,
+      "contentHashed": false
+    },
+    "risk-and-return-distribution.webp": {
+      "key": "course/bbm/fourth-semester/financial-management/u4-risk-return-and-portfolio-theory/risk-and-return-distribution.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/financial-management/u4-risk-return-and-portfolio-theory/risk-and-return-distribution.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 61060,
+      "contentHashed": false
+    },
+    "security-market-line-capm.webp": {
+      "key": "course/bbm/fourth-semester/financial-management/u4-risk-return-and-portfolio-theory/security-market-line-capm.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/financial-management/u4-risk-return-and-portfolio-theory/security-market-line-capm.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 49754,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/financial-management/u4-risk-return-and-portfolio-theory/diversification-effect.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/financial-management/u4-risk-return-and-portfolio-theory/efficient-frontier.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/financial-management/u4-risk-return-and-portfolio-theory/risk-and-return-distribution.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/financial-management/u4-risk-return-and-portfolio-theory/security-market-line-capm.webp"
+  ]
+}

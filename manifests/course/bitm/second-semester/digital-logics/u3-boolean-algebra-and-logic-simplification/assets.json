@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.173Z",
+  "generatedAt": "2026-09-21T09:23:02.272Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bitm/second-semester/digital-logics/u3-boolean-algebra-and-logic-simplification",
   "totalAssets": 4,
   "assets": {
     "demorgan-gate-equivalence.webp": {
-      "key": "course/bitm/second-semester/digital-logics/u3-boolean-algebra-and-logic-simplification/demorgan-gate-equivalence.45ba454f.webp",
-      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u3-boolean-algebra-and-logic-simplification/demorgan-gate-equivalence.45ba454f.webp",
+      "key": "course/bitm/second-semester/digital-logics/u3-boolean-algebra-and-logic-simplification/demorgan-gate-equivalence.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u3-boolean-algebra-and-logic-simplification/demorgan-gate-equivalence.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 376782
+      "bytes": 39092,
+      "contentHashed": false
     },
     "four-variable-k-map-grouping.webp": {
-      "key": "course/bitm/second-semester/digital-logics/u3-boolean-algebra-and-logic-simplification/four-variable-k-map-grouping.5732656e.webp",
-      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u3-boolean-algebra-and-logic-simplification/four-variable-k-map-grouping.5732656e.webp",
+      "key": "course/bitm/second-semester/digital-logics/u3-boolean-algebra-and-logic-simplification/four-variable-k-map-grouping.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u3-boolean-algebra-and-logic-simplification/four-variable-k-map-grouping.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 760714
+      "bytes": 105968,
+      "contentHashed": false
     },
     "quine-mccluskey-tabulation-flow.webp": {
-      "key": "course/bitm/second-semester/digital-logics/u3-boolean-algebra-and-logic-simplification/quine-mccluskey-tabulation-flow.9984ca65.webp",
-      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u3-boolean-algebra-and-logic-simplification/quine-mccluskey-tabulation-flow.9984ca65.webp",
+      "key": "course/bitm/second-semester/digital-logics/u3-boolean-algebra-and-logic-simplification/quine-mccluskey-tabulation-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u3-boolean-algebra-and-logic-simplification/quine-mccluskey-tabulation-flow.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 719212
+      "bytes": 89126,
+      "contentHashed": false
     },
     "sop-and-pos-canonical-mapping.webp": {
-      "key": "course/bitm/second-semester/digital-logics/u3-boolean-algebra-and-logic-simplification/sop-and-pos-canonical-mapping.2355410d.webp",
-      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u3-boolean-algebra-and-logic-simplification/sop-and-pos-canonical-mapping.2355410d.webp",
+      "key": "course/bitm/second-semester/digital-logics/u3-boolean-algebra-and-logic-simplification/sop-and-pos-canonical-mapping.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u3-boolean-algebra-and-logic-simplification/sop-and-pos-canonical-mapping.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 953026
+      "bytes": 122122,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u3-boolean-algebra-and-logic-simplification/demorgan-gate-equivalence.45ba454f.webp",
-    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u3-boolean-algebra-and-logic-simplification/four-variable-k-map-grouping.5732656e.webp",
-    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u3-boolean-algebra-and-logic-simplification/quine-mccluskey-tabulation-flow.9984ca65.webp",
-    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u3-boolean-algebra-and-logic-simplification/sop-and-pos-canonical-mapping.2355410d.webp"
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u3-boolean-algebra-and-logic-simplification/demorgan-gate-equivalence.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u3-boolean-algebra-and-logic-simplification/four-variable-k-map-grouping.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u3-boolean-algebra-and-logic-simplification/quine-mccluskey-tabulation-flow.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u3-boolean-algebra-and-logic-simplification/sop-and-pos-canonical-mapping.webp"
   ]
 }

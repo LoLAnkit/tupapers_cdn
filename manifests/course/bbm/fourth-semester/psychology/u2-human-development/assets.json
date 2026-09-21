@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:01.469Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbm/fourth-semester/psychology/u2-human-development",
+  "totalAssets": 4,
+  "assets": {
+    "adolescence-psychosocial-hazards.webp": {
+      "key": "course/bbm/fourth-semester/psychology/u2-human-development/adolescence-psychosocial-hazards.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u2-human-development/adolescence-psychosocial-hazards.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 223804,
+      "contentHashed": false
+    },
+    "baltes-lifespan-principles.webp": {
+      "key": "course/bbm/fourth-semester/psychology/u2-human-development/baltes-lifespan-principles.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u2-human-development/baltes-lifespan-principles.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 207902,
+      "contentHashed": false
+    },
+    "key-stages-of-human-development.webp": {
+      "key": "course/bbm/fourth-semester/psychology/u2-human-development/key-stages-of-human-development.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u2-human-development/key-stages-of-human-development.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 202578,
+      "contentHashed": false
+    },
+    "nature-vs-nurture-interplay.webp": {
+      "key": "course/bbm/fourth-semester/psychology/u2-human-development/nature-vs-nurture-interplay.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u2-human-development/nature-vs-nurture-interplay.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 144186,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u2-human-development/adolescence-psychosocial-hazards.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u2-human-development/baltes-lifespan-principles.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u2-human-development/key-stages-of-human-development.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u2-human-development/nature-vs-nurture-interplay.webp"
+  ]
+}

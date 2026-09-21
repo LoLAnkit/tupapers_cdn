@@ -1,38 +1,41 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.374Z",
+  "generatedAt": "2026-09-21T09:23:01.232Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bba/second-semester/dbms/u6-database-recovery-techniques",
   "totalAssets": 3,
   "assets": {
     "deferred-update-recovery-1.webp": {
-      "key": "course/bba/second-semester/dbms/u6-database-recovery-techniques/deferred-update-recovery-1.b6323cde.webp",
-      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u6-database-recovery-techniques/deferred-update-recovery-1.b6323cde.webp",
+      "key": "course/bba/second-semester/dbms/u6-database-recovery-techniques/deferred-update-recovery-1.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u6-database-recovery-techniques/deferred-update-recovery-1.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 1044090
+      "bytes": 155176,
+      "contentHashed": false
     },
     "immediate-update-recovery-1.webp": {
-      "key": "course/bba/second-semester/dbms/u6-database-recovery-techniques/immediate-update-recovery-1.b950f868.webp",
-      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u6-database-recovery-techniques/immediate-update-recovery-1.b950f868.webp",
+      "key": "course/bba/second-semester/dbms/u6-database-recovery-techniques/immediate-update-recovery-1.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u6-database-recovery-techniques/immediate-update-recovery-1.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 957850
+      "bytes": 157498,
+      "contentHashed": false
     },
     "shadow-paging-1.webp": {
-      "key": "course/bba/second-semester/dbms/u6-database-recovery-techniques/shadow-paging-1.8e9c6560.webp",
-      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u6-database-recovery-techniques/shadow-paging-1.8e9c6560.webp",
+      "key": "course/bba/second-semester/dbms/u6-database-recovery-techniques/shadow-paging-1.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u6-database-recovery-techniques/shadow-paging-1.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 1076816
+      "bytes": 161866,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u6-database-recovery-techniques/deferred-update-recovery-1.b6323cde.webp",
-    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u6-database-recovery-techniques/immediate-update-recovery-1.b950f868.webp",
-    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u6-database-recovery-techniques/shadow-paging-1.8e9c6560.webp"
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u6-database-recovery-techniques/deferred-update-recovery-1.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u6-database-recovery-techniques/immediate-update-recovery-1.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u6-database-recovery-techniques/shadow-paging-1.webp"
   ]
 }

@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:02.207Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bhm/fourth-semester/hotel-engineering/u2-design-and-planning",
+  "totalAssets": 4,
+  "assets": {
+    "common-parking-layout-types.webp": {
+      "key": "course/bhm/fourth-semester/hotel-engineering/u2-design-and-planning/common-parking-layout-types.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/hotel-engineering/u2-design-and-planning/common-parking-layout-types.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 238424,
+      "contentHashed": false
+    },
+    "guest-room-layout-planning.webp": {
+      "key": "course/bhm/fourth-semester/hotel-engineering/u2-design-and-planning/guest-room-layout-planning.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/hotel-engineering/u2-design-and-planning/guest-room-layout-planning.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 172132,
+      "contentHashed": false
+    },
+    "hotel-lobby-space-planning.webp": {
+      "key": "course/bhm/fourth-semester/hotel-engineering/u2-design-and-planning/hotel-lobby-space-planning.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/hotel-engineering/u2-design-and-planning/hotel-lobby-space-planning.webp",
+      "contentType": "image/webp",
+      "width": 1374,
+      "height": 1145,
+      "bytes": 150970,
+      "contentHashed": false
+    },
+    "kitchen-layout-and-workflow.webp": {
+      "key": "course/bhm/fourth-semester/hotel-engineering/u2-design-and-planning/kitchen-layout-and-workflow.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/hotel-engineering/u2-design-and-planning/kitchen-layout-and-workflow.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 187752,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/hotel-engineering/u2-design-and-planning/common-parking-layout-types.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/hotel-engineering/u2-design-and-planning/guest-room-layout-planning.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/hotel-engineering/u2-design-and-planning/hotel-lobby-space-planning.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/hotel-engineering/u2-design-and-planning/kitchen-layout-and-workflow.webp"
+  ]
+}

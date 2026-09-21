@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:01.775Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/fourth-semester/dbms/u3-data-modeling-using-the-entity-relational-model",
+  "totalAssets": 4,
+  "assets": {
+    "attribute-types.webp": {
+      "key": "course/bca/fourth-semester/dbms/u3-data-modeling-using-the-entity-relational-model/attribute-types.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u3-data-modeling-using-the-entity-relational-model/attribute-types.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 85404,
+      "contentHashed": false
+    },
+    "cardinality-constraints.webp": {
+      "key": "course/bca/fourth-semester/dbms/u3-data-modeling-using-the-entity-relational-model/cardinality-constraints.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u3-data-modeling-using-the-entity-relational-model/cardinality-constraints.webp",
+      "contentType": "image/webp",
+      "width": 2071,
+      "height": 759,
+      "bytes": 63216,
+      "contentHashed": false
+    },
+    "er-diagram-notation-reference.webp": {
+      "key": "course/bca/fourth-semester/dbms/u3-data-modeling-using-the-entity-relational-model/er-diagram-notation-reference.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u3-data-modeling-using-the-entity-relational-model/er-diagram-notation-reference.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 90736,
+      "contentHashed": false
+    },
+    "specialization-generalization-hierarchy.webp": {
+      "key": "course/bca/fourth-semester/dbms/u3-data-modeling-using-the-entity-relational-model/specialization-generalization-hierarchy.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u3-data-modeling-using-the-entity-relational-model/specialization-generalization-hierarchy.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 50808,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u3-data-modeling-using-the-entity-relational-model/attribute-types.webp",
+    "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u3-data-modeling-using-the-entity-relational-model/cardinality-constraints.webp",
+    "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u3-data-modeling-using-the-entity-relational-model/er-diagram-notation-reference.webp",
+    "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u3-data-modeling-using-the-entity-relational-model/specialization-generalization-hierarchy.webp"
+  ]
+}

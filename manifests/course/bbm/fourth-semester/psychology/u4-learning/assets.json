@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:01.480Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbm/fourth-semester/psychology/u4-learning",
+  "totalAssets": 4,
+  "assets": {
+    "classical-conditioning-process.webp": {
+      "key": "course/bbm/fourth-semester/psychology/u4-learning/classical-conditioning-process.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u4-learning/classical-conditioning-process.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 149466,
+      "contentHashed": false
+    },
+    "four-learning-models-compared.webp": {
+      "key": "course/bbm/fourth-semester/psychology/u4-learning/four-learning-models-compared.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u4-learning/four-learning-models-compared.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 207002,
+      "contentHashed": false
+    },
+    "learned-helplessness-cycle.webp": {
+      "key": "course/bbm/fourth-semester/psychology/u4-learning/learned-helplessness-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u4-learning/learned-helplessness-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1312,
+      "height": 1199,
+      "bytes": 112012,
+      "contentHashed": false
+    },
+    "operant-conditioning-matrix.webp": {
+      "key": "course/bbm/fourth-semester/psychology/u4-learning/operant-conditioning-matrix.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u4-learning/operant-conditioning-matrix.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 174948,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u4-learning/classical-conditioning-process.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u4-learning/four-learning-models-compared.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u4-learning/learned-helplessness-cycle.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u4-learning/operant-conditioning-matrix.webp"
+  ]
+}

@@ -1,38 +1,41 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.792Z",
+  "generatedAt": "2026-09-21T09:23:01.971Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/seventh-semester/e-governance/u3-e-governance-infrastructure",
   "totalAssets": 3,
   "assets": {
     "e-governance-infrastructure-stack.webp": {
-      "key": "course/bca/seventh-semester/e-governance/u3-e-governance-infrastructure/e-governance-infrastructure-stack.b9fa8024.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u3-e-governance-infrastructure/e-governance-infrastructure-stack.b9fa8024.webp",
+      "key": "course/bca/seventh-semester/e-governance/u3-e-governance-infrastructure/e-governance-infrastructure-stack.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u3-e-governance-infrastructure/e-governance-infrastructure-stack.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 441434
+      "bytes": 88724,
+      "contentHashed": false
     },
     "e-readiness-framework.webp": {
-      "key": "course/bca/seventh-semester/e-governance/u3-e-governance-infrastructure/e-readiness-framework.d0cb564d.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u3-e-governance-infrastructure/e-readiness-framework.d0cb564d.webp",
+      "key": "course/bca/seventh-semester/e-governance/u3-e-governance-infrastructure/e-readiness-framework.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u3-e-governance-infrastructure/e-readiness-framework.webp",
       "contentType": "image/webp",
       "width": 1254,
       "height": 1254,
-      "bytes": 430590
+      "bytes": 71374,
+      "contentHashed": false
     },
     "interoperability-framework.webp": {
-      "key": "course/bca/seventh-semester/e-governance/u3-e-governance-infrastructure/interoperability-framework.7bec56aa.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u3-e-governance-infrastructure/interoperability-framework.7bec56aa.webp",
+      "key": "course/bca/seventh-semester/e-governance/u3-e-governance-infrastructure/interoperability-framework.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u3-e-governance-infrastructure/interoperability-framework.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 501234
+      "bytes": 79868,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u3-e-governance-infrastructure/e-governance-infrastructure-stack.b9fa8024.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u3-e-governance-infrastructure/e-readiness-framework.d0cb564d.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u3-e-governance-infrastructure/interoperability-framework.7bec56aa.webp"
+    "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u3-e-governance-infrastructure/e-governance-infrastructure-stack.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u3-e-governance-infrastructure/e-readiness-framework.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u3-e-governance-infrastructure/interoperability-framework.webp"
   ]
 }

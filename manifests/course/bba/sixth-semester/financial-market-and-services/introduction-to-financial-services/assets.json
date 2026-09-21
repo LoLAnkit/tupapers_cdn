@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.522Z",
+  "generatedAt": "2026-09-21T09:23:01.353Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bba/sixth-semester/financial-market-and-services/introduction-to-financial-services",
   "totalAssets": 4,
   "assets": {
     "classification-of-financial-intermediaries.webp": {
-      "key": "course/bba/sixth-semester/financial-market-and-services/introduction-to-financial-services/classification-of-financial-intermediaries.01c643f8.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/introduction-to-financial-services/classification-of-financial-intermediaries.01c643f8.webp",
+      "key": "course/bba/sixth-semester/financial-market-and-services/introduction-to-financial-services/classification-of-financial-intermediaries.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/introduction-to-financial-services/classification-of-financial-intermediaries.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 846788
+      "bytes": 98756,
+      "contentHashed": false
     },
     "components-of-neplease-financial-system.webp": {
-      "key": "course/bba/sixth-semester/financial-market-and-services/introduction-to-financial-services/components-of-neplease-financial-system.e4a29436.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/introduction-to-financial-services/components-of-neplease-financial-system.e4a29436.webp",
+      "key": "course/bba/sixth-semester/financial-market-and-services/introduction-to-financial-services/components-of-neplease-financial-system.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/introduction-to-financial-services/components-of-neplease-financial-system.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 887590
+      "bytes": 144192,
+      "contentHashed": false
     },
     "flow-of-fund-in-financial-system.webp": {
-      "key": "course/bba/sixth-semester/financial-market-and-services/introduction-to-financial-services/flow-of-fund-in-financial-system.b4e60477.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/introduction-to-financial-services/flow-of-fund-in-financial-system.b4e60477.webp",
+      "key": "course/bba/sixth-semester/financial-market-and-services/introduction-to-financial-services/flow-of-fund-in-financial-system.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/introduction-to-financial-services/flow-of-fund-in-financial-system.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 507894
+      "bytes": 97548,
+      "contentHashed": false
     },
     "types-of-financial-assets.webp": {
-      "key": "course/bba/sixth-semester/financial-market-and-services/introduction-to-financial-services/types-of-financial-assets.70183114.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/introduction-to-financial-services/types-of-financial-assets.70183114.webp",
+      "key": "course/bba/sixth-semester/financial-market-and-services/introduction-to-financial-services/types-of-financial-assets.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/introduction-to-financial-services/types-of-financial-assets.webp",
       "contentType": "image/webp",
       "width": 1254,
       "height": 1254,
-      "bytes": 1292184
+      "bytes": 145794,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/introduction-to-financial-services/classification-of-financial-intermediaries.01c643f8.webp",
-    "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/introduction-to-financial-services/components-of-neplease-financial-system.e4a29436.webp",
-    "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/introduction-to-financial-services/flow-of-fund-in-financial-system.b4e60477.webp",
-    "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/introduction-to-financial-services/types-of-financial-assets.70183114.webp"
+    "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/introduction-to-financial-services/classification-of-financial-intermediaries.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/introduction-to-financial-services/components-of-neplease-financial-system.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/introduction-to-financial-services/flow-of-fund-in-financial-system.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/introduction-to-financial-services/types-of-financial-assets.webp"
   ]
 }

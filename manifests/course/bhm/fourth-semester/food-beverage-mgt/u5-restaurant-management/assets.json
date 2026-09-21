@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:02.151Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bhm/fourth-semester/food-beverage-mgt/u5-restaurant-management",
+  "totalAssets": 4,
+  "assets": {
+    "color-psychology-in-a-restaurant.webp": {
+      "key": "course/bhm/fourth-semester/food-beverage-mgt/u5-restaurant-management/color-psychology-in-a-restaurant.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/food-beverage-mgt/u5-restaurant-management/color-psychology-in-a-restaurant.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 365446,
+      "contentHashed": false
+    },
+    "lighting-psychology.webp": {
+      "key": "course/bhm/fourth-semester/food-beverage-mgt/u5-restaurant-management/lighting-psychology.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/food-beverage-mgt/u5-restaurant-management/lighting-psychology.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 437336,
+      "contentHashed": false
+    },
+    "restaurant-physical-layout.webp": {
+      "key": "course/bhm/fourth-semester/food-beverage-mgt/u5-restaurant-management/restaurant-physical-layout.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/food-beverage-mgt/u5-restaurant-management/restaurant-physical-layout.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 119922,
+      "contentHashed": false
+    },
+    "theme-restaurant-concept.webp": {
+      "key": "course/bhm/fourth-semester/food-beverage-mgt/u5-restaurant-management/theme-restaurant-concept.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/food-beverage-mgt/u5-restaurant-management/theme-restaurant-concept.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 180206,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/food-beverage-mgt/u5-restaurant-management/color-psychology-in-a-restaurant.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/food-beverage-mgt/u5-restaurant-management/lighting-psychology.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/food-beverage-mgt/u5-restaurant-management/restaurant-physical-layout.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/food-beverage-mgt/u5-restaurant-management/theme-restaurant-concept.webp"
+  ]
+}

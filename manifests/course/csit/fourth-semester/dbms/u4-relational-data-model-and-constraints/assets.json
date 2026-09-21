@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:02.646Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/csit/fourth-semester/dbms/u4-relational-data-model-and-constraints",
+  "totalAssets": 3,
+  "assets": {
+    "referential-integrity.webp": {
+      "key": "course/csit/fourth-semester/dbms/u4-relational-data-model-and-constraints/referential-integrity.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/dbms/u4-relational-data-model-and-constraints/referential-integrity.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 147928,
+      "contentHashed": false
+    },
+    "relational-model-anatomy.webp": {
+      "key": "course/csit/fourth-semester/dbms/u4-relational-data-model-and-constraints/relational-model-anatomy.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/dbms/u4-relational-data-model-and-constraints/relational-model-anatomy.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 130286,
+      "contentHashed": false
+    },
+    "three-relational-constraints.webp": {
+      "key": "course/csit/fourth-semester/dbms/u4-relational-data-model-and-constraints/three-relational-constraints.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/dbms/u4-relational-data-model-and-constraints/three-relational-constraints.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 205356,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/csit/fourth-semester/dbms/u4-relational-data-model-and-constraints/referential-integrity.webp",
+    "https://cdn.tupapers.com/course/csit/fourth-semester/dbms/u4-relational-data-model-and-constraints/relational-model-anatomy.webp",
+    "https://cdn.tupapers.com/course/csit/fourth-semester/dbms/u4-relational-data-model-and-constraints/three-relational-constraints.webp"
+  ]
+}

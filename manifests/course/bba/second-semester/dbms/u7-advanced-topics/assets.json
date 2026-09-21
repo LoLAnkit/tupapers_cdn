@@ -1,38 +1,41 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.378Z",
+  "generatedAt": "2026-09-21T09:23:01.236Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bba/second-semester/dbms/u7-advanced-topics",
   "totalAssets": 3,
   "assets": {
     "big-data-characteristics-and-architecture.webp": {
-      "key": "course/bba/second-semester/dbms/u7-advanced-topics/big-data-characteristics-and-architecture.71655d11.webp",
-      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u7-advanced-topics/big-data-characteristics-and-architecture.71655d11.webp",
+      "key": "course/bba/second-semester/dbms/u7-advanced-topics/big-data-characteristics-and-architecture.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u7-advanced-topics/big-data-characteristics-and-architecture.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 986212
+      "bytes": 161682,
+      "contentHashed": false
     },
     "layered-database-security.webp": {
-      "key": "course/bba/second-semester/dbms/u7-advanced-topics/layered-database-security.789c3059.webp",
-      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u7-advanced-topics/layered-database-security.789c3059.webp",
+      "key": "course/bba/second-semester/dbms/u7-advanced-topics/layered-database-security.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u7-advanced-topics/layered-database-security.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 1279902
+      "bytes": 152280,
+      "contentHashed": false
     },
     "nosql-data-models.webp": {
-      "key": "course/bba/second-semester/dbms/u7-advanced-topics/nosql-data-models.6286a6e7.webp",
-      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u7-advanced-topics/nosql-data-models.6286a6e7.webp",
+      "key": "course/bba/second-semester/dbms/u7-advanced-topics/nosql-data-models.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u7-advanced-topics/nosql-data-models.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 1040080
+      "bytes": 152536,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u7-advanced-topics/big-data-characteristics-and-architecture.71655d11.webp",
-    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u7-advanced-topics/layered-database-security.789c3059.webp",
-    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u7-advanced-topics/nosql-data-models.6286a6e7.webp"
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u7-advanced-topics/big-data-characteristics-and-architecture.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u7-advanced-topics/layered-database-security.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u7-advanced-topics/nosql-data-models.webp"
   ]
 }

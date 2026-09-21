@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.507Z",
+  "generatedAt": "2026-09-21T09:23:02.503Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/second-year/social-case-work/u4-tools-and-skills-for-problem-diagnosis",
   "totalAssets": 4,
   "assets": {
     "active-listening-and-communication.webp": {
-      "key": "course/bsw/second-year/social-case-work/u4-tools-and-skills-for-problem-diagnosis/active-listening-and-communication.b2c092c5.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u4-tools-and-skills-for-problem-diagnosis/active-listening-and-communication.b2c092c5.webp",
+      "key": "course/bsw/second-year/social-case-work/u4-tools-and-skills-for-problem-diagnosis/active-listening-and-communication.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u4-tools-and-skills-for-problem-diagnosis/active-listening-and-communication.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 759144
+      "bytes": 97714,
+      "contentHashed": false
     },
     "interview-process.webp": {
-      "key": "course/bsw/second-year/social-case-work/u4-tools-and-skills-for-problem-diagnosis/interview-process.79cac966.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u4-tools-and-skills-for-problem-diagnosis/interview-process.79cac966.webp",
+      "key": "course/bsw/second-year/social-case-work/u4-tools-and-skills-for-problem-diagnosis/interview-process.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u4-tools-and-skills-for-problem-diagnosis/interview-process.webp",
       "contentType": "image/webp",
       "width": 1734,
       "height": 907,
-      "bytes": 674094
+      "bytes": 69778,
+      "contentHashed": false
     },
     "observation-and-participant-observation.webp": {
-      "key": "course/bsw/second-year/social-case-work/u4-tools-and-skills-for-problem-diagnosis/observation-and-participant-observation.288ae0c0.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u4-tools-and-skills-for-problem-diagnosis/observation-and-participant-observation.288ae0c0.webp",
+      "key": "course/bsw/second-year/social-case-work/u4-tools-and-skills-for-problem-diagnosis/observation-and-participant-observation.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u4-tools-and-skills-for-problem-diagnosis/observation-and-participant-observation.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 758858
+      "bytes": 121446,
+      "contentHashed": false
     },
     "problem-diagnosis-tools.webp": {
-      "key": "course/bsw/second-year/social-case-work/u4-tools-and-skills-for-problem-diagnosis/problem-diagnosis-tools.0462db17.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u4-tools-and-skills-for-problem-diagnosis/problem-diagnosis-tools.0462db17.webp",
+      "key": "course/bsw/second-year/social-case-work/u4-tools-and-skills-for-problem-diagnosis/problem-diagnosis-tools.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u4-tools-and-skills-for-problem-diagnosis/problem-diagnosis-tools.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 899736
+      "bytes": 134726,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u4-tools-and-skills-for-problem-diagnosis/active-listening-and-communication.b2c092c5.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u4-tools-and-skills-for-problem-diagnosis/interview-process.79cac966.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u4-tools-and-skills-for-problem-diagnosis/observation-and-participant-observation.288ae0c0.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u4-tools-and-skills-for-problem-diagnosis/problem-diagnosis-tools.0462db17.webp"
+    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u4-tools-and-skills-for-problem-diagnosis/active-listening-and-communication.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u4-tools-and-skills-for-problem-diagnosis/interview-process.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u4-tools-and-skills-for-problem-diagnosis/observation-and-participant-observation.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u4-tools-and-skills-for-problem-diagnosis/problem-diagnosis-tools.webp"
   ]
 }

@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:02.666Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/csit/fourth-semester/operating-system/u1-operating-system-overview",
+  "totalAssets": 6,
+  "assets": {
+    "operating-system-definition-system-boundary-map.webp": {
+      "key": "course/csit/fourth-semester/operating-system/u1-operating-system-overview/operating-system-definition-system-boundary-map.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/operating-system/u1-operating-system-overview/operating-system-definition-system-boundary-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 127460,
+      "contentHashed": false
+    },
+    "operating-system-structure-models.webp": {
+      "key": "course/csit/fourth-semester/operating-system/u1-operating-system-overview/operating-system-structure-models.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/operating-system/u1-operating-system-overview/operating-system-structure-models.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 205204,
+      "contentHashed": false
+    },
+    "operating-system-types-taxonomy.webp": {
+      "key": "course/csit/fourth-semester/operating-system/u1-operating-system-overview/operating-system-types-taxonomy.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/operating-system/u1-operating-system-overview/operating-system-types-taxonomy.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 210584,
+      "contentHashed": false
+    },
+    "shell-command-execution-path.webp": {
+      "key": "course/csit/fourth-semester/operating-system/u1-operating-system-overview/shell-command-execution-path.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/operating-system/u1-operating-system-overview/shell-command-execution-path.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 73806,
+      "contentHashed": false
+    },
+    "system-call-control-flow.webp": {
+      "key": "course/csit/fourth-semester/operating-system/u1-operating-system-overview/system-call-control-flow.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/operating-system/u1-operating-system-overview/system-call-control-flow.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 74306,
+      "contentHashed": false
+    },
+    "two-views-of-operating-system.webp": {
+      "key": "course/csit/fourth-semester/operating-system/u1-operating-system-overview/two-views-of-operating-system.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/operating-system/u1-operating-system-overview/two-views-of-operating-system.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 172338,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/csit/fourth-semester/operating-system/u1-operating-system-overview/operating-system-definition-system-boundary-map.webp",
+    "https://cdn.tupapers.com/course/csit/fourth-semester/operating-system/u1-operating-system-overview/operating-system-structure-models.webp",
+    "https://cdn.tupapers.com/course/csit/fourth-semester/operating-system/u1-operating-system-overview/operating-system-types-taxonomy.webp",
+    "https://cdn.tupapers.com/course/csit/fourth-semester/operating-system/u1-operating-system-overview/shell-command-execution-path.webp",
+    "https://cdn.tupapers.com/course/csit/fourth-semester/operating-system/u1-operating-system-overview/system-call-control-flow.webp",
+    "https://cdn.tupapers.com/course/csit/fourth-semester/operating-system/u1-operating-system-overview/two-views-of-operating-system.webp"
+  ]
+}

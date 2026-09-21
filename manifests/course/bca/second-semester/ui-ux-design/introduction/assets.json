@@ -1,56 +1,61 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.650Z",
+  "generatedAt": "2026-09-21T09:23:01.840Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/second-semester/ui-ux-design/introduction",
   "totalAssets": 5,
   "assets": {
     "fundamentals-of-ui-ux.webp": {
-      "key": "course/bca/second-semester/ui-ux-design/introduction/fundamentals-of-ui-ux.2ccf375b.webp",
-      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/introduction/fundamentals-of-ui-ux.2ccf375b.webp",
+      "key": "course/bca/second-semester/ui-ux-design/introduction/fundamentals-of-ui-ux.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/introduction/fundamentals-of-ui-ux.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 1306752
+      "bytes": 188018,
+      "contentHashed": false
     },
     "good-ui-ux.webp": {
-      "key": "course/bca/second-semester/ui-ux-design/introduction/good-ui-ux.be98428c.webp",
-      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/introduction/good-ui-ux.be98428c.webp",
+      "key": "course/bca/second-semester/ui-ux-design/introduction/good-ui-ux.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/introduction/good-ui-ux.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 944908
+      "bytes": 215848,
+      "contentHashed": false
     },
     "types-of-user-interfaces.webp": {
-      "key": "course/bca/second-semester/ui-ux-design/introduction/types-of-user-interfaces.2fa1bdb9.webp",
-      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/introduction/types-of-user-interfaces.2fa1bdb9.webp",
+      "key": "course/bca/second-semester/ui-ux-design/introduction/types-of-user-interfaces.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/introduction/types-of-user-interfaces.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 869296
+      "bytes": 227090,
+      "contentHashed": false
     },
     "ui-vs-ux.webp": {
-      "key": "course/bca/second-semester/ui-ux-design/introduction/ui-vs-ux.c75b604b.webp",
-      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/introduction/ui-vs-ux.c75b604b.webp",
+      "key": "course/bca/second-semester/ui-ux-design/introduction/ui-vs-ux.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/introduction/ui-vs-ux.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 1140448
+      "bytes": 154488,
+      "contentHashed": false
     },
     "ux-and-ui-designer-tasks.webp": {
-      "key": "course/bca/second-semester/ui-ux-design/introduction/ux-and-ui-designer-tasks.e940311b.webp",
-      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/introduction/ux-and-ui-designer-tasks.e940311b.webp",
+      "key": "course/bca/second-semester/ui-ux-design/introduction/ux-and-ui-designer-tasks.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/introduction/ux-and-ui-designer-tasks.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 838926
+      "bytes": 201198,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/introduction/fundamentals-of-ui-ux.2ccf375b.webp",
-    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/introduction/good-ui-ux.be98428c.webp",
-    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/introduction/types-of-user-interfaces.2fa1bdb9.webp",
-    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/introduction/ui-vs-ux.c75b604b.webp",
-    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/introduction/ux-and-ui-designer-tasks.e940311b.webp"
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/introduction/fundamentals-of-ui-ux.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/introduction/good-ui-ux.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/introduction/types-of-user-interfaces.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/introduction/ui-vs-ux.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/introduction/ux-and-ui-designer-tasks.webp"
   ]
 }

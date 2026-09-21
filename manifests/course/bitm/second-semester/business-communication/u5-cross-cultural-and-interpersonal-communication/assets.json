@@ -1,29 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.154Z",
+  "generatedAt": "2026-09-21T09:23:02.262Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bitm/second-semester/business-communication/u5-cross-cultural-and-interpersonal-communication",
   "totalAssets": 2,
   "assets": {
     "conflict-resolution-conversation-flow.webp": {
-      "key": "course/bitm/second-semester/business-communication/u5-cross-cultural-and-interpersonal-communication/conflict-resolution-conversation-flow.05f9c34e.webp",
-      "url": "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u5-cross-cultural-and-interpersonal-communication/conflict-resolution-conversation-flow.05f9c34e.webp",
+      "key": "course/bitm/second-semester/business-communication/u5-cross-cultural-and-interpersonal-communication/conflict-resolution-conversation-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u5-cross-cultural-and-interpersonal-communication/conflict-resolution-conversation-flow.webp",
       "contentType": "image/webp",
       "width": 2172,
       "height": 724,
-      "bytes": 464602
+      "bytes": 99488,
+      "contentHashed": false
     },
     "cross-cultural-communication-lens.webp": {
-      "key": "course/bitm/second-semester/business-communication/u5-cross-cultural-and-interpersonal-communication/cross-cultural-communication-lens.5cd19aaf.webp",
-      "url": "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u5-cross-cultural-and-interpersonal-communication/cross-cultural-communication-lens.5cd19aaf.webp",
+      "key": "course/bitm/second-semester/business-communication/u5-cross-cultural-and-interpersonal-communication/cross-cultural-communication-lens.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u5-cross-cultural-and-interpersonal-communication/cross-cultural-communication-lens.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 769798
+      "bytes": 124570,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u5-cross-cultural-and-interpersonal-communication/conflict-resolution-conversation-flow.05f9c34e.webp",
-    "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u5-cross-cultural-and-interpersonal-communication/cross-cultural-communication-lens.5cd19aaf.webp"
+    "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u5-cross-cultural-and-interpersonal-communication/conflict-resolution-conversation-flow.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/business-communication/u5-cross-cultural-and-interpersonal-communication/cross-cultural-communication-lens.webp"
   ]
 }

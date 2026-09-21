@@ -1,38 +1,41 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.697Z",
+  "generatedAt": "2026-09-21T09:23:01.888Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/seventh-semester/artifical-intelligence/u6-expert-system-and-machine-vision",
   "totalAssets": 3,
   "assets": {
     "expert-system-architecture.webp": {
-      "key": "course/bca/seventh-semester/artifical-intelligence/u6-expert-system-and-machine-vision/expert-system-architecture.7264a88a.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u6-expert-system-and-machine-vision/expert-system-architecture.7264a88a.webp",
+      "key": "course/bca/seventh-semester/artifical-intelligence/u6-expert-system-and-machine-vision/expert-system-architecture.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u6-expert-system-and-machine-vision/expert-system-architecture.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 384118
+      "bytes": 67586,
+      "contentHashed": false
     },
     "expert-system-development-stages.webp": {
-      "key": "course/bca/seventh-semester/artifical-intelligence/u6-expert-system-and-machine-vision/expert-system-development-stages.245c1067.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u6-expert-system-and-machine-vision/expert-system-development-stages.245c1067.webp",
+      "key": "course/bca/seventh-semester/artifical-intelligence/u6-expert-system-and-machine-vision/expert-system-development-stages.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u6-expert-system-and-machine-vision/expert-system-development-stages.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 325054
+      "bytes": 55364,
+      "contentHashed": false
     },
     "machine-vision-processing-pipeline.webp": {
-      "key": "course/bca/seventh-semester/artifical-intelligence/u6-expert-system-and-machine-vision/machine-vision-processing-pipeline.ebd41209.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u6-expert-system-and-machine-vision/machine-vision-processing-pipeline.ebd41209.webp",
+      "key": "course/bca/seventh-semester/artifical-intelligence/u6-expert-system-and-machine-vision/machine-vision-processing-pipeline.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u6-expert-system-and-machine-vision/machine-vision-processing-pipeline.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 524580
+      "bytes": 97588,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u6-expert-system-and-machine-vision/expert-system-architecture.7264a88a.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u6-expert-system-and-machine-vision/expert-system-development-stages.245c1067.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u6-expert-system-and-machine-vision/machine-vision-processing-pipeline.ebd41209.webp"
+    "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u6-expert-system-and-machine-vision/expert-system-architecture.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u6-expert-system-and-machine-vision/expert-system-development-stages.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u6-expert-system-and-machine-vision/machine-vision-processing-pipeline.webp"
   ]
 }

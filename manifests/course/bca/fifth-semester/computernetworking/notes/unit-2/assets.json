@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.567Z",
+  "generatedAt": "2026-09-21T09:23:01.540Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/fifth-semester/computernetworking/notes/unit-2",
   "totalAssets": 4,
   "assets": {
     "comparison-of-switching-methods-infographic.webp": {
-      "key": "course/bca/fifth-semester/computernetworking/notes/unit-2/comparison-of-switching-methods-infographic.6c2e4825.webp",
-      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-2/comparison-of-switching-methods-infographic.6c2e4825.webp",
+      "key": "course/bca/fifth-semester/computernetworking/notes/unit-2/comparison-of-switching-methods-infographic.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-2/comparison-of-switching-methods-infographic.webp",
       "contentType": "image/webp",
       "width": 1402,
       "height": 1122,
-      "bytes": 848616
+      "bytes": 146330,
+      "contentHashed": false
     },
     "multiplexing-types-overview-diagram.webp": {
-      "key": "course/bca/fifth-semester/computernetworking/notes/unit-2/multiplexing-types-overview-diagram.d6067e63.webp",
-      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-2/multiplexing-types-overview-diagram.d6067e63.webp",
+      "key": "course/bca/fifth-semester/computernetworking/notes/unit-2/multiplexing-types-overview-diagram.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-2/multiplexing-types-overview-diagram.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 771436
+      "bytes": 120808,
+      "contentHashed": false
     },
     "transmission-media-diagram-sketch.webp": {
-      "key": "course/bca/fifth-semester/computernetworking/notes/unit-2/transmission-media-diagram-sketch.878e82ed.webp",
-      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-2/transmission-media-diagram-sketch.878e82ed.webp",
+      "key": "course/bca/fifth-semester/computernetworking/notes/unit-2/transmission-media-diagram-sketch.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-2/transmission-media-diagram-sketch.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 661672
+      "bytes": 75382,
+      "contentHashed": false
     },
     "types-of-transmission-media.webp": {
-      "key": "course/bca/fifth-semester/computernetworking/notes/unit-2/types-of-transmission-media.fa699634.webp",
-      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-2/types-of-transmission-media.fa699634.webp",
+      "key": "course/bca/fifth-semester/computernetworking/notes/unit-2/types-of-transmission-media.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-2/types-of-transmission-media.webp",
       "contentType": "image/webp",
       "width": 1359,
       "height": 1157,
-      "bytes": 710922
+      "bytes": 83526,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-2/comparison-of-switching-methods-infographic.6c2e4825.webp",
-    "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-2/multiplexing-types-overview-diagram.d6067e63.webp",
-    "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-2/transmission-media-diagram-sketch.878e82ed.webp",
-    "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-2/types-of-transmission-media.fa699634.webp"
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-2/comparison-of-switching-methods-infographic.webp",
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-2/multiplexing-types-overview-diagram.webp",
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-2/transmission-media-diagram-sketch.webp",
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-2/types-of-transmission-media.webp"
   ]
 }

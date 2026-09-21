@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:02.195Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bhm/fourth-semester/front-office-management/u6-settlement-of-bills",
+  "totalAssets": 3,
+  "assets": {
+    "bill-settlement-decision-tree.webp": {
+      "key": "course/bhm/fourth-semester/front-office-management/u6-settlement-of-bills/bill-settlement-decision-tree.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u6-settlement-of-bills/bill-settlement-decision-tree.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 98380,
+      "contentHashed": false
+    },
+    "foreign-exchange-encashment-procedure.webp": {
+      "key": "course/bhm/fourth-semester/front-office-management/u6-settlement-of-bills/foreign-exchange-encashment-procedure.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u6-settlement-of-bills/foreign-exchange-encashment-procedure.webp",
+      "contentType": "image/webp",
+      "width": 2004,
+      "height": 785,
+      "bytes": 137494,
+      "contentHashed": false
+    },
+    "guest-bill-settlement-flow.webp": {
+      "key": "course/bhm/fourth-semester/front-office-management/u6-settlement-of-bills/guest-bill-settlement-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u6-settlement-of-bills/guest-bill-settlement-flow.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 82512,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u6-settlement-of-bills/bill-settlement-decision-tree.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u6-settlement-of-bills/foreign-exchange-encashment-procedure.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u6-settlement-of-bills/guest-bill-settlement-flow.webp"
+  ]
+}

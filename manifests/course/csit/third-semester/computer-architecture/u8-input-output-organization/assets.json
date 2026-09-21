@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.740Z",
+  "generatedAt": "2026-09-21T09:23:02.733Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/csit/third-semester/computer-architecture/u8-input-output-organization",
   "totalAssets": 4,
   "assets": {
     "cycle-stealing.webp": {
-      "key": "course/csit/third-semester/computer-architecture/u8-input-output-organization/cycle-stealing.424f0d5f.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u8-input-output-organization/cycle-stealing.424f0d5f.webp",
+      "key": "course/csit/third-semester/computer-architecture/u8-input-output-organization/cycle-stealing.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u8-input-output-organization/cycle-stealing.webp",
       "contentType": "image/webp",
       "width": 2048,
       "height": 768,
-      "bytes": 312278
+      "bytes": 35196,
+      "contentHashed": false
     },
     "dma-controller-organization.webp": {
-      "key": "course/csit/third-semester/computer-architecture/u8-input-output-organization/dma-controller-organization.399e6f94.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u8-input-output-organization/dma-controller-organization.399e6f94.webp",
+      "key": "course/csit/third-semester/computer-architecture/u8-input-output-organization/dma-controller-organization.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u8-input-output-organization/dma-controller-organization.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 552138
+      "bytes": 52468,
+      "contentHashed": false
     },
     "priority-interrupt-mechanisms.webp": {
-      "key": "course/csit/third-semester/computer-architecture/u8-input-output-organization/priority-interrupt-mechanisms.7ed6440e.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u8-input-output-organization/priority-interrupt-mechanisms.7ed6440e.webp",
+      "key": "course/csit/third-semester/computer-architecture/u8-input-output-organization/priority-interrupt-mechanisms.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u8-input-output-organization/priority-interrupt-mechanisms.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 640614
+      "bytes": 88188,
+      "contentHashed": false
     },
     "programmed-io-flowchart.webp": {
-      "key": "course/csit/third-semester/computer-architecture/u8-input-output-organization/programmed-io-flowchart.547f08eb.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u8-input-output-organization/programmed-io-flowchart.547f08eb.webp",
+      "key": "course/csit/third-semester/computer-architecture/u8-input-output-organization/programmed-io-flowchart.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u8-input-output-organization/programmed-io-flowchart.webp",
       "contentType": "image/webp",
       "width": 1024,
       "height": 1536,
-      "bytes": 630604
+      "bytes": 63286,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u8-input-output-organization/cycle-stealing.424f0d5f.webp",
-    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u8-input-output-organization/dma-controller-organization.399e6f94.webp",
-    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u8-input-output-organization/priority-interrupt-mechanisms.7ed6440e.webp",
-    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u8-input-output-organization/programmed-io-flowchart.547f08eb.webp"
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u8-input-output-organization/cycle-stealing.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u8-input-output-organization/dma-controller-organization.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u8-input-output-organization/priority-interrupt-mechanisms.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u8-input-output-organization/programmed-io-flowchart.webp"
   ]
 }

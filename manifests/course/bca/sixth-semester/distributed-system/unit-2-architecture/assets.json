@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.905Z",
+  "generatedAt": "2026-09-21T09:23:02.077Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/sixth-semester/distributed-system/unit-2-architecture",
   "totalAssets": 4,
   "assets": {
     "fig-2.1-distributed-system-architectural-styles.webp": {
-      "key": "course/bca/sixth-semester/distributed-system/unit-2-architecture/fig-2.1-distributed-system-architectural-styles.bc6d054c.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-2-architecture/fig-2.1-distributed-system-architectural-styles.bc6d054c.webp",
+      "key": "course/bca/sixth-semester/distributed-system/unit-2-architecture/fig-2.1-distributed-system-architectural-styles.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-2-architecture/fig-2.1-distributed-system-architectural-styles.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 673204
+      "bytes": 122022,
+      "contentHashed": false
     },
     "fig-2.2-client-server-vs-peer-to-peer.webp": {
-      "key": "course/bca/sixth-semester/distributed-system/unit-2-architecture/fig-2.2-client-server-vs-peer-to-peer.579dc188.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-2-architecture/fig-2.2-client-server-vs-peer-to-peer.579dc188.webp",
+      "key": "course/bca/sixth-semester/distributed-system/unit-2-architecture/fig-2.2-client-server-vs-peer-to-peer.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-2-architecture/fig-2.2-client-server-vs-peer-to-peer.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 760012
+      "bytes": 92330,
+      "contentHashed": false
     },
     "fig-2.3-middleware-layer.webp": {
-      "key": "course/bca/sixth-semester/distributed-system/unit-2-architecture/fig-2.3-middleware-layer.2ba6feda.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-2-architecture/fig-2.3-middleware-layer.2ba6feda.webp",
+      "key": "course/bca/sixth-semester/distributed-system/unit-2-architecture/fig-2.3-middleware-layer.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-2-architecture/fig-2.3-middleware-layer.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 671336
+      "bytes": 81108,
+      "contentHashed": false
     },
     "fig-2.4-wrapper-and-interceptor-flow.webp": {
-      "key": "course/bca/sixth-semester/distributed-system/unit-2-architecture/fig-2.4-wrapper-and-interceptor-flow.6f39bac8.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-2-architecture/fig-2.4-wrapper-and-interceptor-flow.6f39bac8.webp",
+      "key": "course/bca/sixth-semester/distributed-system/unit-2-architecture/fig-2.4-wrapper-and-interceptor-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-2-architecture/fig-2.4-wrapper-and-interceptor-flow.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 678790
+      "bytes": 73330,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-2-architecture/fig-2.1-distributed-system-architectural-styles.bc6d054c.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-2-architecture/fig-2.2-client-server-vs-peer-to-peer.579dc188.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-2-architecture/fig-2.3-middleware-layer.2ba6feda.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-2-architecture/fig-2.4-wrapper-and-interceptor-flow.6f39bac8.webp"
+    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-2-architecture/fig-2.1-distributed-system-architectural-styles.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-2-architecture/fig-2.2-client-server-vs-peer-to-peer.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-2-architecture/fig-2.3-middleware-layer.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-2-architecture/fig-2.4-wrapper-and-interceptor-flow.webp"
   ]
 }

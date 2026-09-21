@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.461Z",
+  "generatedAt": "2026-09-21T09:23:02.464Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/second-year/adolescent-juvenile-delinquency/u5-juvenile-delinquency",
   "totalAssets": 4,
   "assets": {
     "bio-psycho-social-risk-model.webp": {
-      "key": "course/bsw/second-year/adolescent-juvenile-delinquency/u5-juvenile-delinquency/bio-psycho-social-risk-model.3b3aac39.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u5-juvenile-delinquency/bio-psycho-social-risk-model.3b3aac39.webp",
+      "key": "course/bsw/second-year/adolescent-juvenile-delinquency/u5-juvenile-delinquency/bio-psycho-social-risk-model.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u5-juvenile-delinquency/bio-psycho-social-risk-model.webp",
       "contentType": "image/webp",
       "width": 1312,
       "height": 1199,
-      "bytes": 1210436
+      "bytes": 151068,
+      "contentHashed": false
     },
     "delinquency-prevention-pathway.webp": {
-      "key": "course/bsw/second-year/adolescent-juvenile-delinquency/u5-juvenile-delinquency/delinquency-prevention-pathway.c0ae0c9b.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u5-juvenile-delinquency/delinquency-prevention-pathway.c0ae0c9b.webp",
+      "key": "course/bsw/second-year/adolescent-juvenile-delinquency/u5-juvenile-delinquency/delinquency-prevention-pathway.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u5-juvenile-delinquency/delinquency-prevention-pathway.webp",
       "contentType": "image/webp",
       "width": 2172,
       "height": 724,
-      "bytes": 1267316
+      "bytes": 121964,
+      "contentHashed": false
     },
     "index-offense-landscape.webp": {
-      "key": "course/bsw/second-year/adolescent-juvenile-delinquency/u5-juvenile-delinquency/index-offense-landscape.17d74a11.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u5-juvenile-delinquency/index-offense-landscape.17d74a11.webp",
+      "key": "course/bsw/second-year/adolescent-juvenile-delinquency/u5-juvenile-delinquency/index-offense-landscape.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u5-juvenile-delinquency/index-offense-landscape.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 1291094
+      "bytes": 145466,
+      "contentHashed": false
     },
     "types-of-juvenile-delinquency.webp": {
-      "key": "course/bsw/second-year/adolescent-juvenile-delinquency/u5-juvenile-delinquency/types-of-juvenile-delinquency.991b2c17.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u5-juvenile-delinquency/types-of-juvenile-delinquency.991b2c17.webp",
+      "key": "course/bsw/second-year/adolescent-juvenile-delinquency/u5-juvenile-delinquency/types-of-juvenile-delinquency.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u5-juvenile-delinquency/types-of-juvenile-delinquency.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 1322036
+      "bytes": 184484,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u5-juvenile-delinquency/bio-psycho-social-risk-model.3b3aac39.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u5-juvenile-delinquency/delinquency-prevention-pathway.c0ae0c9b.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u5-juvenile-delinquency/index-offense-landscape.17d74a11.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u5-juvenile-delinquency/types-of-juvenile-delinquency.991b2c17.webp"
+    "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u5-juvenile-delinquency/bio-psycho-social-risk-model.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u5-juvenile-delinquency/delinquency-prevention-pathway.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u5-juvenile-delinquency/index-offense-landscape.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u5-juvenile-delinquency/types-of-juvenile-delinquency.webp"
   ]
 }

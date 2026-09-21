@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:01.441Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbm/fourth-semester/legal-environment-business/u2-general-law-of-contract",
+  "totalAssets": 7,
+  "assets": {
+    "contract-lifecycle-flowchart.webp": {
+      "key": "course/bbm/fourth-semester/legal-environment-business/u2-general-law-of-contract/contract-lifecycle-flowchart.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/legal-environment-business/u2-general-law-of-contract/contract-lifecycle-flowchart.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 123940,
+      "contentHashed": false
+    },
+    "contract-lifecycle.webp": {
+      "key": "course/bbm/fourth-semester/legal-environment-business/u2-general-law-of-contract/contract-lifecycle.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/legal-environment-business/u2-general-law-of-contract/contract-lifecycle.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 99092,
+      "contentHashed": false
+    },
+    "free-consent-and-vitiating-factors.webp": {
+      "key": "course/bbm/fourth-semester/legal-environment-business/u2-general-law-of-contract/free-consent-and-vitiating-factors.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/legal-environment-business/u2-general-law-of-contract/free-consent-and-vitiating-factors.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 112708,
+      "contentHashed": false
+    },
+    "offer-and-acceptance-communication-timeline.webp": {
+      "key": "course/bbm/fourth-semester/legal-environment-business/u2-general-law-of-contract/offer-and-acceptance-communication-timeline.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/legal-environment-business/u2-general-law-of-contract/offer-and-acceptance-communication-timeline.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 92890,
+      "contentHashed": false
+    },
+    "offer-and-acceptance-communication.webp": {
+      "key": "course/bbm/fourth-semester/legal-environment-business/u2-general-law-of-contract/offer-and-acceptance-communication.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/legal-environment-business/u2-general-law-of-contract/offer-and-acceptance-communication.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 59400,
+      "contentHashed": false
+    },
+    "valid-contract-formation-flow.webp": {
+      "key": "course/bbm/fourth-semester/legal-environment-business/u2-general-law-of-contract/valid-contract-formation-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/legal-environment-business/u2-general-law-of-contract/valid-contract-formation-flow.webp",
+      "contentType": "image/webp",
+      "width": 2056,
+      "height": 765,
+      "bytes": 59066,
+      "contentHashed": false
+    },
+    "valid-contract-formation.webp": {
+      "key": "course/bbm/fourth-semester/legal-environment-business/u2-general-law-of-contract/valid-contract-formation.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/legal-environment-business/u2-general-law-of-contract/valid-contract-formation.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 56718,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/legal-environment-business/u2-general-law-of-contract/contract-lifecycle-flowchart.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/legal-environment-business/u2-general-law-of-contract/contract-lifecycle.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/legal-environment-business/u2-general-law-of-contract/free-consent-and-vitiating-factors.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/legal-environment-business/u2-general-law-of-contract/offer-and-acceptance-communication-timeline.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/legal-environment-business/u2-general-law-of-contract/offer-and-acceptance-communication.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/legal-environment-business/u2-general-law-of-contract/valid-contract-formation-flow.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/legal-environment-business/u2-general-law-of-contract/valid-contract-formation.webp"
+  ]
+}

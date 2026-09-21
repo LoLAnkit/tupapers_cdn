@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:02.174Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bhm/fourth-semester/front-office-management/u1-guest-registration",
+  "totalAssets": 4,
+  "assets": {
+    "fit-group-vip-check-in-paths.webp": {
+      "key": "course/bhm/fourth-semester/front-office-management/u1-guest-registration/fit-group-vip-check-in-paths.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u1-guest-registration/fit-group-vip-check-in-paths.webp",
+      "contentType": "image/webp",
+      "width": 1920,
+      "height": 819,
+      "bytes": 97244,
+      "contentHashed": false
+    },
+    "guest-arrival-to-registration-flow.webp": {
+      "key": "course/bhm/fourth-semester/front-office-management/u1-guest-registration/guest-arrival-to-registration-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u1-guest-registration/guest-arrival-to-registration-flow.webp",
+      "contentType": "image/webp",
+      "width": 2089,
+      "height": 753,
+      "bytes": 58776,
+      "contentHashed": false
+    },
+    "hotel-registration-form-anatomy.webp": {
+      "key": "course/bhm/fourth-semester/front-office-management/u1-guest-registration/hotel-registration-form-anatomy.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u1-guest-registration/hotel-registration-form-anatomy.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 105268,
+      "contentHashed": false
+    },
+    "registration-types-overview.webp": {
+      "key": "course/bhm/fourth-semester/front-office-management/u1-guest-registration/registration-types-overview.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u1-guest-registration/registration-types-overview.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 109918,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u1-guest-registration/fit-group-vip-check-in-paths.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u1-guest-registration/guest-arrival-to-registration-flow.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u1-guest-registration/hotel-registration-form-anatomy.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u1-guest-registration/registration-types-overview.webp"
+  ]
+}

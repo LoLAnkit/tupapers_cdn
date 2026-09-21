@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:01.429Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbm/fourth-semester/financial-management/u8-multinational-financial-management",
+  "totalAssets": 4,
+  "assets": {
+    "cross-rate-triangle.webp": {
+      "key": "course/bbm/fourth-semester/financial-management/u8-multinational-financial-management/cross-rate-triangle.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/financial-management/u8-multinational-financial-management/cross-rate-triangle.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 55786,
+      "contentHashed": false
+    },
+    "multinational-cash-flow-network.webp": {
+      "key": "course/bbm/fourth-semester/financial-management/u8-multinational-financial-management/multinational-cash-flow-network.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/financial-management/u8-multinational-financial-management/multinational-cash-flow-network.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 115472,
+      "contentHashed": false
+    },
+    "ppp-and-interest-rate-parity.webp": {
+      "key": "course/bbm/fourth-semester/financial-management/u8-multinational-financial-management/ppp-and-interest-rate-parity.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/financial-management/u8-multinational-financial-management/ppp-and-interest-rate-parity.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 104012,
+      "contentHashed": false
+    },
+    "spot-versus-forward-rates.webp": {
+      "key": "course/bbm/fourth-semester/financial-management/u8-multinational-financial-management/spot-versus-forward-rates.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/financial-management/u8-multinational-financial-management/spot-versus-forward-rates.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 71372,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/financial-management/u8-multinational-financial-management/cross-rate-triangle.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/financial-management/u8-multinational-financial-management/multinational-cash-flow-network.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/financial-management/u8-multinational-financial-management/ppp-and-interest-rate-parity.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/financial-management/u8-multinational-financial-management/spot-versus-forward-rates.webp"
+  ]
+}

@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.093Z",
+  "generatedAt": "2026-09-21T09:23:02.119Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/sixth-semester/network-programming/u6-socket-for-clients",
   "totalAssets": 4,
   "assets": {
     "client-server-two-way-communication.webp": {
-      "key": "course/bca/sixth-semester/network-programming/u6-socket-for-clients/client-server-two-way-communication.3559b138.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u6-socket-for-clients/client-server-two-way-communication.3559b138.webp",
+      "key": "course/bca/sixth-semester/network-programming/u6-socket-for-clients/client-server-two-way-communication.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u6-socket-for-clients/client-server-two-way-communication.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 270194
+      "bytes": 45784,
+      "contentHashed": false
     },
     "socket-construction-alternatives.webp": {
-      "key": "course/bca/sixth-semester/network-programming/u6-socket-for-clients/socket-construction-alternatives.8baa7ef3.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u6-socket-for-clients/socket-construction-alternatives.8baa7ef3.webp",
+      "key": "course/bca/sixth-semester/network-programming/u6-socket-for-clients/socket-construction-alternatives.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u6-socket-for-clients/socket-construction-alternatives.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 1002446
+      "bytes": 156080,
+      "contentHashed": false
     },
     "socket-endpoint-information.webp": {
-      "key": "course/bca/sixth-semester/network-programming/u6-socket-for-clients/socket-endpoint-information.8ea79643.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u6-socket-for-clients/socket-endpoint-information.8ea79643.webp",
+      "key": "course/bca/sixth-semester/network-programming/u6-socket-for-clients/socket-endpoint-information.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u6-socket-for-clients/socket-endpoint-information.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 527182
+      "bytes": 100114,
+      "contentHashed": false
     },
     "tcp-client-socket-lifecycle.webp": {
-      "key": "course/bca/sixth-semester/network-programming/u6-socket-for-clients/tcp-client-socket-lifecycle.3adec2b4.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u6-socket-for-clients/tcp-client-socket-lifecycle.3adec2b4.webp",
+      "key": "course/bca/sixth-semester/network-programming/u6-socket-for-clients/tcp-client-socket-lifecycle.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u6-socket-for-clients/tcp-client-socket-lifecycle.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 824598
+      "bytes": 161076,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u6-socket-for-clients/client-server-two-way-communication.3559b138.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u6-socket-for-clients/socket-construction-alternatives.8baa7ef3.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u6-socket-for-clients/socket-endpoint-information.8ea79643.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u6-socket-for-clients/tcp-client-socket-lifecycle.3adec2b4.webp"
+    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u6-socket-for-clients/client-server-two-way-communication.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u6-socket-for-clients/socket-construction-alternatives.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u6-socket-for-clients/socket-endpoint-information.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u6-socket-for-clients/tcp-client-socket-lifecycle.webp"
   ]
 }

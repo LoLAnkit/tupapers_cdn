@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.701Z",
+  "generatedAt": "2026-09-21T09:23:01.892Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/seventh-semester/cloud-computing/u1-cloud-computing-fundamentals",
   "totalAssets": 4,
   "assets": {
     "amazon-s3-bucket-and-object-addressing.webp": {
-      "key": "course/bca/seventh-semester/cloud-computing/u1-cloud-computing-fundamentals/amazon-s3-bucket-and-object-addressing.aeb82439.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u1-cloud-computing-fundamentals/amazon-s3-bucket-and-object-addressing.aeb82439.webp",
+      "key": "course/bca/seventh-semester/cloud-computing/u1-cloud-computing-fundamentals/amazon-s3-bucket-and-object-addressing.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u1-cloud-computing-fundamentals/amazon-s3-bucket-and-object-addressing.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 935208
+      "bytes": 122646,
+      "contentHashed": false
     },
     "cloud-adoption-roadmap.webp": {
-      "key": "course/bca/seventh-semester/cloud-computing/u1-cloud-computing-fundamentals/cloud-adoption-roadmap.07c0f8e9.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u1-cloud-computing-fundamentals/cloud-adoption-roadmap.07c0f8e9.webp",
+      "key": "course/bca/seventh-semester/cloud-computing/u1-cloud-computing-fundamentals/cloud-adoption-roadmap.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u1-cloud-computing-fundamentals/cloud-adoption-roadmap.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 685858
+      "bytes": 79446,
+      "contentHashed": false
     },
     "cloud-computing-ecosystem.webp": {
-      "key": "course/bca/seventh-semester/cloud-computing/u1-cloud-computing-fundamentals/cloud-computing-ecosystem.40efd934.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u1-cloud-computing-fundamentals/cloud-computing-ecosystem.40efd934.webp",
+      "key": "course/bca/seventh-semester/cloud-computing/u1-cloud-computing-fundamentals/cloud-computing-ecosystem.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u1-cloud-computing-fundamentals/cloud-computing-ecosystem.webp",
       "contentType": "image/webp",
       "width": 1692,
       "height": 930,
-      "bytes": 974860
+      "bytes": 124880,
+      "contentHashed": false
     },
     "dynamic-cloud-infrastructure-and-resource-provisioning.webp": {
-      "key": "course/bca/seventh-semester/cloud-computing/u1-cloud-computing-fundamentals/dynamic-cloud-infrastructure-and-resource-provisioning.b95ed507.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u1-cloud-computing-fundamentals/dynamic-cloud-infrastructure-and-resource-provisioning.b95ed507.webp",
+      "key": "course/bca/seventh-semester/cloud-computing/u1-cloud-computing-fundamentals/dynamic-cloud-infrastructure-and-resource-provisioning.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u1-cloud-computing-fundamentals/dynamic-cloud-infrastructure-and-resource-provisioning.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 487264
+      "bytes": 71238,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u1-cloud-computing-fundamentals/amazon-s3-bucket-and-object-addressing.aeb82439.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u1-cloud-computing-fundamentals/cloud-adoption-roadmap.07c0f8e9.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u1-cloud-computing-fundamentals/cloud-computing-ecosystem.40efd934.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u1-cloud-computing-fundamentals/dynamic-cloud-infrastructure-and-resource-provisioning.b95ed507.webp"
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u1-cloud-computing-fundamentals/amazon-s3-bucket-and-object-addressing.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u1-cloud-computing-fundamentals/cloud-adoption-roadmap.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u1-cloud-computing-fundamentals/cloud-computing-ecosystem.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u1-cloud-computing-fundamentals/dynamic-cloud-infrastructure-and-resource-provisioning.webp"
   ]
 }

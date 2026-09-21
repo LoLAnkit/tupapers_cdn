@@ -1,56 +1,61 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.667Z",
+  "generatedAt": "2026-09-21T09:23:01.857Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/second-semester/ui-ux-design/user-interface-design",
   "totalAssets": 5,
   "assets": {
     "human-consideration-in-ui-design.webp": {
-      "key": "course/bca/second-semester/ui-ux-design/user-interface-design/human-consideration-in-ui-design.ff8b23c4.webp",
-      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/user-interface-design/human-consideration-in-ui-design.ff8b23c4.webp",
+      "key": "course/bca/second-semester/ui-ux-design/user-interface-design/human-consideration-in-ui-design.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/user-interface-design/human-consideration-in-ui-design.webp",
       "contentType": "image/webp",
       "width": 1254,
       "height": 1254,
-      "bytes": 539698
+      "bytes": 107404,
+      "contentHashed": false
     },
     "interaction-style.webp": {
-      "key": "course/bca/second-semester/ui-ux-design/user-interface-design/interaction-style.f060775e.webp",
-      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/user-interface-design/interaction-style.f060775e.webp",
+      "key": "course/bca/second-semester/ui-ux-design/user-interface-design/interaction-style.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/user-interface-design/interaction-style.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 486838
+      "bytes": 86254,
+      "contentHashed": false
     },
     "principles-of-ui-design.webp": {
-      "key": "course/bca/second-semester/ui-ux-design/user-interface-design/principles-of-ui-design.31d29db4.webp",
-      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/user-interface-design/principles-of-ui-design.31d29db4.webp",
+      "key": "course/bca/second-semester/ui-ux-design/user-interface-design/principles-of-ui-design.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/user-interface-design/principles-of-ui-design.webp",
       "contentType": "image/webp",
       "width": 1254,
       "height": 1254,
-      "bytes": 396566
+      "bytes": 78636,
+      "contentHashed": false
     },
     "technology-consideration.webp": {
-      "key": "course/bca/second-semester/ui-ux-design/user-interface-design/technology-consideration.bd8d27d5.webp",
-      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/user-interface-design/technology-consideration.bd8d27d5.webp",
+      "key": "course/bca/second-semester/ui-ux-design/user-interface-design/technology-consideration.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/user-interface-design/technology-consideration.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 434392
+      "bytes": 89960,
+      "contentHashed": false
     },
     "ui-design-process.webp": {
-      "key": "course/bca/second-semester/ui-ux-design/user-interface-design/ui-design-process.7efe2065.webp",
-      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/user-interface-design/ui-design-process.7efe2065.webp",
+      "key": "course/bca/second-semester/ui-ux-design/user-interface-design/ui-design-process.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/user-interface-design/ui-design-process.webp",
       "contentType": "image/webp",
       "width": 1810,
       "height": 869,
-      "bytes": 371844
+      "bytes": 69238,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/user-interface-design/human-consideration-in-ui-design.ff8b23c4.webp",
-    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/user-interface-design/interaction-style.f060775e.webp",
-    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/user-interface-design/principles-of-ui-design.31d29db4.webp",
-    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/user-interface-design/technology-consideration.bd8d27d5.webp",
-    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/user-interface-design/ui-design-process.7efe2065.webp"
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/user-interface-design/human-consideration-in-ui-design.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/user-interface-design/interaction-style.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/user-interface-design/principles-of-ui-design.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/user-interface-design/technology-consideration.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/user-interface-design/ui-design-process.webp"
   ]
 }

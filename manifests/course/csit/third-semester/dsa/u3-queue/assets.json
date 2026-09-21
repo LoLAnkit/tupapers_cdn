@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.817Z",
+  "generatedAt": "2026-09-21T09:23:02.778Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/csit/third-semester/dsa/u3-queue",
   "totalAssets": 4,
   "assets": {
     "circular-queue-wraparound.webp": {
-      "key": "course/csit/third-semester/dsa/u3-queue/circular-queue-wraparound.71b83538.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u3-queue/circular-queue-wraparound.71b83538.webp",
+      "key": "course/csit/third-semester/dsa/u3-queue/circular-queue-wraparound.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u3-queue/circular-queue-wraparound.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 656396
+      "bytes": 100802,
+      "contentHashed": false
     },
     "linear-vs-circular-queue-space-use.webp": {
-      "key": "course/csit/third-semester/dsa/u3-queue/linear-vs-circular-queue-space-use.05debd31.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u3-queue/linear-vs-circular-queue-space-use.05debd31.webp",
+      "key": "course/csit/third-semester/dsa/u3-queue/linear-vs-circular-queue-space-use.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u3-queue/linear-vs-circular-queue-space-use.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 675620
+      "bytes": 93114,
+      "contentHashed": false
     },
     "priority-queue-service-order.webp": {
-      "key": "course/csit/third-semester/dsa/u3-queue/priority-queue-service-order.cdfdd6d3.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u3-queue/priority-queue-service-order.cdfdd6d3.webp",
+      "key": "course/csit/third-semester/dsa/u3-queue/priority-queue-service-order.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u3-queue/priority-queue-service-order.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 401932
+      "bytes": 84136,
+      "contentHashed": false
     },
     "queue-fifo-operations.webp": {
-      "key": "course/csit/third-semester/dsa/u3-queue/queue-fifo-operations.ec54ff68.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u3-queue/queue-fifo-operations.ec54ff68.webp",
+      "key": "course/csit/third-semester/dsa/u3-queue/queue-fifo-operations.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u3-queue/queue-fifo-operations.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 527372
+      "bytes": 103204,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u3-queue/circular-queue-wraparound.71b83538.webp",
-    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u3-queue/linear-vs-circular-queue-space-use.05debd31.webp",
-    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u3-queue/priority-queue-service-order.cdfdd6d3.webp",
-    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u3-queue/queue-fifo-operations.ec54ff68.webp"
+    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u3-queue/circular-queue-wraparound.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u3-queue/linear-vs-circular-queue-space-use.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u3-queue/priority-queue-service-order.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u3-queue/queue-fifo-operations.webp"
   ]
 }

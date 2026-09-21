@@ -1,56 +1,61 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.710Z",
+  "generatedAt": "2026-09-21T09:23:01.899Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/seventh-semester/cloud-computing/u3-virtualization",
   "totalAssets": 5,
   "assets": {
     "hypervisor-and-virtual-machine-architecture.webp": {
-      "key": "course/bca/seventh-semester/cloud-computing/u3-virtualization/hypervisor-and-virtual-machine-architecture.b81ba8f7.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u3-virtualization/hypervisor-and-virtual-machine-architecture.b81ba8f7.webp",
+      "key": "course/bca/seventh-semester/cloud-computing/u3-virtualization/hypervisor-and-virtual-machine-architecture.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u3-virtualization/hypervisor-and-virtual-machine-architecture.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 811192
+      "bytes": 138618,
+      "contentHashed": false
     },
     "server-virtualization-and-resource-partitioning.webp": {
-      "key": "course/bca/seventh-semester/cloud-computing/u3-virtualization/server-virtualization-and-resource-partitioning.9fea652f.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u3-virtualization/server-virtualization-and-resource-partitioning.9fea652f.webp",
+      "key": "course/bca/seventh-semester/cloud-computing/u3-virtualization/server-virtualization-and-resource-partitioning.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u3-virtualization/server-virtualization-and-resource-partitioning.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 923634
+      "bytes": 162486,
+      "contentHashed": false
     },
     "virtual-infrastructure-components.webp": {
-      "key": "course/bca/seventh-semester/cloud-computing/u3-virtualization/virtual-infrastructure-components.a7c177ee.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u3-virtualization/virtual-infrastructure-components.a7c177ee.webp",
+      "key": "course/bca/seventh-semester/cloud-computing/u3-virtualization/virtual-infrastructure-components.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u3-virtualization/virtual-infrastructure-components.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 705670
+      "bytes": 88602,
+      "contentHashed": false
     },
     "virtualization-implementation-levels.webp": {
-      "key": "course/bca/seventh-semester/cloud-computing/u3-virtualization/virtualization-implementation-levels.64ee4f91.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u3-virtualization/virtualization-implementation-levels.64ee4f91.webp",
+      "key": "course/bca/seventh-semester/cloud-computing/u3-virtualization/virtualization-implementation-levels.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u3-virtualization/virtualization-implementation-levels.webp",
       "contentType": "image/webp",
       "width": 1151,
       "height": 1367,
-      "bytes": 329930
+      "bytes": 59036,
+      "contentHashed": false
     },
     "virtualization-in-cloud-service-models.webp": {
-      "key": "course/bca/seventh-semester/cloud-computing/u3-virtualization/virtualization-in-cloud-service-models.862b61a1.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u3-virtualization/virtualization-in-cloud-service-models.862b61a1.webp",
+      "key": "course/bca/seventh-semester/cloud-computing/u3-virtualization/virtualization-in-cloud-service-models.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u3-virtualization/virtualization-in-cloud-service-models.webp",
       "contentType": "image/webp",
       "width": 1024,
       "height": 1536,
-      "bytes": 687422
+      "bytes": 99302,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u3-virtualization/hypervisor-and-virtual-machine-architecture.b81ba8f7.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u3-virtualization/server-virtualization-and-resource-partitioning.9fea652f.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u3-virtualization/virtual-infrastructure-components.a7c177ee.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u3-virtualization/virtualization-implementation-levels.64ee4f91.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u3-virtualization/virtualization-in-cloud-service-models.862b61a1.webp"
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u3-virtualization/hypervisor-and-virtual-machine-architecture.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u3-virtualization/server-virtualization-and-resource-partitioning.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u3-virtualization/virtual-infrastructure-components.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u3-virtualization/virtualization-implementation-levels.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u3-virtualization/virtualization-in-cloud-service-models.webp"
   ]
 }

@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:01.486Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbm/fourth-semester/psychology/u5-motivation-and-emotion",
+  "totalAssets": 3,
+  "assets": {
+    "emotion-in-organizational-behavior.webp": {
+      "key": "course/bbm/fourth-semester/psychology/u5-motivation-and-emotion/emotion-in-organizational-behavior.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u5-motivation-and-emotion/emotion-in-organizational-behavior.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 157182,
+      "contentHashed": false
+    },
+    "motivation-performance-relationship.webp": {
+      "key": "course/bbm/fourth-semester/psychology/u5-motivation-and-emotion/motivation-performance-relationship.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u5-motivation-and-emotion/motivation-performance-relationship.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 105212,
+      "contentHashed": false
+    },
+    "types-of-motivation.webp": {
+      "key": "course/bbm/fourth-semester/psychology/u5-motivation-and-emotion/types-of-motivation.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u5-motivation-and-emotion/types-of-motivation.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 172380,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u5-motivation-and-emotion/emotion-in-organizational-behavior.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u5-motivation-and-emotion/motivation-performance-relationship.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u5-motivation-and-emotion/types-of-motivation.webp"
+  ]
+}

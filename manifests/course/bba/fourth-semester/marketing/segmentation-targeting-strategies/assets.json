@@ -1,38 +1,41 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.333Z",
+  "generatedAt": "2026-09-21T09:23:01.196Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bba/fourth-semester/marketing/segmentation-targeting-strategies",
   "totalAssets": 3,
   "assets": {
     "consumer-vs-organizational-market-segmentation.webp": {
-      "key": "course/bba/fourth-semester/marketing/segmentation-targeting-strategies/consumer-vs-organizational-market-segmentation.36377f4a.webp",
-      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/segmentation-targeting-strategies/consumer-vs-organizational-market-segmentation.36377f4a.webp",
+      "key": "course/bba/fourth-semester/marketing/segmentation-targeting-strategies/consumer-vs-organizational-market-segmentation.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/segmentation-targeting-strategies/consumer-vs-organizational-market-segmentation.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 372240
+      "bytes": 115688,
+      "contentHashed": false
     },
     "market-segmentation-process-flowchart.webp": {
-      "key": "course/bba/fourth-semester/marketing/segmentation-targeting-strategies/market-segmentation-process-flowchart.9b0f8e09.webp",
-      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/segmentation-targeting-strategies/market-segmentation-process-flowchart.9b0f8e09.webp",
+      "key": "course/bba/fourth-semester/marketing/segmentation-targeting-strategies/market-segmentation-process-flowchart.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/segmentation-targeting-strategies/market-segmentation-process-flowchart.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 474806
+      "bytes": 122600,
+      "contentHashed": false
     },
     "product-positioning-map.webp": {
-      "key": "course/bba/fourth-semester/marketing/segmentation-targeting-strategies/product-positioning-map.94027ec8.webp",
-      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/segmentation-targeting-strategies/product-positioning-map.94027ec8.webp",
+      "key": "course/bba/fourth-semester/marketing/segmentation-targeting-strategies/product-positioning-map.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/segmentation-targeting-strategies/product-positioning-map.webp",
       "contentType": "image/webp",
       "width": 1254,
       "height": 1254,
-      "bytes": 292244
+      "bytes": 30284,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/segmentation-targeting-strategies/consumer-vs-organizational-market-segmentation.36377f4a.webp",
-    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/segmentation-targeting-strategies/market-segmentation-process-flowchart.9b0f8e09.webp",
-    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/segmentation-targeting-strategies/product-positioning-map.94027ec8.webp"
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/segmentation-targeting-strategies/consumer-vs-organizational-market-segmentation.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/segmentation-targeting-strategies/market-segmentation-process-flowchart.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/segmentation-targeting-strategies/product-positioning-map.webp"
   ]
 }

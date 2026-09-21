@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:01.772Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/fourth-semester/dbms/u2-database-system-concepts-and-architecture",
+  "totalAssets": 4,
+  "assets": {
+    "ansi-sparc-three-schema-architecture.webp": {
+      "key": "course/bca/fourth-semester/dbms/u2-database-system-concepts-and-architecture/ansi-sparc-three-schema-architecture.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u2-database-system-concepts-and-architecture/ansi-sparc-three-schema-architecture.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 81606,
+      "contentHashed": false
+    },
+    "categories-of-data-models.webp": {
+      "key": "course/bca/fourth-semester/dbms/u2-database-system-concepts-and-architecture/categories-of-data-models.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u2-database-system-concepts-and-architecture/categories-of-data-models.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 78850,
+      "contentHashed": false
+    },
+    "client-server-dbms-architecture.webp": {
+      "key": "course/bca/fourth-semester/dbms/u2-database-system-concepts-and-architecture/client-server-dbms-architecture.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u2-database-system-concepts-and-architecture/client-server-dbms-architecture.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 98566,
+      "contentHashed": false
+    },
+    "data-independence-types.webp": {
+      "key": "course/bca/fourth-semester/dbms/u2-database-system-concepts-and-architecture/data-independence-types.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u2-database-system-concepts-and-architecture/data-independence-types.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 150834,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u2-database-system-concepts-and-architecture/ansi-sparc-three-schema-architecture.webp",
+    "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u2-database-system-concepts-and-architecture/categories-of-data-models.webp",
+    "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u2-database-system-concepts-and-architecture/client-server-dbms-architecture.webp",
+    "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u2-database-system-concepts-and-architecture/data-independence-types.webp"
+  ]
+}

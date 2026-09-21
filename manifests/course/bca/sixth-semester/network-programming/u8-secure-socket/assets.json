@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.129Z",
+  "generatedAt": "2026-09-21T09:23:02.129Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/sixth-semester/network-programming/u8-secure-socket",
   "totalAssets": 4,
   "assets": {
     "secure-client-socket-creation.webp": {
-      "key": "course/bca/sixth-semester/network-programming/u8-secure-socket/secure-client-socket-creation.7f71691f.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u8-secure-socket/secure-client-socket-creation.7f71691f.webp",
+      "key": "course/bca/sixth-semester/network-programming/u8-secure-socket/secure-client-socket-creation.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u8-secure-socket/secure-client-socket-creation.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 816162
+      "bytes": 118836,
+      "contentHashed": false
     },
     "secure-socket-communication-stack.webp": {
-      "key": "course/bca/sixth-semester/network-programming/u8-secure-socket/secure-socket-communication-stack.2f431062.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u8-secure-socket/secure-socket-communication-stack.2f431062.webp",
+      "key": "course/bca/sixth-semester/network-programming/u8-secure-socket/secure-socket-communication-stack.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u8-secure-socket/secure-socket-communication-stack.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 838666
+      "bytes": 118760,
+      "contentHashed": false
     },
     "ssl-session-management.webp": {
-      "key": "course/bca/sixth-semester/network-programming/u8-secure-socket/ssl-session-management.cb3a9ea2.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u8-secure-socket/ssl-session-management.cb3a9ea2.webp",
+      "key": "course/bca/sixth-semester/network-programming/u8-secure-socket/ssl-session-management.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u8-secure-socket/ssl-session-management.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 493856
+      "bytes": 106782,
+      "contentHashed": false
     },
     "tls-handshake.webp": {
-      "key": "course/bca/sixth-semester/network-programming/u8-secure-socket/tls-handshake.88dcf6be.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u8-secure-socket/tls-handshake.88dcf6be.webp",
+      "key": "course/bca/sixth-semester/network-programming/u8-secure-socket/tls-handshake.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u8-secure-socket/tls-handshake.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 480950
+      "bytes": 74310,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u8-secure-socket/secure-client-socket-creation.7f71691f.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u8-secure-socket/secure-socket-communication-stack.2f431062.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u8-secure-socket/ssl-session-management.cb3a9ea2.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u8-secure-socket/tls-handshake.88dcf6be.webp"
+    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u8-secure-socket/secure-client-socket-creation.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u8-secure-socket/secure-socket-communication-stack.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u8-secure-socket/ssl-session-management.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u8-secure-socket/tls-handshake.webp"
   ]
 }

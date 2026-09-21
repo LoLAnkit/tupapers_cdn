@@ -1,56 +1,61 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.637Z",
+  "generatedAt": "2026-09-21T09:23:01.829Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/second-semester/pom/planning-decision-making",
   "totalAssets": 5,
   "assets": {
     "decision-making-process.webp": {
-      "key": "course/bca/second-semester/pom/planning-decision-making/decision-making-process.1c1b4231.webp",
-      "url": "https://cdn.tupapers.com/course/bca/second-semester/pom/planning-decision-making/decision-making-process.1c1b4231.webp",
+      "key": "course/bca/second-semester/pom/planning-decision-making/decision-making-process.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/pom/planning-decision-making/decision-making-process.webp",
       "contentType": "image/webp",
       "width": 1122,
       "height": 1402,
-      "bytes": 394908
+      "bytes": 56792,
+      "contentHashed": false
     },
     "hierarchy-of-organizational-plans.webp": {
-      "key": "course/bca/second-semester/pom/planning-decision-making/hierarchy-of-organizational-plans.453f410f.webp",
-      "url": "https://cdn.tupapers.com/course/bca/second-semester/pom/planning-decision-making/hierarchy-of-organizational-plans.453f410f.webp",
+      "key": "course/bca/second-semester/pom/planning-decision-making/hierarchy-of-organizational-plans.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/pom/planning-decision-making/hierarchy-of-organizational-plans.webp",
       "contentType": "image/webp",
       "width": 1122,
       "height": 1402,
-      "bytes": 395598
+      "bytes": 57752,
+      "contentHashed": false
     },
     "it-in-planning-decision-making.webp": {
-      "key": "course/bca/second-semester/pom/planning-decision-making/it-in-planning-decision-making.aa6ab2c4.webp",
-      "url": "https://cdn.tupapers.com/course/bca/second-semester/pom/planning-decision-making/it-in-planning-decision-making.aa6ab2c4.webp",
+      "key": "course/bca/second-semester/pom/planning-decision-making/it-in-planning-decision-making.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/pom/planning-decision-making/it-in-planning-decision-making.webp",
       "contentType": "image/webp",
       "width": 1448,
       "height": 1086,
-      "bytes": 448178
+      "bytes": 72164,
+      "contentHashed": false
     },
     "planning-process-flowchart.webp": {
-      "key": "course/bca/second-semester/pom/planning-decision-making/planning-process-flowchart.3811ca64.webp",
-      "url": "https://cdn.tupapers.com/course/bca/second-semester/pom/planning-decision-making/planning-process-flowchart.3811ca64.webp",
+      "key": "course/bca/second-semester/pom/planning-decision-making/planning-process-flowchart.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/pom/planning-decision-making/planning-process-flowchart.webp",
       "contentType": "image/webp",
       "width": 1122,
       "height": 1402,
-      "bytes": 361076
+      "bytes": 52254,
+      "contentHashed": false
     },
     "swot-analysis-matrix.webp": {
-      "key": "course/bca/second-semester/pom/planning-decision-making/swot-analysis-matrix.3c20162d.webp",
-      "url": "https://cdn.tupapers.com/course/bca/second-semester/pom/planning-decision-making/swot-analysis-matrix.3c20162d.webp",
+      "key": "course/bca/second-semester/pom/planning-decision-making/swot-analysis-matrix.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/pom/planning-decision-making/swot-analysis-matrix.webp",
       "contentType": "image/webp",
       "width": 1254,
       "height": 1254,
-      "bytes": 454442
+      "bytes": 48844,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/second-semester/pom/planning-decision-making/decision-making-process.1c1b4231.webp",
-    "https://cdn.tupapers.com/course/bca/second-semester/pom/planning-decision-making/hierarchy-of-organizational-plans.453f410f.webp",
-    "https://cdn.tupapers.com/course/bca/second-semester/pom/planning-decision-making/it-in-planning-decision-making.aa6ab2c4.webp",
-    "https://cdn.tupapers.com/course/bca/second-semester/pom/planning-decision-making/planning-process-flowchart.3811ca64.webp",
-    "https://cdn.tupapers.com/course/bca/second-semester/pom/planning-decision-making/swot-analysis-matrix.3c20162d.webp"
+    "https://cdn.tupapers.com/course/bca/second-semester/pom/planning-decision-making/decision-making-process.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/pom/planning-decision-making/hierarchy-of-organizational-plans.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/pom/planning-decision-making/it-in-planning-decision-making.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/pom/planning-decision-making/planning-process-flowchart.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/pom/planning-decision-making/swot-analysis-matrix.webp"
   ]
 }

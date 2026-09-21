@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:01.372Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbm/fourth-semester/business-research-method/u2-literature-searching-and-theoretical-framework",
+  "totalAssets": 4,
+  "assets": {
+    "deduction-vs-induction.webp": {
+      "key": "course/bbm/fourth-semester/business-research-method/u2-literature-searching-and-theoretical-framework/deduction-vs-induction.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/business-research-method/u2-literature-searching-and-theoretical-framework/deduction-vs-induction.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 65790,
+      "contentHashed": false
+    },
+    "literature-review-workflow.webp": {
+      "key": "course/bbm/fourth-semester/business-research-method/u2-literature-searching-and-theoretical-framework/literature-review-workflow.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/business-research-method/u2-literature-searching-and-theoretical-framework/literature-review-workflow.webp",
+      "contentType": "image/webp",
+      "width": 2084,
+      "height": 755,
+      "bytes": 64306,
+      "contentHashed": false
+    },
+    "research-problem-to-hypothesis-chain.webp": {
+      "key": "course/bbm/fourth-semester/business-research-method/u2-literature-searching-and-theoretical-framework/research-problem-to-hypothesis-chain.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/business-research-method/u2-literature-searching-and-theoretical-framework/research-problem-to-hypothesis-chain.webp",
+      "contentType": "image/webp",
+      "width": 1902,
+      "height": 827,
+      "bytes": 64232,
+      "contentHashed": false
+    },
+    "theoretical-framework-structure.webp": {
+      "key": "course/bbm/fourth-semester/business-research-method/u2-literature-searching-and-theoretical-framework/theoretical-framework-structure.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/business-research-method/u2-literature-searching-and-theoretical-framework/theoretical-framework-structure.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 60072,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/business-research-method/u2-literature-searching-and-theoretical-framework/deduction-vs-induction.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/business-research-method/u2-literature-searching-and-theoretical-framework/literature-review-workflow.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/business-research-method/u2-literature-searching-and-theoretical-framework/research-problem-to-hypothesis-chain.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/business-research-method/u2-literature-searching-and-theoretical-framework/theoretical-framework-structure.webp"
+  ]
+}

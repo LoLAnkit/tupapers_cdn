@@ -1,29 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.853Z",
+  "generatedAt": "2026-09-21T09:23:02.033Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/sixth-semester/applied-economics/introduction",
   "totalAssets": 2,
   "assets": {
     "fig-1-1-micro-vs-macro-economics-scope.webp": {
-      "key": "course/bca/sixth-semester/applied-economics/introduction/fig-1-1-micro-vs-macro-economics-scope.4d566735.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/introduction/fig-1-1-micro-vs-macro-economics-scope.4d566735.webp",
+      "key": "course/bca/sixth-semester/applied-economics/introduction/fig-1-1-micro-vs-macro-economics-scope.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/introduction/fig-1-1-micro-vs-macro-economics-scope.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 958380
+      "bytes": 121626,
+      "contentHashed": false
     },
     "fig-1-2-macroeconomic-goals-and-instruments.webp": {
-      "key": "course/bca/sixth-semester/applied-economics/introduction/fig-1-2-macroeconomic-goals-and-instruments.51ea7dab.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/introduction/fig-1-2-macroeconomic-goals-and-instruments.51ea7dab.webp",
+      "key": "course/bca/sixth-semester/applied-economics/introduction/fig-1-2-macroeconomic-goals-and-instruments.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/introduction/fig-1-2-macroeconomic-goals-and-instruments.webp",
       "contentType": "image/webp",
       "width": 1254,
       "height": 1254,
-      "bytes": 1027642
+      "bytes": 103674,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/introduction/fig-1-1-micro-vs-macro-economics-scope.4d566735.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/introduction/fig-1-2-macroeconomic-goals-and-instruments.51ea7dab.webp"
+    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/introduction/fig-1-1-micro-vs-macro-economics-scope.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/introduction/fig-1-2-macroeconomic-goals-and-instruments.webp"
   ]
 }

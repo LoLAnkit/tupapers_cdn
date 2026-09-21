@@ -1,38 +1,41 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.318Z",
+  "generatedAt": "2026-09-21T09:23:02.375Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/first-year/reading-and-writing/definition-and-argumentation",
   "totalAssets": 3,
   "assets": {
     "counter-argument-and-rebuttal-flowchart.webp": {
-      "key": "course/bsw/first-year/reading-and-writing/definition-and-argumentation/counter-argument-and-rebuttal-flowchart.537dbb24.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/definition-and-argumentation/counter-argument-and-rebuttal-flowchart.537dbb24.webp",
+      "key": "course/bsw/first-year/reading-and-writing/definition-and-argumentation/counter-argument-and-rebuttal-flowchart.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/definition-and-argumentation/counter-argument-and-rebuttal-flowchart.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 924864
+      "bytes": 114810,
+      "contentHashed": false
     },
     "extended-definition-structure.webp": {
-      "key": "course/bsw/first-year/reading-and-writing/definition-and-argumentation/extended-definition-structure.ca2a96d0.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/definition-and-argumentation/extended-definition-structure.ca2a96d0.webp",
+      "key": "course/bsw/first-year/reading-and-writing/definition-and-argumentation/extended-definition-structure.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/definition-and-argumentation/extended-definition-structure.webp",
       "contentType": "image/webp",
       "width": 1024,
       "height": 1536,
-      "bytes": 573368
+      "bytes": 112676,
+      "contentHashed": false
     },
     "toulmin-argument-model.webp": {
-      "key": "course/bsw/first-year/reading-and-writing/definition-and-argumentation/toulmin-argument-model.1101e721.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/definition-and-argumentation/toulmin-argument-model.1101e721.webp",
+      "key": "course/bsw/first-year/reading-and-writing/definition-and-argumentation/toulmin-argument-model.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/definition-and-argumentation/toulmin-argument-model.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 1198022
+      "bytes": 119116,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/definition-and-argumentation/counter-argument-and-rebuttal-flowchart.537dbb24.webp",
-    "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/definition-and-argumentation/extended-definition-structure.ca2a96d0.webp",
-    "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/definition-and-argumentation/toulmin-argument-model.1101e721.webp"
+    "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/definition-and-argumentation/counter-argument-and-rebuttal-flowchart.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/definition-and-argumentation/extended-definition-structure.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/reading-and-writing/definition-and-argumentation/toulmin-argument-model.webp"
   ]
 }

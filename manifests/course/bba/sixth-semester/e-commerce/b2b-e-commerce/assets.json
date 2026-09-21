@@ -1,38 +1,41 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.431Z",
+  "generatedAt": "2026-09-21T09:23:01.283Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bba/sixth-semester/e-commerce/b2b-e-commerce",
   "totalAssets": 3,
   "assets": {
     "b2b-network-type.webp": {
-      "key": "course/bba/sixth-semester/e-commerce/b2b-e-commerce/b2b-network-type.8c73a1d1.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/b2b-e-commerce/b2b-network-type.8c73a1d1.webp",
+      "key": "course/bba/sixth-semester/e-commerce/b2b-e-commerce/b2b-network-type.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/b2b-e-commerce/b2b-network-type.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 667766
+      "bytes": 197794,
+      "contentHashed": false
     },
     "b2b-procurement-process.webp": {
-      "key": "course/bba/sixth-semester/e-commerce/b2b-e-commerce/b2b-procurement-process.aac47882.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/b2b-e-commerce/b2b-procurement-process.aac47882.webp",
+      "key": "course/bba/sixth-semester/e-commerce/b2b-e-commerce/b2b-procurement-process.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/b2b-e-commerce/b2b-procurement-process.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 744526
+      "bytes": 163366,
+      "contentHashed": false
     },
     "edi-workflow-vs-traditional-paper-flow.webp": {
-      "key": "course/bba/sixth-semester/e-commerce/b2b-e-commerce/edi-workflow-vs-traditional-paper-flow.45cb15dc.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/b2b-e-commerce/edi-workflow-vs-traditional-paper-flow.45cb15dc.webp",
+      "key": "course/bba/sixth-semester/e-commerce/b2b-e-commerce/edi-workflow-vs-traditional-paper-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/b2b-e-commerce/edi-workflow-vs-traditional-paper-flow.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 553572
+      "bytes": 155416,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/b2b-e-commerce/b2b-network-type.8c73a1d1.webp",
-    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/b2b-e-commerce/b2b-procurement-process.aac47882.webp",
-    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/b2b-e-commerce/edi-workflow-vs-traditional-paper-flow.45cb15dc.webp"
+    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/b2b-e-commerce/b2b-network-type.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/b2b-e-commerce/b2b-procurement-process.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/b2b-e-commerce/edi-workflow-vs-traditional-paper-flow.webp"
   ]
 }

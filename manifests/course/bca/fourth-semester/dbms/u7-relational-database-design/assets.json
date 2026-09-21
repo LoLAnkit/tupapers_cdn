@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:01.789Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/fourth-semester/dbms/u7-relational-database-design",
+  "totalAssets": 4,
+  "assets": {
+    "2nf-violation-and-fix.webp": {
+      "key": "course/bca/fourth-semester/dbms/u7-relational-database-design/2nf-violation-and-fix.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u7-relational-database-design/2nf-violation-and-fix.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 150096,
+      "contentHashed": false
+    },
+    "er-to-relational-mapping-steps.webp": {
+      "key": "course/bca/fourth-semester/dbms/u7-relational-database-design/er-to-relational-mapping-steps.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u7-relational-database-design/er-to-relational-mapping-steps.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 96652,
+      "contentHashed": false
+    },
+    "functional-dependency-types.webp": {
+      "key": "course/bca/fourth-semester/dbms/u7-relational-database-design/functional-dependency-types.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u7-relational-database-design/functional-dependency-types.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 123706,
+      "contentHashed": false
+    },
+    "normalization-progression.webp": {
+      "key": "course/bca/fourth-semester/dbms/u7-relational-database-design/normalization-progression.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u7-relational-database-design/normalization-progression.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 88296,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u7-relational-database-design/2nf-violation-and-fix.webp",
+    "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u7-relational-database-design/er-to-relational-mapping-steps.webp",
+    "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u7-relational-database-design/functional-dependency-types.webp",
+    "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u7-relational-database-design/normalization-progression.webp"
+  ]
+}

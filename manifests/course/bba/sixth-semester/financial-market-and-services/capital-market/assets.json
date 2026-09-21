@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.500Z",
+  "generatedAt": "2026-09-21T09:23:01.341Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bba/sixth-semester/financial-market-and-services/capital-market",
   "totalAssets": 4,
   "assets": {
     "bond-price-vs-required-rate-of-return.webp": {
-      "key": "course/bba/sixth-semester/financial-market-and-services/capital-market/bond-price-vs-required-rate-of-return.b0235157.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/capital-market/bond-price-vs-required-rate-of-return.b0235157.webp",
+      "key": "course/bba/sixth-semester/financial-market-and-services/capital-market/bond-price-vs-required-rate-of-return.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/capital-market/bond-price-vs-required-rate-of-return.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 907738
+      "bytes": 101454,
+      "contentHashed": false
     },
     "capital-market-securities.webp": {
-      "key": "course/bba/sixth-semester/financial-market-and-services/capital-market/capital-market-securities.d00198e6.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/capital-market/capital-market-securities.d00198e6.webp",
+      "key": "course/bba/sixth-semester/financial-market-and-services/capital-market/capital-market-securities.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/capital-market/capital-market-securities.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 967832
+      "bytes": 203422,
+      "contentHashed": false
     },
     "mortage-amoetization-schedule-structure.webp": {
-      "key": "course/bba/sixth-semester/financial-market-and-services/capital-market/mortage-amoetization-schedule-structure.22089a20.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/capital-market/mortage-amoetization-schedule-structure.22089a20.webp",
+      "key": "course/bba/sixth-semester/financial-market-and-services/capital-market/mortage-amoetization-schedule-structure.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/capital-market/mortage-amoetization-schedule-structure.webp",
       "contentType": "image/webp",
       "width": 1692,
       "height": 930,
-      "bytes": 807384
+      "bytes": 183872,
+      "contentHashed": false
     },
     "nepal-capital-market-structure-nepse.webp": {
-      "key": "course/bba/sixth-semester/financial-market-and-services/capital-market/nepal-capital-market-structure-nepse.ecb0952a.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/capital-market/nepal-capital-market-structure-nepse.ecb0952a.webp",
+      "key": "course/bba/sixth-semester/financial-market-and-services/capital-market/nepal-capital-market-structure-nepse.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/capital-market/nepal-capital-market-structure-nepse.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 933332
+      "bytes": 165186,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/capital-market/bond-price-vs-required-rate-of-return.b0235157.webp",
-    "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/capital-market/capital-market-securities.d00198e6.webp",
-    "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/capital-market/mortage-amoetization-schedule-structure.22089a20.webp",
-    "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/capital-market/nepal-capital-market-structure-nepse.ecb0952a.webp"
+    "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/capital-market/bond-price-vs-required-rate-of-return.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/capital-market/capital-market-securities.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/capital-market/mortage-amoetization-schedule-structure.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/financial-market-and-services/capital-market/nepal-capital-market-structure-nepse.webp"
   ]
 }

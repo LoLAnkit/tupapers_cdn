@@ -1,56 +1,61 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.262Z",
+  "generatedAt": "2026-09-21T09:23:02.336Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/first-year/intro-to-psychology/biological-basis-of-behaviour",
   "totalAssets": 5,
   "assets": {
     "lobes-of-brain.webp": {
-      "key": "course/bsw/first-year/intro-to-psychology/biological-basis-of-behaviour/lobes-of-brain.ccfb260c.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/biological-basis-of-behaviour/lobes-of-brain.ccfb260c.webp",
+      "key": "course/bsw/first-year/intro-to-psychology/biological-basis-of-behaviour/lobes-of-brain.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/biological-basis-of-behaviour/lobes-of-brain.webp",
       "contentType": "image/webp",
       "width": 1372,
       "height": 1146,
-      "bytes": 1284846
+      "bytes": 200876,
+      "contentHashed": false
     },
     "major-endocrine-glands-diagram.webp": {
-      "key": "course/bsw/first-year/intro-to-psychology/biological-basis-of-behaviour/major-endocrine-glands-diagram.85860bdb.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/biological-basis-of-behaviour/major-endocrine-glands-diagram.85860bdb.webp",
+      "key": "course/bsw/first-year/intro-to-psychology/biological-basis-of-behaviour/major-endocrine-glands-diagram.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/biological-basis-of-behaviour/major-endocrine-glands-diagram.webp",
       "contentType": "image/webp",
       "width": 1024,
       "height": 1536,
-      "bytes": 1320872
+      "bytes": 187818,
+      "contentHashed": false
     },
     "nervous-system-division-flowchart.webp": {
-      "key": "course/bsw/first-year/intro-to-psychology/biological-basis-of-behaviour/nervous-system-division-flowchart.fc5aa382.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/biological-basis-of-behaviour/nervous-system-division-flowchart.fc5aa382.webp",
+      "key": "course/bsw/first-year/intro-to-psychology/biological-basis-of-behaviour/nervous-system-division-flowchart.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/biological-basis-of-behaviour/nervous-system-division-flowchart.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 663794
+      "bytes": 80454,
+      "contentHashed": false
     },
     "neuron-structure-study-diagram.webp": {
-      "key": "course/bsw/first-year/intro-to-psychology/biological-basis-of-behaviour/neuron-structure-study-diagram.4cf2ffbb.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/biological-basis-of-behaviour/neuron-structure-study-diagram.4cf2ffbb.webp",
+      "key": "course/bsw/first-year/intro-to-psychology/biological-basis-of-behaviour/neuron-structure-study-diagram.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/biological-basis-of-behaviour/neuron-structure-study-diagram.webp",
       "contentType": "image/webp",
       "width": 1402,
       "height": 1122,
-      "bytes": 1354908
+      "bytes": 140498,
+      "contentHashed": false
     },
     "synaptic-transmission-step-by-step-infographic.webp": {
-      "key": "course/bsw/first-year/intro-to-psychology/biological-basis-of-behaviour/synaptic-transmission-step-by-step-infographic.b10303d6.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/biological-basis-of-behaviour/synaptic-transmission-step-by-step-infographic.b10303d6.webp",
+      "key": "course/bsw/first-year/intro-to-psychology/biological-basis-of-behaviour/synaptic-transmission-step-by-step-infographic.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/biological-basis-of-behaviour/synaptic-transmission-step-by-step-infographic.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 1297814
+      "bytes": 175630,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/biological-basis-of-behaviour/lobes-of-brain.ccfb260c.webp",
-    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/biological-basis-of-behaviour/major-endocrine-glands-diagram.85860bdb.webp",
-    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/biological-basis-of-behaviour/nervous-system-division-flowchart.fc5aa382.webp",
-    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/biological-basis-of-behaviour/neuron-structure-study-diagram.4cf2ffbb.webp",
-    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/biological-basis-of-behaviour/synaptic-transmission-step-by-step-infographic.b10303d6.webp"
+    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/biological-basis-of-behaviour/lobes-of-brain.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/biological-basis-of-behaviour/major-endocrine-glands-diagram.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/biological-basis-of-behaviour/nervous-system-division-flowchart.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/biological-basis-of-behaviour/neuron-structure-study-diagram.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/biological-basis-of-behaviour/synaptic-transmission-step-by-step-infographic.webp"
   ]
 }

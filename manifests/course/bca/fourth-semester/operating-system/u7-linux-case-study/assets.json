@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:01.817Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/fourth-semester/operating-system/u7-linux-case-study",
+  "totalAssets": 3,
+  "assets": {
+    "linux-kernel-subsystems-map.webp": {
+      "key": "course/bca/fourth-semester/operating-system/u7-linux-case-study/linux-kernel-subsystems-map.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/operating-system/u7-linux-case-study/linux-kernel-subsystems-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 141698,
+      "contentHashed": false
+    },
+    "linux-processes-process-groups-and-ipc.webp": {
+      "key": "course/bca/fourth-semester/operating-system/u7-linux-case-study/linux-processes-process-groups-and-ipc.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/operating-system/u7-linux-case-study/linux-processes-process-groups-and-ipc.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 175946,
+      "contentHashed": false
+    },
+    "linux-vfs-and-file-system-path.webp": {
+      "key": "course/bca/fourth-semester/operating-system/u7-linux-case-study/linux-vfs-and-file-system-path.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/operating-system/u7-linux-case-study/linux-vfs-and-file-system-path.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 119668,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/fourth-semester/operating-system/u7-linux-case-study/linux-kernel-subsystems-map.webp",
+    "https://cdn.tupapers.com/course/bca/fourth-semester/operating-system/u7-linux-case-study/linux-processes-process-groups-and-ipc.webp",
+    "https://cdn.tupapers.com/course/bca/fourth-semester/operating-system/u7-linux-case-study/linux-vfs-and-file-system-path.webp"
+  ]
+}

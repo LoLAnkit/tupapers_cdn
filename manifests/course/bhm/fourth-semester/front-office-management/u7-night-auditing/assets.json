@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:02.198Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bhm/fourth-semester/front-office-management/u7-night-auditing",
+  "totalAssets": 3,
+  "assets": {
+    "night-audit-procedure.webp": {
+      "key": "course/bhm/fourth-semester/front-office-management/u7-night-auditing/night-audit-procedure.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u7-night-auditing/night-audit-procedure.webp",
+      "contentType": "image/webp",
+      "width": 2169,
+      "height": 725,
+      "bytes": 80508,
+      "contentHashed": false
+    },
+    "night-audit-report-set.webp": {
+      "key": "course/bhm/fourth-semester/front-office-management/u7-night-auditing/night-audit-report-set.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u7-night-auditing/night-audit-report-set.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 127880,
+      "contentHashed": false
+    },
+    "night-auditor-responsibility-map.webp": {
+      "key": "course/bhm/fourth-semester/front-office-management/u7-night-auditing/night-auditor-responsibility-map.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u7-night-auditing/night-auditor-responsibility-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 73124,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u7-night-auditing/night-audit-procedure.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u7-night-auditing/night-audit-report-set.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u7-night-auditing/night-auditor-responsibility-map.webp"
+  ]
+}

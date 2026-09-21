@@ -1,38 +1,41 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.286Z",
+  "generatedAt": "2026-09-21T09:23:02.353Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/first-year/intro-to-psychology/personality",
   "totalAssets": 3,
   "assets": {
     "freuds-psychodynamic-structure-diagram.webp": {
-      "key": "course/bsw/first-year/intro-to-psychology/personality/freuds-psychodynamic-structure-diagram.8a33bafa.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/personality/freuds-psychodynamic-structure-diagram.8a33bafa.webp",
+      "key": "course/bsw/first-year/intro-to-psychology/personality/freuds-psychodynamic-structure-diagram.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/personality/freuds-psychodynamic-structure-diagram.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 1391312
+      "bytes": 234460,
+      "contentHashed": false
     },
     "personality-approaches-comparison-chart.webp": {
-      "key": "course/bsw/first-year/intro-to-psychology/personality/personality-approaches-comparison-chart.be6e9c92.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/personality/personality-approaches-comparison-chart.be6e9c92.webp",
+      "key": "course/bsw/first-year/intro-to-psychology/personality/personality-approaches-comparison-chart.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/personality/personality-approaches-comparison-chart.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 916714
+      "bytes": 197500,
+      "contentHashed": false
     },
     "personality-assessment-methods-chart.webp": {
-      "key": "course/bsw/first-year/intro-to-psychology/personality/personality-assessment-methods-chart.a80a3acc.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/personality/personality-assessment-methods-chart.a80a3acc.webp",
+      "key": "course/bsw/first-year/intro-to-psychology/personality/personality-assessment-methods-chart.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/personality/personality-assessment-methods-chart.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 975436
+      "bytes": 159846,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/personality/freuds-psychodynamic-structure-diagram.8a33bafa.webp",
-    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/personality/personality-approaches-comparison-chart.be6e9c92.webp",
-    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/personality/personality-assessment-methods-chart.a80a3acc.webp"
+    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/personality/freuds-psychodynamic-structure-diagram.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/personality/personality-approaches-comparison-chart.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/personality/personality-assessment-methods-chart.webp"
   ]
 }

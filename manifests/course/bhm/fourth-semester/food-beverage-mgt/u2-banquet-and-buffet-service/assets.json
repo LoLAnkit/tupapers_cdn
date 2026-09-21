@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:02.141Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bhm/fourth-semester/food-beverage-mgt/u2-banquet-and-buffet-service",
+  "totalAssets": 4,
+  "assets": {
+    "banquet-function-prospectus.webp": {
+      "key": "course/bhm/fourth-semester/food-beverage-mgt/u2-banquet-and-buffet-service/banquet-function-prospectus.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/food-beverage-mgt/u2-banquet-and-buffet-service/banquet-function-prospectus.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 149630,
+      "contentHashed": false
+    },
+    "banquet-seating-plans.webp": {
+      "key": "course/bhm/fourth-semester/food-beverage-mgt/u2-banquet-and-buffet-service/banquet-seating-plans.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/food-beverage-mgt/u2-banquet-and-buffet-service/banquet-seating-plans.webp",
+      "contentType": "image/webp",
+      "width": 1312,
+      "height": 1199,
+      "bytes": 139148,
+      "contentHashed": false
+    },
+    "buffet-service-layout.webp": {
+      "key": "course/bhm/fourth-semester/food-beverage-mgt/u2-banquet-and-buffet-service/buffet-service-layout.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/food-beverage-mgt/u2-banquet-and-buffet-service/buffet-service-layout.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 166696,
+      "contentHashed": false
+    },
+    "top-table-and-sprig-layout.webp": {
+      "key": "course/bhm/fourth-semester/food-beverage-mgt/u2-banquet-and-buffet-service/top-table-and-sprig-layout.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/food-beverage-mgt/u2-banquet-and-buffet-service/top-table-and-sprig-layout.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 124142,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/food-beverage-mgt/u2-banquet-and-buffet-service/banquet-function-prospectus.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/food-beverage-mgt/u2-banquet-and-buffet-service/banquet-seating-plans.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/food-beverage-mgt/u2-banquet-and-buffet-service/buffet-service-layout.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/food-beverage-mgt/u2-banquet-and-buffet-service/top-table-and-sprig-layout.webp"
+  ]
+}

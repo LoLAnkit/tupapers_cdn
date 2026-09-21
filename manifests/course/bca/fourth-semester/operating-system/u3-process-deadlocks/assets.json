@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:01.806Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/fourth-semester/operating-system/u3-process-deadlocks",
+  "totalAssets": 4,
+  "assets": {
+    "bankers-safety-check.webp": {
+      "key": "course/bca/fourth-semester/operating-system/u3-process-deadlocks/bankers-safety-check.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/operating-system/u3-process-deadlocks/bankers-safety-check.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 105552,
+      "contentHashed": false
+    },
+    "deadlock-handling-decision-map.webp": {
+      "key": "course/bca/fourth-semester/operating-system/u3-process-deadlocks/deadlock-handling-decision-map.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/operating-system/u3-process-deadlocks/deadlock-handling-decision-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 156626,
+      "contentHashed": false
+    },
+    "four-deadlock-conditions-relationship.webp": {
+      "key": "course/bca/fourth-semester/operating-system/u3-process-deadlocks/four-deadlock-conditions-relationship.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/operating-system/u3-process-deadlocks/four-deadlock-conditions-relationship.webp",
+      "contentType": "image/webp",
+      "width": 1222,
+      "height": 1287,
+      "bytes": 142836,
+      "contentHashed": false
+    },
+    "resource-allocation-graph.webp": {
+      "key": "course/bca/fourth-semester/operating-system/u3-process-deadlocks/resource-allocation-graph.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/operating-system/u3-process-deadlocks/resource-allocation-graph.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 98024,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/fourth-semester/operating-system/u3-process-deadlocks/bankers-safety-check.webp",
+    "https://cdn.tupapers.com/course/bca/fourth-semester/operating-system/u3-process-deadlocks/deadlock-handling-decision-map.webp",
+    "https://cdn.tupapers.com/course/bca/fourth-semester/operating-system/u3-process-deadlocks/four-deadlock-conditions-relationship.webp",
+    "https://cdn.tupapers.com/course/bca/fourth-semester/operating-system/u3-process-deadlocks/resource-allocation-graph.webp"
+  ]
+}

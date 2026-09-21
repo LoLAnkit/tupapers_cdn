@@ -1,13 +1,13 @@
 # tupapers-assets
 
-Content-addressed asset pipeline for the **TUpapers** notes CDN. Optimizes images, automatically applies watermark, hashes the optimized bytes, uploads them to a Cloudflare **R2** bucket (`tupapers`), and emits folder-structured `assets.json` manifests mirroring your exact source folder layout for scalable & effortless resource lookup.
+Asset pipeline for the **TUpapers** notes CDN. Build uses local Sharp processing to minify raster images to WebP and apply a small bottom-right watermark, then uploads them to Cloudflare **R2** and writes folder-structured `assets.json` manifests.
 
 Full design rationale lives in [`r2.md`](./r2.md) and [`docs/cdn.md`](./docs/cdn.md).
 
 - **Serve from:** `https://cdn.tupapers.com`
-- **Keys mirror the site:** `course/<program>/<semester>/<subject>/notes/<category>/<file>.<hash>.webp`
+- **Keys mirror the site:** `course/<program>/<semester>/<subject>/notes/<category>/<file>.<ext>`
 - **Folder Manifests:** `manifests/course/<program>/<semester>/<subject>/notes/<category>/assets.json`
-- **Cache:** `public, max-age=31536000, immutable` (safe forever — the hash changes when bytes change)
+- **Cache:** normal filenames use a 5-minute revalidating cache; preserved hashed files remain immutable
 
 ---
 
@@ -25,22 +25,28 @@ cp .env.example .env   # then fill in your R2 credentials
 
 `.env` values:
 
-| Var | Where to get it |
-|---|---|
-| `R2_ACCOUNT_ID` | R2 overview page (32-char hex) |
-| `R2_ACCESS_KEY_ID` / `R2_SECRET_ACCESS_KEY` | R2 → Manage API Tokens → Object Read & Write, scoped to `tupapers` |
-| `R2_BUCKET` | `tupapers` |
-| `R2_ENDPOINT` | `https://<ACCOUNT_ID>.r2.cloudflarestorage.com` (auto-derived if left as the placeholder) |
-| `CDN_BASE` | `https://cdn.tupapers.com` |
-| `TINIFY_API_KEY` | TinyPNG Developer API dashboard; keep this only in `.env` |
+| Var                                         | Where to get it                                                                           |
+| ------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| `R2_ACCOUNT_ID`                             | R2 overview page (32-char hex)                                                            |
+| `R2_ACCESS_KEY_ID` / `R2_SECRET_ACCESS_KEY` | R2 → Manage API Tokens → Object Read & Write, scoped to `tupapers`                        |
+| `R2_BUCKET`                                 | `tupapers`                                                                                |
+| `R2_ENDPOINT`                               | `https://<ACCOUNT_ID>.r2.cloudflarestorage.com` (auto-derived if left as the placeholder) |
+| `CDN_BASE`                                  | `https://cdn.tupapers.com`                                                                |
 
-## Watermarking
+## Source filenames and migration
 
-By default, the pipeline automatically looks for `watermark.webp` in the root directory and overlays a subtle, scaled watermark image in the **bottom-right** corner of all raster images during processing (`.png`, `.jpg`, `.webp`, `.avif`, `.tiff`, `.gif`). SVG files are untouched.
+The build never creates a new content hash. Raster images are locally minified to WebP with Sharp (default quality: 82) and receive the existing `watermark.webp` at the bottom-right. SVG files remain unchanged.
 
-- Adjust position: `--watermark-position bottom-right|bottom-left|top-right|top-left|center`
-- Custom watermark file: `--watermark path/to/watermark.png`
-- Disable watermarking: `--no-watermark`
+Build keeps a local `.sharp-build-cache.json`. Unchanged images are skipped entirely, so Sharp runs only for new or changed source images (or when quality, maximum width, or watermark settings change).
+
+The one-time migration command copies every manifest-referenced hashed file from `dist/` into the matching location under `source/` and verifies the bytes. It is safe to preview or rerun:
+
+```bash
+npm run migrate:hashed-source
+npm run migrate:hashed-source -- --apply
+```
+
+Old raw files may remain beside their canonical hashed replacements; build automatically ignores those superseded copies. After reviewing the migration, they can be removed with `--apply --remove-originals`.
 
 ## Workflow
 
@@ -51,25 +57,18 @@ By default, the pipeline automatically looks for `watermark.webp` in the root di
    ```
 
    To auto-scaffold all BCA folders:
+
    ```bash
    npm run scaffold:bca
    ```
 
-2. Minify the generated subject folder with TinyPNG. Every chapter and nested folder is scanned recursively, while filenames and extensions stay unchanged:
-
-   ```bash
-   npm run tinify -- "source/course/bba/first-semester/english"
-   ```
-
-   The command processes all compatible images anywhere beneath the named subject folder. Each image is overwritten only after a successful API response. Unchanged files are skipped using a local checksum cache. Use `--all` only when you intentionally want to process every compatible image across the entire `source/` tree.
-
-3. Run the CDN pipeline:
+2. Run the CDN pipeline:
 
    ```bash
    npm run sync            # build + upload
    # or step by step:
-   npm run build           # optimize → dist/, update folder assets.json manifests (offline, no creds needed)
-   npm run upload          # upload dist/ → R2 (skips objects that already exist)
+   npm run build           # exact copy → dist/, update folder assets.json manifests
+   npm run upload          # upload dist/ → R2; normal filenames are safely replaced
    ```
 
 3. Folder-level manifests are created automatically:
@@ -80,40 +79,30 @@ By default, the pipeline automatically looks for `watermark.webp` in the root di
 
 ### Commands
 
-| Command | What it does |
-|---|---|
-| `npm run build` | Optimize `source/` → `dist/`, auto-watermark, update folder `assets.json` manifests. No network. |
-| `npm run upload` | Upload `dist/` objects to R2, skipping ones that already exist. |
-| `npm run sync` | `build` then `upload`. |
-| `npm run tinify -- <subject-folder>` | Recursively TinyPNG-compress every chapter and image under one subject; unchanged files are skipped. |
-| `npm run minify:source -- <paths...>` | Longer alias that also accepts one or more files or folders. |
-| `npm run scaffold:bca` | Create all BCA semester/subject folders under `source/course/bca/`. |
-| `npm run prune` | List bucket objects no longer referenced by any folder manifest (dry-run). |
-| `npm run typecheck` | `tsc --noEmit`. |
-| `npm run lint` | ESLint over `src/`. |
+| Command                         | What it does                                                                                        |
+| ------------------------------- | --------------------------------------------------------------------------------------------------- |
+| `npm run build`                 | Sharp-minify raster source files to WebP, apply the watermark, and update folder manifests.         |
+| `npm run upload`                | Upload `dist/` objects to R2. Hashed objects are skipped when present; normal objects are replaced. |
+| `npm run sync`                  | `build` then `upload`.                                                                              |
+| `npm run migrate:hashed-source` | Preview the one-time `dist` hashed-file migration into `source`; add `--apply` to copy.             |
+| `npm run scaffold:bca`          | Create all BCA semester/subject folders under `source/course/bca/`.                                 |
+| `npm run prune`                 | List bucket objects no longer referenced by any folder manifest (dry-run).                          |
+| `npm run typecheck`             | `tsc --noEmit`.                                                                                     |
+| `npm run lint`                  | ESLint over `src/`.                                                                                 |
 
 ### Useful flags
 
 ```bash
-npm run build -- --mode photo                        # lossy WebP q78 (for photographs)
-npm run tinify -- "source/course/bba/first-semester/english" # recursively minify a subject
-npm run tinify -- --all --dry-run                     # preview a deliberate full-source pass
-npm run build -- --max-width 1600                    # clamp very large images
-npm run build -- --watermark-position bottom-left    # watermark position
-npm run build -- --no-watermark                      # turn off watermarking
+npm run build -- --quality 78                         # smaller raster WebP output
+npm run build -- --max-width 1600                     # clamp oversized raster images
+npm run build -- --no-watermark                       # build without watermark
+npm run build -- --force                              # reprocess every image deliberately
+npm run migrate:hashed-source                        # verify migration status (preview)
+npm run migrate:hashed-source -- --apply             # copy any missing canonical hashed files
 npm run sync  -- --publish-manifest                  # also upload folder assets.json manifests to bucket
 npm run upload -- --dry-run -v                       # preview uploads
 npm run prune -- --yes                               # actually delete orphans (default is dry-run)
 ```
-
-
-- After all images are saved, report the subject folder and give the user one recursive batch command using only that subject folder:
-
-   `npm run tinify -- "source/course/[course]/[year-or-semester]/[subject]"`
-
-   Replace the bracketed parts with the actual subject folder path. Do not list individual chapter folders or image files. The command automatically scans every chapter and nested folder inside the subject, minifying all supported images while preserving filenames and extensions. The user will run it locally; do not run it unless explicitly requested. Do not run `npm run build` or `npm run sync` unless explicitly requested.
-
-
 
 ## Eleventy integration
 
@@ -136,17 +125,15 @@ src/
   index.ts      CLI (commander): build | upload | sync | prune
   config.ts     env loading + R2 client + constants
   discover.ts   walk source/ → image list
-  optimize.ts   sharp (raster→webp + watermarking) / svgo (svg) → optimized bytes + dimensions
-  hash.ts       sha256(bytes)[:8]
-  keys.ts       source path → logical + hashed R2 keys
-  upload.ts     HeadObject skip-check → PutObject w/ cache headers
+  optimize.ts   Sharp WebP minification + watermarking
+  keys.ts       source path → output key; recognize existing hashed filenames
+  upload.ts     immutable-hash skip / normal-name replacement + correct cache headers
   manifest.ts   read / write folder-structured assets.json manifests
   prune.ts      list & delete orphaned objects
-source/         raw inputs (mirrors bucket taxonomy)
-dist/           optimized outputs (gitignored)
+source/         canonical inputs: existing hash names + new normal names
+dist/           build outputs (gitignored); old hashed files are not cleaned by build
 manifests/      folder-structured assets.json manifests (commit these)
 eleventy/       drop-in consumer files for the Eleventy site
-watermark.webp  root watermark image (auto-applied on build)
 ```
 
 ## I used to manually generate images, minify it and name

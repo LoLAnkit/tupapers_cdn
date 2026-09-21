@@ -1,56 +1,61 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.745Z",
+  "generatedAt": "2026-09-21T09:23:01.928Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/seventh-semester/cyber-law/u5-ethical-decision-in-software-development-and-ethics-of-it-organizations",
   "totalAssets": 5,
   "assets": {
     "cmmi-maturity-levels.webp": {
-      "key": "course/bca/seventh-semester/cyber-law/u5-ethical-decision-in-software-development-and-ethics-of-it-organizations/cmmi-maturity-levels.4ecef030.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u5-ethical-decision-in-software-development-and-ethics-of-it-organizations/cmmi-maturity-levels.4ecef030.webp",
+      "key": "course/bca/seventh-semester/cyber-law/u5-ethical-decision-in-software-development-and-ethics-of-it-organizations/cmmi-maturity-levels.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u5-ethical-decision-in-software-development-and-ethics-of-it-organizations/cmmi-maturity-levels.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 492932
+      "bytes": 72238,
+      "contentHashed": false
     },
     "green-computing-lifecycle.webp": {
-      "key": "course/bca/seventh-semester/cyber-law/u5-ethical-decision-in-software-development-and-ethics-of-it-organizations/green-computing-lifecycle.d8f74e00.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u5-ethical-decision-in-software-development-and-ethics-of-it-organizations/green-computing-lifecycle.d8f74e00.webp",
+      "key": "course/bca/seventh-semester/cyber-law/u5-ethical-decision-in-software-development-and-ethics-of-it-organizations/green-computing-lifecycle.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u5-ethical-decision-in-software-development-and-ethics-of-it-organizations/green-computing-lifecycle.webp",
       "contentType": "image/webp",
       "width": 1402,
       "height": 1122,
-      "bytes": 576050
+      "bytes": 95400,
+      "contentHashed": false
     },
     "outsourcing-relationship-structure.webp": {
-      "key": "course/bca/seventh-semester/cyber-law/u5-ethical-decision-in-software-development-and-ethics-of-it-organizations/outsourcing-relationship-structure.3bdedb0c.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u5-ethical-decision-in-software-development-and-ethics-of-it-organizations/outsourcing-relationship-structure.3bdedb0c.webp",
+      "key": "course/bca/seventh-semester/cyber-law/u5-ethical-decision-in-software-development-and-ethics-of-it-organizations/outsourcing-relationship-structure.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u5-ethical-decision-in-software-development-and-ethics-of-it-organizations/outsourcing-relationship-structure.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 553098
+      "bytes": 77628,
+      "contentHashed": false
     },
     "software-quality-development-cycle.webp": {
-      "key": "course/bca/seventh-semester/cyber-law/u5-ethical-decision-in-software-development-and-ethics-of-it-organizations/software-quality-development-cycle.755caaba.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u5-ethical-decision-in-software-development-and-ethics-of-it-organizations/software-quality-development-cycle.755caaba.webp",
+      "key": "course/bca/seventh-semester/cyber-law/u5-ethical-decision-in-software-development-and-ethics-of-it-organizations/software-quality-development-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u5-ethical-decision-in-software-development-and-ethics-of-it-organizations/software-quality-development-cycle.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 574642
+      "bytes": 101774,
+      "contentHashed": false
     },
     "whistle-blowing-decision-process.webp": {
-      "key": "course/bca/seventh-semester/cyber-law/u5-ethical-decision-in-software-development-and-ethics-of-it-organizations/whistle-blowing-decision-process.8f726140.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u5-ethical-decision-in-software-development-and-ethics-of-it-organizations/whistle-blowing-decision-process.8f726140.webp",
+      "key": "course/bca/seventh-semester/cyber-law/u5-ethical-decision-in-software-development-and-ethics-of-it-organizations/whistle-blowing-decision-process.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u5-ethical-decision-in-software-development-and-ethics-of-it-organizations/whistle-blowing-decision-process.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 539716
+      "bytes": 75496,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u5-ethical-decision-in-software-development-and-ethics-of-it-organizations/cmmi-maturity-levels.4ecef030.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u5-ethical-decision-in-software-development-and-ethics-of-it-organizations/green-computing-lifecycle.d8f74e00.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u5-ethical-decision-in-software-development-and-ethics-of-it-organizations/outsourcing-relationship-structure.3bdedb0c.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u5-ethical-decision-in-software-development-and-ethics-of-it-organizations/software-quality-development-cycle.755caaba.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u5-ethical-decision-in-software-development-and-ethics-of-it-organizations/whistle-blowing-decision-process.8f726140.webp"
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u5-ethical-decision-in-software-development-and-ethics-of-it-organizations/cmmi-maturity-levels.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u5-ethical-decision-in-software-development-and-ethics-of-it-organizations/green-computing-lifecycle.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u5-ethical-decision-in-software-development-and-ethics-of-it-organizations/outsourcing-relationship-structure.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u5-ethical-decision-in-software-development-and-ethics-of-it-organizations/software-quality-development-cycle.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u5-ethical-decision-in-software-development-and-ethics-of-it-organizations/whistle-blowing-decision-process.webp"
   ]
 }

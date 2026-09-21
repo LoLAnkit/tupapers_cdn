@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:01.632Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/first-semester/professional-ethics/u5-digital-communication",
+  "totalAssets": 4,
+  "assets": {
+    "netiquette-interaction-path.webp": {
+      "key": "course/bca/first-semester/professional-ethics/u5-digital-communication/netiquette-interaction-path.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u5-digital-communication/netiquette-interaction-path.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 149260,
+      "contentHashed": false
+    },
+    "online-plagiarism-prevention-workflow.webp": {
+      "key": "course/bca/first-semester/professional-ethics/u5-digital-communication/online-plagiarism-prevention-workflow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u5-digital-communication/online-plagiarism-prevention-workflow.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 101432,
+      "contentHashed": false
+    },
+    "prepositions-of-place-scene.webp": {
+      "key": "course/bca/first-semester/professional-ethics/u5-digital-communication/prepositions-of-place-scene.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u5-digital-communication/prepositions-of-place-scene.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 236910,
+      "contentHashed": false
+    },
+    "social-media-and-collaboration-ecosystem.webp": {
+      "key": "course/bca/first-semester/professional-ethics/u5-digital-communication/social-media-and-collaboration-ecosystem.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u5-digital-communication/social-media-and-collaboration-ecosystem.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 134588,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u5-digital-communication/netiquette-interaction-path.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u5-digital-communication/online-plagiarism-prevention-workflow.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u5-digital-communication/prepositions-of-place-scene.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u5-digital-communication/social-media-and-collaboration-ecosystem.webp"
+  ]
+}

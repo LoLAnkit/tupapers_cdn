@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:01.638Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/first-semester/professional-ethics/u6-professional-ethics",
+  "totalAssets": 4,
+  "assets": {
+    "digital-footprint-trail.webp": {
+      "key": "course/bca/first-semester/professional-ethics/u6-professional-ethics/digital-footprint-trail.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u6-professional-ethics/digital-footprint-trail.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 127768,
+      "contentHashed": false
+    },
+    "ethical-decision-making-flow.webp": {
+      "key": "course/bca/first-semester/professional-ethics/u6-professional-ethics/ethical-decision-making-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u6-professional-ethics/ethical-decision-making-flow.webp",
+      "contentType": "image/webp",
+      "width": 2161,
+      "height": 728,
+      "bytes": 156538,
+      "contentHashed": false
+    },
+    "it-professional-responsibility-map.webp": {
+      "key": "course/bca/first-semester/professional-ethics/u6-professional-ethics/it-professional-responsibility-map.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u6-professional-ethics/it-professional-responsibility-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 132036,
+      "contentHashed": false
+    },
+    "whistle-blowing-decision-path.webp": {
+      "key": "course/bca/first-semester/professional-ethics/u6-professional-ethics/whistle-blowing-decision-path.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u6-professional-ethics/whistle-blowing-decision-path.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 99704,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u6-professional-ethics/digital-footprint-trail.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u6-professional-ethics/ethical-decision-making-flow.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u6-professional-ethics/it-professional-responsibility-map.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u6-professional-ethics/whistle-blowing-decision-path.webp"
+  ]
+}

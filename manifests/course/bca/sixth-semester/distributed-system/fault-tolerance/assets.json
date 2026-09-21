@@ -1,56 +1,61 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.886Z",
+  "generatedAt": "2026-09-21T09:23:02.061Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/sixth-semester/distributed-system/fault-tolerance",
   "totalAssets": 5,
   "assets": {
     "fig-8-1-two-phase-commit-protocol.webp": {
-      "key": "course/bca/sixth-semester/distributed-system/fault-tolerance/fig-8-1-two-phase-commit-protocol.5451b503.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/fault-tolerance/fig-8-1-two-phase-commit-protocol.5451b503.webp",
+      "key": "course/bca/sixth-semester/distributed-system/fault-tolerance/fig-8-1-two-phase-commit-protocol.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/fault-tolerance/fig-8-1-two-phase-commit-protocol.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 804280
+      "bytes": 90054,
+      "contentHashed": false
     },
     "fig-8-2-recovery-and-checkpointing.webp": {
-      "key": "course/bca/sixth-semester/distributed-system/fault-tolerance/fig-8-2-recovery-and-checkpointing.46ea3965.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/fault-tolerance/fig-8-2-recovery-and-checkpointing.46ea3965.webp",
+      "key": "course/bca/sixth-semester/distributed-system/fault-tolerance/fig-8-2-recovery-and-checkpointing.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/fault-tolerance/fig-8-2-recovery-and-checkpointing.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 1018366
+      "bytes": 58556,
+      "contentHashed": false
     },
     "fig-8-3-process-resilience-through-groups.webp": {
-      "key": "course/bca/sixth-semester/distributed-system/fault-tolerance/fig-8-3-process-resilience-through-groups.9071b33d.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/fault-tolerance/fig-8-3-process-resilience-through-groups.9071b33d.webp",
+      "key": "course/bca/sixth-semester/distributed-system/fault-tolerance/fig-8-3-process-resilience-through-groups.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/fault-tolerance/fig-8-3-process-resilience-through-groups.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 801660
+      "bytes": 76550,
+      "contentHashed": false
     },
     "fig-8-4-distributed-system-failure-types.webp": {
-      "key": "course/bca/sixth-semester/distributed-system/fault-tolerance/fig-8-4-distributed-system-failure-types.80007d14.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/fault-tolerance/fig-8-4-distributed-system-failure-types.80007d14.webp",
+      "key": "course/bca/sixth-semester/distributed-system/fault-tolerance/fig-8-4-distributed-system-failure-types.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/fault-tolerance/fig-8-4-distributed-system-failure-types.webp",
       "contentType": "image/webp",
       "width": 1622,
       "height": 969,
-      "bytes": 583090
+      "bytes": 73462,
+      "contentHashed": false
     },
     "fig-8-5-reliable-client-server-communication.webp": {
-      "key": "course/bca/sixth-semester/distributed-system/fault-tolerance/fig-8-5-reliable-client-server-communication.fe0e65cd.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/fault-tolerance/fig-8-5-reliable-client-server-communication.fe0e65cd.webp",
+      "key": "course/bca/sixth-semester/distributed-system/fault-tolerance/fig-8-5-reliable-client-server-communication.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/fault-tolerance/fig-8-5-reliable-client-server-communication.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 574172
+      "bytes": 80850,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/fault-tolerance/fig-8-1-two-phase-commit-protocol.5451b503.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/fault-tolerance/fig-8-2-recovery-and-checkpointing.46ea3965.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/fault-tolerance/fig-8-3-process-resilience-through-groups.9071b33d.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/fault-tolerance/fig-8-4-distributed-system-failure-types.80007d14.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/fault-tolerance/fig-8-5-reliable-client-server-communication.fe0e65cd.webp"
+    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/fault-tolerance/fig-8-1-two-phase-commit-protocol.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/fault-tolerance/fig-8-2-recovery-and-checkpointing.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/fault-tolerance/fig-8-3-process-resilience-through-groups.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/fault-tolerance/fig-8-4-distributed-system-failure-types.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/fault-tolerance/fig-8-5-reliable-client-server-communication.webp"
   ]
 }

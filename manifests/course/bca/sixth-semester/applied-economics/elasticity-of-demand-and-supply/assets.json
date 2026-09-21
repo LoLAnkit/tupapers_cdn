@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.849Z",
+  "generatedAt": "2026-09-21T09:23:02.030Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/sixth-semester/applied-economics/elasticity-of-demand-and-supply",
   "totalAssets": 4,
   "assets": {
     "fig-2-1-types-of-price-elasticity-of-demand.webp": {
-      "key": "course/bca/sixth-semester/applied-economics/elasticity-of-demand-and-supply/fig-2-1-types-of-price-elasticity-of-demand.520bd13e.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/elasticity-of-demand-and-supply/fig-2-1-types-of-price-elasticity-of-demand.520bd13e.webp",
+      "key": "course/bca/sixth-semester/applied-economics/elasticity-of-demand-and-supply/fig-2-1-types-of-price-elasticity-of-demand.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/elasticity-of-demand-and-supply/fig-2-1-types-of-price-elasticity-of-demand.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 1075416
+      "bytes": 126294,
+      "contentHashed": false
     },
     "fig-2-2-price-elasticity-of-supply.webp": {
-      "key": "course/bca/sixth-semester/applied-economics/elasticity-of-demand-and-supply/fig-2-2-price-elasticity-of-supply.2a8e5b7b.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/elasticity-of-demand-and-supply/fig-2-2-price-elasticity-of-supply.2a8e5b7b.webp",
+      "key": "course/bca/sixth-semester/applied-economics/elasticity-of-demand-and-supply/fig-2-2-price-elasticity-of-supply.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/elasticity-of-demand-and-supply/fig-2-2-price-elasticity-of-supply.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 1109472
+      "bytes": 67454,
+      "contentHashed": false
     },
     "fig-2-3-total-outlay-method.webp": {
-      "key": "course/bca/sixth-semester/applied-economics/elasticity-of-demand-and-supply/fig-2-3-total-outlay-method.2556729e.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/elasticity-of-demand-and-supply/fig-2-3-total-outlay-method.2556729e.webp",
+      "key": "course/bca/sixth-semester/applied-economics/elasticity-of-demand-and-supply/fig-2-3-total-outlay-method.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/elasticity-of-demand-and-supply/fig-2-3-total-outlay-method.webp",
       "contentType": "image/webp",
       "width": 1122,
       "height": 1402,
-      "bytes": 1020040
+      "bytes": 69218,
+      "contentHashed": false
     },
     "fig-2-4-income-elasticity-engel-curves.webp": {
-      "key": "course/bca/sixth-semester/applied-economics/elasticity-of-demand-and-supply/fig-2-4-income-elasticity-engel-curves.f1c059a0.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/elasticity-of-demand-and-supply/fig-2-4-income-elasticity-engel-curves.f1c059a0.webp",
+      "key": "course/bca/sixth-semester/applied-economics/elasticity-of-demand-and-supply/fig-2-4-income-elasticity-engel-curves.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/elasticity-of-demand-and-supply/fig-2-4-income-elasticity-engel-curves.webp",
       "contentType": "image/webp",
       "width": 1210,
       "height": 1300,
-      "bytes": 952418
+      "bytes": 77192,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/elasticity-of-demand-and-supply/fig-2-1-types-of-price-elasticity-of-demand.520bd13e.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/elasticity-of-demand-and-supply/fig-2-2-price-elasticity-of-supply.2a8e5b7b.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/elasticity-of-demand-and-supply/fig-2-3-total-outlay-method.2556729e.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/elasticity-of-demand-and-supply/fig-2-4-income-elasticity-engel-curves.f1c059a0.webp"
+    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/elasticity-of-demand-and-supply/fig-2-1-types-of-price-elasticity-of-demand.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/elasticity-of-demand-and-supply/fig-2-2-price-elasticity-of-supply.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/elasticity-of-demand-and-supply/fig-2-3-total-outlay-method.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/elasticity-of-demand-and-supply/fig-2-4-income-elasticity-engel-curves.webp"
   ]
 }

@@ -1,38 +1,41 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.408Z",
+  "generatedAt": "2026-09-21T09:23:02.437Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/second-year/abnormal-psychology/u6-schizophrenia-spectrum-and-other-psychotic-disorders",
   "totalAssets": 3,
   "assets": {
     "multicausal-model-of-schizophrenia.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u6-schizophrenia-spectrum-and-other-psychotic-disorders/multicausal-model-of-schizophrenia.32503529.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u6-schizophrenia-spectrum-and-other-psychotic-disorders/multicausal-model-of-schizophrenia.32503529.webp",
+      "key": "course/bsw/second-year/abnormal-psychology/u6-schizophrenia-spectrum-and-other-psychotic-disorders/multicausal-model-of-schizophrenia.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u6-schizophrenia-spectrum-and-other-psychotic-disorders/multicausal-model-of-schizophrenia.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 527414
+      "bytes": 54824,
+      "contentHashed": false
     },
     "schizophrenia-diagnostic-pathway.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u6-schizophrenia-spectrum-and-other-psychotic-disorders/schizophrenia-diagnostic-pathway.51f89251.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u6-schizophrenia-spectrum-and-other-psychotic-disorders/schizophrenia-diagnostic-pathway.51f89251.webp",
+      "key": "course/bsw/second-year/abnormal-psychology/u6-schizophrenia-spectrum-and-other-psychotic-disorders/schizophrenia-diagnostic-pathway.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u6-schizophrenia-spectrum-and-other-psychotic-disorders/schizophrenia-diagnostic-pathway.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 674210
+      "bytes": 69570,
+      "contentHashed": false
     },
     "schizophrenia-symptom-domains.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u6-schizophrenia-spectrum-and-other-psychotic-disorders/schizophrenia-symptom-domains.2aebe960.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u6-schizophrenia-spectrum-and-other-psychotic-disorders/schizophrenia-symptom-domains.2aebe960.webp",
+      "key": "course/bsw/second-year/abnormal-psychology/u6-schizophrenia-spectrum-and-other-psychotic-disorders/schizophrenia-symptom-domains.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u6-schizophrenia-spectrum-and-other-psychotic-disorders/schizophrenia-symptom-domains.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 804650
+      "bytes": 128884,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u6-schizophrenia-spectrum-and-other-psychotic-disorders/multicausal-model-of-schizophrenia.32503529.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u6-schizophrenia-spectrum-and-other-psychotic-disorders/schizophrenia-diagnostic-pathway.51f89251.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u6-schizophrenia-spectrum-and-other-psychotic-disorders/schizophrenia-symptom-domains.2aebe960.webp"
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u6-schizophrenia-spectrum-and-other-psychotic-disorders/multicausal-model-of-schizophrenia.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u6-schizophrenia-spectrum-and-other-psychotic-disorders/schizophrenia-diagnostic-pathway.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u6-schizophrenia-spectrum-and-other-psychotic-disorders/schizophrenia-symptom-domains.webp"
   ]
 }

@@ -1,65 +1,71 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.351Z",
+  "generatedAt": "2026-09-21T09:23:01.212Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bba/second-semester/dbms/u1-database-concepts-and-architecture",
   "totalAssets": 6,
   "assets": {
     "centralized-and-client-server-dbms-architecture.webp": {
-      "key": "course/bba/second-semester/dbms/u1-database-concepts-and-architecture/centralized-and-client-server-dbms-architecture.3fbbce09.webp",
-      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u1-database-concepts-and-architecture/centralized-and-client-server-dbms-architecture.3fbbce09.webp",
+      "key": "course/bba/second-semester/dbms/u1-database-concepts-and-architecture/centralized-and-client-server-dbms-architecture.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u1-database-concepts-and-architecture/centralized-and-client-server-dbms-architecture.webp",
       "contentType": "image/webp",
       "width": 1607,
       "height": 979,
-      "bytes": 1345558
+      "bytes": 171362,
+      "contentHashed": false
     },
     "centralized-dbms-architecture.webp": {
-      "key": "course/bba/second-semester/dbms/u1-database-concepts-and-architecture/centralized-dbms-architecture.d3f1d4d8.webp",
-      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u1-database-concepts-and-architecture/centralized-dbms-architecture.d3f1d4d8.webp",
+      "key": "course/bba/second-semester/dbms/u1-database-concepts-and-architecture/centralized-dbms-architecture.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u1-database-concepts-and-architecture/centralized-dbms-architecture.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 282216
+      "bytes": 248684,
+      "contentHashed": false
     },
     "client-server-dbms-architecture.webp": {
-      "key": "course/bba/second-semester/dbms/u1-database-concepts-and-architecture/client-server-dbms-architecture.cadd146f.webp",
-      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u1-database-concepts-and-architecture/client-server-dbms-architecture.cadd146f.webp",
+      "key": "course/bba/second-semester/dbms/u1-database-concepts-and-architecture/client-server-dbms-architecture.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u1-database-concepts-and-architecture/client-server-dbms-architecture.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 384262
+      "bytes": 287376,
+      "contentHashed": false
     },
     "data-independence.webp": {
-      "key": "course/bba/second-semester/dbms/u1-database-concepts-and-architecture/data-independence.61ea5cbe.webp",
-      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u1-database-concepts-and-architecture/data-independence.61ea5cbe.webp",
+      "key": "course/bba/second-semester/dbms/u1-database-concepts-and-architecture/data-independence.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u1-database-concepts-and-architecture/data-independence.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 639614
+      "bytes": 434810,
+      "contentHashed": false
     },
     "database-system-environment.webp": {
-      "key": "course/bba/second-semester/dbms/u1-database-concepts-and-architecture/database-system-environment.c18a047e.webp",
-      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u1-database-concepts-and-architecture/database-system-environment.c18a047e.webp",
+      "key": "course/bba/second-semester/dbms/u1-database-concepts-and-architecture/database-system-environment.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u1-database-concepts-and-architecture/database-system-environment.webp",
       "contentType": "image/webp",
       "width": 1691,
       "height": 930,
-      "bytes": 1425414
+      "bytes": 207922,
+      "contentHashed": false
     },
     "three-schema-architecture.webp": {
-      "key": "course/bba/second-semester/dbms/u1-database-concepts-and-architecture/three-schema-architecture.2f433394.webp",
-      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u1-database-concepts-and-architecture/three-schema-architecture.2f433394.webp",
+      "key": "course/bba/second-semester/dbms/u1-database-concepts-and-architecture/three-schema-architecture.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u1-database-concepts-and-architecture/three-schema-architecture.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 1018048
+      "bytes": 120950,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u1-database-concepts-and-architecture/centralized-and-client-server-dbms-architecture.3fbbce09.webp",
-    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u1-database-concepts-and-architecture/centralized-dbms-architecture.d3f1d4d8.webp",
-    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u1-database-concepts-and-architecture/client-server-dbms-architecture.cadd146f.webp",
-    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u1-database-concepts-and-architecture/data-independence.61ea5cbe.webp",
-    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u1-database-concepts-and-architecture/database-system-environment.c18a047e.webp",
-    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u1-database-concepts-and-architecture/three-schema-architecture.2f433394.webp"
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u1-database-concepts-and-architecture/centralized-and-client-server-dbms-architecture.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u1-database-concepts-and-architecture/centralized-dbms-architecture.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u1-database-concepts-and-architecture/client-server-dbms-architecture.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u1-database-concepts-and-architecture/data-independence.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u1-database-concepts-and-architecture/database-system-environment.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u1-database-concepts-and-architecture/three-schema-architecture.webp"
   ]
 }

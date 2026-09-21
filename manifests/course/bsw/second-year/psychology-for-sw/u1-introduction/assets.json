@@ -1,38 +1,41 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.472Z",
+  "generatedAt": "2026-09-21T09:23:02.472Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/second-year/psychology-for-sw/u1-introduction",
   "totalAssets": 3,
   "assets": {
     "branches-and-fields-of-psychology.webp": {
-      "key": "course/bsw/second-year/psychology-for-sw/u1-introduction/branches-and-fields-of-psychology.a0100019.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u1-introduction/branches-and-fields-of-psychology.a0100019.webp",
+      "key": "course/bsw/second-year/psychology-for-sw/u1-introduction/branches-and-fields-of-psychology.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u1-introduction/branches-and-fields-of-psychology.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 1183328
+      "bytes": 129686,
+      "contentHashed": false
     },
     "major-theoretical-orientations.webp": {
-      "key": "course/bsw/second-year/psychology-for-sw/u1-introduction/major-theoretical-orientations.4db4428b.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u1-introduction/major-theoretical-orientations.4db4428b.webp",
+      "key": "course/bsw/second-year/psychology-for-sw/u1-introduction/major-theoretical-orientations.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u1-introduction/major-theoretical-orientations.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 1279244
+      "bytes": 151340,
+      "contentHashed": false
     },
     "psychology-and-social-work-relationship.webp": {
-      "key": "course/bsw/second-year/psychology-for-sw/u1-introduction/psychology-and-social-work-relationship.18019d74.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u1-introduction/psychology-and-social-work-relationship.18019d74.webp",
+      "key": "course/bsw/second-year/psychology-for-sw/u1-introduction/psychology-and-social-work-relationship.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u1-introduction/psychology-and-social-work-relationship.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 1395652
+      "bytes": 210760,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u1-introduction/branches-and-fields-of-psychology.a0100019.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u1-introduction/major-theoretical-orientations.4db4428b.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u1-introduction/psychology-and-social-work-relationship.18019d74.webp"
+    "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u1-introduction/branches-and-fields-of-psychology.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u1-introduction/major-theoretical-orientations.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u1-introduction/psychology-and-social-work-relationship.webp"
   ]
 }

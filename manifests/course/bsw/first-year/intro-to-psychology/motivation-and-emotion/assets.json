@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.281Z",
+  "generatedAt": "2026-09-21T09:23:02.350Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/first-year/intro-to-psychology/motivation-and-emotion",
   "totalAssets": 4,
   "assets": {
     "emotion-theories-comparison-chart.webp": {
-      "key": "course/bsw/first-year/intro-to-psychology/motivation-and-emotion/emotion-theories-comparison-chart.3078509d.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/motivation-and-emotion/emotion-theories-comparison-chart.3078509d.webp",
+      "key": "course/bsw/first-year/intro-to-psychology/motivation-and-emotion/emotion-theories-comparison-chart.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/motivation-and-emotion/emotion-theories-comparison-chart.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 928982
+      "bytes": 150244,
+      "contentHashed": false
     },
     "handwritten-motive-classification-chart.webp": {
-      "key": "course/bsw/first-year/intro-to-psychology/motivation-and-emotion/handwritten-motive-classification-chart.43a998be.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/motivation-and-emotion/handwritten-motive-classification-chart.43a998be.webp",
+      "key": "course/bsw/first-year/intro-to-psychology/motivation-and-emotion/handwritten-motive-classification-chart.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/motivation-and-emotion/handwritten-motive-classification-chart.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 1067798
+      "bytes": 129482,
+      "contentHashed": false
     },
     "maslows-hierarchy-of-needs-infographic.webp": {
-      "key": "course/bsw/first-year/intro-to-psychology/motivation-and-emotion/maslows-hierarchy-of-needs-infographic.72f6d11d.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/motivation-and-emotion/maslows-hierarchy-of-needs-infographic.72f6d11d.webp",
+      "key": "course/bsw/first-year/intro-to-psychology/motivation-and-emotion/maslows-hierarchy-of-needs-infographic.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/motivation-and-emotion/maslows-hierarchy-of-needs-infographic.webp",
       "contentType": "image/webp",
       "width": 1175,
       "height": 1339,
-      "bytes": 1272346
+      "bytes": 253716,
+      "contentHashed": false
     },
     "motivational-cycle-infographic.webp": {
-      "key": "course/bsw/first-year/intro-to-psychology/motivation-and-emotion/motivational-cycle-infographic.b1b75b99.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/motivation-and-emotion/motivational-cycle-infographic.b1b75b99.webp",
+      "key": "course/bsw/first-year/intro-to-psychology/motivation-and-emotion/motivational-cycle-infographic.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/motivation-and-emotion/motivational-cycle-infographic.webp",
       "contentType": "image/webp",
       "width": 1254,
       "height": 1254,
-      "bytes": 764102
+      "bytes": 105308,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/motivation-and-emotion/emotion-theories-comparison-chart.3078509d.webp",
-    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/motivation-and-emotion/handwritten-motive-classification-chart.43a998be.webp",
-    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/motivation-and-emotion/maslows-hierarchy-of-needs-infographic.72f6d11d.webp",
-    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/motivation-and-emotion/motivational-cycle-infographic.b1b75b99.webp"
+    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/motivation-and-emotion/emotion-theories-comparison-chart.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/motivation-and-emotion/handwritten-motive-classification-chart.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/motivation-and-emotion/maslows-hierarchy-of-needs-infographic.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/intro-to-psychology/motivation-and-emotion/motivational-cycle-infographic.webp"
   ]
 }

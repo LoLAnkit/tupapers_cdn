@@ -1,56 +1,61 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.375Z",
+  "generatedAt": "2026-09-21T09:23:02.413Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/first-year/social-psychology/social-perception",
   "totalAssets": 5,
   "assets": {
     "distortions-in-social-perception-flowchart.webp": {
-      "key": "course/bsw/first-year/social-psychology/social-perception/distortions-in-social-perception-flowchart.be7efce3.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-perception/distortions-in-social-perception-flowchart.be7efce3.webp",
+      "key": "course/bsw/first-year/social-psychology/social-perception/distortions-in-social-perception-flowchart.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-perception/distortions-in-social-perception-flowchart.webp",
       "contentType": "image/webp",
       "width": 1024,
       "height": 1536,
-      "bytes": 562710
+      "bytes": 145466,
+      "contentHashed": false
     },
     "impression-formation-flowchart.webp": {
-      "key": "course/bsw/first-year/social-psychology/social-perception/impression-formation-flowchart.84980fb3.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-perception/impression-formation-flowchart.84980fb3.webp",
+      "key": "course/bsw/first-year/social-psychology/social-perception/impression-formation-flowchart.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-perception/impression-formation-flowchart.webp",
       "contentType": "image/webp",
       "width": 1024,
       "height": 1536,
-      "bytes": 781916
+      "bytes": 119998,
+      "contentHashed": false
     },
     "impression-management-mind-map.webp": {
-      "key": "course/bsw/first-year/social-psychology/social-perception/impression-management-mind-map.1c9d8809.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-perception/impression-management-mind-map.1c9d8809.webp",
+      "key": "course/bsw/first-year/social-psychology/social-perception/impression-management-mind-map.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-perception/impression-management-mind-map.webp",
       "contentType": "image/webp",
       "width": 1254,
       "height": 1254,
-      "bytes": 592048
+      "bytes": 87420,
+      "contentHashed": false
     },
     "kelleys-covariation-model-infographic.webp": {
-      "key": "course/bsw/first-year/social-psychology/social-perception/kelleys-covariation-model-infographic.5e5ebd13.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-perception/kelleys-covariation-model-infographic.5e5ebd13.webp",
+      "key": "course/bsw/first-year/social-psychology/social-perception/kelleys-covariation-model-infographic.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-perception/kelleys-covariation-model-infographic.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 1010898
+      "bytes": 133746,
+      "contentHashed": false
     },
     "non-verbal-communication-channels-diagram.webp": {
-      "key": "course/bsw/first-year/social-psychology/social-perception/non-verbal-communication-channels-diagram.a1859b34.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-perception/non-verbal-communication-channels-diagram.a1859b34.webp",
+      "key": "course/bsw/first-year/social-psychology/social-perception/non-verbal-communication-channels-diagram.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-perception/non-verbal-communication-channels-diagram.webp",
       "contentType": "image/webp",
       "width": 1024,
       "height": 1536,
-      "bytes": 978430
+      "bytes": 201518,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-perception/distortions-in-social-perception-flowchart.be7efce3.webp",
-    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-perception/impression-formation-flowchart.84980fb3.webp",
-    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-perception/impression-management-mind-map.1c9d8809.webp",
-    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-perception/kelleys-covariation-model-infographic.5e5ebd13.webp",
-    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-perception/non-verbal-communication-channels-diagram.a1859b34.webp"
+    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-perception/distortions-in-social-perception-flowchart.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-perception/impression-formation-flowchart.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-perception/impression-management-mind-map.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-perception/kelleys-covariation-model-infographic.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-perception/non-verbal-communication-channels-diagram.webp"
   ]
 }

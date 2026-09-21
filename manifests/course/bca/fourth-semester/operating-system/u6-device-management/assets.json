@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:01.814Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/fourth-semester/operating-system/u6-device-management",
+  "totalAssets": 4,
+  "assets": {
+    "disk-geometry-and-formatting.webp": {
+      "key": "course/bca/fourth-semester/operating-system/u6-device-management/disk-geometry-and-formatting.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/operating-system/u6-device-management/disk-geometry-and-formatting.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 194656,
+      "contentHashed": false
+    },
+    "disk-scheduling-head-movement-graph.webp": {
+      "key": "course/bca/fourth-semester/operating-system/u6-device-management/disk-scheduling-head-movement-graph.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/operating-system/u6-device-management/disk-scheduling-head-movement-graph.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 117952,
+      "contentHashed": false
+    },
+    "io-data-path-with-interrupts-and-dma.webp": {
+      "key": "course/bca/fourth-semester/operating-system/u6-device-management/io-data-path-with-interrupts-and-dma.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/operating-system/u6-device-management/io-data-path-with-interrupts-and-dma.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 125984,
+      "contentHashed": false
+    },
+    "raid-data-and-parity-layout.webp": {
+      "key": "course/bca/fourth-semester/operating-system/u6-device-management/raid-data-and-parity-layout.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/operating-system/u6-device-management/raid-data-and-parity-layout.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 168566,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/fourth-semester/operating-system/u6-device-management/disk-geometry-and-formatting.webp",
+    "https://cdn.tupapers.com/course/bca/fourth-semester/operating-system/u6-device-management/disk-scheduling-head-movement-graph.webp",
+    "https://cdn.tupapers.com/course/bca/fourth-semester/operating-system/u6-device-management/io-data-path-with-interrupts-and-dma.webp",
+    "https://cdn.tupapers.com/course/bca/fourth-semester/operating-system/u6-device-management/raid-data-and-parity-layout.webp"
+  ]
+}

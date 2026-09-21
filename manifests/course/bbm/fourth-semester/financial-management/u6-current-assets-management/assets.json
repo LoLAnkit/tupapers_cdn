@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:01.419Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbm/fourth-semester/financial-management/u6-current-assets-management",
+  "totalAssets": 4,
+  "assets": {
+    "cash-conversion-cycle.webp": {
+      "key": "course/bbm/fourth-semester/financial-management/u6-current-assets-management/cash-conversion-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/financial-management/u6-current-assets-management/cash-conversion-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 60346,
+      "contentHashed": false
+    },
+    "credit-policy-evaluation.webp": {
+      "key": "course/bbm/fourth-semester/financial-management/u6-current-assets-management/credit-policy-evaluation.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/financial-management/u6-current-assets-management/credit-policy-evaluation.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 82120,
+      "contentHashed": false
+    },
+    "eoq-cost-curves.webp": {
+      "key": "course/bbm/fourth-semester/financial-management/u6-current-assets-management/eoq-cost-curves.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/financial-management/u6-current-assets-management/eoq-cost-curves.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 74930,
+      "contentHashed": false
+    },
+    "inventory-sawtooth-and-reorder-point.webp": {
+      "key": "course/bbm/fourth-semester/financial-management/u6-current-assets-management/inventory-sawtooth-and-reorder-point.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/financial-management/u6-current-assets-management/inventory-sawtooth-and-reorder-point.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 83462,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/financial-management/u6-current-assets-management/cash-conversion-cycle.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/financial-management/u6-current-assets-management/credit-policy-evaluation.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/financial-management/u6-current-assets-management/eoq-cost-curves.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/financial-management/u6-current-assets-management/inventory-sawtooth-and-reorder-point.webp"
+  ]
+}

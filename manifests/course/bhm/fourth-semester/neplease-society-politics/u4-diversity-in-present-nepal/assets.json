@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:02.238Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bhm/fourth-semester/neplease-society-politics/u4-diversity-in-present-nepal",
+  "totalAssets": 4,
+  "assets": {
+    "cultural-and-religious-diversity-map.webp": {
+      "key": "course/bhm/fourth-semester/neplease-society-politics/u4-diversity-in-present-nepal/cultural-and-religious-diversity-map.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/neplease-society-politics/u4-diversity-in-present-nepal/cultural-and-religious-diversity-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 283664,
+      "contentHashed": false
+    },
+    "diversity-to-hospitality-value-path.webp": {
+      "key": "course/bhm/fourth-semester/neplease-society-politics/u4-diversity-in-present-nepal/diversity-to-hospitality-value-path.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/neplease-society-politics/u4-diversity-in-present-nepal/diversity-to-hospitality-value-path.webp",
+      "contentType": "image/webp",
+      "width": 2176,
+      "height": 723,
+      "bytes": 205842,
+      "contentHashed": false
+    },
+    "festival-calendar-of-nepal.webp": {
+      "key": "course/bhm/fourth-semester/neplease-society-politics/u4-diversity-in-present-nepal/festival-calendar-of-nepal.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/neplease-society-politics/u4-diversity-in-present-nepal/festival-calendar-of-nepal.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 215706,
+      "contentHashed": false
+    },
+    "religious-coexistence-scene.webp": {
+      "key": "course/bhm/fourth-semester/neplease-society-politics/u4-diversity-in-present-nepal/religious-coexistence-scene.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/neplease-society-politics/u4-diversity-in-present-nepal/religious-coexistence-scene.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 305768,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/neplease-society-politics/u4-diversity-in-present-nepal/cultural-and-religious-diversity-map.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/neplease-society-politics/u4-diversity-in-present-nepal/diversity-to-hospitality-value-path.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/neplease-society-politics/u4-diversity-in-present-nepal/festival-calendar-of-nepal.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/neplease-society-politics/u4-diversity-in-present-nepal/religious-coexistence-scene.webp"
+  ]
+}

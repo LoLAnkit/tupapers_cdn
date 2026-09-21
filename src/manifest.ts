@@ -7,7 +7,7 @@ import { MANIFEST_DIR, DIST_DIR, ROOT, MANIFEST_CACHE_CONTROL } from "./config.j
 // ---------------------------------------------------------------------------
 
 export interface AssetEntry {
-  /** Actual hashed R2 key. e.g. course/bca/.../file.7e8d3c41.webp */
+  /** Actual R2 key. */
   key: string;
   /** Pre-built full CDN URL — ready to drop into an <img src>. */
   url: string;
@@ -15,6 +15,8 @@ export interface AssetEntry {
   width?: number;
   height?: number;
   bytes: number;
+  /** True when the canonical source filename already contains a legacy content hash. */
+  contentHashed?: boolean;
 }
 
 /** Hierarchical manifest covering a single folder (e.g., chapter-1 or diagram folder). */
@@ -51,6 +53,23 @@ async function readJson<T>(filePath: string): Promise<T | null> {
   } catch {
     return null;
   }
+}
+
+/** Windows can briefly lock a generated JSON file; retry those transient writes. */
+async function writeJsonWithRetry(filePath: string, data: string): Promise<void> {
+  let lastError: unknown;
+  for (let attempt = 0; attempt < 4; attempt += 1) {
+    try {
+      await fs.writeFile(filePath, data, "utf8");
+      return;
+    } catch (error) {
+      lastError = error;
+      if (attempt < 3) {
+        await new Promise((resolve) => setTimeout(resolve, 150 * (attempt + 1)));
+      }
+    }
+  }
+  throw lastError;
 }
 
 /**
@@ -105,12 +124,12 @@ export async function writeFolderManifests(
     // 1. Write to manifests/<dirPath>/assets.json
     const manifestPath = path.join(MANIFEST_DIR, dirPath, "assets.json");
     await fs.mkdir(path.dirname(manifestPath), { recursive: true });
-    await fs.writeFile(manifestPath, jsonStr, "utf8");
+    await writeJsonWithRetry(manifestPath, jsonStr);
 
     // 2. Write to dist/<dirPath>/assets.json
     const distPath = path.join(DIST_DIR, dirPath, "assets.json");
     await fs.mkdir(path.dirname(distPath), { recursive: true });
-    await fs.writeFile(distPath, jsonStr, "utf8");
+    await writeJsonWithRetry(distPath, jsonStr);
 
     writtenFolders.push(dirPath);
   }
@@ -123,10 +142,7 @@ export async function writeFolderManifests(
  * if they exist from previous versions.
  */
 export async function cleanupLegacyManifests(): Promise<void> {
-  const legacyFiles = [
-    path.join(ROOT, "manifest.json"),
-    path.join(MANIFEST_DIR, "index.json"),
-  ];
+  const legacyFiles = [path.join(ROOT, "manifest.json"), path.join(MANIFEST_DIR, "index.json")];
 
   try {
     const files = await fs.readdir(MANIFEST_DIR);

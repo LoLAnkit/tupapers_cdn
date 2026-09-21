@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:02.148Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bhm/fourth-semester/food-beverage-mgt/u4-staffing-and-restaurant-etiquette",
+  "totalAssets": 3,
+  "assets": {
+    "european-and-american-dining-etiquette.webp": {
+      "key": "course/bhm/fourth-semester/food-beverage-mgt/u4-staffing-and-restaurant-etiquette/european-and-american-dining-etiquette.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/food-beverage-mgt/u4-staffing-and-restaurant-etiquette/european-and-american-dining-etiquette.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 163380,
+      "contentHashed": false
+    },
+    "restaurant-etiquette-and-body-language.webp": {
+      "key": "course/bhm/fourth-semester/food-beverage-mgt/u4-staffing-and-restaurant-etiquette/restaurant-etiquette-and-body-language.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/food-beverage-mgt/u4-staffing-and-restaurant-etiquette/restaurant-etiquette-and-body-language.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 448184,
+      "contentHashed": false
+    },
+    "sample-duty-roster.webp": {
+      "key": "course/bhm/fourth-semester/food-beverage-mgt/u4-staffing-and-restaurant-etiquette/sample-duty-roster.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/food-beverage-mgt/u4-staffing-and-restaurant-etiquette/sample-duty-roster.webp",
+      "contentType": "image/webp",
+      "width": 1918,
+      "height": 820,
+      "bytes": 155100,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/food-beverage-mgt/u4-staffing-and-restaurant-etiquette/european-and-american-dining-etiquette.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/food-beverage-mgt/u4-staffing-and-restaurant-etiquette/restaurant-etiquette-and-body-language.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/food-beverage-mgt/u4-staffing-and-restaurant-etiquette/sample-duty-roster.webp"
+  ]
+}

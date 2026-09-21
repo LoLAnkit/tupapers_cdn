@@ -1,38 +1,41 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.444Z",
+  "generatedAt": "2026-09-21T09:23:01.300Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bba/sixth-semester/e-commerce/e-commerce-marketing",
   "totalAssets": 3,
   "assets": {
     "email-marketing-campaing-funnel.webp": {
-      "key": "course/bba/sixth-semester/e-commerce/e-commerce-marketing/email-marketing-campaing-funnel.51b9dba4.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-marketing/email-marketing-campaing-funnel.51b9dba4.webp",
+      "key": "course/bba/sixth-semester/e-commerce/e-commerce-marketing/email-marketing-campaing-funnel.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-marketing/email-marketing-campaing-funnel.webp",
       "contentType": "image/webp",
       "width": 1122,
       "height": 1402,
-      "bytes": 786542
+      "bytes": 113916,
+      "contentHashed": false
     },
     "online-consumer-purchase-decision-process.webp": {
-      "key": "course/bba/sixth-semester/e-commerce/e-commerce-marketing/online-consumer-purchase-decision-process.e98c6b41.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-marketing/online-consumer-purchase-decision-process.e98c6b41.webp",
+      "key": "course/bba/sixth-semester/e-commerce/e-commerce-marketing/online-consumer-purchase-decision-process.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-marketing/online-consumer-purchase-decision-process.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 520984
+      "bytes": 118888,
+      "contentHashed": false
     },
     "search-engine-marketing-process.webp": {
-      "key": "course/bba/sixth-semester/e-commerce/e-commerce-marketing/search-engine-marketing-process.03bab5ed.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-marketing/search-engine-marketing-process.03bab5ed.webp",
+      "key": "course/bba/sixth-semester/e-commerce/e-commerce-marketing/search-engine-marketing-process.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-marketing/search-engine-marketing-process.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 491670
+      "bytes": 103890,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-marketing/email-marketing-campaing-funnel.51b9dba4.webp",
-    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-marketing/online-consumer-purchase-decision-process.e98c6b41.webp",
-    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-marketing/search-engine-marketing-process.03bab5ed.webp"
+    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-marketing/email-marketing-campaing-funnel.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-marketing/online-consumer-purchase-decision-process.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-marketing/search-engine-marketing-process.webp"
   ]
 }

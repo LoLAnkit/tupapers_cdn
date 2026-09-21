@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.471Z",
+  "generatedAt": "2026-09-21T09:23:01.320Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bba/sixth-semester/entrepreneurship/business-model",
   "totalAssets": 4,
   "assets": {
     "business-model-canvas.webp": {
-      "key": "course/bba/sixth-semester/entrepreneurship/business-model/business-model-canvas.b896754a.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/business-model/business-model-canvas.b896754a.webp",
+      "key": "course/bba/sixth-semester/entrepreneurship/business-model/business-model-canvas.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/business-model/business-model-canvas.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 673676
+      "bytes": 138048,
+      "contentHashed": false
     },
     "business-model-vs-lean-canvas.webp": {
-      "key": "course/bba/sixth-semester/entrepreneurship/business-model/business-model-vs-lean-canvas.bfe2a3d7.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/business-model/business-model-vs-lean-canvas.bfe2a3d7.webp",
+      "key": "course/bba/sixth-semester/entrepreneurship/business-model/business-model-vs-lean-canvas.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/business-model/business-model-vs-lean-canvas.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 598022
+      "bytes": 153914,
+      "contentHashed": false
     },
     "resource-visualization-techniques.webp": {
-      "key": "course/bba/sixth-semester/entrepreneurship/business-model/resource-visualization-techniques.0b57f82d.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/business-model/resource-visualization-techniques.0b57f82d.webp",
+      "key": "course/bba/sixth-semester/entrepreneurship/business-model/resource-visualization-techniques.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/business-model/resource-visualization-techniques.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 709744
+      "bytes": 147858,
+      "contentHashed": false
     },
     "strategies-for-resources-mapping.webp": {
-      "key": "course/bba/sixth-semester/entrepreneurship/business-model/strategies-for-resources-mapping.9b0d2a19.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/business-model/strategies-for-resources-mapping.9b0d2a19.webp",
+      "key": "course/bba/sixth-semester/entrepreneurship/business-model/strategies-for-resources-mapping.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/business-model/strategies-for-resources-mapping.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 609750
+      "bytes": 136006,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/business-model/business-model-canvas.b896754a.webp",
-    "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/business-model/business-model-vs-lean-canvas.bfe2a3d7.webp",
-    "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/business-model/resource-visualization-techniques.0b57f82d.webp",
-    "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/business-model/strategies-for-resources-mapping.9b0d2a19.webp"
+    "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/business-model/business-model-canvas.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/business-model/business-model-vs-lean-canvas.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/business-model/resource-visualization-techniques.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/entrepreneurship/business-model/strategies-for-resources-mapping.webp"
   ]
 }

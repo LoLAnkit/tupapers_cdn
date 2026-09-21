@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.421Z",
+  "generatedAt": "2026-09-21T09:23:02.443Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders",
   "totalAssets": 4,
   "assets": {
     "causes-of-substance-related-disorders.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/causes-of-substance-related-disorders.aa3695d1.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/causes-of-substance-related-disorders.aa3695d1.webp",
+      "key": "course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/causes-of-substance-related-disorders.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/causes-of-substance-related-disorders.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 623756
+      "bytes": 72168,
+      "contentHashed": false
     },
     "depressants-and-stimulants.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/depressants-and-stimulants.845fb3c2.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/depressants-and-stimulants.845fb3c2.webp",
+      "key": "course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/depressants-and-stimulants.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/depressants-and-stimulants.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 795340
+      "bytes": 109504,
+      "contentHashed": false
     },
     "substance-related-disorder-classes.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/substance-related-disorder-classes.ce8fe920.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/substance-related-disorder-classes.ce8fe920.webp",
+      "key": "course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/substance-related-disorder-classes.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/substance-related-disorder-classes.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 877994
+      "bytes": 135608,
+      "contentHashed": false
     },
     "substance-use-reinforcement-cycle.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/substance-use-reinforcement-cycle.67f704f9.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/substance-use-reinforcement-cycle.67f704f9.webp",
+      "key": "course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/substance-use-reinforcement-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/substance-use-reinforcement-cycle.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 827982
+      "bytes": 121886,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/causes-of-substance-related-disorders.aa3695d1.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/depressants-and-stimulants.845fb3c2.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/substance-related-disorder-classes.ce8fe920.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/substance-use-reinforcement-cycle.67f704f9.webp"
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/causes-of-substance-related-disorders.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/depressants-and-stimulants.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/substance-related-disorder-classes.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/substance-use-reinforcement-cycle.webp"
   ]
 }

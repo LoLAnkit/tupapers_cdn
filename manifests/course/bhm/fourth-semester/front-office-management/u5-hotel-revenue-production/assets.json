@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:02.191Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bhm/fourth-semester/front-office-management/u5-hotel-revenue-production",
+  "totalAssets": 3,
+  "assets": {
+    "credit-control-process.webp": {
+      "key": "course/bhm/fourth-semester/front-office-management/u5-hotel-revenue-production/credit-control-process.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u5-hotel-revenue-production/credit-control-process.webp",
+      "contentType": "image/webp",
+      "width": 1987,
+      "height": 791,
+      "bytes": 62190,
+      "contentHashed": false
+    },
+    "hotel-revenue-management-cycle.webp": {
+      "key": "course/bhm/fourth-semester/front-office-management/u5-hotel-revenue-production/hotel-revenue-management-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u5-hotel-revenue-production/hotel-revenue-management-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 98576,
+      "contentHashed": false
+    },
+    "large-hotel-revenue-organization.webp": {
+      "key": "course/bhm/fourth-semester/front-office-management/u5-hotel-revenue-production/large-hotel-revenue-organization.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u5-hotel-revenue-production/large-hotel-revenue-organization.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 92450,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u5-hotel-revenue-production/credit-control-process.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u5-hotel-revenue-production/hotel-revenue-management-cycle.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u5-hotel-revenue-production/large-hotel-revenue-organization.webp"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:02.631Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/csit/fourth-semester/computer-networking/u6-application-layer",
+  "totalAssets": 4,
+  "assets": {
+    "dns-name-resolution.webp": {
+      "key": "course/csit/fourth-semester/computer-networking/u6-application-layer/dns-name-resolution.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/computer-networking/u6-application-layer/dns-name-resolution.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 59036,
+      "contentHashed": false
+    },
+    "email-protocol-flow.webp": {
+      "key": "course/csit/fourth-semester/computer-networking/u6-application-layer/email-protocol-flow.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/computer-networking/u6-application-layer/email-protocol-flow.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 128978,
+      "contentHashed": false
+    },
+    "ftp-and-sftp-transfer-paths.webp": {
+      "key": "course/csit/fourth-semester/computer-networking/u6-application-layer/ftp-and-sftp-transfer-paths.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/computer-networking/u6-application-layer/ftp-and-sftp-transfer-paths.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 69270,
+      "contentHashed": false
+    },
+    "http-request-response-exchange.webp": {
+      "key": "course/csit/fourth-semester/computer-networking/u6-application-layer/http-request-response-exchange.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/computer-networking/u6-application-layer/http-request-response-exchange.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 77570,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/csit/fourth-semester/computer-networking/u6-application-layer/dns-name-resolution.webp",
+    "https://cdn.tupapers.com/course/csit/fourth-semester/computer-networking/u6-application-layer/email-protocol-flow.webp",
+    "https://cdn.tupapers.com/course/csit/fourth-semester/computer-networking/u6-application-layer/ftp-and-sftp-transfer-paths.webp",
+    "https://cdn.tupapers.com/course/csit/fourth-semester/computer-networking/u6-application-layer/http-request-response-exchange.webp"
+  ]
+}

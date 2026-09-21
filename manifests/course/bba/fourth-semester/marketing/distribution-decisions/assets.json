@@ -1,38 +1,41 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.307Z",
+  "generatedAt": "2026-09-21T09:23:01.171Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bba/fourth-semester/marketing/distribution-decisions",
   "totalAssets": 3,
   "assets": {
     "channel-design-for-consumer-vs-industrial-products.webp": {
-      "key": "course/bba/fourth-semester/marketing/distribution-decisions/channel-design-for-consumer-vs-industrial-products.2183c36c.webp",
-      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/distribution-decisions/channel-design-for-consumer-vs-industrial-products.2183c36c.webp",
+      "key": "course/bba/fourth-semester/marketing/distribution-decisions/channel-design-for-consumer-vs-industrial-products.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/distribution-decisions/channel-design-for-consumer-vs-industrial-products.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 432774
+      "bytes": 116896,
+      "contentHashed": false
     },
     "channel-selection-factors-infographic.webp": {
-      "key": "course/bba/fourth-semester/marketing/distribution-decisions/channel-selection-factors-infographic.090a2f7e.webp",
-      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/distribution-decisions/channel-selection-factors-infographic.090a2f7e.webp",
+      "key": "course/bba/fourth-semester/marketing/distribution-decisions/channel-selection-factors-infographic.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/distribution-decisions/channel-selection-factors-infographic.webp",
       "contentType": "image/webp",
       "width": 1402,
       "height": 1122,
-      "bytes": 494420
+      "bytes": 119218,
+      "contentHashed": false
     },
     "marketing-logistics-flowchart.webp": {
-      "key": "course/bba/fourth-semester/marketing/distribution-decisions/marketing-logistics-flowchart.0439e0aa.webp",
-      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/distribution-decisions/marketing-logistics-flowchart.0439e0aa.webp",
+      "key": "course/bba/fourth-semester/marketing/distribution-decisions/marketing-logistics-flowchart.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/distribution-decisions/marketing-logistics-flowchart.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 395852
+      "bytes": 81688,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/distribution-decisions/channel-design-for-consumer-vs-industrial-products.2183c36c.webp",
-    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/distribution-decisions/channel-selection-factors-infographic.090a2f7e.webp",
-    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/distribution-decisions/marketing-logistics-flowchart.0439e0aa.webp"
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/distribution-decisions/channel-design-for-consumer-vs-industrial-products.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/distribution-decisions/channel-selection-factors-infographic.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/distribution-decisions/marketing-logistics-flowchart.webp"
   ]
 }

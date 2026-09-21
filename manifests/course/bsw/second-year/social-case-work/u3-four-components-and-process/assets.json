@@ -1,29 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.512Z",
+  "generatedAt": "2026-09-21T09:23:02.499Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/second-year/social-case-work/u3-four-components-and-process",
   "totalAssets": 2,
   "assets": {
     "casework-process.webp": {
-      "key": "course/bsw/second-year/social-case-work/u3-four-components-and-process/casework-process.50c46694.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u3-four-components-and-process/casework-process.50c46694.webp",
+      "key": "course/bsw/second-year/social-case-work/u3-four-components-and-process/casework-process.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u3-four-components-and-process/casework-process.webp",
       "contentType": "image/webp",
       "width": 2172,
       "height": 724,
-      "bytes": 687694
+      "bytes": 70034,
+      "contentHashed": false
     },
     "four-components-of-case-work.webp": {
-      "key": "course/bsw/second-year/social-case-work/u3-four-components-and-process/four-components-of-case-work.e7e772ec.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u3-four-components-and-process/four-components-of-case-work.e7e772ec.webp",
+      "key": "course/bsw/second-year/social-case-work/u3-four-components-and-process/four-components-of-case-work.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u3-four-components-and-process/four-components-of-case-work.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 804400
+      "bytes": 88998,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u3-four-components-and-process/casework-process.50c46694.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u3-four-components-and-process/four-components-of-case-work.e7e772ec.webp"
+    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u3-four-components-and-process/casework-process.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u3-four-components-and-process/four-components-of-case-work.webp"
   ]
 }

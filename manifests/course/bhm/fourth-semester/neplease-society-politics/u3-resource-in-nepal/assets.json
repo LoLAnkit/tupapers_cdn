@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:02.235Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bhm/fourth-semester/neplease-society-politics/u3-resource-in-nepal",
+  "totalAssets": 4,
+  "assets": {
+    "altitude-vegetation-profile.webp": {
+      "key": "course/bhm/fourth-semester/neplease-society-politics/u3-resource-in-nepal/altitude-vegetation-profile.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/neplease-society-politics/u3-resource-in-nepal/altitude-vegetation-profile.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 291192,
+      "contentHashed": false
+    },
+    "biodiversity-conservation-network.webp": {
+      "key": "course/bhm/fourth-semester/neplease-society-politics/u3-resource-in-nepal/biodiversity-conservation-network.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/neplease-society-politics/u3-resource-in-nepal/biodiversity-conservation-network.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 253948,
+      "contentHashed": false
+    },
+    "natural-resource-system-of-nepal.webp": {
+      "key": "course/bhm/fourth-semester/neplease-society-politics/u3-resource-in-nepal/natural-resource-system-of-nepal.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/neplease-society-politics/u3-resource-in-nepal/natural-resource-system-of-nepal.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 346038,
+      "contentHashed": false
+    },
+    "river-systems-and-hospitality-opportunities.webp": {
+      "key": "course/bhm/fourth-semester/neplease-society-politics/u3-resource-in-nepal/river-systems-and-hospitality-opportunities.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/neplease-society-politics/u3-resource-in-nepal/river-systems-and-hospitality-opportunities.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 248074,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/neplease-society-politics/u3-resource-in-nepal/altitude-vegetation-profile.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/neplease-society-politics/u3-resource-in-nepal/biodiversity-conservation-network.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/neplease-society-politics/u3-resource-in-nepal/natural-resource-system-of-nepal.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/neplease-society-politics/u3-resource-in-nepal/river-systems-and-hospitality-opportunities.webp"
+  ]
+}

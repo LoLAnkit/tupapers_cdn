@@ -1,74 +1,81 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.556Z",
+  "generatedAt": "2026-09-21T09:23:01.533Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/fifth-semester/computer-networking/notes/visual-surface-and-cg-algorithm",
   "totalAssets": 7,
   "assets": {
     "back-face-removal.webp": {
-      "key": "course/bca/fifth-semester/computer-networking/notes/visual-surface-and-cg-algorithm/back-face-removal.9103fccf.webp",
-      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/visual-surface-and-cg-algorithm/back-face-removal.9103fccf.webp",
+      "key": "course/bca/fifth-semester/computer-networking/notes/visual-surface-and-cg-algorithm/back-face-removal.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/visual-surface-and-cg-algorithm/back-face-removal.webp",
       "contentType": "image/webp",
       "width": 1402,
       "height": 1122,
-      "bytes": 816298
+      "bytes": 123118,
+      "contentHashed": false
     },
     "image-vs-object-space-method.webp": {
-      "key": "course/bca/fifth-semester/computer-networking/notes/visual-surface-and-cg-algorithm/image-vs-object-space-method.26b73dd3.webp",
-      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/visual-surface-and-cg-algorithm/image-vs-object-space-method.26b73dd3.webp",
+      "key": "course/bca/fifth-semester/computer-networking/notes/visual-surface-and-cg-algorithm/image-vs-object-space-method.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/visual-surface-and-cg-algorithm/image-vs-object-space-method.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 847840
+      "bytes": 160986,
+      "contentHashed": false
     },
     "light-and-color-models.webp": {
-      "key": "course/bca/fifth-semester/computer-networking/notes/visual-surface-and-cg-algorithm/light-and-color-models.8dd2327e.webp",
-      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/visual-surface-and-cg-algorithm/light-and-color-models.8dd2327e.webp",
+      "key": "course/bca/fifth-semester/computer-networking/notes/visual-surface-and-cg-algorithm/light-and-color-models.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/visual-surface-and-cg-algorithm/light-and-color-models.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 1241340
+      "bytes": 161166,
+      "contentHashed": false
     },
     "painters-algo-vs-zbuffer.webp": {
-      "key": "course/bca/fifth-semester/computer-networking/notes/visual-surface-and-cg-algorithm/painters-algo-vs-zbuffer.c8f8b5a5.webp",
-      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/visual-surface-and-cg-algorithm/painters-algo-vs-zbuffer.c8f8b5a5.webp",
+      "key": "course/bca/fifth-semester/computer-networking/notes/visual-surface-and-cg-algorithm/painters-algo-vs-zbuffer.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/visual-surface-and-cg-algorithm/painters-algo-vs-zbuffer.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 856246
+      "bytes": 138174,
+      "contentHashed": false
     },
     "scan-line-hidden-surface-removal-diagram.webp": {
-      "key": "course/bca/fifth-semester/computer-networking/notes/visual-surface-and-cg-algorithm/scan-line-hidden-surface-removal-diagram.5d3cd2fc.webp",
-      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/visual-surface-and-cg-algorithm/scan-line-hidden-surface-removal-diagram.5d3cd2fc.webp",
+      "key": "course/bca/fifth-semester/computer-networking/notes/visual-surface-and-cg-algorithm/scan-line-hidden-surface-removal-diagram.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/visual-surface-and-cg-algorithm/scan-line-hidden-surface-removal-diagram.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 785324
+      "bytes": 127786,
+      "contentHashed": false
     },
     "z-buffer-algorithm.webp": {
-      "key": "course/bca/fifth-semester/computer-networking/notes/visual-surface-and-cg-algorithm/z-buffer-algorithm.e9fc93dd.webp",
-      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/visual-surface-and-cg-algorithm/z-buffer-algorithm.e9fc93dd.webp",
+      "key": "course/bca/fifth-semester/computer-networking/notes/visual-surface-and-cg-algorithm/z-buffer-algorithm.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/visual-surface-and-cg-algorithm/z-buffer-algorithm.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 833320
+      "bytes": 151972,
+      "contentHashed": false
     },
     "z-buffer-depth-testing.webp": {
-      "key": "course/bca/fifth-semester/computer-networking/notes/visual-surface-and-cg-algorithm/z-buffer-depth-testing.89caa7a8.webp",
-      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/visual-surface-and-cg-algorithm/z-buffer-depth-testing.89caa7a8.webp",
+      "key": "course/bca/fifth-semester/computer-networking/notes/visual-surface-and-cg-algorithm/z-buffer-depth-testing.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/visual-surface-and-cg-algorithm/z-buffer-depth-testing.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 1263582
+      "bytes": 180374,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/visual-surface-and-cg-algorithm/back-face-removal.9103fccf.webp",
-    "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/visual-surface-and-cg-algorithm/image-vs-object-space-method.26b73dd3.webp",
-    "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/visual-surface-and-cg-algorithm/light-and-color-models.8dd2327e.webp",
-    "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/visual-surface-and-cg-algorithm/painters-algo-vs-zbuffer.c8f8b5a5.webp",
-    "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/visual-surface-and-cg-algorithm/scan-line-hidden-surface-removal-diagram.5d3cd2fc.webp",
-    "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/visual-surface-and-cg-algorithm/z-buffer-algorithm.e9fc93dd.webp",
-    "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/visual-surface-and-cg-algorithm/z-buffer-depth-testing.89caa7a8.webp"
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/visual-surface-and-cg-algorithm/back-face-removal.webp",
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/visual-surface-and-cg-algorithm/image-vs-object-space-method.webp",
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/visual-surface-and-cg-algorithm/light-and-color-models.webp",
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/visual-surface-and-cg-algorithm/painters-algo-vs-zbuffer.webp",
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/visual-surface-and-cg-algorithm/scan-line-hidden-surface-removal-diagram.webp",
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/visual-surface-and-cg-algorithm/z-buffer-algorithm.webp",
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computer-networking/notes/visual-surface-and-cg-algorithm/z-buffer-depth-testing.webp"
   ]
 }

@@ -1,38 +1,41 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.758Z",
+  "generatedAt": "2026-09-21T09:23:02.742Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/csit/third-semester/computer-graphics/u10-introduction-to-opengl",
   "totalAssets": 3,
   "assets": {
     "opengl-callback-event-loop.webp": {
-      "key": "course/csit/third-semester/computer-graphics/u10-introduction-to-opengl/opengl-callback-event-loop.2140531d.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u10-introduction-to-opengl/opengl-callback-event-loop.2140531d.webp",
+      "key": "course/csit/third-semester/computer-graphics/u10-introduction-to-opengl/opengl-callback-event-loop.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u10-introduction-to-opengl/opengl-callback-event-loop.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 735824
+      "bytes": 83918,
+      "contentHashed": false
     },
     "opengl-color-state.webp": {
-      "key": "course/csit/third-semester/computer-graphics/u10-introduction-to-opengl/opengl-color-state.79c58494.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u10-introduction-to-opengl/opengl-color-state.79c58494.webp",
+      "key": "course/csit/third-semester/computer-graphics/u10-introduction-to-opengl/opengl-color-state.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u10-introduction-to-opengl/opengl-color-state.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 736814
+      "bytes": 93040,
+      "contentHashed": false
     },
     "opengl-primitive-drawing.webp": {
-      "key": "course/csit/third-semester/computer-graphics/u10-introduction-to-opengl/opengl-primitive-drawing.8107470c.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u10-introduction-to-opengl/opengl-primitive-drawing.8107470c.webp",
+      "key": "course/csit/third-semester/computer-graphics/u10-introduction-to-opengl/opengl-primitive-drawing.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u10-introduction-to-opengl/opengl-primitive-drawing.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 703200
+      "bytes": 61540,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u10-introduction-to-opengl/opengl-callback-event-loop.2140531d.webp",
-    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u10-introduction-to-opengl/opengl-color-state.79c58494.webp",
-    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u10-introduction-to-opengl/opengl-primitive-drawing.8107470c.webp"
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u10-introduction-to-opengl/opengl-callback-event-loop.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u10-introduction-to-opengl/opengl-color-state.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u10-introduction-to-opengl/opengl-primitive-drawing.webp"
   ]
 }

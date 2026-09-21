@@ -1,56 +1,61 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.731Z",
+  "generatedAt": "2026-09-21T09:23:01.918Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/seventh-semester/cyber-law/u2-cyberattacks-cybersecurity-and-cyber-law",
   "totalAssets": 5,
   "assets": {
     "cia-security-triad-and-implementation-levels.webp": {
-      "key": "course/bca/seventh-semester/cyber-law/u2-cyberattacks-cybersecurity-and-cyber-law/cia-security-triad-and-implementation-levels.428ac007.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u2-cyberattacks-cybersecurity-and-cyber-law/cia-security-triad-and-implementation-levels.428ac007.webp",
+      "key": "course/bca/seventh-semester/cyber-law/u2-cyberattacks-cybersecurity-and-cyber-law/cia-security-triad-and-implementation-levels.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u2-cyberattacks-cybersecurity-and-cyber-law/cia-security-triad-and-implementation-levels.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 426070
+      "bytes": 68206,
+      "contentHashed": false
     },
     "computer-forensics-evidence-flow.webp": {
-      "key": "course/bca/seventh-semester/cyber-law/u2-cyberattacks-cybersecurity-and-cyber-law/computer-forensics-evidence-flow.5ab4b1eb.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u2-cyberattacks-cybersecurity-and-cyber-law/computer-forensics-evidence-flow.5ab4b1eb.webp",
+      "key": "course/bca/seventh-semester/cyber-law/u2-cyberattacks-cybersecurity-and-cyber-law/computer-forensics-evidence-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u2-cyberattacks-cybersecurity-and-cyber-law/computer-forensics-evidence-flow.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 418368
+      "bytes": 104006,
+      "contentHashed": false
     },
     "cyberattack-incident-response-lifecycle.webp": {
-      "key": "course/bca/seventh-semester/cyber-law/u2-cyberattacks-cybersecurity-and-cyber-law/cyberattack-incident-response-lifecycle.e8609d88.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u2-cyberattacks-cybersecurity-and-cyber-law/cyberattack-incident-response-lifecycle.e8609d88.webp",
+      "key": "course/bca/seventh-semester/cyber-law/u2-cyberattacks-cybersecurity-and-cyber-law/cyberattack-incident-response-lifecycle.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u2-cyberattacks-cybersecurity-and-cyber-law/cyberattack-incident-response-lifecycle.webp",
       "contentType": "image/webp",
       "width": 1402,
       "height": 1122,
-      "bytes": 391634
+      "bytes": 82948,
+      "contentHashed": false
     },
     "digital-signature-creation-and-verification.webp": {
-      "key": "course/bca/seventh-semester/cyber-law/u2-cyberattacks-cybersecurity-and-cyber-law/digital-signature-creation-and-verification.31f800d3.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u2-cyberattacks-cybersecurity-and-cyber-law/digital-signature-creation-and-verification.31f800d3.webp",
+      "key": "course/bca/seventh-semester/cyber-law/u2-cyberattacks-cybersecurity-and-cyber-law/digital-signature-creation-and-verification.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u2-cyberattacks-cybersecurity-and-cyber-law/digital-signature-creation-and-verification.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 365888
+      "bytes": 79384,
+      "contentHashed": false
     },
     "intrusion-detection-placement.webp": {
-      "key": "course/bca/seventh-semester/cyber-law/u2-cyberattacks-cybersecurity-and-cyber-law/intrusion-detection-placement.80b86e3c.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u2-cyberattacks-cybersecurity-and-cyber-law/intrusion-detection-placement.80b86e3c.webp",
+      "key": "course/bca/seventh-semester/cyber-law/u2-cyberattacks-cybersecurity-and-cyber-law/intrusion-detection-placement.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u2-cyberattacks-cybersecurity-and-cyber-law/intrusion-detection-placement.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 336074
+      "bytes": 64132,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u2-cyberattacks-cybersecurity-and-cyber-law/cia-security-triad-and-implementation-levels.428ac007.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u2-cyberattacks-cybersecurity-and-cyber-law/computer-forensics-evidence-flow.5ab4b1eb.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u2-cyberattacks-cybersecurity-and-cyber-law/cyberattack-incident-response-lifecycle.e8609d88.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u2-cyberattacks-cybersecurity-and-cyber-law/digital-signature-creation-and-verification.31f800d3.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u2-cyberattacks-cybersecurity-and-cyber-law/intrusion-detection-placement.80b86e3c.webp"
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u2-cyberattacks-cybersecurity-and-cyber-law/cia-security-triad-and-implementation-levels.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u2-cyberattacks-cybersecurity-and-cyber-law/computer-forensics-evidence-flow.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u2-cyberattacks-cybersecurity-and-cyber-law/cyberattack-incident-response-lifecycle.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u2-cyberattacks-cybersecurity-and-cyber-law/digital-signature-creation-and-verification.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u2-cyberattacks-cybersecurity-and-cyber-law/intrusion-detection-placement.webp"
   ]
 }

@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:02.659Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/csit/fourth-semester/dbms/u8-introduction-to-transaction-processing-concepts-and-theory",
+  "totalAssets": 3,
+  "assets": {
+    "acid-properties.webp": {
+      "key": "course/csit/fourth-semester/dbms/u8-introduction-to-transaction-processing-concepts-and-theory/acid-properties.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/dbms/u8-introduction-to-transaction-processing-concepts-and-theory/acid-properties.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 203192,
+      "contentHashed": false
+    },
+    "serial-vs-concurrent-schedule.webp": {
+      "key": "course/csit/fourth-semester/dbms/u8-introduction-to-transaction-processing-concepts-and-theory/serial-vs-concurrent-schedule.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/dbms/u8-introduction-to-transaction-processing-concepts-and-theory/serial-vs-concurrent-schedule.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 75390,
+      "contentHashed": false
+    },
+    "transaction-state-diagram.webp": {
+      "key": "course/csit/fourth-semester/dbms/u8-introduction-to-transaction-processing-concepts-and-theory/transaction-state-diagram.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/dbms/u8-introduction-to-transaction-processing-concepts-and-theory/transaction-state-diagram.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 73816,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/csit/fourth-semester/dbms/u8-introduction-to-transaction-processing-concepts-and-theory/acid-properties.webp",
+    "https://cdn.tupapers.com/course/csit/fourth-semester/dbms/u8-introduction-to-transaction-processing-concepts-and-theory/serial-vs-concurrent-schedule.webp",
+    "https://cdn.tupapers.com/course/csit/fourth-semester/dbms/u8-introduction-to-transaction-processing-concepts-and-theory/transaction-state-diagram.webp"
+  ]
+}

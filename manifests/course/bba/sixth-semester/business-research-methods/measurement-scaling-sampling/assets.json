@@ -1,56 +1,61 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.415Z",
+  "generatedAt": "2026-09-21T09:23:01.273Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bba/sixth-semester/business-research-methods/measurement-scaling-sampling",
   "totalAssets": 5,
   "assets": {
     "5-point-likert-scale.webp": {
-      "key": "course/bba/sixth-semester/business-research-methods/measurement-scaling-sampling/5-point-likert-scale.aa5abe55.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/measurement-scaling-sampling/5-point-likert-scale.aa5abe55.webp",
+      "key": "course/bba/sixth-semester/business-research-methods/measurement-scaling-sampling/5-point-likert-scale.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/measurement-scaling-sampling/5-point-likert-scale.webp",
       "contentType": "image/webp",
       "width": 814,
       "height": 362,
-      "bytes": 121022
+      "bytes": 17222,
+      "contentHashed": false
     },
     "measurement-scale-hierarchy.webp": {
-      "key": "course/bba/sixth-semester/business-research-methods/measurement-scaling-sampling/measurement-scale-hierarchy.35b794bc.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/measurement-scaling-sampling/measurement-scale-hierarchy.35b794bc.webp",
+      "key": "course/bba/sixth-semester/business-research-methods/measurement-scaling-sampling/measurement-scale-hierarchy.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/measurement-scaling-sampling/measurement-scale-hierarchy.webp",
       "contentType": "image/webp",
       "width": 827,
       "height": 661,
-      "bytes": 274230
+      "bytes": 44380,
+      "contentHashed": false
     },
     "sampling-method-tree.webp": {
-      "key": "course/bba/sixth-semester/business-research-methods/measurement-scaling-sampling/sampling-method-tree.dad78f90.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/measurement-scaling-sampling/sampling-method-tree.dad78f90.webp",
+      "key": "course/bba/sixth-semester/business-research-methods/measurement-scaling-sampling/sampling-method-tree.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/measurement-scaling-sampling/sampling-method-tree.webp",
       "contentType": "image/webp",
       "width": 992,
       "height": 649,
-      "bytes": 289306
+      "bytes": 45052,
+      "contentHashed": false
     },
     "semantic-differential-scale-example.webp": {
-      "key": "course/bba/sixth-semester/business-research-methods/measurement-scaling-sampling/semantic-differential-scale-example.195b8724.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/measurement-scaling-sampling/semantic-differential-scale-example.195b8724.webp",
+      "key": "course/bba/sixth-semester/business-research-methods/measurement-scaling-sampling/semantic-differential-scale-example.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/measurement-scaling-sampling/semantic-differential-scale-example.webp",
       "contentType": "image/webp",
       "width": 794,
       "height": 375,
-      "bytes": 142250
+      "bytes": 22652,
+      "contentHashed": false
     },
     "variable-type-diagram.webp": {
-      "key": "course/bba/sixth-semester/business-research-methods/measurement-scaling-sampling/variable-type-diagram.b500ce9e.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/measurement-scaling-sampling/variable-type-diagram.b500ce9e.webp",
+      "key": "course/bba/sixth-semester/business-research-methods/measurement-scaling-sampling/variable-type-diagram.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/measurement-scaling-sampling/variable-type-diagram.webp",
       "contentType": "image/webp",
       "width": 882,
       "height": 668,
-      "bytes": 269744
+      "bytes": 35508,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/measurement-scaling-sampling/5-point-likert-scale.aa5abe55.webp",
-    "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/measurement-scaling-sampling/measurement-scale-hierarchy.35b794bc.webp",
-    "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/measurement-scaling-sampling/sampling-method-tree.dad78f90.webp",
-    "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/measurement-scaling-sampling/semantic-differential-scale-example.195b8724.webp",
-    "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/measurement-scaling-sampling/variable-type-diagram.b500ce9e.webp"
+    "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/measurement-scaling-sampling/5-point-likert-scale.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/measurement-scaling-sampling/measurement-scale-hierarchy.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/measurement-scaling-sampling/sampling-method-tree.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/measurement-scaling-sampling/semantic-differential-scale-example.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/measurement-scaling-sampling/variable-type-diagram.webp"
   ]
 }

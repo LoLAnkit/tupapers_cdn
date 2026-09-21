@@ -1,56 +1,61 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.664Z",
+  "generatedAt": "2026-09-21T09:23:02.689Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/csit/second-semester/micro-processor/u1-introduction",
   "totalAssets": 5,
   "assets": {
     "address-data-and-control-buses.webp": {
-      "key": "course/csit/second-semester/micro-processor/u1-introduction/address-data-and-control-buses.d70a2658.webp",
-      "url": "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u1-introduction/address-data-and-control-buses.d70a2658.webp",
+      "key": "course/csit/second-semester/micro-processor/u1-introduction/address-data-and-control-buses.webp",
+      "url": "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u1-introduction/address-data-and-control-buses.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 1064516
+      "bytes": 155170,
+      "contentHashed": false
     },
     "components-of-a-microprocessor.webp": {
-      "key": "course/csit/second-semester/micro-processor/u1-introduction/components-of-a-microprocessor.6e9e3de0.webp",
-      "url": "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u1-introduction/components-of-a-microprocessor.6e9e3de0.webp",
+      "key": "course/csit/second-semester/micro-processor/u1-introduction/components-of-a-microprocessor.webp",
+      "url": "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u1-introduction/components-of-a-microprocessor.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 874366
+      "bytes": 95760,
+      "contentHashed": false
     },
     "control-and-timing-coordination.webp": {
-      "key": "course/csit/second-semester/micro-processor/u1-introduction/control-and-timing-coordination.44273d48.webp",
-      "url": "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u1-introduction/control-and-timing-coordination.44273d48.webp",
+      "key": "course/csit/second-semester/micro-processor/u1-introduction/control-and-timing-coordination.webp",
+      "url": "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u1-introduction/control-and-timing-coordination.webp",
       "contentType": "image/webp",
       "width": 1223,
       "height": 1286,
-      "bytes": 778774
+      "bytes": 118688,
+      "contentHashed": false
     },
     "microprocessor-bus-organization.webp": {
-      "key": "course/csit/second-semester/micro-processor/u1-introduction/microprocessor-bus-organization.f90d75b6.webp",
-      "url": "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u1-introduction/microprocessor-bus-organization.f90d75b6.webp",
+      "key": "course/csit/second-semester/micro-processor/u1-introduction/microprocessor-bus-organization.webp",
+      "url": "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u1-introduction/microprocessor-bus-organization.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 794800
+      "bytes": 114052,
+      "contentHashed": false
     },
     "microprocessor-system-overview.webp": {
-      "key": "course/csit/second-semester/micro-processor/u1-introduction/microprocessor-system-overview.4c33ef71.webp",
-      "url": "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u1-introduction/microprocessor-system-overview.4c33ef71.webp",
+      "key": "course/csit/second-semester/micro-processor/u1-introduction/microprocessor-system-overview.webp",
+      "url": "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u1-introduction/microprocessor-system-overview.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 732526
+      "bytes": 81946,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u1-introduction/address-data-and-control-buses.d70a2658.webp",
-    "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u1-introduction/components-of-a-microprocessor.6e9e3de0.webp",
-    "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u1-introduction/control-and-timing-coordination.44273d48.webp",
-    "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u1-introduction/microprocessor-bus-organization.f90d75b6.webp",
-    "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u1-introduction/microprocessor-system-overview.4c33ef71.webp"
+    "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u1-introduction/address-data-and-control-buses.webp",
+    "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u1-introduction/components-of-a-microprocessor.webp",
+    "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u1-introduction/control-and-timing-coordination.webp",
+    "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u1-introduction/microprocessor-bus-organization.webp",
+    "https://cdn.tupapers.com/course/csit/second-semester/micro-processor/u1-introduction/microprocessor-system-overview.webp"
   ]
 }

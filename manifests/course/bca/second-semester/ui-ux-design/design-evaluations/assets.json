@@ -1,56 +1,61 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.646Z",
+  "generatedAt": "2026-09-21T09:23:01.836Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/second-semester/ui-ux-design/design-evaluations",
   "totalAssets": 5,
   "assets": {
     "decide-framework.webp": {
-      "key": "course/bca/second-semester/ui-ux-design/design-evaluations/decide-framework.36488ca5.webp",
-      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/design-evaluations/decide-framework.36488ca5.webp",
+      "key": "course/bca/second-semester/ui-ux-design/design-evaluations/decide-framework.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/design-evaluations/decide-framework.webp",
       "contentType": "image/webp",
       "width": 1024,
       "height": 1536,
-      "bytes": 459970
+      "bytes": 90660,
+      "contentHashed": false
     },
     "formative-vs-simulative-design.webp": {
-      "key": "course/bca/second-semester/ui-ux-design/design-evaluations/formative-vs-simulative-design.53b8758c.webp",
-      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/design-evaluations/formative-vs-simulative-design.53b8758c.webp",
+      "key": "course/bca/second-semester/ui-ux-design/design-evaluations/formative-vs-simulative-design.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/design-evaluations/formative-vs-simulative-design.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 507560
+      "bytes": 103216,
+      "contentHashed": false
     },
     "moderated-vs-unmoderated-testing.webp": {
-      "key": "course/bca/second-semester/ui-ux-design/design-evaluations/moderated-vs-unmoderated-testing.1379881a.webp",
-      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/design-evaluations/moderated-vs-unmoderated-testing.1379881a.webp",
+      "key": "course/bca/second-semester/ui-ux-design/design-evaluations/moderated-vs-unmoderated-testing.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/design-evaluations/moderated-vs-unmoderated-testing.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 509040
+      "bytes": 102776,
+      "contentHashed": false
     },
     "nielsens-10-using-heuristics.webp": {
-      "key": "course/bca/second-semester/ui-ux-design/design-evaluations/nielsens-10-using-heuristics.ed28f93a.webp",
-      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/design-evaluations/nielsens-10-using-heuristics.ed28f93a.webp",
+      "key": "course/bca/second-semester/ui-ux-design/design-evaluations/nielsens-10-using-heuristics.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/design-evaluations/nielsens-10-using-heuristics.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 557352
+      "bytes": 112610,
+      "contentHashed": false
     },
     "performance-matrix.webp": {
-      "key": "course/bca/second-semester/ui-ux-design/design-evaluations/performance-matrix.d2d77b8f.webp",
-      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/design-evaluations/performance-matrix.d2d77b8f.webp",
+      "key": "course/bca/second-semester/ui-ux-design/design-evaluations/performance-matrix.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/design-evaluations/performance-matrix.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 471646
+      "bytes": 95918,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/design-evaluations/decide-framework.36488ca5.webp",
-    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/design-evaluations/formative-vs-simulative-design.53b8758c.webp",
-    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/design-evaluations/moderated-vs-unmoderated-testing.1379881a.webp",
-    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/design-evaluations/nielsens-10-using-heuristics.ed28f93a.webp",
-    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/design-evaluations/performance-matrix.d2d77b8f.webp"
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/design-evaluations/decide-framework.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/design-evaluations/formative-vs-simulative-design.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/design-evaluations/moderated-vs-unmoderated-testing.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/design-evaluations/nielsens-10-using-heuristics.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/design-evaluations/performance-matrix.webp"
   ]
 }

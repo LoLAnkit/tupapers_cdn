@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.676Z",
+  "generatedAt": "2026-09-21T09:23:01.866Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/seventh-semester/artifical-intelligence/u1-introduction",
   "totalAssets": 4,
   "assets": {
     "intelligent-agent-interaction-loop.webp": {
-      "key": "course/bca/seventh-semester/artifical-intelligence/u1-introduction/intelligent-agent-interaction-loop.2b1b4c12.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u1-introduction/intelligent-agent-interaction-loop.2b1b4c12.webp",
+      "key": "course/bca/seventh-semester/artifical-intelligence/u1-introduction/intelligent-agent-interaction-loop.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u1-introduction/intelligent-agent-interaction-loop.webp",
       "contentType": "image/webp",
       "width": 1254,
       "height": 1254,
-      "bytes": 805020
+      "bytes": 62066,
+      "contentHashed": false
     },
     "intelligent-agent-types.webp": {
-      "key": "course/bca/seventh-semester/artifical-intelligence/u1-introduction/intelligent-agent-types.69158e9b.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u1-introduction/intelligent-agent-types.69158e9b.webp",
+      "key": "course/bca/seventh-semester/artifical-intelligence/u1-introduction/intelligent-agent-types.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u1-introduction/intelligent-agent-types.webp",
       "contentType": "image/webp",
       "width": 1024,
       "height": 1536,
-      "bytes": 755236
+      "bytes": 102666,
+      "contentHashed": false
     },
     "peas-framework.webp": {
-      "key": "course/bca/seventh-semester/artifical-intelligence/u1-introduction/peas-framework.3d4715c4.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u1-introduction/peas-framework.3d4715c4.webp",
+      "key": "course/bca/seventh-semester/artifical-intelligence/u1-introduction/peas-framework.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u1-introduction/peas-framework.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 751712
+      "bytes": 79620,
+      "contentHashed": false
     },
     "turing-test-setup.webp": {
-      "key": "course/bca/seventh-semester/artifical-intelligence/u1-introduction/turing-test-setup.30045e12.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u1-introduction/turing-test-setup.30045e12.webp",
+      "key": "course/bca/seventh-semester/artifical-intelligence/u1-introduction/turing-test-setup.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u1-introduction/turing-test-setup.webp",
       "contentType": "image/webp",
       "width": 1402,
       "height": 1122,
-      "bytes": 781954
+      "bytes": 78466,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u1-introduction/intelligent-agent-interaction-loop.2b1b4c12.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u1-introduction/intelligent-agent-types.69158e9b.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u1-introduction/peas-framework.3d4715c4.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u1-introduction/turing-test-setup.30045e12.webp"
+    "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u1-introduction/intelligent-agent-interaction-loop.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u1-introduction/intelligent-agent-types.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u1-introduction/peas-framework.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u1-introduction/turing-test-setup.webp"
   ]
 }

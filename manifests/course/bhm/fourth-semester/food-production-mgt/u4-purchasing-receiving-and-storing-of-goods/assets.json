@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:02.164Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bhm/fourth-semester/food-production-mgt/u4-purchasing-receiving-and-storing-of-goods",
+  "totalAssets": 4,
+  "assets": {
+    "goods-movement-from-purchase-to-store.webp": {
+      "key": "course/bhm/fourth-semester/food-production-mgt/u4-purchasing-receiving-and-storing-of-goods/goods-movement-from-purchase-to-store.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u4-purchasing-receiving-and-storing-of-goods/goods-movement-from-purchase-to-store.webp",
+      "contentType": "image/webp",
+      "width": 1983,
+      "height": 793,
+      "bytes": 76584,
+      "contentHashed": false
+    },
+    "inventory-control-cycle.webp": {
+      "key": "course/bhm/fourth-semester/food-production-mgt/u4-purchasing-receiving-and-storing-of-goods/inventory-control-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u4-purchasing-receiving-and-storing-of-goods/inventory-control-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 111212,
+      "contentHashed": false
+    },
+    "receiving-and-issuing-checkpoints.webp": {
+      "key": "course/bhm/fourth-semester/food-production-mgt/u4-purchasing-receiving-and-storing-of-goods/receiving-and-issuing-checkpoints.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u4-purchasing-receiving-and-storing-of-goods/receiving-and-issuing-checkpoints.webp",
+      "contentType": "image/webp",
+      "width": 1916,
+      "height": 821,
+      "bytes": 93142,
+      "contentHashed": false
+    },
+    "storage-accommodation-layout.webp": {
+      "key": "course/bhm/fourth-semester/food-production-mgt/u4-purchasing-receiving-and-storing-of-goods/storage-accommodation-layout.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u4-purchasing-receiving-and-storing-of-goods/storage-accommodation-layout.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 159738,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u4-purchasing-receiving-and-storing-of-goods/goods-movement-from-purchase-to-store.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u4-purchasing-receiving-and-storing-of-goods/inventory-control-cycle.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u4-purchasing-receiving-and-storing-of-goods/receiving-and-issuing-checkpoints.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u4-purchasing-receiving-and-storing-of-goods/storage-accommodation-layout.webp"
+  ]
+}

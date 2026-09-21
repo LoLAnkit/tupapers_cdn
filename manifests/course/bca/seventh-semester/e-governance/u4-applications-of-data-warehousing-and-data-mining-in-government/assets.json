@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.796Z",
+  "generatedAt": "2026-09-21T09:23:01.975Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/seventh-semester/e-governance/u4-applications-of-data-warehousing-and-data-mining-in-government",
   "totalAssets": 4,
   "assets": {
     "census-data-warehousing-pipeline.webp": {
-      "key": "course/bca/seventh-semester/e-governance/u4-applications-of-data-warehousing-and-data-mining-in-government/census-data-warehousing-pipeline.b6c321b5.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u4-applications-of-data-warehousing-and-data-mining-in-government/census-data-warehousing-pipeline.b6c321b5.webp",
+      "key": "course/bca/seventh-semester/e-governance/u4-applications-of-data-warehousing-and-data-mining-in-government/census-data-warehousing-pipeline.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u4-applications-of-data-warehousing-and-data-mining-in-government/census-data-warehousing-pipeline.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 516366
+      "bytes": 94316,
+      "contentHashed": false
     },
     "data-warehousing-and-mining-in-agriculture.webp": {
-      "key": "course/bca/seventh-semester/e-governance/u4-applications-of-data-warehousing-and-data-mining-in-government/data-warehousing-and-mining-in-agriculture.6f7cc5b4.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u4-applications-of-data-warehousing-and-data-mining-in-government/data-warehousing-and-mining-in-agriculture.6f7cc5b4.webp",
+      "key": "course/bca/seventh-semester/e-governance/u4-applications-of-data-warehousing-and-data-mining-in-government/data-warehousing-and-mining-in-agriculture.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u4-applications-of-data-warehousing-and-data-mining-in-government/data-warehousing-and-mining-in-agriculture.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 451288
+      "bytes": 89718,
+      "contentHashed": false
     },
     "essential-commodity-price-analytics.webp": {
-      "key": "course/bca/seventh-semester/e-governance/u4-applications-of-data-warehousing-and-data-mining-in-government/essential-commodity-price-analytics.cefc8dce.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u4-applications-of-data-warehousing-and-data-mining-in-government/essential-commodity-price-analytics.cefc8dce.webp",
+      "key": "course/bca/seventh-semester/e-governance/u4-applications-of-data-warehousing-and-data-mining-in-government/essential-commodity-price-analytics.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u4-applications-of-data-warehousing-and-data-mining-in-government/essential-commodity-price-analytics.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 518324
+      "bytes": 97132,
+      "contentHashed": false
     },
     "government-data-warehouse-and-data-mining-architecture.webp": {
-      "key": "course/bca/seventh-semester/e-governance/u4-applications-of-data-warehousing-and-data-mining-in-government/government-data-warehouse-and-data-mining-architecture.fc1d4fe6.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u4-applications-of-data-warehousing-and-data-mining-in-government/government-data-warehouse-and-data-mining-architecture.fc1d4fe6.webp",
+      "key": "course/bca/seventh-semester/e-governance/u4-applications-of-data-warehousing-and-data-mining-in-government/government-data-warehouse-and-data-mining-architecture.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u4-applications-of-data-warehousing-and-data-mining-in-government/government-data-warehouse-and-data-mining-architecture.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 396600
+      "bytes": 74284,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u4-applications-of-data-warehousing-and-data-mining-in-government/census-data-warehousing-pipeline.b6c321b5.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u4-applications-of-data-warehousing-and-data-mining-in-government/data-warehousing-and-mining-in-agriculture.6f7cc5b4.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u4-applications-of-data-warehousing-and-data-mining-in-government/essential-commodity-price-analytics.cefc8dce.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u4-applications-of-data-warehousing-and-data-mining-in-government/government-data-warehouse-and-data-mining-architecture.fc1d4fe6.webp"
+    "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u4-applications-of-data-warehousing-and-data-mining-in-government/census-data-warehousing-pipeline.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u4-applications-of-data-warehousing-and-data-mining-in-government/data-warehousing-and-mining-in-agriculture.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u4-applications-of-data-warehousing-and-data-mining-in-government/essential-commodity-price-analytics.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/e-governance/u4-applications-of-data-warehousing-and-data-mining-in-government/government-data-warehouse-and-data-mining-architecture.webp"
   ]
 }

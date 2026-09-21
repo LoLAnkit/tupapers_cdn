@@ -1,38 +1,41 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.295Z",
+  "generatedAt": "2026-09-21T09:23:01.165Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bba/fourth-semester/marketing/buyer-behavior",
   "totalAssets": 3,
   "assets": {
     "business-buyer-decision-process.webp": {
-      "key": "course/bba/fourth-semester/marketing/buyer-behavior/business-buyer-decision-process.828817b4.webp",
-      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/buyer-behavior/business-buyer-decision-process.828817b4.webp",
+      "key": "course/bba/fourth-semester/marketing/buyer-behavior/business-buyer-decision-process.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/buyer-behavior/business-buyer-decision-process.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 365192
+      "bytes": 41702,
+      "contentHashed": false
     },
     "consumer-buying-decision-process-flowchart.webp": {
-      "key": "course/bba/fourth-semester/marketing/buyer-behavior/consumer-buying-decision-process-flowchart.6eb310cd.webp",
-      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/buyer-behavior/consumer-buying-decision-process-flowchart.6eb310cd.webp",
+      "key": "course/bba/fourth-semester/marketing/buyer-behavior/consumer-buying-decision-process-flowchart.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/buyer-behavior/consumer-buying-decision-process-flowchart.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 378942
+      "bytes": 44440,
+      "contentHashed": false
     },
     "factors-influencing-consumer-behaviour.webp": {
-      "key": "course/bba/fourth-semester/marketing/buyer-behavior/factors-influencing-consumer-behaviour.ddad386d.webp",
-      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/buyer-behavior/factors-influencing-consumer-behaviour.ddad386d.webp",
+      "key": "course/bba/fourth-semester/marketing/buyer-behavior/factors-influencing-consumer-behaviour.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/buyer-behavior/factors-influencing-consumer-behaviour.webp",
       "contentType": "image/webp",
       "width": 1254,
       "height": 1254,
-      "bytes": 544790
+      "bytes": 109522,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/buyer-behavior/business-buyer-decision-process.828817b4.webp",
-    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/buyer-behavior/consumer-buying-decision-process-flowchart.6eb310cd.webp",
-    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/buyer-behavior/factors-influencing-consumer-behaviour.ddad386d.webp"
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/buyer-behavior/business-buyer-decision-process.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/buyer-behavior/consumer-buying-decision-process-flowchart.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/buyer-behavior/factors-influencing-consumer-behaviour.webp"
   ]
 }

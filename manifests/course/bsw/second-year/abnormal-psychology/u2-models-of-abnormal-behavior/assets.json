@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.389Z",
+  "generatedAt": "2026-09-21T09:23:02.423Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior",
   "totalAssets": 4,
   "assets": {
     "behavioral-and-cognitive-science.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/behavioral-and-cognitive-science.8ec08c42.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/behavioral-and-cognitive-science.8ec08c42.webp",
+      "key": "course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/behavioral-and-cognitive-science.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/behavioral-and-cognitive-science.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 789146
+      "bytes": 109562,
+      "contentHashed": false
     },
     "emotion-and-psychopathology.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/emotion-and-psychopathology.888e8653.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/emotion-and-psychopathology.888e8653.webp",
+      "key": "course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/emotion-and-psychopathology.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/emotion-and-psychopathology.webp",
       "contentType": "image/webp",
       "width": 1942,
       "height": 809,
-      "bytes": 507656
+      "bytes": 52924,
+      "contentHashed": false
     },
     "multidimensional-psychopathology-model.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/multidimensional-psychopathology-model.169173e8.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/multidimensional-psychopathology-model.169173e8.webp",
+      "key": "course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/multidimensional-psychopathology-model.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/multidimensional-psychopathology-model.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 544676
+      "bytes": 55034,
+      "contentHashed": false
     },
     "one-dimensional-and-multidimensional-models.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/one-dimensional-and-multidimensional-models.5ed8d19b.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/one-dimensional-and-multidimensional-models.5ed8d19b.webp",
+      "key": "course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/one-dimensional-and-multidimensional-models.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/one-dimensional-and-multidimensional-models.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 512578
+      "bytes": 57100,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/behavioral-and-cognitive-science.8ec08c42.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/emotion-and-psychopathology.888e8653.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/multidimensional-psychopathology-model.169173e8.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/one-dimensional-and-multidimensional-models.5ed8d19b.webp"
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/behavioral-and-cognitive-science.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/emotion-and-psychopathology.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/multidimensional-psychopathology-model.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/one-dimensional-and-multidimensional-models.webp"
   ]
 }

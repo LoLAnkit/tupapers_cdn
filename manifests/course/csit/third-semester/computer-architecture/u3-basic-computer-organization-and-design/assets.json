@@ -1,56 +1,61 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.715Z",
+  "generatedAt": "2026-09-21T09:23:02.717Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/csit/third-semester/computer-architecture/u3-basic-computer-organization-and-design",
   "totalAssets": 5,
   "assets": {
     "basic-computer-instruction-formats.webp": {
-      "key": "course/csit/third-semester/computer-architecture/u3-basic-computer-organization-and-design/basic-computer-instruction-formats.2a4c8972.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u3-basic-computer-organization-and-design/basic-computer-instruction-formats.2a4c8972.webp",
+      "key": "course/csit/third-semester/computer-architecture/u3-basic-computer-organization-and-design/basic-computer-instruction-formats.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u3-basic-computer-organization-and-design/basic-computer-instruction-formats.webp",
       "contentType": "image/webp",
       "width": 1993,
       "height": 789,
-      "bytes": 401262
+      "bytes": 51152,
+      "contentHashed": false
     },
     "common-bus-system-of-basic-computer.webp": {
-      "key": "course/csit/third-semester/computer-architecture/u3-basic-computer-organization-and-design/common-bus-system-of-basic-computer.a74f2941.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u3-basic-computer-organization-and-design/common-bus-system-of-basic-computer.a74f2941.webp",
+      "key": "course/csit/third-semester/computer-architecture/u3-basic-computer-organization-and-design/common-bus-system-of-basic-computer.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u3-basic-computer-organization-and-design/common-bus-system-of-basic-computer.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 397208
+      "bytes": 57636,
+      "contentHashed": false
     },
     "control-timing-signal-sequence.webp": {
-      "key": "course/csit/third-semester/computer-architecture/u3-basic-computer-organization-and-design/control-timing-signal-sequence.642a5b2c.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u3-basic-computer-organization-and-design/control-timing-signal-sequence.642a5b2c.webp",
+      "key": "course/csit/third-semester/computer-architecture/u3-basic-computer-organization-and-design/control-timing-signal-sequence.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u3-basic-computer-organization-and-design/control-timing-signal-sequence.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 365708
+      "bytes": 76058,
+      "contentHashed": false
     },
     "fetch-and-decode-sequence.webp": {
-      "key": "course/csit/third-semester/computer-architecture/u3-basic-computer-organization-and-design/fetch-and-decode-sequence.55761561.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u3-basic-computer-organization-and-design/fetch-and-decode-sequence.55761561.webp",
+      "key": "course/csit/third-semester/computer-architecture/u3-basic-computer-organization-and-design/fetch-and-decode-sequence.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u3-basic-computer-organization-and-design/fetch-and-decode-sequence.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 553770
+      "bytes": 80564,
+      "contentHashed": false
     },
     "interrupt-cycle-flowchart.webp": {
-      "key": "course/csit/third-semester/computer-architecture/u3-basic-computer-organization-and-design/interrupt-cycle-flowchart.9e17db9e.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u3-basic-computer-organization-and-design/interrupt-cycle-flowchart.9e17db9e.webp",
+      "key": "course/csit/third-semester/computer-architecture/u3-basic-computer-organization-and-design/interrupt-cycle-flowchart.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u3-basic-computer-organization-and-design/interrupt-cycle-flowchart.webp",
       "contentType": "image/webp",
       "width": 1024,
       "height": 1536,
-      "bytes": 494486
+      "bytes": 69922,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u3-basic-computer-organization-and-design/basic-computer-instruction-formats.2a4c8972.webp",
-    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u3-basic-computer-organization-and-design/common-bus-system-of-basic-computer.a74f2941.webp",
-    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u3-basic-computer-organization-and-design/control-timing-signal-sequence.642a5b2c.webp",
-    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u3-basic-computer-organization-and-design/fetch-and-decode-sequence.55761561.webp",
-    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u3-basic-computer-organization-and-design/interrupt-cycle-flowchart.9e17db9e.webp"
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u3-basic-computer-organization-and-design/basic-computer-instruction-formats.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u3-basic-computer-organization-and-design/common-bus-system-of-basic-computer.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u3-basic-computer-organization-and-design/control-timing-signal-sequence.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u3-basic-computer-organization-and-design/fetch-and-decode-sequence.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u3-basic-computer-organization-and-design/interrupt-cycle-flowchart.webp"
   ]
 }

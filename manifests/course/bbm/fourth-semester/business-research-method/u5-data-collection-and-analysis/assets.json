@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:01.386Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbm/fourth-semester/business-research-method/u5-data-collection-and-analysis",
+  "totalAssets": 4,
+  "assets": {
+    "hypothesis-testing-and-error-types.webp": {
+      "key": "course/bbm/fourth-semester/business-research-method/u5-data-collection-and-analysis/hypothesis-testing-and-error-types.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/business-research-method/u5-data-collection-and-analysis/hypothesis-testing-and-error-types.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 122250,
+      "contentHashed": false
+    },
+    "interview-and-observation-data-collection.webp": {
+      "key": "course/bbm/fourth-semester/business-research-method/u5-data-collection-and-analysis/interview-and-observation-data-collection.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/business-research-method/u5-data-collection-and-analysis/interview-and-observation-data-collection.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 186706,
+      "contentHashed": false
+    },
+    "primary-and-secondary-data-sources.webp": {
+      "key": "course/bbm/fourth-semester/business-research-method/u5-data-collection-and-analysis/primary-and-secondary-data-sources.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/business-research-method/u5-data-collection-and-analysis/primary-and-secondary-data-sources.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 105808,
+      "contentHashed": false
+    },
+    "quantitative-vs-qualitative-analysis.webp": {
+      "key": "course/bbm/fourth-semester/business-research-method/u5-data-collection-and-analysis/quantitative-vs-qualitative-analysis.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/business-research-method/u5-data-collection-and-analysis/quantitative-vs-qualitative-analysis.webp",
+      "contentType": "image/webp",
+      "width": 2056,
+      "height": 765,
+      "bytes": 129310,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/business-research-method/u5-data-collection-and-analysis/hypothesis-testing-and-error-types.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/business-research-method/u5-data-collection-and-analysis/interview-and-observation-data-collection.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/business-research-method/u5-data-collection-and-analysis/primary-and-secondary-data-sources.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/business-research-method/u5-data-collection-and-analysis/quantitative-vs-qualitative-analysis.webp"
+  ]
+}

@@ -1,65 +1,71 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.872Z",
+  "generatedAt": "2026-09-21T09:23:02.049Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/sixth-semester/applied-economics/theory-of-consumer-behavior",
   "totalAssets": 6,
   "assets": {
     "fig-3-1-consumer-equilibrium-indifference-curves.webp": {
-      "key": "course/bca/sixth-semester/applied-economics/theory-of-consumer-behavior/fig-3-1-consumer-equilibrium-indifference-curves.bde47db6.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/theory-of-consumer-behavior/fig-3-1-consumer-equilibrium-indifference-curves.bde47db6.webp",
+      "key": "course/bca/sixth-semester/applied-economics/theory-of-consumer-behavior/fig-3-1-consumer-equilibrium-indifference-curves.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/theory-of-consumer-behavior/fig-3-1-consumer-equilibrium-indifference-curves.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 882896
+      "bytes": 69256,
+      "contentHashed": false
     },
     "fig-3-2-income-consumption-curve-derivation.webp": {
-      "key": "course/bca/sixth-semester/applied-economics/theory-of-consumer-behavior/fig-3-2-income-consumption-curve-derivation.123d5662.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/theory-of-consumer-behavior/fig-3-2-income-consumption-curve-derivation.123d5662.webp",
+      "key": "course/bca/sixth-semester/applied-economics/theory-of-consumer-behavior/fig-3-2-income-consumption-curve-derivation.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/theory-of-consumer-behavior/fig-3-2-income-consumption-curve-derivation.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 957286
+      "bytes": 71186,
+      "contentHashed": false
     },
     "fig-3-3-hicksian-price-effect-decomposition.webp": {
-      "key": "course/bca/sixth-semester/applied-economics/theory-of-consumer-behavior/fig-3-3-hicksian-price-effect-decomposition.43ec99b1.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/theory-of-consumer-behavior/fig-3-3-hicksian-price-effect-decomposition.43ec99b1.webp",
+      "key": "course/bca/sixth-semester/applied-economics/theory-of-consumer-behavior/fig-3-3-hicksian-price-effect-decomposition.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/theory-of-consumer-behavior/fig-3-3-hicksian-price-effect-decomposition.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 894620
+      "bytes": 84026,
+      "contentHashed": false
     },
     "fig-3-4-law-of-diminishing-marginal-utility.webp": {
-      "key": "course/bca/sixth-semester/applied-economics/theory-of-consumer-behavior/fig-3-4-law-of-diminishing-marginal-utility.dc070bca.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/theory-of-consumer-behavior/fig-3-4-law-of-diminishing-marginal-utility.dc070bca.webp",
+      "key": "course/bca/sixth-semester/applied-economics/theory-of-consumer-behavior/fig-3-4-law-of-diminishing-marginal-utility.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/theory-of-consumer-behavior/fig-3-4-law-of-diminishing-marginal-utility.webp",
       "contentType": "image/webp",
       "width": 1117,
       "height": 1408,
-      "bytes": 814456
+      "bytes": 57396,
+      "contentHashed": false
     },
     "fig-3-5-pcc-substitutes-vs-complements.webp": {
-      "key": "course/bca/sixth-semester/applied-economics/theory-of-consumer-behavior/fig-3-5-pcc-substitutes-vs-complements.27263f42.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/theory-of-consumer-behavior/fig-3-5-pcc-substitutes-vs-complements.27263f42.webp",
+      "key": "course/bca/sixth-semester/applied-economics/theory-of-consumer-behavior/fig-3-5-pcc-substitutes-vs-complements.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/theory-of-consumer-behavior/fig-3-5-pcc-substitutes-vs-complements.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 1033288
+      "bytes": 79496,
+      "contentHashed": false
     },
     "fig-3-6-demand-curve-from-pcc-hicksian.webp": {
-      "key": "course/bca/sixth-semester/applied-economics/theory-of-consumer-behavior/fig-3-6-demand-curve-from-pcc-hicksian.96f04d86.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/theory-of-consumer-behavior/fig-3-6-demand-curve-from-pcc-hicksian.96f04d86.webp",
+      "key": "course/bca/sixth-semester/applied-economics/theory-of-consumer-behavior/fig-3-6-demand-curve-from-pcc-hicksian.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/theory-of-consumer-behavior/fig-3-6-demand-curve-from-pcc-hicksian.webp",
       "contentType": "image/webp",
       "width": 1024,
       "height": 1536,
-      "bytes": 952504
+      "bytes": 76298,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/theory-of-consumer-behavior/fig-3-1-consumer-equilibrium-indifference-curves.bde47db6.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/theory-of-consumer-behavior/fig-3-2-income-consumption-curve-derivation.123d5662.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/theory-of-consumer-behavior/fig-3-3-hicksian-price-effect-decomposition.43ec99b1.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/theory-of-consumer-behavior/fig-3-4-law-of-diminishing-marginal-utility.dc070bca.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/theory-of-consumer-behavior/fig-3-5-pcc-substitutes-vs-complements.27263f42.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/theory-of-consumer-behavior/fig-3-6-demand-curve-from-pcc-hicksian.96f04d86.webp"
+    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/theory-of-consumer-behavior/fig-3-1-consumer-equilibrium-indifference-curves.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/theory-of-consumer-behavior/fig-3-2-income-consumption-curve-derivation.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/theory-of-consumer-behavior/fig-3-3-hicksian-price-effect-decomposition.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/theory-of-consumer-behavior/fig-3-4-law-of-diminishing-marginal-utility.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/theory-of-consumer-behavior/fig-3-5-pcc-substitutes-vs-complements.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/theory-of-consumer-behavior/fig-3-6-demand-curve-from-pcc-hicksian.webp"
   ]
 }

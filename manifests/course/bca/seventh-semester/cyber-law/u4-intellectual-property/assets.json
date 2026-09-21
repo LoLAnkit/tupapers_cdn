@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.741Z",
+  "generatedAt": "2026-09-21T09:23:01.925Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/seventh-semester/cyber-law/u4-intellectual-property",
   "totalAssets": 4,
   "assets": {
     "cybersquatting-and-domain-dispute-flow.webp": {
-      "key": "course/bca/seventh-semester/cyber-law/u4-intellectual-property/cybersquatting-and-domain-dispute-flow.42834a8b.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u4-intellectual-property/cybersquatting-and-domain-dispute-flow.42834a8b.webp",
+      "key": "course/bca/seventh-semester/cyber-law/u4-intellectual-property/cybersquatting-and-domain-dispute-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u4-intellectual-property/cybersquatting-and-domain-dispute-flow.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 579776
+      "bytes": 84968,
+      "contentHashed": false
     },
     "intellectual-property-protection-framework.webp": {
-      "key": "course/bca/seventh-semester/cyber-law/u4-intellectual-property/intellectual-property-protection-framework.71a689ae.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u4-intellectual-property/intellectual-property-protection-framework.71a689ae.webp",
+      "key": "course/bca/seventh-semester/cyber-law/u4-intellectual-property/intellectual-property-protection-framework.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u4-intellectual-property/intellectual-property-protection-framework.webp",
       "contentType": "image/webp",
       "width": 1665,
       "height": 945,
-      "bytes": 551816
+      "bytes": 89040,
+      "contentHashed": false
     },
     "reverse-engineering-process.webp": {
-      "key": "course/bca/seventh-semester/cyber-law/u4-intellectual-property/reverse-engineering-process.8cebbf20.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u4-intellectual-property/reverse-engineering-process.8cebbf20.webp",
+      "key": "course/bca/seventh-semester/cyber-law/u4-intellectual-property/reverse-engineering-process.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u4-intellectual-property/reverse-engineering-process.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 509154
+      "bytes": 73760,
+      "contentHashed": false
     },
     "trademark-domain-name-and-cybersquatting-relationship.webp": {
-      "key": "course/bca/seventh-semester/cyber-law/u4-intellectual-property/trademark-domain-name-and-cybersquatting-relationship.e4ac1433.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u4-intellectual-property/trademark-domain-name-and-cybersquatting-relationship.e4ac1433.webp",
+      "key": "course/bca/seventh-semester/cyber-law/u4-intellectual-property/trademark-domain-name-and-cybersquatting-relationship.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u4-intellectual-property/trademark-domain-name-and-cybersquatting-relationship.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 559638
+      "bytes": 71816,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u4-intellectual-property/cybersquatting-and-domain-dispute-flow.42834a8b.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u4-intellectual-property/intellectual-property-protection-framework.71a689ae.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u4-intellectual-property/reverse-engineering-process.8cebbf20.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u4-intellectual-property/trademark-domain-name-and-cybersquatting-relationship.e4ac1433.webp"
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u4-intellectual-property/cybersquatting-and-domain-dispute-flow.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u4-intellectual-property/intellectual-property-protection-framework.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u4-intellectual-property/reverse-engineering-process.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cyber-law/u4-intellectual-property/trademark-domain-name-and-cybersquatting-relationship.webp"
   ]
 }

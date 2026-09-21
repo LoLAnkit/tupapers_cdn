@@ -1,65 +1,71 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.858Z",
+  "generatedAt": "2026-09-21T09:23:02.037Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/sixth-semester/applied-economics/market-structure",
   "totalAssets": 6,
   "assets": {
     "monopolist-long-run-equilibrium.webp": {
-      "key": "course/bca/sixth-semester/applied-economics/market-structure/monopolist-long-run-equilibrium.02a1986f.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/market-structure/monopolist-long-run-equilibrium.02a1986f.webp",
+      "key": "course/bca/sixth-semester/applied-economics/market-structure/monopolist-long-run-equilibrium.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/market-structure/monopolist-long-run-equilibrium.webp",
       "contentType": "image/webp",
       "width": 1586,
       "height": 992,
-      "bytes": 997310
+      "bytes": 79278,
+      "contentHashed": false
     },
     "monopolist-short-run-equilibrium.webp": {
-      "key": "course/bca/sixth-semester/applied-economics/market-structure/monopolist-short-run-equilibrium.fe9df08c.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/market-structure/monopolist-short-run-equilibrium.fe9df08c.webp",
+      "key": "course/bca/sixth-semester/applied-economics/market-structure/monopolist-short-run-equilibrium.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/market-structure/monopolist-short-run-equilibrium.webp",
       "contentType": "image/webp",
       "width": 1586,
       "height": 992,
-      "bytes": 1222670
+      "bytes": 79176,
+      "contentHashed": false
     },
     "monopolistic-competition-short-run-long-run.webp": {
-      "key": "course/bca/sixth-semester/applied-economics/market-structure/monopolistic-competition-short-run-long-run.15be1c69.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/market-structure/monopolistic-competition-short-run-long-run.15be1c69.webp",
+      "key": "course/bca/sixth-semester/applied-economics/market-structure/monopolistic-competition-short-run-long-run.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/market-structure/monopolistic-competition-short-run-long-run.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 1244982
+      "bytes": 112714,
+      "contentHashed": false
     },
     "perfect-competition-mc-mr-equilibrium.webp": {
-      "key": "course/bca/sixth-semester/applied-economics/market-structure/perfect-competition-mc-mr-equilibrium.71fcb4ac.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/market-structure/perfect-competition-mc-mr-equilibrium.71fcb4ac.webp",
+      "key": "course/bca/sixth-semester/applied-economics/market-structure/perfect-competition-mc-mr-equilibrium.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/market-structure/perfect-competition-mc-mr-equilibrium.webp",
       "contentType": "image/webp",
       "width": 1586,
       "height": 992,
-      "bytes": 1255090
+      "bytes": 100964,
+      "contentHashed": false
     },
     "perfect-competition-tr-tc-equilibrium.webp": {
-      "key": "course/bca/sixth-semester/applied-economics/market-structure/perfect-competition-tr-tc-equilibrium.5232af88.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/market-structure/perfect-competition-tr-tc-equilibrium.5232af88.webp",
+      "key": "course/bca/sixth-semester/applied-economics/market-structure/perfect-competition-tr-tc-equilibrium.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/market-structure/perfect-competition-tr-tc-equilibrium.webp",
       "contentType": "image/webp",
       "width": 1586,
       "height": 992,
-      "bytes": 1214388
+      "bytes": 79394,
+      "contentHashed": false
     },
     "short-run-supply-curve-derivation.webp": {
-      "key": "course/bca/sixth-semester/applied-economics/market-structure/short-run-supply-curve-derivation.2feaac50.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/market-structure/short-run-supply-curve-derivation.2feaac50.webp",
+      "key": "course/bca/sixth-semester/applied-economics/market-structure/short-run-supply-curve-derivation.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/market-structure/short-run-supply-curve-derivation.webp",
       "contentType": "image/webp",
       "width": 1586,
       "height": 992,
-      "bytes": 1181028
+      "bytes": 75286,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/market-structure/monopolist-long-run-equilibrium.02a1986f.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/market-structure/monopolist-short-run-equilibrium.fe9df08c.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/market-structure/monopolistic-competition-short-run-long-run.15be1c69.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/market-structure/perfect-competition-mc-mr-equilibrium.71fcb4ac.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/market-structure/perfect-competition-tr-tc-equilibrium.5232af88.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/market-structure/short-run-supply-curve-derivation.2feaac50.webp"
+    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/market-structure/monopolist-long-run-equilibrium.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/market-structure/monopolist-short-run-equilibrium.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/market-structure/monopolistic-competition-short-run-long-run.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/market-structure/perfect-competition-mc-mr-equilibrium.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/market-structure/perfect-competition-tr-tc-equilibrium.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/market-structure/short-run-supply-curve-derivation.webp"
   ]
 }

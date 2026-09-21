@@ -1,38 +1,41 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.794Z",
+  "generatedAt": "2026-09-21T09:23:02.761Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/csit/third-semester/computer-graphics/u7-visible-surface-detections",
   "totalAssets": 3,
   "assets": {
     "painters-depth-ordering.webp": {
-      "key": "course/csit/third-semester/computer-graphics/u7-visible-surface-detections/painters-depth-ordering.5dd636b6.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u7-visible-surface-detections/painters-depth-ordering.5dd636b6.webp",
+      "key": "course/csit/third-semester/computer-graphics/u7-visible-surface-detections/painters-depth-ordering.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u7-visible-surface-detections/painters-depth-ordering.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 912242
+      "bytes": 167118,
+      "contentHashed": false
     },
     "scan-line-visible-surface-method.webp": {
-      "key": "course/csit/third-semester/computer-graphics/u7-visible-surface-detections/scan-line-visible-surface-method.1d77ad03.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u7-visible-surface-detections/scan-line-visible-surface-method.1d77ad03.webp",
+      "key": "course/csit/third-semester/computer-graphics/u7-visible-surface-detections/scan-line-visible-surface-method.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u7-visible-surface-detections/scan-line-visible-surface-method.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 685170
+      "bytes": 80148,
+      "contentHashed": false
     },
     "z-buffer-operation.webp": {
-      "key": "course/csit/third-semester/computer-graphics/u7-visible-surface-detections/z-buffer-operation.6ccb31d0.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u7-visible-surface-detections/z-buffer-operation.6ccb31d0.webp",
+      "key": "course/csit/third-semester/computer-graphics/u7-visible-surface-detections/z-buffer-operation.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u7-visible-surface-detections/z-buffer-operation.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 794636
+      "bytes": 107936,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u7-visible-surface-detections/painters-depth-ordering.5dd636b6.webp",
-    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u7-visible-surface-detections/scan-line-visible-surface-method.1d77ad03.webp",
-    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u7-visible-surface-detections/z-buffer-operation.6ccb31d0.webp"
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u7-visible-surface-detections/painters-depth-ordering.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u7-visible-surface-detections/scan-line-visible-surface-method.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-graphics/u7-visible-surface-detections/z-buffer-operation.webp"
   ]
 }

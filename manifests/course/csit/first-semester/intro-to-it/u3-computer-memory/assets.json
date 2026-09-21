@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.592Z",
+  "generatedAt": "2026-09-21T09:23:02.550Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/csit/first-semester/intro-to-it/u3-computer-memory",
   "totalAssets": 4,
   "assets": {
     "cpu-and-memory-levels.webp": {
-      "key": "course/csit/first-semester/intro-to-it/u3-computer-memory/cpu-and-memory-levels.68bf9f02.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u3-computer-memory/cpu-and-memory-levels.68bf9f02.webp",
+      "key": "course/csit/first-semester/intro-to-it/u3-computer-memory/cpu-and-memory-levels.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u3-computer-memory/cpu-and-memory-levels.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 381184
+      "bytes": 55822,
+      "contentHashed": false
     },
     "magnetic-disk-organization.webp": {
-      "key": "course/csit/first-semester/intro-to-it/u3-computer-memory/magnetic-disk-organization.99f0ce4d.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u3-computer-memory/magnetic-disk-organization.99f0ce4d.webp",
+      "key": "course/csit/first-semester/intro-to-it/u3-computer-memory/magnetic-disk-organization.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u3-computer-memory/magnetic-disk-organization.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 632376
+      "bytes": 144038,
+      "contentHashed": false
     },
     "memory-hierarchy.webp": {
-      "key": "course/csit/first-semester/intro-to-it/u3-computer-memory/memory-hierarchy.89c26803.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u3-computer-memory/memory-hierarchy.89c26803.webp",
+      "key": "course/csit/first-semester/intro-to-it/u3-computer-memory/memory-hierarchy.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u3-computer-memory/memory-hierarchy.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 509972
+      "bytes": 104388,
+      "contentHashed": false
     },
     "storage-access-methods.webp": {
-      "key": "course/csit/first-semester/intro-to-it/u3-computer-memory/storage-access-methods.7ba6e487.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u3-computer-memory/storage-access-methods.7ba6e487.webp",
+      "key": "course/csit/first-semester/intro-to-it/u3-computer-memory/storage-access-methods.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u3-computer-memory/storage-access-methods.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 558590
+      "bytes": 117186,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u3-computer-memory/cpu-and-memory-levels.68bf9f02.webp",
-    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u3-computer-memory/magnetic-disk-organization.99f0ce4d.webp",
-    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u3-computer-memory/memory-hierarchy.89c26803.webp",
-    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u3-computer-memory/storage-access-methods.7ba6e487.webp"
+    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u3-computer-memory/cpu-and-memory-levels.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u3-computer-memory/magnetic-disk-organization.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u3-computer-memory/memory-hierarchy.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u3-computer-memory/storage-access-methods.webp"
   ]
 }

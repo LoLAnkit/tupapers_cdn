@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:02.213Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bhm/fourth-semester/hotel-engineering/u4-hospitality-engineering",
+  "totalAssets": 4,
+  "assets": {
+    "fire-safety-response-system.webp": {
+      "key": "course/bhm/fourth-semester/hotel-engineering/u4-hospitality-engineering/fire-safety-response-system.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/hotel-engineering/u4-hospitality-engineering/fire-safety-response-system.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 280120,
+      "contentHashed": false
+    },
+    "hotel-electrical-supply-and-protection.webp": {
+      "key": "course/bhm/fourth-semester/hotel-engineering/u4-hospitality-engineering/hotel-electrical-supply-and-protection.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/hotel-engineering/u4-hospitality-engineering/hotel-electrical-supply-and-protection.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 106354,
+      "contentHashed": false
+    },
+    "hotel-water-treatment-process.webp": {
+      "key": "course/bhm/fourth-semester/hotel-engineering/u4-hospitality-engineering/hotel-water-treatment-process.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/hotel-engineering/u4-hospitality-engineering/hotel-water-treatment-process.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 140432,
+      "contentHashed": false
+    },
+    "hvac-and-ventilation-overview.webp": {
+      "key": "course/bhm/fourth-semester/hotel-engineering/u4-hospitality-engineering/hvac-and-ventilation-overview.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/hotel-engineering/u4-hospitality-engineering/hvac-and-ventilation-overview.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 198330,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/hotel-engineering/u4-hospitality-engineering/fire-safety-response-system.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/hotel-engineering/u4-hospitality-engineering/hotel-electrical-supply-and-protection.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/hotel-engineering/u4-hospitality-engineering/hotel-water-treatment-process.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/hotel-engineering/u4-hospitality-engineering/hvac-and-ventilation-overview.webp"
+  ]
+}

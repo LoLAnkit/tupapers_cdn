@@ -13,7 +13,7 @@
  *             "Addressing modes diagram", "rounded shadow" %}
  *
  * Renders:
- *   <img src="https://cdn.tupapers.com/course/bca/.../addressing-modes.7e8d3c41.webp"
+ *   <img src="https://cdn.tupapers.com/course/bca/.../addressing-modes.png"
  *        alt="Addressing modes diagram" class="rounded shadow"
  *        width="1200" height="640" loading="lazy" decoding="async">
  *

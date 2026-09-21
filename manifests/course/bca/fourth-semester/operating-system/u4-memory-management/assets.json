@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:01.808Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/fourth-semester/operating-system/u4-memory-management",
+  "totalAssets": 4,
+  "assets": {
+    "memory-hole-allocation.webp": {
+      "key": "course/bca/fourth-semester/operating-system/u4-memory-management/memory-hole-allocation.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/operating-system/u4-memory-management/memory-hole-allocation.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 200606,
+      "contentHashed": false
+    },
+    "page-replacement-frame-timeline.webp": {
+      "key": "course/bca/fourth-semester/operating-system/u4-memory-management/page-replacement-frame-timeline.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/operating-system/u4-memory-management/page-replacement-frame-timeline.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 129950,
+      "contentHashed": false
+    },
+    "paging-address-translation-with-tlb.webp": {
+      "key": "course/bca/fourth-semester/operating-system/u4-memory-management/paging-address-translation-with-tlb.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/operating-system/u4-memory-management/paging-address-translation-with-tlb.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 80362,
+      "contentHashed": false
+    },
+    "segmentation-address-translation.webp": {
+      "key": "course/bca/fourth-semester/operating-system/u4-memory-management/segmentation-address-translation.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/operating-system/u4-memory-management/segmentation-address-translation.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 95578,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/fourth-semester/operating-system/u4-memory-management/memory-hole-allocation.webp",
+    "https://cdn.tupapers.com/course/bca/fourth-semester/operating-system/u4-memory-management/page-replacement-frame-timeline.webp",
+    "https://cdn.tupapers.com/course/bca/fourth-semester/operating-system/u4-memory-management/paging-address-translation-with-tlb.webp",
+    "https://cdn.tupapers.com/course/bca/fourth-semester/operating-system/u4-memory-management/segmentation-address-translation.webp"
+  ]
+}

@@ -1,38 +1,41 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.779Z",
+  "generatedAt": "2026-09-21T09:23:01.959Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/seventh-semester/database-administration/u8-automate-tasks-with-the-scheduler",
   "totalAssets": 3,
   "assets": {
     "event-based-scheduling-flow.webp": {
-      "key": "course/bca/seventh-semester/database-administration/u8-automate-tasks-with-the-scheduler/event-based-scheduling-flow.5a1cace3.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/database-administration/u8-automate-tasks-with-the-scheduler/event-based-scheduling-flow.5a1cace3.webp",
+      "key": "course/bca/seventh-semester/database-administration/u8-automate-tasks-with-the-scheduler/event-based-scheduling-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/database-administration/u8-automate-tasks-with-the-scheduler/event-based-scheduling-flow.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 352028
+      "bytes": 74236,
+      "contentHashed": false
     },
     "oracle-scheduler-components-and-workflow.webp": {
-      "key": "course/bca/seventh-semester/database-administration/u8-automate-tasks-with-the-scheduler/oracle-scheduler-components-and-workflow.5fb67b58.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/database-administration/u8-automate-tasks-with-the-scheduler/oracle-scheduler-components-and-workflow.5fb67b58.webp",
+      "key": "course/bca/seventh-semester/database-administration/u8-automate-tasks-with-the-scheduler/oracle-scheduler-components-and-workflow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/database-administration/u8-automate-tasks-with-the-scheduler/oracle-scheduler-components-and-workflow.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 414252
+      "bytes": 61214,
+      "contentHashed": false
     },
     "time-based-scheduling-flow.webp": {
-      "key": "course/bca/seventh-semester/database-administration/u8-automate-tasks-with-the-scheduler/time-based-scheduling-flow.2d1d7306.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/database-administration/u8-automate-tasks-with-the-scheduler/time-based-scheduling-flow.2d1d7306.webp",
+      "key": "course/bca/seventh-semester/database-administration/u8-automate-tasks-with-the-scheduler/time-based-scheduling-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/database-administration/u8-automate-tasks-with-the-scheduler/time-based-scheduling-flow.webp",
       "contentType": "image/webp",
       "width": 1921,
       "height": 819,
-      "bytes": 317376
+      "bytes": 58756,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/seventh-semester/database-administration/u8-automate-tasks-with-the-scheduler/event-based-scheduling-flow.5a1cace3.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/database-administration/u8-automate-tasks-with-the-scheduler/oracle-scheduler-components-and-workflow.5fb67b58.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/database-administration/u8-automate-tasks-with-the-scheduler/time-based-scheduling-flow.2d1d7306.webp"
+    "https://cdn.tupapers.com/course/bca/seventh-semester/database-administration/u8-automate-tasks-with-the-scheduler/event-based-scheduling-flow.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/database-administration/u8-automate-tasks-with-the-scheduler/oracle-scheduler-components-and-workflow.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/database-administration/u8-automate-tasks-with-the-scheduler/time-based-scheduling-flow.webp"
   ]
 }

@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:02.611Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/csit/fourth-semester/ai/u5-machine-learning",
+  "totalAssets": 4,
+  "assets": {
+    "biological-neuron-vs-artificial-neuron.webp": {
+      "key": "course/csit/fourth-semester/ai/u5-machine-learning/biological-neuron-vs-artificial-neuron.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/ai/u5-machine-learning/biological-neuron-vs-artificial-neuron.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 105468,
+      "contentHashed": false
+    },
+    "genetic-algorithm-cycle.webp": {
+      "key": "course/csit/fourth-semester/ai/u5-machine-learning/genetic-algorithm-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/ai/u5-machine-learning/genetic-algorithm-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 116540,
+      "contentHashed": false
+    },
+    "multi-layer-ann-and-back-propagation.webp": {
+      "key": "course/csit/fourth-semester/ai/u5-machine-learning/multi-layer-ann-and-back-propagation.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/ai/u5-machine-learning/multi-layer-ann-and-back-propagation.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 83188,
+      "contentHashed": false
+    },
+    "reinforcement-learning-interaction-loop.webp": {
+      "key": "course/csit/fourth-semester/ai/u5-machine-learning/reinforcement-learning-interaction-loop.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/ai/u5-machine-learning/reinforcement-learning-interaction-loop.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 74082,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/csit/fourth-semester/ai/u5-machine-learning/biological-neuron-vs-artificial-neuron.webp",
+    "https://cdn.tupapers.com/course/csit/fourth-semester/ai/u5-machine-learning/genetic-algorithm-cycle.webp",
+    "https://cdn.tupapers.com/course/csit/fourth-semester/ai/u5-machine-learning/multi-layer-ann-and-back-propagation.webp",
+    "https://cdn.tupapers.com/course/csit/fourth-semester/ai/u5-machine-learning/reinforcement-learning-interaction-loop.webp"
+  ]
+}

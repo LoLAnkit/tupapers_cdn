@@ -1,65 +1,71 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.164Z",
+  "generatedAt": "2026-09-21T09:23:02.265Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bitm/second-semester/digital-logics/u1-introduction",
   "totalAssets": 6,
   "assets": {
     "digital-versus-analog-signals.webp": {
-      "key": "course/bitm/second-semester/digital-logics/u1-introduction/digital-versus-analog-signals.78a25005.webp",
-      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u1-introduction/digital-versus-analog-signals.78a25005.webp",
+      "key": "course/bitm/second-semester/digital-logics/u1-introduction/digital-versus-analog-signals.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u1-introduction/digital-versus-analog-signals.webp",
       "contentType": "image/webp",
       "width": 1942,
       "height": 809,
-      "bytes": 367484
+      "bytes": 45564,
+      "contentHashed": false
     },
     "gray-code-conversion-flow.webp": {
-      "key": "course/bitm/second-semester/digital-logics/u1-introduction/gray-code-conversion-flow.c65cceca.webp",
-      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u1-introduction/gray-code-conversion-flow.c65cceca.webp",
+      "key": "course/bitm/second-semester/digital-logics/u1-introduction/gray-code-conversion-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u1-introduction/gray-code-conversion-flow.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 731850
+      "bytes": 104860,
+      "contentHashed": false
     },
     "ic-integration-levels.webp": {
-      "key": "course/bitm/second-semester/digital-logics/u1-introduction/ic-integration-levels.b4e77d84.webp",
-      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u1-introduction/ic-integration-levels.b4e77d84.webp",
+      "key": "course/bitm/second-semester/digital-logics/u1-introduction/ic-integration-levels.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u1-introduction/ic-integration-levels.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 770794
+      "bytes": 134294,
+      "contentHashed": false
     },
     "number-system-conversion-map.webp": {
-      "key": "course/bitm/second-semester/digital-logics/u1-introduction/number-system-conversion-map.22bc95a7.webp",
-      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u1-introduction/number-system-conversion-map.22bc95a7.webp",
+      "key": "course/bitm/second-semester/digital-logics/u1-introduction/number-system-conversion-map.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u1-introduction/number-system-conversion-map.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 761972
+      "bytes": 82402,
+      "contentHashed": false
     },
     "signed-number-representations.webp": {
-      "key": "course/bitm/second-semester/digital-logics/u1-introduction/signed-number-representations.17f23390.webp",
-      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u1-introduction/signed-number-representations.17f23390.webp",
+      "key": "course/bitm/second-semester/digital-logics/u1-introduction/signed-number-representations.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u1-introduction/signed-number-representations.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 869088
+      "bytes": 139502,
+      "contentHashed": false
     },
     "twos-complement-arithmetic.webp": {
-      "key": "course/bitm/second-semester/digital-logics/u1-introduction/twos-complement-arithmetic.f11c57e7.webp",
-      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u1-introduction/twos-complement-arithmetic.f11c57e7.webp",
+      "key": "course/bitm/second-semester/digital-logics/u1-introduction/twos-complement-arithmetic.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u1-introduction/twos-complement-arithmetic.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 664378
+      "bytes": 95736,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u1-introduction/digital-versus-analog-signals.78a25005.webp",
-    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u1-introduction/gray-code-conversion-flow.c65cceca.webp",
-    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u1-introduction/ic-integration-levels.b4e77d84.webp",
-    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u1-introduction/number-system-conversion-map.22bc95a7.webp",
-    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u1-introduction/signed-number-representations.17f23390.webp",
-    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u1-introduction/twos-complement-arithmetic.f11c57e7.webp"
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u1-introduction/digital-versus-analog-signals.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u1-introduction/gray-code-conversion-flow.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u1-introduction/ic-integration-levels.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u1-introduction/number-system-conversion-map.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u1-introduction/signed-number-representations.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u1-introduction/twos-complement-arithmetic.webp"
   ]
 }

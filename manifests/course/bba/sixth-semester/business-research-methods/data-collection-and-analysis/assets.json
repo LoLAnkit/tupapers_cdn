@@ -1,38 +1,41 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.406Z",
+  "generatedAt": "2026-09-21T09:23:01.260Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bba/sixth-semester/business-research-methods/data-collection-and-analysis",
   "totalAssets": 3,
   "assets": {
     "chi-square-test-flow.webp": {
-      "key": "course/bba/sixth-semester/business-research-methods/data-collection-and-analysis/chi-square-test-flow.96c3f9fa.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/data-collection-and-analysis/chi-square-test-flow.96c3f9fa.webp",
+      "key": "course/bba/sixth-semester/business-research-methods/data-collection-and-analysis/chi-square-test-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/data-collection-and-analysis/chi-square-test-flow.webp",
       "contentType": "image/webp",
       "width": 663,
       "height": 520,
-      "bytes": 208442
+      "bytes": 44462,
+      "contentHashed": false
     },
     "primary-vs-secondary-data.webp": {
-      "key": "course/bba/sixth-semester/business-research-methods/data-collection-and-analysis/primary-vs-secondary-data.9d7890fb.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/data-collection-and-analysis/primary-vs-secondary-data.9d7890fb.webp",
+      "key": "course/bba/sixth-semester/business-research-methods/data-collection-and-analysis/primary-vs-secondary-data.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/data-collection-and-analysis/primary-vs-secondary-data.webp",
       "contentType": "image/webp",
       "width": 695,
       "height": 500,
-      "bytes": 190692
+      "bytes": 38234,
+      "contentHashed": false
     },
     "types-of-research-interview.webp": {
-      "key": "course/bba/sixth-semester/business-research-methods/data-collection-and-analysis/types-of-research-interview.939cbf3d.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/data-collection-and-analysis/types-of-research-interview.939cbf3d.webp",
+      "key": "course/bba/sixth-semester/business-research-methods/data-collection-and-analysis/types-of-research-interview.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/data-collection-and-analysis/types-of-research-interview.webp",
       "contentType": "image/webp",
       "width": 713,
       "height": 518,
-      "bytes": 213502
+      "bytes": 44700,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/data-collection-and-analysis/chi-square-test-flow.96c3f9fa.webp",
-    "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/data-collection-and-analysis/primary-vs-secondary-data.9d7890fb.webp",
-    "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/data-collection-and-analysis/types-of-research-interview.939cbf3d.webp"
+    "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/data-collection-and-analysis/chi-square-test-flow.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/data-collection-and-analysis/primary-vs-secondary-data.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/data-collection-and-analysis/types-of-research-interview.webp"
   ]
 }

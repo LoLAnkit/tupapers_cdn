@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:02.134Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bhm/fourth-semester/food-beverage-mgt/u1-menu",
+  "totalAssets": 5,
+  "assets": {
+    "gastronomical-rules.webp": {
+      "key": "course/bhm/fourth-semester/food-beverage-mgt/u1-menu/gastronomical-rules.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/food-beverage-mgt/u1-menu/gastronomical-rules.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 193986,
+      "contentHashed": false
+    },
+    "menu-engineering-grid.webp": {
+      "key": "course/bhm/fourth-semester/food-beverage-mgt/u1-menu/menu-engineering-grid.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/food-beverage-mgt/u1-menu/menu-engineering-grid.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 182258,
+      "contentHashed": false
+    },
+    "menu-merchandising-layout.webp": {
+      "key": "course/bhm/fourth-semester/food-beverage-mgt/u1-menu/menu-merchandising-layout.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/food-beverage-mgt/u1-menu/menu-merchandising-layout.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 272232,
+      "contentHashed": false
+    },
+    "menu-planning-workflow.webp": {
+      "key": "course/bhm/fourth-semester/food-beverage-mgt/u1-menu/menu-planning-workflow.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/food-beverage-mgt/u1-menu/menu-planning-workflow.webp",
+      "contentType": "image/webp",
+      "width": 2005,
+      "height": 784,
+      "bytes": 54788,
+      "contentHashed": false
+    },
+    "menu-writing-dos-and-donts.webp": {
+      "key": "course/bhm/fourth-semester/food-beverage-mgt/u1-menu/menu-writing-dos-and-donts.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/food-beverage-mgt/u1-menu/menu-writing-dos-and-donts.webp",
+      "contentType": "image/webp",
+      "width": 1222,
+      "height": 1287,
+      "bytes": 187792,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/food-beverage-mgt/u1-menu/gastronomical-rules.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/food-beverage-mgt/u1-menu/menu-engineering-grid.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/food-beverage-mgt/u1-menu/menu-merchandising-layout.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/food-beverage-mgt/u1-menu/menu-planning-workflow.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/food-beverage-mgt/u1-menu/menu-writing-dos-and-donts.webp"
+  ]
+}

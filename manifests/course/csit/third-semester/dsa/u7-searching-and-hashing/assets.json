@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.835Z",
+  "generatedAt": "2026-09-21T09:23:02.792Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/csit/third-semester/dsa/u7-searching-and-hashing",
   "totalAssets": 4,
   "assets": {
     "binary-search-interval-halving.webp": {
-      "key": "course/csit/third-semester/dsa/u7-searching-and-hashing/binary-search-interval-halving.58d07cf1.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u7-searching-and-hashing/binary-search-interval-halving.58d07cf1.webp",
+      "key": "course/csit/third-semester/dsa/u7-searching-and-hashing/binary-search-interval-halving.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u7-searching-and-hashing/binary-search-interval-halving.webp",
       "contentType": "image/webp",
       "width": 1214,
       "height": 1295,
-      "bytes": 393902
+      "bytes": 60678,
+      "contentHashed": false
     },
     "collision-resolution-in-a-hash-table.webp": {
-      "key": "course/csit/third-semester/dsa/u7-searching-and-hashing/collision-resolution-in-a-hash-table.059d4230.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u7-searching-and-hashing/collision-resolution-in-a-hash-table.059d4230.webp",
+      "key": "course/csit/third-semester/dsa/u7-searching-and-hashing/collision-resolution-in-a-hash-table.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u7-searching-and-hashing/collision-resolution-in-a-hash-table.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 446484
+      "bytes": 83512,
+      "contentHashed": false
     },
     "hash-function-to-hash-table-mapping.webp": {
-      "key": "course/csit/third-semester/dsa/u7-searching-and-hashing/hash-function-to-hash-table-mapping.9db174a5.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u7-searching-and-hashing/hash-function-to-hash-table-mapping.9db174a5.webp",
+      "key": "course/csit/third-semester/dsa/u7-searching-and-hashing/hash-function-to-hash-table-mapping.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u7-searching-and-hashing/hash-function-to-hash-table-mapping.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 699796
+      "bytes": 94750,
+      "contentHashed": false
     },
     "sequential-vs-binary-search-growth.webp": {
-      "key": "course/csit/third-semester/dsa/u7-searching-and-hashing/sequential-vs-binary-search-growth.d7b6f7a9.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u7-searching-and-hashing/sequential-vs-binary-search-growth.d7b6f7a9.webp",
+      "key": "course/csit/third-semester/dsa/u7-searching-and-hashing/sequential-vs-binary-search-growth.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u7-searching-and-hashing/sequential-vs-binary-search-growth.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 333676
+      "bytes": 40340,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u7-searching-and-hashing/binary-search-interval-halving.58d07cf1.webp",
-    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u7-searching-and-hashing/collision-resolution-in-a-hash-table.059d4230.webp",
-    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u7-searching-and-hashing/hash-function-to-hash-table-mapping.9db174a5.webp",
-    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u7-searching-and-hashing/sequential-vs-binary-search-growth.d7b6f7a9.webp"
+    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u7-searching-and-hashing/binary-search-interval-halving.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u7-searching-and-hashing/collision-resolution-in-a-hash-table.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u7-searching-and-hashing/hash-function-to-hash-table-mapping.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u7-searching-and-hashing/sequential-vs-binary-search-growth.webp"
   ]
 }

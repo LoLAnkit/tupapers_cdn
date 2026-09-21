@@ -1,56 +1,61 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.642Z",
+  "generatedAt": "2026-09-21T09:23:01.833Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/second-semester/ui-ux-design/advanced-techniques",
   "totalAssets": 5,
   "assets": {
     "command-control-vs-conversational-ui.webp": {
-      "key": "course/bca/second-semester/ui-ux-design/advanced-techniques/command-control-vs-conversational-ui.cc2b100f.webp",
-      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/advanced-techniques/command-control-vs-conversational-ui.cc2b100f.webp",
+      "key": "course/bca/second-semester/ui-ux-design/advanced-techniques/command-control-vs-conversational-ui.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/advanced-techniques/command-control-vs-conversational-ui.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 519854
+      "bytes": 99276,
+      "contentHashed": false
     },
     "design-for-wearable-devices.webp": {
-      "key": "course/bca/second-semester/ui-ux-design/advanced-techniques/design-for-wearable-devices.d9153923.webp",
-      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/advanced-techniques/design-for-wearable-devices.d9153923.webp",
+      "key": "course/bca/second-semester/ui-ux-design/advanced-techniques/design-for-wearable-devices.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/advanced-techniques/design-for-wearable-devices.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 394146
+      "bytes": 95952,
+      "contentHashed": false
     },
     "page-layout-anatomy.webp": {
-      "key": "course/bca/second-semester/ui-ux-design/advanced-techniques/page-layout-anatomy.b0988214.webp",
-      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/advanced-techniques/page-layout-anatomy.b0988214.webp",
+      "key": "course/bca/second-semester/ui-ux-design/advanced-techniques/page-layout-anatomy.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/advanced-techniques/page-layout-anatomy.webp",
       "contentType": "image/webp",
       "width": 1402,
       "height": 1122,
-      "bytes": 396472
+      "bytes": 91784,
+      "contentHashed": false
     },
     "speech-recognition-and-dialog-management.webp": {
-      "key": "course/bca/second-semester/ui-ux-design/advanced-techniques/speech-recognition-and-dialog-management.7a82f338.webp",
-      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/advanced-techniques/speech-recognition-and-dialog-management.7a82f338.webp",
+      "key": "course/bca/second-semester/ui-ux-design/advanced-techniques/speech-recognition-and-dialog-management.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/advanced-techniques/speech-recognition-and-dialog-management.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 500898
+      "bytes": 97440,
+      "contentHashed": false
     },
     "vui-persona-types-grid.webp": {
-      "key": "course/bca/second-semester/ui-ux-design/advanced-techniques/vui-persona-types-grid.7849c401.webp",
-      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/advanced-techniques/vui-persona-types-grid.7849c401.webp",
+      "key": "course/bca/second-semester/ui-ux-design/advanced-techniques/vui-persona-types-grid.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/advanced-techniques/vui-persona-types-grid.webp",
       "contentType": "image/webp",
       "width": 1254,
       "height": 1254,
-      "bytes": 429134
+      "bytes": 91678,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/advanced-techniques/command-control-vs-conversational-ui.cc2b100f.webp",
-    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/advanced-techniques/design-for-wearable-devices.d9153923.webp",
-    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/advanced-techniques/page-layout-anatomy.b0988214.webp",
-    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/advanced-techniques/speech-recognition-and-dialog-management.7a82f338.webp",
-    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/advanced-techniques/vui-persona-types-grid.7849c401.webp"
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/advanced-techniques/command-control-vs-conversational-ui.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/advanced-techniques/design-for-wearable-devices.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/advanced-techniques/page-layout-anatomy.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/advanced-techniques/speech-recognition-and-dialog-management.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/advanced-techniques/vui-persona-types-grid.webp"
   ]
 }

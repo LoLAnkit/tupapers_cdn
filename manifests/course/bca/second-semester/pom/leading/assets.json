@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.630Z",
+  "generatedAt": "2026-09-21T09:23:01.823Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/second-semester/pom/leading",
   "totalAssets": 4,
   "assets": {
     "crisis-leadership-response-cycle.webp": {
-      "key": "course/bca/second-semester/pom/leading/crisis-leadership-response-cycle.e5f7a212.webp",
-      "url": "https://cdn.tupapers.com/course/bca/second-semester/pom/leading/crisis-leadership-response-cycle.e5f7a212.webp",
+      "key": "course/bca/second-semester/pom/leading/crisis-leadership-response-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/pom/leading/crisis-leadership-response-cycle.webp",
       "contentType": "image/webp",
       "width": 1254,
       "height": 1254,
-      "bytes": 848560
+      "bytes": 111434,
+      "contentHashed": false
     },
     "generic-leadership-approaches.webp": {
-      "key": "course/bca/second-semester/pom/leading/generic-leadership-approaches.9d1de998.webp",
-      "url": "https://cdn.tupapers.com/course/bca/second-semester/pom/leading/generic-leadership-approaches.9d1de998.webp",
+      "key": "course/bca/second-semester/pom/leading/generic-leadership-approaches.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/pom/leading/generic-leadership-approaches.webp",
       "contentType": "image/webp",
       "width": 1448,
       "height": 1086,
-      "bytes": 622496
+      "bytes": 130002,
+      "contentHashed": false
     },
     "leadership-challenges-in-it-based-organization.webp": {
-      "key": "course/bca/second-semester/pom/leading/leadership-challenges-in-it-based-organization.8476ad96.webp",
-      "url": "https://cdn.tupapers.com/course/bca/second-semester/pom/leading/leadership-challenges-in-it-based-organization.8476ad96.webp",
+      "key": "course/bca/second-semester/pom/leading/leadership-challenges-in-it-based-organization.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/pom/leading/leadership-challenges-in-it-based-organization.webp",
       "contentType": "image/webp",
       "width": 1254,
       "height": 1254,
-      "bytes": 771100
+      "bytes": 108756,
+      "contentHashed": false
     },
     "situational-leadership-model.webp": {
-      "key": "course/bca/second-semester/pom/leading/situational-leadership-model.02293cfe.webp",
-      "url": "https://cdn.tupapers.com/course/bca/second-semester/pom/leading/situational-leadership-model.02293cfe.webp",
+      "key": "course/bca/second-semester/pom/leading/situational-leadership-model.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/pom/leading/situational-leadership-model.webp",
       "contentType": "image/webp",
       "width": 1448,
       "height": 1086,
-      "bytes": 636366
+      "bytes": 88842,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/second-semester/pom/leading/crisis-leadership-response-cycle.e5f7a212.webp",
-    "https://cdn.tupapers.com/course/bca/second-semester/pom/leading/generic-leadership-approaches.9d1de998.webp",
-    "https://cdn.tupapers.com/course/bca/second-semester/pom/leading/leadership-challenges-in-it-based-organization.8476ad96.webp",
-    "https://cdn.tupapers.com/course/bca/second-semester/pom/leading/situational-leadership-model.02293cfe.webp"
+    "https://cdn.tupapers.com/course/bca/second-semester/pom/leading/crisis-leadership-response-cycle.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/pom/leading/generic-leadership-approaches.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/pom/leading/leadership-challenges-in-it-based-organization.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/pom/leading/situational-leadership-model.webp"
   ]
 }

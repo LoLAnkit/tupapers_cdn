@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:01.395Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbm/fourth-semester/financial-management/u1-introduction",
+  "totalAssets": 6,
+  "assets": {
+    "agency-problem-relationships.webp": {
+      "key": "course/bbm/fourth-semester/financial-management/u1-introduction/agency-problem-relationships.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/financial-management/u1-introduction/agency-problem-relationships.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 69580,
+      "contentHashed": false
+    },
+    "business-ethics-and-social-responsibility.webp": {
+      "key": "course/bbm/fourth-semester/financial-management/u1-introduction/business-ethics-and-social-responsibility.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/financial-management/u1-introduction/business-ethics-and-social-responsibility.webp",
+      "contentType": "image/webp",
+      "width": 1312,
+      "height": 1199,
+      "bytes": 146748,
+      "contentHashed": false
+    },
+    "financial-decision-cycle.webp": {
+      "key": "course/bbm/fourth-semester/financial-management/u1-introduction/financial-decision-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/financial-management/u1-introduction/financial-decision-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 110130,
+      "contentHashed": false
+    },
+    "financial-management-scope-map.webp": {
+      "key": "course/bbm/fourth-semester/financial-management/u1-introduction/financial-management-scope-map.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/financial-management/u1-introduction/financial-management-scope-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 100356,
+      "contentHashed": false
+    },
+    "financial-manager-responsibilities.webp": {
+      "key": "course/bbm/fourth-semester/financial-management/u1-introduction/financial-manager-responsibilities.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/financial-management/u1-introduction/financial-manager-responsibilities.webp",
+      "contentType": "image/webp",
+      "width": 1796,
+      "height": 876,
+      "bytes": 93614,
+      "contentHashed": false
+    },
+    "forms-of-business-organization.webp": {
+      "key": "course/bbm/fourth-semester/financial-management/u1-introduction/forms-of-business-organization.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/financial-management/u1-introduction/forms-of-business-organization.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 187612,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/financial-management/u1-introduction/agency-problem-relationships.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/financial-management/u1-introduction/business-ethics-and-social-responsibility.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/financial-management/u1-introduction/financial-decision-cycle.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/financial-management/u1-introduction/financial-management-scope-map.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/financial-management/u1-introduction/financial-manager-responsibilities.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/financial-management/u1-introduction/forms-of-business-organization.webp"
+  ]
+}

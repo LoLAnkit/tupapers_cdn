@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:02.670Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/csit/fourth-semester/operating-system/u2-process-management",
+  "totalAssets": 4,
+  "assets": {
+    "cpu-scheduling-timeline-and-ready-queue.webp": {
+      "key": "course/csit/fourth-semester/operating-system/u2-process-management/cpu-scheduling-timeline-and-ready-queue.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/operating-system/u2-process-management/cpu-scheduling-timeline-and-ready-queue.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 91206,
+      "contentHashed": false
+    },
+    "critical-section-synchronization-flow.webp": {
+      "key": "course/csit/fourth-semester/operating-system/u2-process-management/critical-section-synchronization-flow.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/operating-system/u2-process-management/critical-section-synchronization-flow.webp",
+      "contentType": "image/webp",
+      "width": 1218,
+      "height": 1292,
+      "bytes": 94578,
+      "contentHashed": false
+    },
+    "process-and-thread-memory-layout.webp": {
+      "key": "course/csit/fourth-semester/operating-system/u2-process-management/process-and-thread-memory-layout.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/operating-system/u2-process-management/process-and-thread-memory-layout.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 163758,
+      "contentHashed": false
+    },
+    "process-state-transition-model.webp": {
+      "key": "course/csit/fourth-semester/operating-system/u2-process-management/process-state-transition-model.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/operating-system/u2-process-management/process-state-transition-model.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 83004,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/csit/fourth-semester/operating-system/u2-process-management/cpu-scheduling-timeline-and-ready-queue.webp",
+    "https://cdn.tupapers.com/course/csit/fourth-semester/operating-system/u2-process-management/critical-section-synchronization-flow.webp",
+    "https://cdn.tupapers.com/course/csit/fourth-semester/operating-system/u2-process-management/process-and-thread-memory-layout.webp",
+    "https://cdn.tupapers.com/course/csit/fourth-semester/operating-system/u2-process-management/process-state-transition-model.webp"
+  ]
+}

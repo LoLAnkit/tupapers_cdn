@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:02.204Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bhm/fourth-semester/hotel-engineering/u1-physical-plant-and-building",
+  "totalAssets": 4,
+  "assets": {
+    "building-load-types.webp": {
+      "key": "course/bhm/fourth-semester/hotel-engineering/u1-physical-plant-and-building/building-load-types.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/hotel-engineering/u1-physical-plant-and-building/building-load-types.webp",
+      "contentType": "image/webp",
+      "width": 1222,
+      "height": 1287,
+      "bytes": 122866,
+      "contentHashed": false
+    },
+    "high-rise-vs-low-rise.webp": {
+      "key": "course/bhm/fourth-semester/hotel-engineering/u1-physical-plant-and-building/high-rise-vs-low-rise.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/hotel-engineering/u1-physical-plant-and-building/high-rise-vs-low-rise.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 135758,
+      "contentHashed": false
+    },
+    "hotel-structural-systems.webp": {
+      "key": "course/bhm/fourth-semester/hotel-engineering/u1-physical-plant-and-building/hotel-structural-systems.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/hotel-engineering/u1-physical-plant-and-building/hotel-structural-systems.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 219394,
+      "contentHashed": false
+    },
+    "shallow-and-deep-foundations.webp": {
+      "key": "course/bhm/fourth-semester/hotel-engineering/u1-physical-plant-and-building/shallow-and-deep-foundations.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/hotel-engineering/u1-physical-plant-and-building/shallow-and-deep-foundations.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 283180,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/hotel-engineering/u1-physical-plant-and-building/building-load-types.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/hotel-engineering/u1-physical-plant-and-building/high-rise-vs-low-rise.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/hotel-engineering/u1-physical-plant-and-building/hotel-structural-systems.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/hotel-engineering/u1-physical-plant-and-building/shallow-and-deep-foundations.webp"
+  ]
+}

@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.688Z",
+  "generatedAt": "2026-09-21T09:23:01.879Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/seventh-semester/artifical-intelligence/u4-learning",
   "totalAssets": 4,
   "assets": {
     "explanation-based-learning.webp": {
-      "key": "course/bca/seventh-semester/artifical-intelligence/u4-learning/explanation-based-learning.c657ce6f.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u4-learning/explanation-based-learning.c657ce6f.webp",
+      "key": "course/bca/seventh-semester/artifical-intelligence/u4-learning/explanation-based-learning.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u4-learning/explanation-based-learning.webp",
       "contentType": "image/webp",
       "width": 1719,
       "height": 915,
-      "bytes": 348904
+      "bytes": 57230,
+      "contentHashed": false
     },
     "genetic-algorithm-cycle.webp": {
-      "key": "course/bca/seventh-semester/artifical-intelligence/u4-learning/genetic-algorithm-cycle.47bdb61e.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u4-learning/genetic-algorithm-cycle.47bdb61e.webp",
+      "key": "course/bca/seventh-semester/artifical-intelligence/u4-learning/genetic-algorithm-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u4-learning/genetic-algorithm-cycle.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 509162
+      "bytes": 58168,
+      "contentHashed": false
     },
     "learning-by-analogy.webp": {
-      "key": "course/bca/seventh-semester/artifical-intelligence/u4-learning/learning-by-analogy.5fc81e65.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u4-learning/learning-by-analogy.5fc81e65.webp",
+      "key": "course/bca/seventh-semester/artifical-intelligence/u4-learning/learning-by-analogy.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u4-learning/learning-by-analogy.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 416054
+      "bytes": 73230,
+      "contentHashed": false
     },
     "supervised-and-unsupervised-learning.webp": {
-      "key": "course/bca/seventh-semester/artifical-intelligence/u4-learning/supervised-and-unsupervised-learning.3c81ab6f.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u4-learning/supervised-and-unsupervised-learning.3c81ab6f.webp",
+      "key": "course/bca/seventh-semester/artifical-intelligence/u4-learning/supervised-and-unsupervised-learning.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u4-learning/supervised-and-unsupervised-learning.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 384756
+      "bytes": 65552,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u4-learning/explanation-based-learning.c657ce6f.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u4-learning/genetic-algorithm-cycle.47bdb61e.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u4-learning/learning-by-analogy.5fc81e65.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u4-learning/supervised-and-unsupervised-learning.3c81ab6f.webp"
+    "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u4-learning/explanation-based-learning.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u4-learning/genetic-algorithm-cycle.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u4-learning/learning-by-analogy.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/artifical-intelligence/u4-learning/supervised-and-unsupervised-learning.webp"
   ]
 }

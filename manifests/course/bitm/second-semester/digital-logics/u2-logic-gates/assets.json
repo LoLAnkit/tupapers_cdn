@@ -1,38 +1,41 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.169Z",
+  "generatedAt": "2026-09-21T09:23:02.269Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bitm/second-semester/digital-logics/u2-logic-gates",
   "totalAssets": 3,
   "assets": {
     "logic-gate-symbol-set.webp": {
-      "key": "course/bitm/second-semester/digital-logics/u2-logic-gates/logic-gate-symbol-set.cc137b48.webp",
-      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u2-logic-gates/logic-gate-symbol-set.cc137b48.webp",
+      "key": "course/bitm/second-semester/digital-logics/u2-logic-gates/logic-gate-symbol-set.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u2-logic-gates/logic-gate-symbol-set.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 304758
+      "bytes": 38104,
+      "contentHashed": false
     },
     "nand-as-universal-gate.webp": {
-      "key": "course/bitm/second-semester/digital-logics/u2-logic-gates/nand-as-universal-gate.71bbbd07.webp",
-      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u2-logic-gates/nand-as-universal-gate.71bbbd07.webp",
+      "key": "course/bitm/second-semester/digital-logics/u2-logic-gates/nand-as-universal-gate.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u2-logic-gates/nand-as-universal-gate.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 305190
+      "bytes": 43918,
+      "contentHashed": false
     },
     "nor-as-universal-gate.webp": {
-      "key": "course/bitm/second-semester/digital-logics/u2-logic-gates/nor-as-universal-gate.72a78381.webp",
-      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u2-logic-gates/nor-as-universal-gate.72a78381.webp",
+      "key": "course/bitm/second-semester/digital-logics/u2-logic-gates/nor-as-universal-gate.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u2-logic-gates/nor-as-universal-gate.webp",
       "contentType": "image/webp",
       "width": 1881,
       "height": 836,
-      "bytes": 281524
+      "bytes": 45224,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u2-logic-gates/logic-gate-symbol-set.cc137b48.webp",
-    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u2-logic-gates/nand-as-universal-gate.71bbbd07.webp",
-    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u2-logic-gates/nor-as-universal-gate.72a78381.webp"
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u2-logic-gates/logic-gate-symbol-set.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u2-logic-gates/nand-as-universal-gate.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u2-logic-gates/nor-as-universal-gate.webp"
   ]
 }

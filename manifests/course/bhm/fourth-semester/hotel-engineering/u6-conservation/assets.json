@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:02.220Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bhm/fourth-semester/hotel-engineering/u6-conservation",
+  "totalAssets": 3,
+  "assets": {
+    "hotel-energy-conservation-map.webp": {
+      "key": "course/bhm/fourth-semester/hotel-engineering/u6-conservation/hotel-energy-conservation-map.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/hotel-engineering/u6-conservation/hotel-energy-conservation-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 245370,
+      "contentHashed": false
+    },
+    "hotel-solid-waste-flow.webp": {
+      "key": "course/bhm/fourth-semester/hotel-engineering/u6-conservation/hotel-solid-waste-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/hotel-engineering/u6-conservation/hotel-solid-waste-flow.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 210204,
+      "contentHashed": false
+    },
+    "hotel-water-conservation-map.webp": {
+      "key": "course/bhm/fourth-semester/hotel-engineering/u6-conservation/hotel-water-conservation-map.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/hotel-engineering/u6-conservation/hotel-water-conservation-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 278036,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/hotel-engineering/u6-conservation/hotel-energy-conservation-map.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/hotel-engineering/u6-conservation/hotel-solid-waste-flow.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/hotel-engineering/u6-conservation/hotel-water-conservation-map.webp"
+  ]
+}

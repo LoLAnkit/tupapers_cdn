@@ -1,56 +1,61 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.989Z",
+  "generatedAt": "2026-09-21T09:23:02.103Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/sixth-semester/network-programming/u2-internet-addresses",
   "totalAssets": 5,
   "assets": {
     "inetaddress-resolution-flow.webp": {
-      "key": "course/bca/sixth-semester/network-programming/u2-internet-addresses/inetaddress-resolution-flow.e0e23592.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u2-internet-addresses/inetaddress-resolution-flow.e0e23592.webp",
+      "key": "course/bca/sixth-semester/network-programming/u2-internet-addresses/inetaddress-resolution-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u2-internet-addresses/inetaddress-resolution-flow.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 951140
+      "bytes": 140452,
+      "contentHashed": false
     },
     "ipv4-and-ipv6-address-layout.webp": {
-      "key": "course/bca/sixth-semester/network-programming/u2-internet-addresses/ipv4-and-ipv6-address-layout.b308859b.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u2-internet-addresses/ipv4-and-ipv6-address-layout.b308859b.webp",
+      "key": "course/bca/sixth-semester/network-programming/u2-internet-addresses/ipv4-and-ipv6-address-layout.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u2-internet-addresses/ipv4-and-ipv6-address-layout.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 919502
+      "bytes": 126188,
+      "contentHashed": false
     },
     "networkinterface-factory-and-getter-flow.webp": {
-      "key": "course/bca/sixth-semester/network-programming/u2-internet-addresses/networkinterface-factory-and-getter-flow.17a38bcb.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u2-internet-addresses/networkinterface-factory-and-getter-flow.17a38bcb.webp",
+      "key": "course/bca/sixth-semester/network-programming/u2-internet-addresses/networkinterface-factory-and-getter-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u2-internet-addresses/networkinterface-factory-and-getter-flow.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 856560
+      "bytes": 117950,
+      "contentHashed": false
     },
     "networkinterface-object-structure.webp": {
-      "key": "course/bca/sixth-semester/network-programming/u2-internet-addresses/networkinterface-object-structure.793c2ebb.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u2-internet-addresses/networkinterface-object-structure.793c2ebb.webp",
+      "key": "course/bca/sixth-semester/network-programming/u2-internet-addresses/networkinterface-object-structure.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u2-internet-addresses/networkinterface-object-structure.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 764292
+      "bytes": 124068,
+      "contentHashed": false
     },
     "traceroute-working-principle.webp": {
-      "key": "course/bca/sixth-semester/network-programming/u2-internet-addresses/traceroute-working-principle.9d63a974.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u2-internet-addresses/traceroute-working-principle.9d63a974.webp",
+      "key": "course/bca/sixth-semester/network-programming/u2-internet-addresses/traceroute-working-principle.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u2-internet-addresses/traceroute-working-principle.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 484300
+      "bytes": 71864,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u2-internet-addresses/inetaddress-resolution-flow.e0e23592.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u2-internet-addresses/ipv4-and-ipv6-address-layout.b308859b.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u2-internet-addresses/networkinterface-factory-and-getter-flow.17a38bcb.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u2-internet-addresses/networkinterface-object-structure.793c2ebb.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u2-internet-addresses/traceroute-working-principle.9d63a974.webp"
+    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u2-internet-addresses/inetaddress-resolution-flow.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u2-internet-addresses/ipv4-and-ipv6-address-layout.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u2-internet-addresses/networkinterface-factory-and-getter-flow.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u2-internet-addresses/networkinterface-object-structure.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u2-internet-addresses/traceroute-working-principle.webp"
   ]
 }

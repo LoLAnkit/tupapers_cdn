@@ -1,56 +1,61 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.704Z",
+  "generatedAt": "2026-09-21T09:23:02.710Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/csit/third-semester/computer-architecture/u1-data-representation",
   "totalAssets": 5,
   "assets": {
     "arithmetic-overflow-detection.webp": {
-      "key": "course/csit/third-semester/computer-architecture/u1-data-representation/arithmetic-overflow-detection.641d769b.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u1-data-representation/arithmetic-overflow-detection.641d769b.webp",
+      "key": "course/csit/third-semester/computer-architecture/u1-data-representation/arithmetic-overflow-detection.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u1-data-representation/arithmetic-overflow-detection.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 552908
+      "bytes": 102732,
+      "contentHashed": false
     },
     "binary-code-relationship-map.webp": {
-      "key": "course/csit/third-semester/computer-architecture/u1-data-representation/binary-code-relationship-map.243a30db.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u1-data-representation/binary-code-relationship-map.243a30db.webp",
+      "key": "course/csit/third-semester/computer-architecture/u1-data-representation/binary-code-relationship-map.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u1-data-representation/binary-code-relationship-map.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 719848
+      "bytes": 164438,
+      "contentHashed": false
     },
     "even-parity-generator-and-checker.webp": {
-      "key": "course/csit/third-semester/computer-architecture/u1-data-representation/even-parity-generator-and-checker.81853d40.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u1-data-representation/even-parity-generator-and-checker.81853d40.webp",
+      "key": "course/csit/third-semester/computer-architecture/u1-data-representation/even-parity-generator-and-checker.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u1-data-representation/even-parity-generator-and-checker.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 339360
+      "bytes": 49308,
+      "contentHashed": false
     },
     "floating-point-representation.webp": {
-      "key": "course/csit/third-semester/computer-architecture/u1-data-representation/floating-point-representation.2bc58723.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u1-data-representation/floating-point-representation.2bc58723.webp",
+      "key": "course/csit/third-semester/computer-architecture/u1-data-representation/floating-point-representation.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u1-data-representation/floating-point-representation.webp",
       "contentType": "image/webp",
       "width": 1942,
       "height": 809,
-      "bytes": 885028
+      "bytes": 105748,
+      "contentHashed": false
     },
     "signed-number-representations.webp": {
-      "key": "course/csit/third-semester/computer-architecture/u1-data-representation/signed-number-representations.7f7db394.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u1-data-representation/signed-number-representations.7f7db394.webp",
+      "key": "course/csit/third-semester/computer-architecture/u1-data-representation/signed-number-representations.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u1-data-representation/signed-number-representations.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 901992
+      "bytes": 184132,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u1-data-representation/arithmetic-overflow-detection.641d769b.webp",
-    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u1-data-representation/binary-code-relationship-map.243a30db.webp",
-    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u1-data-representation/even-parity-generator-and-checker.81853d40.webp",
-    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u1-data-representation/floating-point-representation.2bc58723.webp",
-    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u1-data-representation/signed-number-representations.7f7db394.webp"
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u1-data-representation/arithmetic-overflow-detection.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u1-data-representation/binary-code-relationship-map.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u1-data-representation/even-parity-generator-and-checker.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u1-data-representation/floating-point-representation.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u1-data-representation/signed-number-representations.webp"
   ]
 }

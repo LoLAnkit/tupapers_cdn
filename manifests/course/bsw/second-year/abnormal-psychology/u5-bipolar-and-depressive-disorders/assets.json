@@ -1,38 +1,41 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.403Z",
+  "generatedAt": "2026-09-21T09:23:02.433Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/second-year/abnormal-psychology/u5-bipolar-and-depressive-disorders",
   "totalAssets": 3,
   "assets": {
     "bipolar-and-depressive-disorder-map.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u5-bipolar-and-depressive-disorders/bipolar-and-depressive-disorder-map.74cd4fce.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u5-bipolar-and-depressive-disorders/bipolar-and-depressive-disorder-map.74cd4fce.webp",
+      "key": "course/bsw/second-year/abnormal-psychology/u5-bipolar-and-depressive-disorders/bipolar-and-depressive-disorder-map.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u5-bipolar-and-depressive-disorders/bipolar-and-depressive-disorder-map.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 657264
+      "bytes": 114818,
+      "contentHashed": false
     },
     "bipolar-mood-episode-cycle.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u5-bipolar-and-depressive-disorders/bipolar-mood-episode-cycle.20f4e8d4.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u5-bipolar-and-depressive-disorders/bipolar-mood-episode-cycle.20f4e8d4.webp",
+      "key": "course/bsw/second-year/abnormal-psychology/u5-bipolar-and-depressive-disorders/bipolar-mood-episode-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u5-bipolar-and-depressive-disorders/bipolar-mood-episode-cycle.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 760554
+      "bytes": 117842,
+      "contentHashed": false
     },
     "causes-of-depressive-disorder.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u5-bipolar-and-depressive-disorders/causes-of-depressive-disorder.d708e5b8.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u5-bipolar-and-depressive-disorders/causes-of-depressive-disorder.d708e5b8.webp",
+      "key": "course/bsw/second-year/abnormal-psychology/u5-bipolar-and-depressive-disorders/causes-of-depressive-disorder.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u5-bipolar-and-depressive-disorders/causes-of-depressive-disorder.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 607608
+      "bytes": 57820,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u5-bipolar-and-depressive-disorders/bipolar-and-depressive-disorder-map.74cd4fce.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u5-bipolar-and-depressive-disorders/bipolar-mood-episode-cycle.20f4e8d4.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u5-bipolar-and-depressive-disorders/causes-of-depressive-disorder.d708e5b8.webp"
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u5-bipolar-and-depressive-disorders/bipolar-and-depressive-disorder-map.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u5-bipolar-and-depressive-disorders/bipolar-mood-episode-cycle.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u5-bipolar-and-depressive-disorders/causes-of-depressive-disorder.webp"
   ]
 }

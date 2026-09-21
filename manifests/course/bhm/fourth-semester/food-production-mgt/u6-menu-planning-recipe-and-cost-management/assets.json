@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:02.171Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bhm/fourth-semester/food-production-mgt/u6-menu-planning-recipe-and-cost-management",
+  "totalAssets": 4,
+  "assets": {
+    "menu-engineering-evaluation-matrix.webp": {
+      "key": "course/bhm/fourth-semester/food-production-mgt/u6-menu-planning-recipe-and-cost-management/menu-engineering-evaluation-matrix.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u6-menu-planning-recipe-and-cost-management/menu-engineering-evaluation-matrix.webp",
+      "contentType": "image/webp",
+      "width": 1312,
+      "height": 1199,
+      "bytes": 138632,
+      "contentHashed": false
+    },
+    "menu-planning-decision-flow.webp": {
+      "key": "course/bhm/fourth-semester/food-production-mgt/u6-menu-planning-recipe-and-cost-management/menu-planning-decision-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u6-menu-planning-recipe-and-cost-management/menu-planning-decision-flow.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 98882,
+      "contentHashed": false
+    },
+    "recipe-costing-and-conversion-workflow.webp": {
+      "key": "course/bhm/fourth-semester/food-production-mgt/u6-menu-planning-recipe-and-cost-management/recipe-costing-and-conversion-workflow.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u6-menu-planning-recipe-and-cost-management/recipe-costing-and-conversion-workflow.webp",
+      "contentType": "image/webp",
+      "width": 2094,
+      "height": 751,
+      "bytes": 154078,
+      "contentHashed": false
+    },
+    "yield-and-food-cost-relationship.webp": {
+      "key": "course/bhm/fourth-semester/food-production-mgt/u6-menu-planning-recipe-and-cost-management/yield-and-food-cost-relationship.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u6-menu-planning-recipe-and-cost-management/yield-and-food-cost-relationship.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 126220,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u6-menu-planning-recipe-and-cost-management/menu-engineering-evaluation-matrix.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u6-menu-planning-recipe-and-cost-management/menu-planning-decision-flow.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u6-menu-planning-recipe-and-cost-management/recipe-costing-and-conversion-workflow.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u6-menu-planning-recipe-and-cost-management/yield-and-food-cost-relationship.webp"
+  ]
+}

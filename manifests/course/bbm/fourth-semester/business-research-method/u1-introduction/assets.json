@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:01.366Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbm/fourth-semester/business-research-method/u1-introduction",
+  "totalAssets": 6,
+  "assets": {
+    "management-research-in-decision-making.webp": {
+      "key": "course/bbm/fourth-semester/business-research-method/u1-introduction/management-research-in-decision-making.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/business-research-method/u1-introduction/management-research-in-decision-making.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 80786,
+      "contentHashed": false
+    },
+    "meaning-of-research-map.webp": {
+      "key": "course/bbm/fourth-semester/business-research-method/u1-introduction/meaning-of-research-map.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/business-research-method/u1-introduction/meaning-of-research-map.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 63798,
+      "contentHashed": false
+    },
+    "positivism-vs-interpretivism.webp": {
+      "key": "course/bbm/fourth-semester/business-research-method/u1-introduction/positivism-vs-interpretivism.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/business-research-method/u1-introduction/positivism-vs-interpretivism.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 109274,
+      "contentHashed": false
+    },
+    "research-ethics-decision-path.webp": {
+      "key": "course/bbm/fourth-semester/business-research-method/u1-introduction/research-ethics-decision-path.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/business-research-method/u1-introduction/research-ethics-decision-path.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 70020,
+      "contentHashed": false
+    },
+    "scientific-research-process.webp": {
+      "key": "course/bbm/fourth-semester/business-research-method/u1-introduction/scientific-research-process.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/business-research-method/u1-introduction/scientific-research-process.webp",
+      "contentType": "image/webp",
+      "width": 2135,
+      "height": 736,
+      "bytes": 227830,
+      "contentHashed": false
+    },
+    "types-of-research.webp": {
+      "key": "course/bbm/fourth-semester/business-research-method/u1-introduction/types-of-research.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/business-research-method/u1-introduction/types-of-research.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 71662,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/business-research-method/u1-introduction/management-research-in-decision-making.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/business-research-method/u1-introduction/meaning-of-research-map.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/business-research-method/u1-introduction/positivism-vs-interpretivism.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/business-research-method/u1-introduction/research-ethics-decision-path.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/business-research-method/u1-introduction/scientific-research-process.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/business-research-method/u1-introduction/types-of-research.webp"
+  ]
+}

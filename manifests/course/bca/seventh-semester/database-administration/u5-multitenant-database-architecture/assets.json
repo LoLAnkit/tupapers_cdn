@@ -1,38 +1,41 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.767Z",
+  "generatedAt": "2026-09-21T09:23:01.948Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/seventh-semester/database-administration/u5-multitenant-database-architecture",
   "totalAssets": 3,
   "assets": {
     "cdb-and-pdb-architecture.webp": {
-      "key": "course/bca/seventh-semester/database-administration/u5-multitenant-database-architecture/cdb-and-pdb-architecture.c239f7bb.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/database-administration/u5-multitenant-database-architecture/cdb-and-pdb-architecture.c239f7bb.webp",
+      "key": "course/bca/seventh-semester/database-administration/u5-multitenant-database-architecture/cdb-and-pdb-architecture.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/database-administration/u5-multitenant-database-architecture/cdb-and-pdb-architecture.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 853812
+      "bytes": 282238,
+      "contentHashed": false
     },
     "cdb-creation-structure.webp": {
-      "key": "course/bca/seventh-semester/database-administration/u5-multitenant-database-architecture/cdb-creation-structure.196733c8.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/database-administration/u5-multitenant-database-architecture/cdb-creation-structure.196733c8.webp",
+      "key": "course/bca/seventh-semester/database-administration/u5-multitenant-database-architecture/cdb-creation-structure.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/database-administration/u5-multitenant-database-architecture/cdb-creation-structure.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 335868
+      "bytes": 339820,
+      "contentHashed": false
     },
     "common-and-local-security-scope.webp": {
-      "key": "course/bca/seventh-semester/database-administration/u5-multitenant-database-architecture/common-and-local-security-scope.103296ff.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/database-administration/u5-multitenant-database-architecture/common-and-local-security-scope.103296ff.webp",
+      "key": "course/bca/seventh-semester/database-administration/u5-multitenant-database-architecture/common-and-local-security-scope.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/database-administration/u5-multitenant-database-architecture/common-and-local-security-scope.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 356368
+      "bytes": 73550,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/seventh-semester/database-administration/u5-multitenant-database-architecture/cdb-and-pdb-architecture.c239f7bb.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/database-administration/u5-multitenant-database-architecture/cdb-creation-structure.196733c8.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/database-administration/u5-multitenant-database-architecture/common-and-local-security-scope.103296ff.webp"
+    "https://cdn.tupapers.com/course/bca/seventh-semester/database-administration/u5-multitenant-database-architecture/cdb-and-pdb-architecture.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/database-administration/u5-multitenant-database-architecture/cdb-creation-structure.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/database-administration/u5-multitenant-database-architecture/common-and-local-security-scope.webp"
   ]
 }

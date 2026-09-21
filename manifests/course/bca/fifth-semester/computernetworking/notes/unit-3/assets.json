@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.571Z",
+  "generatedAt": "2026-09-21T09:23:01.544Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/fifth-semester/computernetworking/notes/unit-3",
   "totalAssets": 4,
   "assets": {
     "crc-division-circuit.webp": {
-      "key": "course/bca/fifth-semester/computernetworking/notes/unit-3/crc-division-circuit.e51f0cd4.webp",
-      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-3/crc-division-circuit.e51f0cd4.webp",
+      "key": "course/bca/fifth-semester/computernetworking/notes/unit-3/crc-division-circuit.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-3/crc-division-circuit.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 687170
+      "bytes": 94324,
+      "contentHashed": false
     },
     "go-back-n-arq-sliding-window-diagram.webp": {
-      "key": "course/bca/fifth-semester/computernetworking/notes/unit-3/go-back-n-arq-sliding-window-diagram.73ee4ef4.webp",
-      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-3/go-back-n-arq-sliding-window-diagram.73ee4ef4.webp",
+      "key": "course/bca/fifth-semester/computernetworking/notes/unit-3/go-back-n-arq-sliding-window-diagram.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-3/go-back-n-arq-sliding-window-diagram.webp",
       "contentType": "image/webp",
       "width": 1402,
       "height": 1122,
-      "bytes": 774572
+      "bytes": 107258,
+      "contentHashed": false
     },
     "ppp-frame-format.webp": {
-      "key": "course/bca/fifth-semester/computernetworking/notes/unit-3/ppp-frame-format.82024a17.webp",
-      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-3/ppp-frame-format.82024a17.webp",
+      "key": "course/bca/fifth-semester/computernetworking/notes/unit-3/ppp-frame-format.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-3/ppp-frame-format.webp",
       "contentType": "image/webp",
       "width": 1692,
       "height": 929,
-      "bytes": 714822
+      "bytes": 88748,
+      "contentHashed": false
     },
     "pure-aloha-vs-slotted-aloha.webp": {
-      "key": "course/bca/fifth-semester/computernetworking/notes/unit-3/pure-aloha-vs-slotted-aloha.54be5df9.webp",
-      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-3/pure-aloha-vs-slotted-aloha.54be5df9.webp",
+      "key": "course/bca/fifth-semester/computernetworking/notes/unit-3/pure-aloha-vs-slotted-aloha.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-3/pure-aloha-vs-slotted-aloha.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 758294
+      "bytes": 112338,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-3/crc-division-circuit.e51f0cd4.webp",
-    "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-3/go-back-n-arq-sliding-window-diagram.73ee4ef4.webp",
-    "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-3/ppp-frame-format.82024a17.webp",
-    "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-3/pure-aloha-vs-slotted-aloha.54be5df9.webp"
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-3/crc-division-circuit.webp",
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-3/go-back-n-arq-sliding-window-diagram.webp",
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-3/ppp-frame-format.webp",
+    "https://cdn.tupapers.com/course/bca/fifth-semester/computernetworking/notes/unit-3/pure-aloha-vs-slotted-aloha.webp"
   ]
 }

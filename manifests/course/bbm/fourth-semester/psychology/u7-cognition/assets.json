@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:01.500Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbm/fourth-semester/psychology/u7-cognition",
+  "totalAssets": 3,
+  "assets": {
+    "creative-thinking-factors.webp": {
+      "key": "course/bbm/fourth-semester/psychology/u7-cognition/creative-thinking-factors.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u7-cognition/creative-thinking-factors.webp",
+      "contentType": "image/webp",
+      "width": 1402,
+      "height": 1122,
+      "bytes": 105854,
+      "contentHashed": false
+    },
+    "decision-making-biases-map.webp": {
+      "key": "course/bbm/fourth-semester/psychology/u7-cognition/decision-making-biases-map.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u7-cognition/decision-making-biases-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 136078,
+      "contentHashed": false
+    },
+    "problem-solving-methods-compared.webp": {
+      "key": "course/bbm/fourth-semester/psychology/u7-cognition/problem-solving-methods-compared.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u7-cognition/problem-solving-methods-compared.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 161108,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u7-cognition/creative-thinking-factors.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u7-cognition/decision-making-biases-map.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u7-cognition/problem-solving-methods-compared.webp"
+  ]
+}

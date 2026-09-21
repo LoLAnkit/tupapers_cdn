@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.429Z",
+  "generatedAt": "2026-09-21T09:23:02.446Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/second-year/abnormal-psychology/u9-eating-disorder",
   "totalAssets": 4,
   "assets": {
     "anorexia-bulimia-and-binge-eating-comparison.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u9-eating-disorder/anorexia-bulimia-and-binge-eating-comparison.3e5d8620.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u9-eating-disorder/anorexia-bulimia-and-binge-eating-comparison.3e5d8620.webp",
+      "key": "course/bsw/second-year/abnormal-psychology/u9-eating-disorder/anorexia-bulimia-and-binge-eating-comparison.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u9-eating-disorder/anorexia-bulimia-and-binge-eating-comparison.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 736154
+      "bytes": 168934,
+      "contentHashed": false
     },
     "binge-purge-cycle.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u9-eating-disorder/binge-purge-cycle.c7d3d4ad.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u9-eating-disorder/binge-purge-cycle.c7d3d4ad.webp",
+      "key": "course/bsw/second-year/abnormal-psychology/u9-eating-disorder/binge-purge-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u9-eating-disorder/binge-purge-cycle.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 860684
+      "bytes": 144748,
+      "contentHashed": false
     },
     "causes-of-eating-disorders.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u9-eating-disorder/causes-of-eating-disorders.f866de57.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u9-eating-disorder/causes-of-eating-disorders.f866de57.webp",
+      "key": "course/bsw/second-year/abnormal-psychology/u9-eating-disorder/causes-of-eating-disorders.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u9-eating-disorder/causes-of-eating-disorders.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 624510
+      "bytes": 60926,
+      "contentHashed": false
     },
     "eating-disorder-classification.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u9-eating-disorder/eating-disorder-classification.8d50fe3d.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u9-eating-disorder/eating-disorder-classification.8d50fe3d.webp",
+      "key": "course/bsw/second-year/abnormal-psychology/u9-eating-disorder/eating-disorder-classification.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u9-eating-disorder/eating-disorder-classification.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 844054
+      "bytes": 141196,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u9-eating-disorder/anorexia-bulimia-and-binge-eating-comparison.3e5d8620.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u9-eating-disorder/binge-purge-cycle.c7d3d4ad.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u9-eating-disorder/causes-of-eating-disorders.f866de57.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u9-eating-disorder/eating-disorder-classification.8d50fe3d.webp"
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u9-eating-disorder/anorexia-bulimia-and-binge-eating-comparison.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u9-eating-disorder/binge-purge-cycle.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u9-eating-disorder/causes-of-eating-disorders.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u9-eating-disorder/eating-disorder-classification.webp"
   ]
 }

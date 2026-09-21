@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:01.476Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbm/fourth-semester/psychology/u3-perception-social-thought-and-behavior",
+  "totalAssets": 4,
+  "assets": {
+    "kellys-attribution-theory.webp": {
+      "key": "course/bbm/fourth-semester/psychology/u3-perception-social-thought-and-behavior/kellys-attribution-theory.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u3-perception-social-thought-and-behavior/kellys-attribution-theory.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 119330,
+      "contentHashed": false
+    },
+    "milgrams-obedience-experiment.webp": {
+      "key": "course/bbm/fourth-semester/psychology/u3-perception-social-thought-and-behavior/milgrams-obedience-experiment.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u3-perception-social-thought-and-behavior/milgrams-obedience-experiment.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 231782,
+      "contentHashed": false
+    },
+    "perceptual-organization-principles.webp": {
+      "key": "course/bbm/fourth-semester/psychology/u3-perception-social-thought-and-behavior/perceptual-organization-principles.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u3-perception-social-thought-and-behavior/perceptual-organization-principles.webp",
+      "contentType": "image/webp",
+      "width": 1983,
+      "height": 793,
+      "bytes": 88896,
+      "contentHashed": false
+    },
+    "social-influence-continuum.webp": {
+      "key": "course/bbm/fourth-semester/psychology/u3-perception-social-thought-and-behavior/social-influence-continuum.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u3-perception-social-thought-and-behavior/social-influence-continuum.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 173662,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u3-perception-social-thought-and-behavior/kellys-attribution-theory.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u3-perception-social-thought-and-behavior/milgrams-obedience-experiment.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u3-perception-social-thought-and-behavior/perceptual-organization-principles.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u3-perception-social-thought-and-behavior/social-influence-continuum.webp"
+  ]
+}

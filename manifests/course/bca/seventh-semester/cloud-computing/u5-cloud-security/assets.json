@@ -1,56 +1,61 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.719Z",
+  "generatedAt": "2026-09-21T09:23:01.907Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/seventh-semester/cloud-computing/u5-cloud-security",
   "totalAssets": 5,
   "assets": {
     "cloud-application-security-layers.webp": {
-      "key": "course/bca/seventh-semester/cloud-computing/u5-cloud-security/cloud-application-security-layers.052f07e4.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u5-cloud-security/cloud-application-security-layers.052f07e4.webp",
+      "key": "course/bca/seventh-semester/cloud-computing/u5-cloud-security/cloud-application-security-layers.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u5-cloud-security/cloud-application-security-layers.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 393898
+      "bytes": 68268,
+      "contentHashed": false
     },
     "cloud-data-security-lifecycle.webp": {
-      "key": "course/bca/seventh-semester/cloud-computing/u5-cloud-security/cloud-data-security-lifecycle.fd7e5b97.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u5-cloud-security/cloud-data-security-lifecycle.fd7e5b97.webp",
+      "key": "course/bca/seventh-semester/cloud-computing/u5-cloud-security/cloud-data-security-lifecycle.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u5-cloud-security/cloud-data-security-lifecycle.webp",
       "contentType": "image/webp",
       "width": 1254,
       "height": 1254,
-      "bytes": 527866
+      "bytes": 98038,
+      "contentHashed": false
     },
     "cloud-security-architecture.webp": {
-      "key": "course/bca/seventh-semester/cloud-computing/u5-cloud-security/cloud-security-architecture.2c3b3dc0.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u5-cloud-security/cloud-security-architecture.2c3b3dc0.webp",
+      "key": "course/bca/seventh-semester/cloud-computing/u5-cloud-security/cloud-security-architecture.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u5-cloud-security/cloud-security-architecture.webp",
       "contentType": "image/webp",
       "width": 1692,
       "height": 930,
-      "bytes": 556462
+      "bytes": 114876,
+      "contentHashed": false
     },
     "security-monitoring-pipeline.webp": {
-      "key": "course/bca/seventh-semester/cloud-computing/u5-cloud-security/security-monitoring-pipeline.cc4b81f1.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u5-cloud-security/security-monitoring-pipeline.cc4b81f1.webp",
+      "key": "course/bca/seventh-semester/cloud-computing/u5-cloud-security/security-monitoring-pipeline.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u5-cloud-security/security-monitoring-pipeline.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 508066
+      "bytes": 73952,
+      "contentHashed": false
     },
     "shared-responsibility-model.webp": {
-      "key": "course/bca/seventh-semester/cloud-computing/u5-cloud-security/shared-responsibility-model.ea975d80.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u5-cloud-security/shared-responsibility-model.ea975d80.webp",
+      "key": "course/bca/seventh-semester/cloud-computing/u5-cloud-security/shared-responsibility-model.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u5-cloud-security/shared-responsibility-model.webp",
       "contentType": "image/webp",
       "width": 1024,
       "height": 1536,
-      "bytes": 990068
+      "bytes": 326840,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u5-cloud-security/cloud-application-security-layers.052f07e4.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u5-cloud-security/cloud-data-security-lifecycle.fd7e5b97.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u5-cloud-security/cloud-security-architecture.2c3b3dc0.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u5-cloud-security/security-monitoring-pipeline.cc4b81f1.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u5-cloud-security/shared-responsibility-model.ea975d80.webp"
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u5-cloud-security/cloud-application-security-layers.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u5-cloud-security/cloud-data-security-lifecycle.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u5-cloud-security/cloud-security-architecture.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u5-cloud-security/security-monitoring-pipeline.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u5-cloud-security/shared-responsibility-model.webp"
   ]
 }

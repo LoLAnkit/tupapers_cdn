@@ -1,56 +1,61 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.705Z",
+  "generatedAt": "2026-09-21T09:23:01.895Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/seventh-semester/cloud-computing/u2-cloud-architecture-and-service-models",
   "totalAssets": 5,
   "assets": {
     "cloud-deployment-models.webp": {
-      "key": "course/bca/seventh-semester/cloud-computing/u2-cloud-architecture-and-service-models/cloud-deployment-models.6e26ce4d.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u2-cloud-architecture-and-service-models/cloud-deployment-models.6e26ce4d.webp",
+      "key": "course/bca/seventh-semester/cloud-computing/u2-cloud-architecture-and-service-models/cloud-deployment-models.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u2-cloud-architecture-and-service-models/cloud-deployment-models.webp",
       "contentType": "image/webp",
       "width": 1254,
       "height": 1254,
-      "bytes": 686982
+      "bytes": 119998,
+      "contentHashed": false
     },
     "cloud-reference-model.webp": {
-      "key": "course/bca/seventh-semester/cloud-computing/u2-cloud-architecture-and-service-models/cloud-reference-model.24b45539.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u2-cloud-architecture-and-service-models/cloud-reference-model.24b45539.webp",
+      "key": "course/bca/seventh-semester/cloud-computing/u2-cloud-architecture-and-service-models/cloud-reference-model.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u2-cloud-architecture-and-service-models/cloud-reference-model.webp",
       "contentType": "image/webp",
       "width": 1203,
       "height": 1307,
-      "bytes": 800460
+      "bytes": 111680,
+      "contentHashed": false
     },
     "cloud-service-model-stack.webp": {
-      "key": "course/bca/seventh-semester/cloud-computing/u2-cloud-architecture-and-service-models/cloud-service-model-stack.c841150e.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u2-cloud-architecture-and-service-models/cloud-service-model-stack.c841150e.webp",
+      "key": "course/bca/seventh-semester/cloud-computing/u2-cloud-architecture-and-service-models/cloud-service-model-stack.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u2-cloud-architecture-and-service-models/cloud-service-model-stack.webp",
       "contentType": "image/webp",
       "width": 1218,
       "height": 1292,
-      "bytes": 801570
+      "bytes": 75990,
+      "contentHashed": false
     },
     "security-trust-and-privacy-boundaries.webp": {
-      "key": "course/bca/seventh-semester/cloud-computing/u2-cloud-architecture-and-service-models/security-trust-and-privacy-boundaries.39453cc0.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u2-cloud-architecture-and-service-models/security-trust-and-privacy-boundaries.39453cc0.webp",
+      "key": "course/bca/seventh-semester/cloud-computing/u2-cloud-architecture-and-service-models/security-trust-and-privacy-boundaries.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u2-cloud-architecture-and-service-models/security-trust-and-privacy-boundaries.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 826400
+      "bytes": 151680,
+      "contentHashed": false
     },
     "soa-roles-and-interaction.webp": {
-      "key": "course/bca/seventh-semester/cloud-computing/u2-cloud-architecture-and-service-models/soa-roles-and-interaction.131d2cf3.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u2-cloud-architecture-and-service-models/soa-roles-and-interaction.131d2cf3.webp",
+      "key": "course/bca/seventh-semester/cloud-computing/u2-cloud-architecture-and-service-models/soa-roles-and-interaction.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u2-cloud-architecture-and-service-models/soa-roles-and-interaction.webp",
       "contentType": "image/webp",
       "width": 1402,
       "height": 1122,
-      "bytes": 746926
+      "bytes": 65558,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u2-cloud-architecture-and-service-models/cloud-deployment-models.6e26ce4d.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u2-cloud-architecture-and-service-models/cloud-reference-model.24b45539.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u2-cloud-architecture-and-service-models/cloud-service-model-stack.c841150e.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u2-cloud-architecture-and-service-models/security-trust-and-privacy-boundaries.39453cc0.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u2-cloud-architecture-and-service-models/soa-roles-and-interaction.131d2cf3.webp"
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u2-cloud-architecture-and-service-models/cloud-deployment-models.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u2-cloud-architecture-and-service-models/cloud-reference-model.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u2-cloud-architecture-and-service-models/cloud-service-model-stack.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u2-cloud-architecture-and-service-models/security-trust-and-privacy-boundaries.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/cloud-computing/u2-cloud-architecture-and-service-models/soa-roles-and-interaction.webp"
   ]
 }

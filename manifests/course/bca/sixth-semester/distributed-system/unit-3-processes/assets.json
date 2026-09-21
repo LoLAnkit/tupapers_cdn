@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.910Z",
+  "generatedAt": "2026-09-21T09:23:02.080Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/sixth-semester/distributed-system/unit-3-processes",
   "totalAssets": 4,
   "assets": {
     "fig-3.1-virtualization-architecture.webp": {
-      "key": "course/bca/sixth-semester/distributed-system/unit-3-processes/fig-3.1-virtualization-architecture.7c828e66.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-3-processes/fig-3.1-virtualization-architecture.7c828e66.webp",
+      "key": "course/bca/sixth-semester/distributed-system/unit-3-processes/fig-3.1-virtualization-architecture.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-3-processes/fig-3.1-virtualization-architecture.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 844490
+      "bytes": 98124,
+      "contentHashed": false
     },
     "fig-3.2-code-migration-models.webp": {
-      "key": "course/bca/sixth-semester/distributed-system/unit-3-processes/fig-3.2-code-migration-models.ab272966.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-3-processes/fig-3.2-code-migration-models.ab272966.webp",
+      "key": "course/bca/sixth-semester/distributed-system/unit-3-processes/fig-3.2-code-migration-models.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-3-processes/fig-3.2-code-migration-models.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 834486
+      "bytes": 109184,
+      "contentHashed": false
     },
     "fig-3.3-stateful-vs-stateless-servers.webp": {
-      "key": "course/bca/sixth-semester/distributed-system/unit-3-processes/fig-3.3-stateful-vs-stateless-servers.85d7f7c1.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-3-processes/fig-3.3-stateful-vs-stateless-servers.85d7f7c1.webp",
+      "key": "course/bca/sixth-semester/distributed-system/unit-3-processes/fig-3.3-stateful-vs-stateless-servers.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-3-processes/fig-3.3-stateful-vs-stateless-servers.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 740774
+      "bytes": 107968,
+      "contentHashed": false
     },
     "fig-3.4-threads-inside-a-process.webp": {
-      "key": "course/bca/sixth-semester/distributed-system/unit-3-processes/fig-3.4-threads-inside-a-process.14fecb58.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-3-processes/fig-3.4-threads-inside-a-process.14fecb58.webp",
+      "key": "course/bca/sixth-semester/distributed-system/unit-3-processes/fig-3.4-threads-inside-a-process.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-3-processes/fig-3.4-threads-inside-a-process.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 673722
+      "bytes": 84206,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-3-processes/fig-3.1-virtualization-architecture.7c828e66.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-3-processes/fig-3.2-code-migration-models.ab272966.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-3-processes/fig-3.3-stateful-vs-stateless-servers.85d7f7c1.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-3-processes/fig-3.4-threads-inside-a-process.14fecb58.webp"
+    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-3-processes/fig-3.1-virtualization-architecture.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-3-processes/fig-3.2-code-migration-models.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-3-processes/fig-3.3-stateful-vs-stateless-servers.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-3-processes/fig-3.4-threads-inside-a-process.webp"
   ]
 }

@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.346Z",
+  "generatedAt": "2026-09-21T09:23:01.207Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bba/fourth-semester/sociology-for-business-mgt/understanding-society-sociologically",
   "totalAssets": 4,
   "assets": {
     "ascribed-vs-achieved-status.webp": {
-      "key": "course/bba/fourth-semester/sociology-for-business-mgt/understanding-society-sociologically/ascribed-vs-achieved-status.67f24e17.webp",
-      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-business-mgt/understanding-society-sociologically/ascribed-vs-achieved-status.67f24e17.webp",
+      "key": "course/bba/fourth-semester/sociology-for-business-mgt/understanding-society-sociologically/ascribed-vs-achieved-status.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-business-mgt/understanding-society-sociologically/ascribed-vs-achieved-status.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 1242798
+      "bytes": 143724,
+      "contentHashed": false
     },
     "building-block-of-society.webp": {
-      "key": "course/bba/fourth-semester/sociology-for-business-mgt/understanding-society-sociologically/building-block-of-society.2fa87658.webp",
-      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-business-mgt/understanding-society-sociologically/building-block-of-society.2fa87658.webp",
+      "key": "course/bba/fourth-semester/sociology-for-business-mgt/understanding-society-sociologically/building-block-of-society.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-business-mgt/understanding-society-sociologically/building-block-of-society.webp",
       "contentType": "image/webp",
       "width": 1122,
       "height": 1402,
-      "bytes": 1229906
+      "bytes": 129828,
+      "contentHashed": false
     },
     "how-society-shapes-individual-cycle.webp": {
-      "key": "course/bba/fourth-semester/sociology-for-business-mgt/understanding-society-sociologically/how-society-shapes-individual-cycle.6de36c69.webp",
-      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-business-mgt/understanding-society-sociologically/how-society-shapes-individual-cycle.6de36c69.webp",
+      "key": "course/bba/fourth-semester/sociology-for-business-mgt/understanding-society-sociologically/how-society-shapes-individual-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-business-mgt/understanding-society-sociologically/how-society-shapes-individual-cycle.webp",
       "contentType": "image/webp",
       "width": 1254,
       "height": 1254,
-      "bytes": 775136
+      "bytes": 118764,
+      "contentHashed": false
     },
     "layers-of-organizational-culture.webp": {
-      "key": "course/bba/fourth-semester/sociology-for-business-mgt/understanding-society-sociologically/layers-of-organizational-culture.79f7be8c.webp",
-      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-business-mgt/understanding-society-sociologically/layers-of-organizational-culture.79f7be8c.webp",
+      "key": "course/bba/fourth-semester/sociology-for-business-mgt/understanding-society-sociologically/layers-of-organizational-culture.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-business-mgt/understanding-society-sociologically/layers-of-organizational-culture.webp",
       "contentType": "image/webp",
       "width": 1254,
       "height": 1254,
-      "bytes": 1295884
+      "bytes": 147476,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-business-mgt/understanding-society-sociologically/ascribed-vs-achieved-status.67f24e17.webp",
-    "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-business-mgt/understanding-society-sociologically/building-block-of-society.2fa87658.webp",
-    "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-business-mgt/understanding-society-sociologically/how-society-shapes-individual-cycle.6de36c69.webp",
-    "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-business-mgt/understanding-society-sociologically/layers-of-organizational-culture.79f7be8c.webp"
+    "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-business-mgt/understanding-society-sociologically/ascribed-vs-achieved-status.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-business-mgt/understanding-society-sociologically/building-block-of-society.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-business-mgt/understanding-society-sociologically/how-society-shapes-individual-cycle.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-business-mgt/understanding-society-sociologically/layers-of-organizational-culture.webp"
   ]
 }

@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:01.623Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/first-semester/professional-ethics/u3-writing-professionally",
+  "totalAssets": 4,
+  "assets": {
+    "email-and-memo-anatomy.webp": {
+      "key": "course/bca/first-semester/professional-ethics/u3-writing-professionally/email-and-memo-anatomy.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u3-writing-professionally/email-and-memo-anatomy.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 135106,
+      "contentHashed": false
+    },
+    "formal-letter-anatomy.webp": {
+      "key": "course/bca/first-semester/professional-ethics/u3-writing-professionally/formal-letter-anatomy.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u3-writing-professionally/formal-letter-anatomy.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 188762,
+      "contentHashed": false
+    },
+    "professional-writing-process.webp": {
+      "key": "course/bca/first-semester/professional-ethics/u3-writing-professionally/professional-writing-process.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u3-writing-professionally/professional-writing-process.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 70450,
+      "contentHashed": false
+    },
+    "resume-and-cover-letter-connection.webp": {
+      "key": "course/bca/first-semester/professional-ethics/u3-writing-professionally/resume-and-cover-letter-connection.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u3-writing-professionally/resume-and-cover-letter-connection.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 298084,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u3-writing-professionally/email-and-memo-anatomy.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u3-writing-professionally/formal-letter-anatomy.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u3-writing-professionally/professional-writing-process.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u3-writing-professionally/resume-and-cover-letter-connection.webp"
+  ]
+}

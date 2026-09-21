@@ -11,8 +11,14 @@ export const ROOT = path.resolve(__dirname, "..");
 /** Raw input images live here, mirroring the bucket taxonomy. */
 export const SOURCE_DIR = path.join(ROOT, "source");
 
-/** Optimized, content-hashed files are written here before upload. */
+/** Build outputs are written here before upload. */
 export const DIST_DIR = path.join(ROOT, "dist");
+
+/** Local Sharp build cache. It avoids reprocessing unchanged source images. */
+export const SHARP_BUILD_CACHE_PATH = path.join(ROOT, ".sharp-build-cache.json");
+
+/** Default watermark applied to raster output during build. */
+export const DEFAULT_WATERMARK_PATH = path.join(ROOT, "watermark.webp");
 
 /**
  * Sharded manifest files live here.
@@ -24,14 +30,14 @@ export const DIST_DIR = path.join(ROOT, "dist");
  */
 export const MANIFEST_DIR = path.join(ROOT, "manifests");
 
-/** Default watermark image path in root directory. */
-export const DEFAULT_WATERMARK_PATH = path.join(ROOT, "watermark.webp");
-
 /** Legacy flat manifest — kept during migration, written alongside shards. */
 export const MANIFEST_PATH = path.join(ROOT, "manifest.json");
 
 /** Immutable cache header for content-addressed assets. */
 export const CACHE_CONTROL = "public, max-age=31536000, immutable";
+
+/** Short cache for normal (non-hashed) asset URLs, which can be replaced. */
+export const MUTABLE_ASSET_CACHE_CONTROL = "public, max-age=300, must-revalidate";
 
 /** manifest.json changes over time, so it must NOT be cached forever. */
 export const MANIFEST_CACHE_CONTROL = "public, max-age=60, must-revalidate";
@@ -88,19 +94,8 @@ export function cdnBaseOnly(): string {
   return (process.env.CDN_BASE ?? "https://cdn.tupapers.com").replace(/\/+$/, "");
 }
 
-/** Worker count for parallel optimize/upload. */
+/** Worker count for parallel image processing/upload work. */
 export function concurrency(): number {
   const n = Number(process.env.CONCURRENCY);
   return Number.isFinite(n) && n > 0 ? n : 6;
-}
-
-/** TinyPNG credentials are only needed by the explicit source-minification command. */
-export function tinifyApiKey(): string {
-  return required("TINIFY_API_KEY");
-}
-
-/** Keep API usage conservative by default; configurable for larger batches. */
-export function tinifyConcurrency(): number {
-  const n = Number(process.env.TINIFY_CONCURRENCY);
-  return Number.isFinite(n) && n > 0 ? n : 2;
 }

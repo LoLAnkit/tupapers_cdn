@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:02.154Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bhm/fourth-semester/food-production-mgt/u1-bulk-food-production",
+  "totalAssets": 4,
+  "assets": {
+    "bulk-food-production-system-overview.webp": {
+      "key": "course/bhm/fourth-semester/food-production-mgt/u1-bulk-food-production/bulk-food-production-system-overview.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u1-bulk-food-production/bulk-food-production-system-overview.webp",
+      "contentType": "image/webp",
+      "width": 1983,
+      "height": 793,
+      "bytes": 264356,
+      "contentHashed": false
+    },
+    "bulk-production-at-scale.webp": {
+      "key": "course/bhm/fourth-semester/food-production-mgt/u1-bulk-food-production/bulk-production-at-scale.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u1-bulk-food-production/bulk-production-at-scale.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 304278,
+      "contentHashed": false
+    },
+    "bulk-production-system-pathway.webp": {
+      "key": "course/bhm/fourth-semester/food-production-mgt/u1-bulk-food-production/bulk-production-system-pathway.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u1-bulk-food-production/bulk-production-system-pathway.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 206646,
+      "contentHashed": false
+    },
+    "objectives-of-bulk-food-production.webp": {
+      "key": "course/bhm/fourth-semester/food-production-mgt/u1-bulk-food-production/objectives-of-bulk-food-production.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u1-bulk-food-production/objectives-of-bulk-food-production.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 119714,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u1-bulk-food-production/bulk-food-production-system-overview.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u1-bulk-food-production/bulk-production-at-scale.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u1-bulk-food-production/bulk-production-system-pathway.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u1-bulk-food-production/objectives-of-bulk-food-production.webp"
+  ]
+}

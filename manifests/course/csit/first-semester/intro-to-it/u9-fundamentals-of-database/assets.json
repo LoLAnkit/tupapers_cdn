@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.615Z",
+  "generatedAt": "2026-09-21T09:23:02.568Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/csit/first-semester/intro-to-it/u9-fundamentals-of-database",
   "totalAssets": 4,
   "assets": {
     "big-data-processing-pipeline.webp": {
-      "key": "course/csit/first-semester/intro-to-it/u9-fundamentals-of-database/big-data-processing-pipeline.077c86b4.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u9-fundamentals-of-database/big-data-processing-pipeline.077c86b4.webp",
+      "key": "course/csit/first-semester/intro-to-it/u9-fundamentals-of-database/big-data-processing-pipeline.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u9-fundamentals-of-database/big-data-processing-pipeline.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 497634
+      "bytes": 99456,
+      "contentHashed": false
     },
     "data-mining-process.webp": {
-      "key": "course/csit/first-semester/intro-to-it/u9-fundamentals-of-database/data-mining-process.e8a359b3.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u9-fundamentals-of-database/data-mining-process.e8a359b3.webp",
+      "key": "course/csit/first-semester/intro-to-it/u9-fundamentals-of-database/data-mining-process.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u9-fundamentals-of-database/data-mining-process.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 397188
+      "bytes": 84934,
+      "contentHashed": false
     },
     "data-warehouse-flow.webp": {
-      "key": "course/csit/first-semester/intro-to-it/u9-fundamentals-of-database/data-warehouse-flow.b238787d.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u9-fundamentals-of-database/data-warehouse-flow.b238787d.webp",
+      "key": "course/csit/first-semester/intro-to-it/u9-fundamentals-of-database/data-warehouse-flow.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u9-fundamentals-of-database/data-warehouse-flow.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 418818
+      "bytes": 61596,
+      "contentHashed": false
     },
     "database-system-architecture.webp": {
-      "key": "course/csit/first-semester/intro-to-it/u9-fundamentals-of-database/database-system-architecture.995b131c.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u9-fundamentals-of-database/database-system-architecture.995b131c.webp",
+      "key": "course/csit/first-semester/intro-to-it/u9-fundamentals-of-database/database-system-architecture.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u9-fundamentals-of-database/database-system-architecture.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 391342
+      "bytes": 61364,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u9-fundamentals-of-database/big-data-processing-pipeline.077c86b4.webp",
-    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u9-fundamentals-of-database/data-mining-process.e8a359b3.webp",
-    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u9-fundamentals-of-database/data-warehouse-flow.b238787d.webp",
-    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u9-fundamentals-of-database/database-system-architecture.995b131c.webp"
+    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u9-fundamentals-of-database/big-data-processing-pipeline.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u9-fundamentals-of-database/data-mining-process.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u9-fundamentals-of-database/data-warehouse-flow.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/intro-to-it/u9-fundamentals-of-database/database-system-architecture.webp"
   ]
 }

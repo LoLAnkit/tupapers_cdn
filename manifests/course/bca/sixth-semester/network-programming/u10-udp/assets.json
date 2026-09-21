@@ -1,38 +1,41 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.929Z",
+  "generatedAt": "2026-09-21T09:23:02.091Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/sixth-semester/network-programming/u10-udp",
   "totalAssets": 3,
   "assets": {
     "datagrampacket-structure.webp": {
-      "key": "course/bca/sixth-semester/network-programming/u10-udp/datagrampacket-structure.18e55655.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u10-udp/datagrampacket-structure.18e55655.webp",
+      "key": "course/bca/sixth-semester/network-programming/u10-udp/datagrampacket-structure.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u10-udp/datagrampacket-structure.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 757572
+      "bytes": 90270,
+      "contentHashed": false
     },
     "datagramsocket-send-receive-flow.webp": {
-      "key": "course/bca/sixth-semester/network-programming/u10-udp/datagramsocket-send-receive-flow.2952272e.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u10-udp/datagramsocket-send-receive-flow.2952272e.webp",
+      "key": "course/bca/sixth-semester/network-programming/u10-udp/datagramsocket-send-receive-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u10-udp/datagramsocket-send-receive-flow.webp",
       "contentType": "image/webp",
       "width": 1024,
       "height": 1536,
-      "bytes": 778054
+      "bytes": 99774,
+      "contentHashed": false
     },
     "udp-connectionless-communication.webp": {
-      "key": "course/bca/sixth-semester/network-programming/u10-udp/udp-connectionless-communication.0962b06b.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u10-udp/udp-connectionless-communication.0962b06b.webp",
+      "key": "course/bca/sixth-semester/network-programming/u10-udp/udp-connectionless-communication.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u10-udp/udp-connectionless-communication.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 617088
+      "bytes": 69748,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u10-udp/datagrampacket-structure.18e55655.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u10-udp/datagramsocket-send-receive-flow.2952272e.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u10-udp/udp-connectionless-communication.0962b06b.webp"
+    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u10-udp/datagrampacket-structure.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u10-udp/datagramsocket-send-receive-flow.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u10-udp/udp-connectionless-communication.webp"
   ]
 }

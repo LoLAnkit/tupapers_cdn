@@ -1,7 +1,7 @@
 import { HeadObjectCommand, PutObjectCommand, type S3Client } from "@aws-sdk/client-s3";
 import { CACHE_CONTROL } from "./config.js";
 
-/** True if the object already exists in the bucket (content-addressed → skip). */
+/** True if the object already exists in the bucket (content-addressed assets can be skipped). */
 export async function objectExists(
   client: S3Client,
   bucket: string,

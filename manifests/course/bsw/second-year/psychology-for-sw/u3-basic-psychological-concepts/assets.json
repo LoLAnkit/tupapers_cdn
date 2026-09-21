@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.481Z",
+  "generatedAt": "2026-09-21T09:23:02.478Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/second-year/psychology-for-sw/u3-basic-psychological-concepts",
   "totalAssets": 4,
   "assets": {
     "emotion-motivation-behaviour-cycle.webp": {
-      "key": "course/bsw/second-year/psychology-for-sw/u3-basic-psychological-concepts/emotion-motivation-behaviour-cycle.ad5c11e4.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u3-basic-psychological-concepts/emotion-motivation-behaviour-cycle.ad5c11e4.webp",
+      "key": "course/bsw/second-year/psychology-for-sw/u3-basic-psychological-concepts/emotion-motivation-behaviour-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u3-basic-psychological-concepts/emotion-motivation-behaviour-cycle.webp",
       "contentType": "image/webp",
       "width": 1312,
       "height": 1199,
-      "bytes": 984322
+      "bytes": 93040,
+      "contentHashed": false
     },
     "intelligence-concept-map.webp": {
-      "key": "course/bsw/second-year/psychology-for-sw/u3-basic-psychological-concepts/intelligence-concept-map.94ec94ff.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u3-basic-psychological-concepts/intelligence-concept-map.94ec94ff.webp",
+      "key": "course/bsw/second-year/psychology-for-sw/u3-basic-psychological-concepts/intelligence-concept-map.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u3-basic-psychological-concepts/intelligence-concept-map.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 1232306
+      "bytes": 144540,
+      "contentHashed": false
     },
     "personality-values-and-attitude-relationship.webp": {
-      "key": "course/bsw/second-year/psychology-for-sw/u3-basic-psychological-concepts/personality-values-and-attitude-relationship.f21fd2e4.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u3-basic-psychological-concepts/personality-values-and-attitude-relationship.f21fd2e4.webp",
+      "key": "course/bsw/second-year/psychology-for-sw/u3-basic-psychological-concepts/personality-values-and-attitude-relationship.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u3-basic-psychological-concepts/personality-values-and-attitude-relationship.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 1143824
+      "bytes": 121224,
+      "contentHashed": false
     },
     "sensation-to-perception-process.webp": {
-      "key": "course/bsw/second-year/psychology-for-sw/u3-basic-psychological-concepts/sensation-to-perception-process.aa566950.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u3-basic-psychological-concepts/sensation-to-perception-process.aa566950.webp",
+      "key": "course/bsw/second-year/psychology-for-sw/u3-basic-psychological-concepts/sensation-to-perception-process.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u3-basic-psychological-concepts/sensation-to-perception-process.webp",
       "contentType": "image/webp",
       "width": 2066,
       "height": 761,
-      "bytes": 1228082
+      "bytes": 132950,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u3-basic-psychological-concepts/emotion-motivation-behaviour-cycle.ad5c11e4.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u3-basic-psychological-concepts/intelligence-concept-map.94ec94ff.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u3-basic-psychological-concepts/personality-values-and-attitude-relationship.f21fd2e4.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u3-basic-psychological-concepts/sensation-to-perception-process.aa566950.webp"
+    "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u3-basic-psychological-concepts/emotion-motivation-behaviour-cycle.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u3-basic-psychological-concepts/intelligence-concept-map.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u3-basic-psychological-concepts/personality-values-and-attitude-relationship.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u3-basic-psychological-concepts/sensation-to-perception-process.webp"
   ]
 }

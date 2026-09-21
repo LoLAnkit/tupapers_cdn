@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.363Z",
+  "generatedAt": "2026-09-21T09:23:02.405Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/first-year/social-psychology/social-cognition",
   "totalAssets": 4,
   "assets": {
     "affect-cognition-bidirectional-model.webp": {
-      "key": "course/bsw/first-year/social-psychology/social-cognition/affect-cognition-bidirectional-model.4363bfba.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-cognition/affect-cognition-bidirectional-model.4363bfba.webp",
+      "key": "course/bsw/first-year/social-psychology/social-cognition/affect-cognition-bidirectional-model.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-cognition/affect-cognition-bidirectional-model.webp",
       "contentType": "image/webp",
       "width": 1296,
       "height": 562,
-      "bytes": 570480
+      "bytes": 54728,
+      "contentHashed": false
     },
     "automatic-vs-controlled-processing-study.webp": {
-      "key": "course/bsw/first-year/social-psychology/social-cognition/automatic-vs-controlled-processing-study.2bdfcaa3.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-cognition/automatic-vs-controlled-processing-study.2bdfcaa3.webp",
+      "key": "course/bsw/first-year/social-psychology/social-cognition/automatic-vs-controlled-processing-study.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-cognition/automatic-vs-controlled-processing-study.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 970940
+      "bytes": 142208,
+      "contentHashed": false
     },
     "common-errors-in-social-cognition-flowchart.webp": {
-      "key": "course/bsw/first-year/social-psychology/social-cognition/common-errors-in-social-cognition-flowchart.c9b0454d.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-cognition/common-errors-in-social-cognition-flowchart.c9b0454d.webp",
+      "key": "course/bsw/first-year/social-psychology/social-cognition/common-errors-in-social-cognition-flowchart.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-cognition/common-errors-in-social-cognition-flowchart.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 802454
+      "bytes": 172376,
+      "contentHashed": false
     },
     "types-of-schema.webp": {
-      "key": "course/bsw/first-year/social-psychology/social-cognition/types-of-schema.4825c5c0.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-cognition/types-of-schema.4825c5c0.webp",
+      "key": "course/bsw/first-year/social-psychology/social-cognition/types-of-schema.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-cognition/types-of-schema.webp",
       "contentType": "image/webp",
       "width": 1306,
       "height": 610,
-      "bytes": 625520
+      "bytes": 58792,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-cognition/affect-cognition-bidirectional-model.4363bfba.webp",
-    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-cognition/automatic-vs-controlled-processing-study.2bdfcaa3.webp",
-    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-cognition/common-errors-in-social-cognition-flowchart.c9b0454d.webp",
-    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-cognition/types-of-schema.4825c5c0.webp"
+    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-cognition/affect-cognition-bidirectional-model.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-cognition/automatic-vs-controlled-processing-study.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-cognition/common-errors-in-social-cognition-flowchart.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/social-cognition/types-of-schema.webp"
   ]
 }

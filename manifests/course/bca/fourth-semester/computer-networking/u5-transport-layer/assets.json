@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:01.757Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/fourth-semester/computer-networking/u5-transport-layer",
+  "totalAssets": 4,
+  "assets": {
+    "leaky-bucket-and-token-bucket.webp": {
+      "key": "course/bca/fourth-semester/computer-networking/u5-transport-layer/leaky-bucket-and-token-bucket.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/computer-networking/u5-transport-layer/leaky-bucket-and-token-bucket.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 136928,
+      "contentHashed": false
+    },
+    "ports-and-sockets.webp": {
+      "key": "course/bca/fourth-semester/computer-networking/u5-transport-layer/ports-and-sockets.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/computer-networking/u5-transport-layer/ports-and-sockets.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 93158,
+      "contentHashed": false
+    },
+    "tcp-header-format.webp": {
+      "key": "course/bca/fourth-semester/computer-networking/u5-transport-layer/tcp-header-format.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/computer-networking/u5-transport-layer/tcp-header-format.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 54044,
+      "contentHashed": false
+    },
+    "tcp-three-way-handshake.webp": {
+      "key": "course/bca/fourth-semester/computer-networking/u5-transport-layer/tcp-three-way-handshake.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/computer-networking/u5-transport-layer/tcp-three-way-handshake.webp",
+      "contentType": "image/webp",
+      "width": 1227,
+      "height": 1282,
+      "bytes": 72430,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/fourth-semester/computer-networking/u5-transport-layer/leaky-bucket-and-token-bucket.webp",
+    "https://cdn.tupapers.com/course/bca/fourth-semester/computer-networking/u5-transport-layer/ports-and-sockets.webp",
+    "https://cdn.tupapers.com/course/bca/fourth-semester/computer-networking/u5-transport-layer/tcp-header-format.webp",
+    "https://cdn.tupapers.com/course/bca/fourth-semester/computer-networking/u5-transport-layer/tcp-three-way-handshake.webp"
+  ]
+}

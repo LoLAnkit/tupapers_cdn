@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:02.619Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/csit/fourth-semester/computer-networking/u2-physical-layer-and-network-media",
+  "totalAssets": 4,
+  "assets": {
+    "ethernet-cable-standards.webp": {
+      "key": "course/csit/fourth-semester/computer-networking/u2-physical-layer-and-network-media/ethernet-cable-standards.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/computer-networking/u2-physical-layer-and-network-media/ethernet-cable-standards.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 90010,
+      "contentHashed": false
+    },
+    "network-device-placement.webp": {
+      "key": "course/csit/fourth-semester/computer-networking/u2-physical-layer-and-network-media/network-device-placement.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/computer-networking/u2-physical-layer-and-network-media/network-device-placement.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 107992,
+      "contentHashed": false
+    },
+    "switching-methods.webp": {
+      "key": "course/csit/fourth-semester/computer-networking/u2-physical-layer-and-network-media/switching-methods.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/computer-networking/u2-physical-layer-and-network-media/switching-methods.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 159410,
+      "contentHashed": false
+    },
+    "transmission-media-overview.webp": {
+      "key": "course/csit/fourth-semester/computer-networking/u2-physical-layer-and-network-media/transmission-media-overview.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/computer-networking/u2-physical-layer-and-network-media/transmission-media-overview.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 208502,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/csit/fourth-semester/computer-networking/u2-physical-layer-and-network-media/ethernet-cable-standards.webp",
+    "https://cdn.tupapers.com/course/csit/fourth-semester/computer-networking/u2-physical-layer-and-network-media/network-device-placement.webp",
+    "https://cdn.tupapers.com/course/csit/fourth-semester/computer-networking/u2-physical-layer-and-network-media/switching-methods.webp",
+    "https://cdn.tupapers.com/course/csit/fourth-semester/computer-networking/u2-physical-layer-and-network-media/transmission-media-overview.webp"
+  ]
+}

@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.435Z",
+  "generatedAt": "2026-09-21T09:23:01.287Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bba/sixth-semester/e-commerce/e-commerce-business-models",
   "totalAssets": 4,
   "assets": {
     "b2b-business-model-type.webp": {
-      "key": "course/bba/sixth-semester/e-commerce/e-commerce-business-models/b2b-business-model-type.29898537.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-business-models/b2b-business-model-type.29898537.webp",
+      "key": "course/bba/sixth-semester/e-commerce/e-commerce-business-models/b2b-business-model-type.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-business-models/b2b-business-model-type.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 695486
+      "bytes": 168306,
+      "contentHashed": false
     },
     "b2c-business-model-types.webp": {
-      "key": "course/bba/sixth-semester/e-commerce/e-commerce-business-models/b2c-business-model-types.09de8ddc.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-business-models/b2c-business-model-types.09de8ddc.webp",
+      "key": "course/bba/sixth-semester/e-commerce/e-commerce-business-models/b2c-business-model-types.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-business-models/b2c-business-model-types.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 636482
+      "bytes": 128184,
+      "contentHashed": false
     },
     "firm-value-chain.webp": {
-      "key": "course/bba/sixth-semester/e-commerce/e-commerce-business-models/firm-value-chain.98a5a730.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-business-models/firm-value-chain.98a5a730.webp",
+      "key": "course/bba/sixth-semester/e-commerce/e-commerce-business-models/firm-value-chain.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-business-models/firm-value-chain.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 1328738
+      "bytes": 214264,
+      "contentHashed": false
     },
     "key-elements-of-business-model.webp": {
-      "key": "course/bba/sixth-semester/e-commerce/e-commerce-business-models/key-elements-of-business-model.c106d98b.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-business-models/key-elements-of-business-model.c106d98b.webp",
+      "key": "course/bba/sixth-semester/e-commerce/e-commerce-business-models/key-elements-of-business-model.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-business-models/key-elements-of-business-model.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 491770
+      "bytes": 100520,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-business-models/b2b-business-model-type.29898537.webp",
-    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-business-models/b2c-business-model-types.09de8ddc.webp",
-    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-business-models/firm-value-chain.98a5a730.webp",
-    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-business-models/key-elements-of-business-model.c106d98b.webp"
+    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-business-models/b2b-business-model-type.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-business-models/b2c-business-model-types.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-business-models/firm-value-chain.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/e-commerce/e-commerce-business-models/key-elements-of-business-model.webp"
   ]
 }

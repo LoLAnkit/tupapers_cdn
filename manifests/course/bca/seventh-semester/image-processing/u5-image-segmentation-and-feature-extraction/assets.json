@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.820Z",
+  "generatedAt": "2026-09-21T09:23:02.000Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/seventh-semester/image-processing/u5-image-segmentation-and-feature-extraction",
   "totalAssets": 4,
   "assets": {
     "digital-watermarking-system.webp": {
-      "key": "course/bca/seventh-semester/image-processing/u5-image-segmentation-and-feature-extraction/digital-watermarking-system.e962f8e2.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u5-image-segmentation-and-feature-extraction/digital-watermarking-system.e962f8e2.webp",
+      "key": "course/bca/seventh-semester/image-processing/u5-image-segmentation-and-feature-extraction/digital-watermarking-system.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u5-image-segmentation-and-feature-extraction/digital-watermarking-system.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 1378066
+      "bytes": 194730,
+      "contentHashed": false
     },
     "edge-detection-operators.webp": {
-      "key": "course/bca/seventh-semester/image-processing/u5-image-segmentation-and-feature-extraction/edge-detection-operators.c9004c72.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u5-image-segmentation-and-feature-extraction/edge-detection-operators.c9004c72.webp",
+      "key": "course/bca/seventh-semester/image-processing/u5-image-segmentation-and-feature-extraction/edge-detection-operators.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u5-image-segmentation-and-feature-extraction/edge-detection-operators.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 1251750
+      "bytes": 179200,
+      "contentHashed": false
     },
     "region-growing.webp": {
-      "key": "course/bca/seventh-semester/image-processing/u5-image-segmentation-and-feature-extraction/region-growing.751626e0.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u5-image-segmentation-and-feature-extraction/region-growing.751626e0.webp",
+      "key": "course/bca/seventh-semester/image-processing/u5-image-segmentation-and-feature-extraction/region-growing.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u5-image-segmentation-and-feature-extraction/region-growing.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 1304810
+      "bytes": 182128,
+      "contentHashed": false
     },
     "region-splitting-and-merging.webp": {
-      "key": "course/bca/seventh-semester/image-processing/u5-image-segmentation-and-feature-extraction/region-splitting-and-merging.cec2386c.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u5-image-segmentation-and-feature-extraction/region-splitting-and-merging.cec2386c.webp",
+      "key": "course/bca/seventh-semester/image-processing/u5-image-segmentation-and-feature-extraction/region-splitting-and-merging.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u5-image-segmentation-and-feature-extraction/region-splitting-and-merging.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 1301516
+      "bytes": 149782,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u5-image-segmentation-and-feature-extraction/digital-watermarking-system.e962f8e2.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u5-image-segmentation-and-feature-extraction/edge-detection-operators.c9004c72.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u5-image-segmentation-and-feature-extraction/region-growing.751626e0.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u5-image-segmentation-and-feature-extraction/region-splitting-and-merging.cec2386c.webp"
+    "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u5-image-segmentation-and-feature-extraction/digital-watermarking-system.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u5-image-segmentation-and-feature-extraction/edge-detection-operators.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u5-image-segmentation-and-feature-extraction/region-growing.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u5-image-segmentation-and-feature-extraction/region-splitting-and-merging.webp"
   ]
 }

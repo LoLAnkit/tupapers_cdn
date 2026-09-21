@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.612Z",
+  "generatedAt": "2026-09-21T09:23:01.588Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/first-semester/cfa/u5-computer-network-and-internet",
   "totalAssets": 4,
   "assets": {
     "network-types-and-lan-topologies.webp": {
-      "key": "course/bca/first-semester/cfa/u5-computer-network-and-internet/network-types-and-lan-topologies.0f1f9a1b.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u5-computer-network-and-internet/network-types-and-lan-topologies.0f1f9a1b.webp",
+      "key": "course/bca/first-semester/cfa/u5-computer-network-and-internet/network-types-and-lan-topologies.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u5-computer-network-and-internet/network-types-and-lan-topologies.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 805576
+      "bytes": 136566,
+      "contentHashed": false
     },
     "osi-reference-model.webp": {
-      "key": "course/bca/first-semester/cfa/u5-computer-network-and-internet/osi-reference-model.f70b63cf.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u5-computer-network-and-internet/osi-reference-model.f70b63cf.webp",
+      "key": "course/bca/first-semester/cfa/u5-computer-network-and-internet/osi-reference-model.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u5-computer-network-and-internet/osi-reference-model.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 805726
+      "bytes": 136222,
+      "contentHashed": false
     },
     "transmission-media-and-network-devices.webp": {
-      "key": "course/bca/first-semester/cfa/u5-computer-network-and-internet/transmission-media-and-network-devices.e82975e2.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u5-computer-network-and-internet/transmission-media-and-network-devices.e82975e2.webp",
+      "key": "course/bca/first-semester/cfa/u5-computer-network-and-internet/transmission-media-and-network-devices.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u5-computer-network-and-internet/transmission-media-and-network-devices.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 559712
+      "bytes": 101886,
+      "contentHashed": false
     },
     "transmission-modes.webp": {
-      "key": "course/bca/first-semester/cfa/u5-computer-network-and-internet/transmission-modes.7c74eda7.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u5-computer-network-and-internet/transmission-modes.7c74eda7.webp",
+      "key": "course/bca/first-semester/cfa/u5-computer-network-and-internet/transmission-modes.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u5-computer-network-and-internet/transmission-modes.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 390004
+      "bytes": 66084,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u5-computer-network-and-internet/network-types-and-lan-topologies.0f1f9a1b.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u5-computer-network-and-internet/osi-reference-model.f70b63cf.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u5-computer-network-and-internet/transmission-media-and-network-devices.e82975e2.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u5-computer-network-and-internet/transmission-modes.7c74eda7.webp"
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u5-computer-network-and-internet/network-types-and-lan-topologies.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u5-computer-network-and-internet/osi-reference-model.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u5-computer-network-and-internet/transmission-media-and-network-devices.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u5-computer-network-and-internet/transmission-modes.webp"
   ]
 }

@@ -58,10 +58,10 @@ function getDirPath(logicalKey) {
 // ---------------------------------------------------------------------------
 
 /**
- * Resolve a logical key to a full hashed CDN URL.
+ * Resolve a logical key to its full CDN URL (normal or preserved legacy hash).
  *
  * @param {string} logicalKey  e.g. "course/bca/fifth-semester/computer-networking/notes/chapter-1/dda-vsbresenham-line.webp"
- * @returns {string}           e.g. "https://cdn.tupapers.com/course/bca/fifth-semester/.../dda-vsbresenham-line.bba9d466.webp"
+ * @returns {string}           Full URL stored in the folder manifest.
  */
 function resolve(logicalKey) {
   const dirPath = getDirPath(logicalKey);

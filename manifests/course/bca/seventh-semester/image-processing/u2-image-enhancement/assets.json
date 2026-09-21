@@ -1,56 +1,61 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.808Z",
+  "generatedAt": "2026-09-21T09:23:01.988Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/seventh-semester/image-processing/u2-image-enhancement",
   "totalAssets": 5,
   "assets": {
     "fourier-transform-processing.webp": {
-      "key": "course/bca/seventh-semester/image-processing/u2-image-enhancement/fourier-transform-processing.deac781f.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u2-image-enhancement/fourier-transform-processing.deac781f.webp",
+      "key": "course/bca/seventh-semester/image-processing/u2-image-enhancement/fourier-transform-processing.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u2-image-enhancement/fourier-transform-processing.webp",
       "contentType": "image/webp",
       "width": 1805,
       "height": 871,
-      "bytes": 1340822
+      "bytes": 189088,
+      "contentHashed": false
     },
     "histogram-equalization.webp": {
-      "key": "course/bca/seventh-semester/image-processing/u2-image-enhancement/histogram-equalization.fccc55da.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u2-image-enhancement/histogram-equalization.fccc55da.webp",
+      "key": "course/bca/seventh-semester/image-processing/u2-image-enhancement/histogram-equalization.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u2-image-enhancement/histogram-equalization.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 376922
+      "bytes": 60460,
+      "contentHashed": false
     },
     "low-pass-and-high-pass-filtering.webp": {
-      "key": "course/bca/seventh-semester/image-processing/u2-image-enhancement/low-pass-and-high-pass-filtering.ee515567.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u2-image-enhancement/low-pass-and-high-pass-filtering.ee515567.webp",
+      "key": "course/bca/seventh-semester/image-processing/u2-image-enhancement/low-pass-and-high-pass-filtering.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u2-image-enhancement/low-pass-and-high-pass-filtering.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 697432
+      "bytes": 100542,
+      "contentHashed": false
     },
     "point-processing-transformations.webp": {
-      "key": "course/bca/seventh-semester/image-processing/u2-image-enhancement/point-processing-transformations.510c21c7.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u2-image-enhancement/point-processing-transformations.510c21c7.webp",
+      "key": "course/bca/seventh-semester/image-processing/u2-image-enhancement/point-processing-transformations.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u2-image-enhancement/point-processing-transformations.webp",
       "contentType": "image/webp",
       "width": 1692,
       "height": 930,
-      "bytes": 345200
+      "bytes": 56940,
+      "contentHashed": false
     },
     "spatial-filtering-neighborhood.webp": {
-      "key": "course/bca/seventh-semester/image-processing/u2-image-enhancement/spatial-filtering-neighborhood.247db148.webp",
-      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u2-image-enhancement/spatial-filtering-neighborhood.247db148.webp",
+      "key": "course/bca/seventh-semester/image-processing/u2-image-enhancement/spatial-filtering-neighborhood.webp",
+      "url": "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u2-image-enhancement/spatial-filtering-neighborhood.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 1278520
+      "bytes": 172818,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u2-image-enhancement/fourier-transform-processing.deac781f.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u2-image-enhancement/histogram-equalization.fccc55da.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u2-image-enhancement/low-pass-and-high-pass-filtering.ee515567.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u2-image-enhancement/point-processing-transformations.510c21c7.webp",
-    "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u2-image-enhancement/spatial-filtering-neighborhood.247db148.webp"
+    "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u2-image-enhancement/fourier-transform-processing.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u2-image-enhancement/histogram-equalization.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u2-image-enhancement/low-pass-and-high-pass-filtering.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u2-image-enhancement/point-processing-transformations.webp",
+    "https://cdn.tupapers.com/course/bca/seventh-semester/image-processing/u2-image-enhancement/spatial-filtering-neighborhood.webp"
   ]
 }

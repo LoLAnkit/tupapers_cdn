@@ -1,38 +1,41 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.355Z",
+  "generatedAt": "2026-09-21T09:23:02.398Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/first-year/social-psychology/self-understanding",
   "totalAssets": 3,
   "assets": {
     "gender-spectrum-infographic.webp": {
-      "key": "course/bsw/first-year/social-psychology/self-understanding/gender-spectrum-infographic.e303465f.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/self-understanding/gender-spectrum-infographic.e303465f.webp",
+      "key": "course/bsw/first-year/social-psychology/self-understanding/gender-spectrum-infographic.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/self-understanding/gender-spectrum-infographic.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 978910
+      "bytes": 165870,
+      "contentHashed": false
     },
     "self-concept-venn-diagram.webp": {
-      "key": "course/bsw/first-year/social-psychology/self-understanding/self-concept-venn-diagram.9054f9ec.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/self-understanding/self-concept-venn-diagram.9054f9ec.webp",
+      "key": "course/bsw/first-year/social-psychology/self-understanding/self-concept-venn-diagram.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/self-understanding/self-concept-venn-diagram.webp",
       "contentType": "image/webp",
       "width": 1254,
       "height": 1254,
-      "bytes": 1276162
+      "bytes": 169498,
+      "contentHashed": false
     },
     "sources-of-self-knowledge.webp": {
-      "key": "course/bsw/first-year/social-psychology/self-understanding/sources-of-self-knowledge.385d1067.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/self-understanding/sources-of-self-knowledge.385d1067.webp",
+      "key": "course/bsw/first-year/social-psychology/self-understanding/sources-of-self-knowledge.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/self-understanding/sources-of-self-knowledge.webp",
       "contentType": "image/webp",
       "width": 1254,
       "height": 1254,
-      "bytes": 1245974
+      "bytes": 133806,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/self-understanding/gender-spectrum-infographic.e303465f.webp",
-    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/self-understanding/self-concept-venn-diagram.9054f9ec.webp",
-    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/self-understanding/sources-of-self-knowledge.385d1067.webp"
+    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/self-understanding/gender-spectrum-infographic.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/self-understanding/self-concept-venn-diagram.webp",
+    "https://cdn.tupapers.com/course/bsw/first-year/social-psychology/self-understanding/sources-of-self-knowledge.webp"
   ]
 }

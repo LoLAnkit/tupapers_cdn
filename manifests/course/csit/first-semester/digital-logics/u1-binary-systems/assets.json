@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.530Z",
+  "generatedAt": "2026-09-21T09:23:02.513Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/csit/first-semester/digital-logics/u1-binary-systems",
   "totalAssets": 4,
   "assets": {
     "binary-storage-and-register-structure.webp": {
-      "key": "course/csit/first-semester/digital-logics/u1-binary-systems/binary-storage-and-register-structure.e1e117d2.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u1-binary-systems/binary-storage-and-register-structure.e1e117d2.webp",
+      "key": "course/csit/first-semester/digital-logics/u1-binary-systems/binary-storage-and-register-structure.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u1-binary-systems/binary-storage-and-register-structure.webp",
       "contentType": "image/webp",
       "width": 1648,
       "height": 954,
-      "bytes": 379962
+      "bytes": 62430,
+      "contentHashed": false
     },
     "decimal-code-comparison-table.webp": {
-      "key": "course/csit/first-semester/digital-logics/u1-binary-systems/decimal-code-comparison-table.2c533278.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u1-binary-systems/decimal-code-comparison-table.2c533278.webp",
+      "key": "course/csit/first-semester/digital-logics/u1-binary-systems/decimal-code-comparison-table.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u1-binary-systems/decimal-code-comparison-table.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 565740
+      "bytes": 129720,
+      "contentHashed": false
     },
     "number-base-conversion-flow.webp": {
-      "key": "course/csit/first-semester/digital-logics/u1-binary-systems/number-base-conversion-flow.c5d1104e.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u1-binary-systems/number-base-conversion-flow.c5d1104e.webp",
+      "key": "course/csit/first-semester/digital-logics/u1-binary-systems/number-base-conversion-flow.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u1-binary-systems/number-base-conversion-flow.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 532300
+      "bytes": 124644,
+      "contentHashed": false
     },
     "twos-complement-subtraction.webp": {
-      "key": "course/csit/first-semester/digital-logics/u1-binary-systems/twos-complement-subtraction.2c29795b.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u1-binary-systems/twos-complement-subtraction.2c29795b.webp",
+      "key": "course/csit/first-semester/digital-logics/u1-binary-systems/twos-complement-subtraction.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u1-binary-systems/twos-complement-subtraction.webp",
       "contentType": "image/webp",
       "width": 1024,
       "height": 1536,
-      "bytes": 450634
+      "bytes": 106566,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u1-binary-systems/binary-storage-and-register-structure.e1e117d2.webp",
-    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u1-binary-systems/decimal-code-comparison-table.2c533278.webp",
-    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u1-binary-systems/number-base-conversion-flow.c5d1104e.webp",
-    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u1-binary-systems/twos-complement-subtraction.2c29795b.webp"
+    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u1-binary-systems/binary-storage-and-register-structure.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u1-binary-systems/decimal-code-comparison-table.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u1-binary-systems/number-base-conversion-flow.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u1-binary-systems/twos-complement-subtraction.webp"
   ]
 }

@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.428Z",
+  "generatedAt": "2026-09-21T09:23:01.279Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bba/sixth-semester/business-research-methods/research-proposal-report-writing",
   "totalAssets": 4,
   "assets": {
     "apa-refrence-format-anatomy.webp": {
-      "key": "course/bba/sixth-semester/business-research-methods/research-proposal-report-writing/apa-refrence-format-anatomy.2d1107da.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/research-proposal-report-writing/apa-refrence-format-anatomy.2d1107da.webp",
+      "key": "course/bba/sixth-semester/business-research-methods/research-proposal-report-writing/apa-refrence-format-anatomy.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/research-proposal-report-writing/apa-refrence-format-anatomy.webp",
       "contentType": "image/webp",
       "width": 740,
       "height": 455,
-      "bytes": 162506
+      "bytes": 25492,
+      "contentHashed": false
     },
     "layout-of-research-report.webp": {
-      "key": "course/bba/sixth-semester/business-research-methods/research-proposal-report-writing/layout-of-research-report.6d042a51.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/research-proposal-report-writing/layout-of-research-report.6d042a51.webp",
+      "key": "course/bba/sixth-semester/business-research-methods/research-proposal-report-writing/layout-of-research-report.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/research-proposal-report-writing/layout-of-research-report.webp",
       "contentType": "image/webp",
       "width": 755,
       "height": 557,
-      "bytes": 244992
+      "bytes": 41754,
+      "contentHashed": false
     },
     "research-proposal-structure.webp": {
-      "key": "course/bba/sixth-semester/business-research-methods/research-proposal-report-writing/research-proposal-structure.c5a553fc.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/research-proposal-report-writing/research-proposal-structure.c5a553fc.webp",
+      "key": "course/bba/sixth-semester/business-research-methods/research-proposal-report-writing/research-proposal-structure.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/research-proposal-report-writing/research-proposal-structure.webp",
       "contentType": "image/webp",
       "width": 747,
       "height": 563,
-      "bytes": 192452
+      "bytes": 31562,
+      "contentHashed": false
     },
     "research-report-writing-process.webp": {
-      "key": "course/bba/sixth-semester/business-research-methods/research-proposal-report-writing/research-report-writing-process.1ce419ec.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/research-proposal-report-writing/research-report-writing-process.1ce419ec.webp",
+      "key": "course/bba/sixth-semester/business-research-methods/research-proposal-report-writing/research-report-writing-process.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/research-proposal-report-writing/research-report-writing-process.webp",
       "contentType": "image/webp",
       "width": 802,
       "height": 449,
-      "bytes": 194318
+      "bytes": 38586,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/research-proposal-report-writing/apa-refrence-format-anatomy.2d1107da.webp",
-    "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/research-proposal-report-writing/layout-of-research-report.6d042a51.webp",
-    "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/research-proposal-report-writing/research-proposal-structure.c5a553fc.webp",
-    "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/research-proposal-report-writing/research-report-writing-process.1ce419ec.webp"
+    "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/research-proposal-report-writing/apa-refrence-format-anatomy.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/research-proposal-report-writing/layout-of-research-report.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/research-proposal-report-writing/research-proposal-structure.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/research-proposal-report-writing/research-report-writing-process.webp"
   ]
 }

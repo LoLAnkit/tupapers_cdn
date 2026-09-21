@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.456Z",
+  "generatedAt": "2026-09-21T09:23:02.460Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/second-year/adolescent-juvenile-delinquency/u4-childhood-deviant-behavior",
   "totalAssets": 4,
   "assets": {
     "internalizing-and-externalizing-pathways.webp": {
-      "key": "course/bsw/second-year/adolescent-juvenile-delinquency/u4-childhood-deviant-behavior/internalizing-and-externalizing-pathways.4d459e2b.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u4-childhood-deviant-behavior/internalizing-and-externalizing-pathways.4d459e2b.webp",
+      "key": "course/bsw/second-year/adolescent-juvenile-delinquency/u4-childhood-deviant-behavior/internalizing-and-externalizing-pathways.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u4-childhood-deviant-behavior/internalizing-and-externalizing-pathways.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 1109894
+      "bytes": 144862,
+      "contentHashed": false
     },
     "odd-cd-delinquency-progression.webp": {
-      "key": "course/bsw/second-year/adolescent-juvenile-delinquency/u4-childhood-deviant-behavior/odd-cd-delinquency-progression.78ff026a.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u4-childhood-deviant-behavior/odd-cd-delinquency-progression.78ff026a.webp",
+      "key": "course/bsw/second-year/adolescent-juvenile-delinquency/u4-childhood-deviant-behavior/odd-cd-delinquency-progression.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u4-childhood-deviant-behavior/odd-cd-delinquency-progression.webp",
       "contentType": "image/webp",
       "width": 1942,
       "height": 809,
-      "bytes": 1328788
+      "bytes": 137742,
+      "contentHashed": false
     },
     "situation-of-children-in-nepal.webp": {
-      "key": "course/bsw/second-year/adolescent-juvenile-delinquency/u4-childhood-deviant-behavior/situation-of-children-in-nepal.a0a06f66.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u4-childhood-deviant-behavior/situation-of-children-in-nepal.a0a06f66.webp",
+      "key": "course/bsw/second-year/adolescent-juvenile-delinquency/u4-childhood-deviant-behavior/situation-of-children-in-nepal.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u4-childhood-deviant-behavior/situation-of-children-in-nepal.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 1223886
+      "bytes": 114474,
+      "contentHashed": false
     },
     "types-of-childhood-deviant-behavior.webp": {
-      "key": "course/bsw/second-year/adolescent-juvenile-delinquency/u4-childhood-deviant-behavior/types-of-childhood-deviant-behavior.edc5c799.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u4-childhood-deviant-behavior/types-of-childhood-deviant-behavior.edc5c799.webp",
+      "key": "course/bsw/second-year/adolescent-juvenile-delinquency/u4-childhood-deviant-behavior/types-of-childhood-deviant-behavior.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u4-childhood-deviant-behavior/types-of-childhood-deviant-behavior.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 1123240
+      "bytes": 124534,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u4-childhood-deviant-behavior/internalizing-and-externalizing-pathways.4d459e2b.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u4-childhood-deviant-behavior/odd-cd-delinquency-progression.78ff026a.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u4-childhood-deviant-behavior/situation-of-children-in-nepal.a0a06f66.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u4-childhood-deviant-behavior/types-of-childhood-deviant-behavior.edc5c799.webp"
+    "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u4-childhood-deviant-behavior/internalizing-and-externalizing-pathways.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u4-childhood-deviant-behavior/odd-cd-delinquency-progression.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u4-childhood-deviant-behavior/situation-of-children-in-nepal.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u4-childhood-deviant-behavior/types-of-childhood-deviant-behavior.webp"
   ]
 }

@@ -1,38 +1,41 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.940Z",
+  "generatedAt": "2026-09-21T09:23:02.099Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/sixth-semester/network-programming/u12-remote-method-invocation-rmi",
   "totalAssets": 3,
   "assets": {
     "remote-method-call-sequence.webp": {
-      "key": "course/bca/sixth-semester/network-programming/u12-remote-method-invocation-rmi/remote-method-call-sequence.51934ab4.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u12-remote-method-invocation-rmi/remote-method-call-sequence.51934ab4.webp",
+      "key": "course/bca/sixth-semester/network-programming/u12-remote-method-invocation-rmi/remote-method-call-sequence.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u12-remote-method-invocation-rmi/remote-method-call-sequence.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 613760
+      "bytes": 66706,
+      "contentHashed": false
     },
     "rmi-architecture.webp": {
-      "key": "course/bca/sixth-semester/network-programming/u12-remote-method-invocation-rmi/rmi-architecture.a4942a48.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u12-remote-method-invocation-rmi/rmi-architecture.a4942a48.webp",
+      "key": "course/bca/sixth-semester/network-programming/u12-remote-method-invocation-rmi/rmi-architecture.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u12-remote-method-invocation-rmi/rmi-architecture.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 570710
+      "bytes": 57334,
+      "contentHashed": false
     },
     "rmi-development-workflow.webp": {
-      "key": "course/bca/sixth-semester/network-programming/u12-remote-method-invocation-rmi/rmi-development-workflow.b57cfdcf.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u12-remote-method-invocation-rmi/rmi-development-workflow.b57cfdcf.webp",
+      "key": "course/bca/sixth-semester/network-programming/u12-remote-method-invocation-rmi/rmi-development-workflow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u12-remote-method-invocation-rmi/rmi-development-workflow.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 643118
+      "bytes": 66514,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u12-remote-method-invocation-rmi/remote-method-call-sequence.51934ab4.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u12-remote-method-invocation-rmi/rmi-architecture.a4942a48.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u12-remote-method-invocation-rmi/rmi-development-workflow.b57cfdcf.webp"
+    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u12-remote-method-invocation-rmi/remote-method-call-sequence.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u12-remote-method-invocation-rmi/rmi-architecture.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u12-remote-method-invocation-rmi/rmi-development-workflow.webp"
   ]
 }

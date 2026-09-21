@@ -1,38 +1,41 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.320Z",
+  "generatedAt": "2026-09-21T09:23:01.184Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bba/fourth-semester/marketing/pricing-decisions",
   "totalAssets": 3,
   "assets": {
     "internal-and-external-pricing-factors.webp": {
-      "key": "course/bba/fourth-semester/marketing/pricing-decisions/internal-and-external-pricing-factors.ef1a0924.webp",
-      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/pricing-decisions/internal-and-external-pricing-factors.ef1a0924.webp",
+      "key": "course/bba/fourth-semester/marketing/pricing-decisions/internal-and-external-pricing-factors.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/pricing-decisions/internal-and-external-pricing-factors.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 366368
+      "bytes": 96562,
+      "contentHashed": false
     },
     "major-pricing-approaches.webp": {
-      "key": "course/bba/fourth-semester/marketing/pricing-decisions/major-pricing-approaches.39be5379.webp",
-      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/pricing-decisions/major-pricing-approaches.39be5379.webp",
+      "key": "course/bba/fourth-semester/marketing/pricing-decisions/major-pricing-approaches.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/pricing-decisions/major-pricing-approaches.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 581242
+      "bytes": 162654,
+      "contentHashed": false
     },
     "price-adjustment-strategies-mindmaps.webp": {
-      "key": "course/bba/fourth-semester/marketing/pricing-decisions/price-adjustment-strategies-mindmaps.cf955172.webp",
-      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/pricing-decisions/price-adjustment-strategies-mindmaps.cf955172.webp",
+      "key": "course/bba/fourth-semester/marketing/pricing-decisions/price-adjustment-strategies-mindmaps.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/pricing-decisions/price-adjustment-strategies-mindmaps.webp",
       "contentType": "image/webp",
       "width": 1254,
       "height": 1254,
-      "bytes": 458480
+      "bytes": 108010,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/pricing-decisions/internal-and-external-pricing-factors.ef1a0924.webp",
-    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/pricing-decisions/major-pricing-approaches.39be5379.webp",
-    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/pricing-decisions/price-adjustment-strategies-mindmaps.cf955172.webp"
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/pricing-decisions/internal-and-external-pricing-factors.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/pricing-decisions/major-pricing-approaches.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/pricing-decisions/price-adjustment-strategies-mindmaps.webp"
   ]
 }

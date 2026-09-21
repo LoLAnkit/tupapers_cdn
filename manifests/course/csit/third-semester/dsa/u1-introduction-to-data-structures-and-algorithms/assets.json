@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.808Z",
+  "generatedAt": "2026-09-21T09:23:02.772Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/csit/third-semester/dsa/u1-introduction-to-data-structures-and-algorithms",
   "totalAssets": 4,
   "assets": {
     "algorithm-characteristics.webp": {
-      "key": "course/csit/third-semester/dsa/u1-introduction-to-data-structures-and-algorithms/algorithm-characteristics.a1febfb5.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u1-introduction-to-data-structures-and-algorithms/algorithm-characteristics.a1febfb5.webp",
+      "key": "course/csit/third-semester/dsa/u1-introduction-to-data-structures-and-algorithms/algorithm-characteristics.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u1-introduction-to-data-structures-and-algorithms/algorithm-characteristics.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 869444
+      "bytes": 121478,
+      "contentHashed": false
     },
     "asymptotic-bounds-o-omega-theta.webp": {
-      "key": "course/csit/third-semester/dsa/u1-introduction-to-data-structures-and-algorithms/asymptotic-bounds-o-omega-theta.ae3572b4.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u1-introduction-to-data-structures-and-algorithms/asymptotic-bounds-o-omega-theta.ae3572b4.webp",
+      "key": "course/csit/third-semester/dsa/u1-introduction-to-data-structures-and-algorithms/asymptotic-bounds-o-omega-theta.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u1-introduction-to-data-structures-and-algorithms/asymptotic-bounds-o-omega-theta.webp",
       "contentType": "image/webp",
       "width": 1942,
       "height": 809,
-      "bytes": 671944
+      "bytes": 89932,
+      "contentHashed": false
     },
     "best-average-worst-case.webp": {
-      "key": "course/csit/third-semester/dsa/u1-introduction-to-data-structures-and-algorithms/best-average-worst-case.f4a1d533.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u1-introduction-to-data-structures-and-algorithms/best-average-worst-case.f4a1d533.webp",
+      "key": "course/csit/third-semester/dsa/u1-introduction-to-data-structures-and-algorithms/best-average-worst-case.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u1-introduction-to-data-structures-and-algorithms/best-average-worst-case.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 337880
+      "bytes": 46354,
+      "contentHashed": false
     },
     "dynamic-memory-allocation-lifecycle-in-c.webp": {
-      "key": "course/csit/third-semester/dsa/u1-introduction-to-data-structures-and-algorithms/dynamic-memory-allocation-lifecycle-in-c.d4f6e195.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u1-introduction-to-data-structures-and-algorithms/dynamic-memory-allocation-lifecycle-in-c.d4f6e195.webp",
+      "key": "course/csit/third-semester/dsa/u1-introduction-to-data-structures-and-algorithms/dynamic-memory-allocation-lifecycle-in-c.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u1-introduction-to-data-structures-and-algorithms/dynamic-memory-allocation-lifecycle-in-c.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 506956
+      "bytes": 100550,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u1-introduction-to-data-structures-and-algorithms/algorithm-characteristics.a1febfb5.webp",
-    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u1-introduction-to-data-structures-and-algorithms/asymptotic-bounds-o-omega-theta.ae3572b4.webp",
-    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u1-introduction-to-data-structures-and-algorithms/best-average-worst-case.f4a1d533.webp",
-    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u1-introduction-to-data-structures-and-algorithms/dynamic-memory-allocation-lifecycle-in-c.d4f6e195.webp"
+    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u1-introduction-to-data-structures-and-algorithms/algorithm-characteristics.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u1-introduction-to-data-structures-and-algorithms/asymptotic-bounds-o-omega-theta.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u1-introduction-to-data-structures-and-algorithms/best-average-worst-case.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u1-introduction-to-data-structures-and-algorithms/dynamic-memory-allocation-lifecycle-in-c.webp"
   ]
 }

@@ -2,7 +2,7 @@ import path from "node:path";
 
 /**
  * Normalize one path segment into a clean, permanent, human-readable slug.
- * Folders are NEVER hashed — only cleaned. The filename hash is added elsewhere.
+ * Folders are NEVER hashed — only cleaned.
  */
 export function slugifySegment(segment: string): string {
   return segment
@@ -15,19 +15,11 @@ export function slugifySegment(segment: string): string {
     .replace(/^-|-$/g, "");
 }
 
-export interface BuiltKeys {
-  /** Stable, pre-hash key templates reference (e.g. .../addressing-modes.webp). */
-  logicalKey: string;
-  /** Actual uploaded key with content hash (e.g. .../addressing-modes.7e8d3c41.webp). */
-  hashedKey: string;
-}
-
 /**
- * From a source path relative to `source/` (e.g.
- * `course/bca/first-semester/computer-fundamental/notes/diagram/addressing-modes.png`)
- * derive the logical and hashed R2 keys, using the OPTIMIZED extension.
+ * Build a stable output key from the source path. The filename (including an
+ * existing legacy hash, if present) and extension are retained.
  */
-export function buildKeys(relSourcePath: string, optimizedExt: string, hash: string): BuiltKeys {
+export function buildNormalKey(relSourcePath: string, outputExt: string): string {
   const posix = relSourcePath.split(path.sep).join("/");
   const segments = posix.split("/").filter(Boolean);
 
@@ -44,9 +36,14 @@ export function buildKeys(relSourcePath: string, optimizedExt: string, hash: str
 
   const dir = segments.map(slugifySegment).filter(Boolean).join("/");
   const prefix = dir ? `${dir}/` : "";
+  return `${prefix}${slug}${outputExt.toLowerCase()}`;
+}
 
-  return {
-    logicalKey: `${prefix}${slug}${optimizedExt}`,
-    hashedKey: `${prefix}${slug}.${hash}${optimizedExt}`,
-  };
+/**
+ * Existing hashed files are canonical source files now. Strip only a legacy
+ * eight-character hash for the manifest lookup key, while keeping the actual
+ * output key untouched. Normal filenames are returned unchanged.
+ */
+export function logicalKeyForOutput(outputKey: string): string {
+  return outputKey.replace(/\.([0-9a-f]{8})(?=\.[^./]+$)/i, "");
 }

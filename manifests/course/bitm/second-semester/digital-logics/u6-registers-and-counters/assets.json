@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.185Z",
+  "generatedAt": "2026-09-21T09:23:02.284Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bitm/second-semester/digital-logics/u6-registers-and-counters",
   "totalAssets": 4,
   "assets": {
     "asynchronous-mod-n-counter.webp": {
-      "key": "course/bitm/second-semester/digital-logics/u6-registers-and-counters/asynchronous-mod-n-counter.34a0cb52.webp",
-      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u6-registers-and-counters/asynchronous-mod-n-counter.34a0cb52.webp",
+      "key": "course/bitm/second-semester/digital-logics/u6-registers-and-counters/asynchronous-mod-n-counter.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u6-registers-and-counters/asynchronous-mod-n-counter.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 335104
+      "bytes": 59858,
+      "contentHashed": false
     },
     "ring-and-johnson-counters.webp": {
-      "key": "course/bitm/second-semester/digital-logics/u6-registers-and-counters/ring-and-johnson-counters.049ac9c8.webp",
-      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u6-registers-and-counters/ring-and-johnson-counters.049ac9c8.webp",
+      "key": "course/bitm/second-semester/digital-logics/u6-registers-and-counters/ring-and-johnson-counters.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u6-registers-and-counters/ring-and-johnson-counters.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 420476
+      "bytes": 78538,
+      "contentHashed": false
     },
     "shift-register-modes.webp": {
-      "key": "course/bitm/second-semester/digital-logics/u6-registers-and-counters/shift-register-modes.1dd775d8.webp",
-      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u6-registers-and-counters/shift-register-modes.1dd775d8.webp",
+      "key": "course/bitm/second-semester/digital-logics/u6-registers-and-counters/shift-register-modes.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u6-registers-and-counters/shift-register-modes.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 419364
+      "bytes": 76594,
+      "contentHashed": false
     },
     "synchronous-counter-logic.webp": {
-      "key": "course/bitm/second-semester/digital-logics/u6-registers-and-counters/synchronous-counter-logic.19e924b7.webp",
-      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u6-registers-and-counters/synchronous-counter-logic.19e924b7.webp",
+      "key": "course/bitm/second-semester/digital-logics/u6-registers-and-counters/synchronous-counter-logic.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u6-registers-and-counters/synchronous-counter-logic.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 382122
+      "bytes": 41386,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u6-registers-and-counters/asynchronous-mod-n-counter.34a0cb52.webp",
-    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u6-registers-and-counters/ring-and-johnson-counters.049ac9c8.webp",
-    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u6-registers-and-counters/shift-register-modes.1dd775d8.webp",
-    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u6-registers-and-counters/synchronous-counter-logic.19e924b7.webp"
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u6-registers-and-counters/asynchronous-mod-n-counter.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u6-registers-and-counters/ring-and-johnson-counters.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u6-registers-and-counters/shift-register-modes.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logics/u6-registers-and-counters/synchronous-counter-logic.webp"
   ]
 }

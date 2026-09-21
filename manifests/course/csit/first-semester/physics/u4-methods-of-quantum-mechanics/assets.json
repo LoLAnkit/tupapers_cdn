@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.641Z",
+  "generatedAt": "2026-09-21T09:23:02.581Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/csit/first-semester/physics/u4-methods-of-quantum-mechanics",
   "totalAssets": 4,
   "assets": {
     "electron-spin-orientations.webp": {
-      "key": "course/csit/first-semester/physics/u4-methods-of-quantum-mechanics/electron-spin-orientations.245baee2.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/physics/u4-methods-of-quantum-mechanics/electron-spin-orientations.245baee2.webp",
+      "key": "course/csit/first-semester/physics/u4-methods-of-quantum-mechanics/electron-spin-orientations.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/physics/u4-methods-of-quantum-mechanics/electron-spin-orientations.webp",
       "contentType": "image/webp",
       "width": 1402,
       "height": 1122,
-      "bytes": 729236
+      "bytes": 55708,
+      "contentHashed": false
     },
     "hydrogen-wave-functions-1s-2s-2p.webp": {
-      "key": "course/csit/first-semester/physics/u4-methods-of-quantum-mechanics/hydrogen-wave-functions-1s-2s-2p.4fed4ca9.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/physics/u4-methods-of-quantum-mechanics/hydrogen-wave-functions-1s-2s-2p.4fed4ca9.webp",
+      "key": "course/csit/first-semester/physics/u4-methods-of-quantum-mechanics/hydrogen-wave-functions-1s-2s-2p.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/physics/u4-methods-of-quantum-mechanics/hydrogen-wave-functions-1s-2s-2p.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 625140
+      "bytes": 57406,
+      "contentHashed": false
     },
     "schrodinger-equation-h-atom-spherical-coordinates.webp": {
-      "key": "course/csit/first-semester/physics/u4-methods-of-quantum-mechanics/schrodinger-equation-h-atom-spherical-coordinates.dcc03eca.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/physics/u4-methods-of-quantum-mechanics/schrodinger-equation-h-atom-spherical-coordinates.dcc03eca.webp",
+      "key": "course/csit/first-semester/physics/u4-methods-of-quantum-mechanics/schrodinger-equation-h-atom-spherical-coordinates.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/physics/u4-methods-of-quantum-mechanics/schrodinger-equation-h-atom-spherical-coordinates.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 729362
+      "bytes": 61230,
+      "contentHashed": false
     },
     "space-quantization-angular-momentum.webp": {
-      "key": "course/csit/first-semester/physics/u4-methods-of-quantum-mechanics/space-quantization-angular-momentum.e14e9ccf.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/physics/u4-methods-of-quantum-mechanics/space-quantization-angular-momentum.e14e9ccf.webp",
+      "key": "course/csit/first-semester/physics/u4-methods-of-quantum-mechanics/space-quantization-angular-momentum.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/physics/u4-methods-of-quantum-mechanics/space-quantization-angular-momentum.webp",
       "contentType": "image/webp",
       "width": 1024,
       "height": 1536,
-      "bytes": 887704
+      "bytes": 74700,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/csit/first-semester/physics/u4-methods-of-quantum-mechanics/electron-spin-orientations.245baee2.webp",
-    "https://cdn.tupapers.com/course/csit/first-semester/physics/u4-methods-of-quantum-mechanics/hydrogen-wave-functions-1s-2s-2p.4fed4ca9.webp",
-    "https://cdn.tupapers.com/course/csit/first-semester/physics/u4-methods-of-quantum-mechanics/schrodinger-equation-h-atom-spherical-coordinates.dcc03eca.webp",
-    "https://cdn.tupapers.com/course/csit/first-semester/physics/u4-methods-of-quantum-mechanics/space-quantization-angular-momentum.e14e9ccf.webp"
+    "https://cdn.tupapers.com/course/csit/first-semester/physics/u4-methods-of-quantum-mechanics/electron-spin-orientations.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/physics/u4-methods-of-quantum-mechanics/hydrogen-wave-functions-1s-2s-2p.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/physics/u4-methods-of-quantum-mechanics/schrodinger-equation-h-atom-spherical-coordinates.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/physics/u4-methods-of-quantum-mechanics/space-quantization-angular-momentum.webp"
   ]
 }

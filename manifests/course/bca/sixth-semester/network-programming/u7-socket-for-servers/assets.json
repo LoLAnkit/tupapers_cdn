@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.124Z",
+  "generatedAt": "2026-09-21T09:23:02.124Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/sixth-semester/network-programming/u7-socket-for-servers",
   "totalAssets": 4,
   "assets": {
     "multithreaded-server-architecture.webp": {
-      "key": "course/bca/sixth-semester/network-programming/u7-socket-for-servers/multithreaded-server-architecture.4d6e2df7.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u7-socket-for-servers/multithreaded-server-architecture.4d6e2df7.webp",
+      "key": "course/bca/sixth-semester/network-programming/u7-socket-for-servers/multithreaded-server-architecture.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u7-socket-for-servers/multithreaded-server-architecture.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 484988
+      "bytes": 97908,
+      "contentHashed": false
     },
     "server-logging-pipeline.webp": {
-      "key": "course/bca/sixth-semester/network-programming/u7-socket-for-servers/server-logging-pipeline.90e02b4a.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u7-socket-for-servers/server-logging-pipeline.90e02b4a.webp",
+      "key": "course/bca/sixth-semester/network-programming/u7-socket-for-servers/server-logging-pipeline.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u7-socket-for-servers/server-logging-pipeline.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 801028
+      "bytes": 138002,
+      "contentHashed": false
     },
     "server-socket-lifecycle.webp": {
-      "key": "course/bca/sixth-semester/network-programming/u7-socket-for-servers/server-socket-lifecycle.61d5cbaa.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u7-socket-for-servers/server-socket-lifecycle.61d5cbaa.webp",
+      "key": "course/bca/sixth-semester/network-programming/u7-socket-for-servers/server-socket-lifecycle.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u7-socket-for-servers/server-socket-lifecycle.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 787758
+      "bytes": 139550,
+      "contentHashed": false
     },
     "tcp-echo-server-sequence.webp": {
-      "key": "course/bca/sixth-semester/network-programming/u7-socket-for-servers/tcp-echo-server-sequence.05f047f9.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u7-socket-for-servers/tcp-echo-server-sequence.05f047f9.webp",
+      "key": "course/bca/sixth-semester/network-programming/u7-socket-for-servers/tcp-echo-server-sequence.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u7-socket-for-servers/tcp-echo-server-sequence.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 475672
+      "bytes": 87700,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u7-socket-for-servers/multithreaded-server-architecture.4d6e2df7.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u7-socket-for-servers/server-logging-pipeline.90e02b4a.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u7-socket-for-servers/server-socket-lifecycle.61d5cbaa.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u7-socket-for-servers/tcp-echo-server-sequence.05f047f9.webp"
+    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u7-socket-for-servers/multithreaded-server-architecture.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u7-socket-for-servers/server-logging-pipeline.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u7-socket-for-servers/server-socket-lifecycle.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/network-programming/u7-socket-for-servers/tcp-echo-server-sequence.webp"
   ]
 }

@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.603Z",
+  "generatedAt": "2026-09-21T09:23:01.577Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/first-semester/cfa/u3-computer-software",
   "totalAssets": 4,
   "assets": {
     "language-translator-flow.webp": {
-      "key": "course/bca/first-semester/cfa/u3-computer-software/language-translator-flow.56dcf86a.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u3-computer-software/language-translator-flow.56dcf86a.webp",
+      "key": "course/bca/first-semester/cfa/u3-computer-software/language-translator-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u3-computer-software/language-translator-flow.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 664676
+      "bytes": 99824,
+      "contentHashed": false
     },
     "operating-system-position-and-functions.webp": {
-      "key": "course/bca/first-semester/cfa/u3-computer-software/operating-system-position-and-functions.23b39b71.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u3-computer-software/operating-system-position-and-functions.23b39b71.webp",
+      "key": "course/bca/first-semester/cfa/u3-computer-software/operating-system-position-and-functions.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u3-computer-software/operating-system-position-and-functions.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 782082
+      "bytes": 93778,
+      "contentHashed": false
     },
     "software-classification.webp": {
-      "key": "course/bca/first-semester/cfa/u3-computer-software/software-classification.52bde9a1.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u3-computer-software/software-classification.52bde9a1.webp",
+      "key": "course/bca/first-semester/cfa/u3-computer-software/software-classification.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u3-computer-software/software-classification.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 393034
+      "bytes": 56850,
+      "contentHashed": false
     },
     "virus-and-antivirus-response.webp": {
-      "key": "course/bca/first-semester/cfa/u3-computer-software/virus-and-antivirus-response.9e4aa6c8.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u3-computer-software/virus-and-antivirus-response.9e4aa6c8.webp",
+      "key": "course/bca/first-semester/cfa/u3-computer-software/virus-and-antivirus-response.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u3-computer-software/virus-and-antivirus-response.webp",
       "contentType": "image/webp",
       "width": 1925,
       "height": 817,
-      "bytes": 605712
+      "bytes": 72474,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u3-computer-software/language-translator-flow.56dcf86a.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u3-computer-software/operating-system-position-and-functions.23b39b71.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u3-computer-software/software-classification.52bde9a1.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u3-computer-software/virus-and-antivirus-response.9e4aa6c8.webp"
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u3-computer-software/language-translator-flow.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u3-computer-software/operating-system-position-and-functions.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u3-computer-software/software-classification.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u3-computer-software/virus-and-antivirus-response.webp"
   ]
 }

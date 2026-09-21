@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:02.177Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bhm/fourth-semester/front-office-management/u10-guest-departure",
+  "totalAssets": 3,
+  "assets": {
+    "express-and-self-checkout-paths.webp": {
+      "key": "course/bhm/fourth-semester/front-office-management/u10-guest-departure/express-and-self-checkout-paths.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u10-guest-departure/express-and-self-checkout-paths.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 73594,
+      "contentHashed": false
+    },
+    "guest-history-record-lifecycle.webp": {
+      "key": "course/bhm/fourth-semester/front-office-management/u10-guest-departure/guest-history-record-lifecycle.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u10-guest-departure/guest-history-record-lifecycle.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 75626,
+      "contentHashed": false
+    },
+    "standard-guest-departure-flow.webp": {
+      "key": "course/bhm/fourth-semester/front-office-management/u10-guest-departure/standard-guest-departure-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u10-guest-departure/standard-guest-departure-flow.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 76908,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u10-guest-departure/express-and-self-checkout-paths.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u10-guest-departure/guest-history-record-lifecycle.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/front-office-management/u10-guest-departure/standard-guest-departure-flow.webp"
+  ]
+}

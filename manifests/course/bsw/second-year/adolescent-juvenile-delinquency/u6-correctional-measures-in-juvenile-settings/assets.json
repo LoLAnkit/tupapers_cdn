@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.466Z",
+  "generatedAt": "2026-09-21T09:23:02.468Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/second-year/adolescent-juvenile-delinquency/u6-correctional-measures-in-juvenile-settings",
   "totalAssets": 4,
   "assets": {
     "cbt-thought-feeling-behavior-cycle.webp": {
-      "key": "course/bsw/second-year/adolescent-juvenile-delinquency/u6-correctional-measures-in-juvenile-settings/cbt-thought-feeling-behavior-cycle.522236d9.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u6-correctional-measures-in-juvenile-settings/cbt-thought-feeling-behavior-cycle.522236d9.webp",
+      "key": "course/bsw/second-year/adolescent-juvenile-delinquency/u6-correctional-measures-in-juvenile-settings/cbt-thought-feeling-behavior-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u6-correctional-measures-in-juvenile-settings/cbt-thought-feeling-behavior-cycle.webp",
       "contentType": "image/webp",
       "width": 1254,
       "height": 1254,
-      "bytes": 1273532
+      "bytes": 120494,
+      "contentHashed": false
     },
     "juvenile-correction-process.webp": {
-      "key": "course/bsw/second-year/adolescent-juvenile-delinquency/u6-correctional-measures-in-juvenile-settings/juvenile-correction-process.d139c0c2.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u6-correctional-measures-in-juvenile-settings/juvenile-correction-process.d139c0c2.webp",
+      "key": "course/bsw/second-year/adolescent-juvenile-delinquency/u6-correctional-measures-in-juvenile-settings/juvenile-correction-process.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u6-correctional-measures-in-juvenile-settings/juvenile-correction-process.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 1123536
+      "bytes": 99514,
+      "contentHashed": false
     },
     "life-skill-development-map.webp": {
-      "key": "course/bsw/second-year/adolescent-juvenile-delinquency/u6-correctional-measures-in-juvenile-settings/life-skill-development-map.a19705e0.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u6-correctional-measures-in-juvenile-settings/life-skill-development-map.a19705e0.webp",
+      "key": "course/bsw/second-year/adolescent-juvenile-delinquency/u6-correctional-measures-in-juvenile-settings/life-skill-development-map.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u6-correctional-measures-in-juvenile-settings/life-skill-development-map.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 1262338
+      "bytes": 172848,
+      "contentHashed": false
     },
     "psychosocial-intervention-framework.webp": {
-      "key": "course/bsw/second-year/adolescent-juvenile-delinquency/u6-correctional-measures-in-juvenile-settings/psychosocial-intervention-framework.2a48d7d6.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u6-correctional-measures-in-juvenile-settings/psychosocial-intervention-framework.2a48d7d6.webp",
+      "key": "course/bsw/second-year/adolescent-juvenile-delinquency/u6-correctional-measures-in-juvenile-settings/psychosocial-intervention-framework.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u6-correctional-measures-in-juvenile-settings/psychosocial-intervention-framework.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 1194328
+      "bytes": 96808,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u6-correctional-measures-in-juvenile-settings/cbt-thought-feeling-behavior-cycle.522236d9.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u6-correctional-measures-in-juvenile-settings/juvenile-correction-process.d139c0c2.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u6-correctional-measures-in-juvenile-settings/life-skill-development-map.a19705e0.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u6-correctional-measures-in-juvenile-settings/psychosocial-intervention-framework.2a48d7d6.webp"
+    "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u6-correctional-measures-in-juvenile-settings/cbt-thought-feeling-behavior-cycle.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u6-correctional-measures-in-juvenile-settings/juvenile-correction-process.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u6-correctional-measures-in-juvenile-settings/life-skill-development-map.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u6-correctional-measures-in-juvenile-settings/psychosocial-intervention-framework.webp"
   ]
 }

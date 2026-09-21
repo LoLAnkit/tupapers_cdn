@@ -1,38 +1,41 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.423Z",
+  "generatedAt": "2026-09-21T09:23:01.276Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bba/sixth-semester/business-research-methods/research-design",
   "totalAssets": 3,
   "assets": {
     "qualitative-research-design.webp": {
-      "key": "course/bba/sixth-semester/business-research-methods/research-design/qualitative-research-design.cbe5561f.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/research-design/qualitative-research-design.cbe5561f.webp",
+      "key": "course/bba/sixth-semester/business-research-methods/research-design/qualitative-research-design.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/research-design/qualitative-research-design.webp",
       "contentType": "image/webp",
       "width": 920,
       "height": 701,
-      "bytes": 304220
+      "bytes": 50980,
+      "contentHashed": false
     },
     "quantitative-research-design.webp": {
-      "key": "course/bba/sixth-semester/business-research-methods/research-design/quantitative-research-design.970fc036.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/research-design/quantitative-research-design.970fc036.webp",
+      "key": "course/bba/sixth-semester/business-research-methods/research-design/quantitative-research-design.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/research-design/quantitative-research-design.webp",
       "contentType": "image/webp",
       "width": 1001,
       "height": 695,
-      "bytes": 316954
+      "bytes": 50188,
+      "contentHashed": false
     },
     "research-design-selection-framework.webp": {
-      "key": "course/bba/sixth-semester/business-research-methods/research-design/research-design-selection-framework.527aa0fd.webp",
-      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/research-design/research-design-selection-framework.527aa0fd.webp",
+      "key": "course/bba/sixth-semester/business-research-methods/research-design/research-design-selection-framework.webp",
+      "url": "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/research-design/research-design-selection-framework.webp",
       "contentType": "image/webp",
       "width": 1441,
       "height": 641,
-      "bytes": 394964
+      "bytes": 60028,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/research-design/qualitative-research-design.cbe5561f.webp",
-    "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/research-design/quantitative-research-design.970fc036.webp",
-    "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/research-design/research-design-selection-framework.527aa0fd.webp"
+    "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/research-design/qualitative-research-design.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/research-design/quantitative-research-design.webp",
+    "https://cdn.tupapers.com/course/bba/sixth-semester/business-research-methods/research-design/research-design-selection-framework.webp"
   ]
 }

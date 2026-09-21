@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:01.727Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/fourth-semester/ai/u4-knowledge-representation",
+  "totalAssets": 4,
+  "assets": {
+    "bayesian-network-reasoning.webp": {
+      "key": "course/bca/fourth-semester/ai/u4-knowledge-representation/bayesian-network-reasoning.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/ai/u4-knowledge-representation/bayesian-network-reasoning.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 101720,
+      "contentHashed": false
+    },
+    "fopl-resolution-and-unification-flow.webp": {
+      "key": "course/bca/fourth-semester/ai/u4-knowledge-representation/fopl-resolution-and-unification-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/ai/u4-knowledge-representation/fopl-resolution-and-unification-flow.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 119252,
+      "contentHashed": false
+    },
+    "fuzzy-inference-pipeline.webp": {
+      "key": "course/bca/fourth-semester/ai/u4-knowledge-representation/fuzzy-inference-pipeline.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/ai/u4-knowledge-representation/fuzzy-inference-pipeline.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 266730,
+      "contentHashed": false
+    },
+    "semantic-network-with-inheritance.webp": {
+      "key": "course/bca/fourth-semester/ai/u4-knowledge-representation/semantic-network-with-inheritance.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/ai/u4-knowledge-representation/semantic-network-with-inheritance.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 61880,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/fourth-semester/ai/u4-knowledge-representation/bayesian-network-reasoning.webp",
+    "https://cdn.tupapers.com/course/bca/fourth-semester/ai/u4-knowledge-representation/fopl-resolution-and-unification-flow.webp",
+    "https://cdn.tupapers.com/course/bca/fourth-semester/ai/u4-knowledge-representation/fuzzy-inference-pipeline.webp",
+    "https://cdn.tupapers.com/course/bca/fourth-semester/ai/u4-knowledge-representation/semantic-network-with-inheritance.webp"
+  ]
+}

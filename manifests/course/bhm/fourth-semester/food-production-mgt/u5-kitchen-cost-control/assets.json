@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:02.167Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bhm/fourth-semester/food-production-mgt/u5-kitchen-cost-control",
+  "totalAssets": 4,
+  "assets": {
+    "costing-to-selling-price-flow.webp": {
+      "key": "course/bhm/fourth-semester/food-production-mgt/u5-kitchen-cost-control/costing-to-selling-price-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u5-kitchen-cost-control/costing-to-selling-price-flow.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 90892,
+      "contentHashed": false
+    },
+    "portion-control-in-practice.webp": {
+      "key": "course/bhm/fourth-semester/food-production-mgt/u5-kitchen-cost-control/portion-control-in-practice.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u5-kitchen-cost-control/portion-control-in-practice.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 154854,
+      "contentHashed": false
+    },
+    "portion-size-guide.webp": {
+      "key": "course/bhm/fourth-semester/food-production-mgt/u5-kitchen-cost-control/portion-size-guide.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u5-kitchen-cost-control/portion-size-guide.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 168890,
+      "contentHashed": false
+    },
+    "standard-recipe-anatomy.webp": {
+      "key": "course/bhm/fourth-semester/food-production-mgt/u5-kitchen-cost-control/standard-recipe-anatomy.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u5-kitchen-cost-control/standard-recipe-anatomy.webp",
+      "contentType": "image/webp",
+      "width": 1223,
+      "height": 1286,
+      "bytes": 198892,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u5-kitchen-cost-control/costing-to-selling-price-flow.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u5-kitchen-cost-control/portion-control-in-practice.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u5-kitchen-cost-control/portion-size-guide.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u5-kitchen-cost-control/standard-recipe-anatomy.webp"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:01.463Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbm/fourth-semester/psychology/u10-psychology-and-health",
+  "totalAssets": 2,
+  "assets": {
+    "components-of-subjective-well-being.webp": {
+      "key": "course/bbm/fourth-semester/psychology/u10-psychology-and-health/components-of-subjective-well-being.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u10-psychology-and-health/components-of-subjective-well-being.webp",
+      "contentType": "image/webp",
+      "width": 1374,
+      "height": 1145,
+      "bytes": 101082,
+      "contentHashed": false
+    },
+    "stress-causes-consequences-coping.webp": {
+      "key": "course/bbm/fourth-semester/psychology/u10-psychology-and-health/stress-causes-consequences-coping.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u10-psychology-and-health/stress-causes-consequences-coping.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 164668,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u10-psychology-and-health/components-of-subjective-well-being.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u10-psychology-and-health/stress-causes-consequences-coping.webp"
+  ]
+}

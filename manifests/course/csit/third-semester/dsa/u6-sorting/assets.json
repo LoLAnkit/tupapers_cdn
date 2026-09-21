@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.830Z",
+  "generatedAt": "2026-09-21T09:23:02.789Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/csit/third-semester/dsa/u6-sorting",
   "totalAssets": 4,
   "assets": {
     "heap-sort-with-max-heap.webp": {
-      "key": "course/csit/third-semester/dsa/u6-sorting/heap-sort-with-max-heap.b9fec219.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u6-sorting/heap-sort-with-max-heap.b9fec219.webp",
+      "key": "course/csit/third-semester/dsa/u6-sorting/heap-sort-with-max-heap.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u6-sorting/heap-sort-with-max-heap.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 791486
+      "bytes": 140604,
+      "contentHashed": false
     },
     "insertion-sort-shifting.webp": {
-      "key": "course/csit/third-semester/dsa/u6-sorting/insertion-sort-shifting.dabb4103.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u6-sorting/insertion-sort-shifting.dabb4103.webp",
+      "key": "course/csit/third-semester/dsa/u6-sorting/insertion-sort-shifting.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u6-sorting/insertion-sort-shifting.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 571120
+      "bytes": 63604,
+      "contentHashed": false
     },
     "merge-sort-divide-and-merge-tree.webp": {
-      "key": "course/csit/third-semester/dsa/u6-sorting/merge-sort-divide-and-merge-tree.d00a8a5a.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u6-sorting/merge-sort-divide-and-merge-tree.d00a8a5a.webp",
+      "key": "course/csit/third-semester/dsa/u6-sorting/merge-sort-divide-and-merge-tree.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u6-sorting/merge-sort-divide-and-merge-tree.webp",
       "contentType": "image/webp",
       "width": 1374,
       "height": 1145,
-      "bytes": 444808
+      "bytes": 88228,
+      "contentHashed": false
     },
     "quick-sort-partition.webp": {
-      "key": "course/csit/third-semester/dsa/u6-sorting/quick-sort-partition.f2ece520.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u6-sorting/quick-sort-partition.f2ece520.webp",
+      "key": "course/csit/third-semester/dsa/u6-sorting/quick-sort-partition.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u6-sorting/quick-sort-partition.webp",
       "contentType": "image/webp",
       "width": 1224,
       "height": 1285,
-      "bytes": 469352
+      "bytes": 81292,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u6-sorting/heap-sort-with-max-heap.b9fec219.webp",
-    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u6-sorting/insertion-sort-shifting.dabb4103.webp",
-    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u6-sorting/merge-sort-divide-and-merge-tree.d00a8a5a.webp",
-    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u6-sorting/quick-sort-partition.f2ece520.webp"
+    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u6-sorting/heap-sort-with-max-heap.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u6-sorting/insertion-sort-shifting.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u6-sorting/merge-sort-divide-and-merge-tree.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u6-sorting/quick-sort-partition.webp"
   ]
 }

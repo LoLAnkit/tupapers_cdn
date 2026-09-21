@@ -1,5 +1,4 @@
 import sharp from "sharp";
-import { optimize as svgoOptimize } from "svgo";
 
 export interface Optimized {
   data: Buffer;
@@ -11,22 +10,28 @@ export interface Optimized {
 }
 
 export type WatermarkPosition =
-  | "bottom-right"
-  | "bottom-left"
-  | "top-right"
-  | "top-left"
-  | "center";
+  "bottom-right" | "bottom-left" | "top-right" | "top-left" | "center";
 
 export interface OptimizeOptions {
-  /** graphic = near-lossless (diagrams/figures); photo = lossy q78. */
-  mode: "graphic" | "photo";
+  /** WebP quality, 1–100. */
+  quality: number;
   /** Optional max-width clamp in px (never upscales). */
   maxWidth?: number;
   /** Optional watermark image Buffer. */
   watermarkBuffer?: Buffer;
-  /** Watermark position on image. Defaults to "bottom-right". */
   watermarkPosition?: WatermarkPosition;
 }
+
+const CONTENT_TYPES: Record<string, string> = {
+  ".webp": "image/webp",
+  ".svg": "image/svg+xml",
+  ".png": "image/png",
+  ".jpg": "image/jpeg",
+  ".jpeg": "image/jpeg",
+  ".gif": "image/gif",
+  ".avif": "image/avif",
+  ".tiff": "image/tiff",
+};
 
 const RASTER_EXT = new Set([".png", ".jpg", ".jpeg", ".webp", ".gif", ".avif", ".tiff"]);
 
@@ -38,10 +43,30 @@ const GRAVITY_MAP: Record<WatermarkPosition, string> = {
   center: "center",
 };
 
+/** Return source bytes plus metadata; used unchanged only for SVG files. */
+export async function inspectImage(input: Buffer, sourceExt: string): Promise<Optimized> {
+  const ext = sourceExt.toLowerCase();
+  const contentType = CONTENT_TYPES[ext];
+  if (!contentType) {
+    throw new Error(`Unsupported image type: ${ext}`);
+  }
+
+  let width: number | undefined;
+  let height: number | undefined;
+  try {
+    const meta = await sharp(input, { failOn: "none", animated: true }).metadata();
+    width = meta.width;
+    height = meta.pageHeight ?? meta.height;
+  } catch {
+    // Keep valid-but-unreadable metadata from changing the original image bytes.
+  }
+
+  return { data: input, ext, contentType, width, height };
+}
+
 /**
- * Normalize + convert an image to optimized bytes.
- * - Raster → WebP (metadata stripped, auto-oriented, watermarked if configured).
- * - SVG    → svgo-optimized SVG (never rasterized).
+ * Compress raster images locally with Sharp and apply the optional watermark.
+ * SVG files stay vector files and are copied unchanged.
  */
 export async function optimizeImage(
   input: Buffer,
@@ -49,59 +74,39 @@ export async function optimizeImage(
   opts: OptimizeOptions,
 ): Promise<Optimized> {
   const ext = sourceExt.toLowerCase();
+  if (ext === ".svg") return inspectImage(input, ext);
+  if (!RASTER_EXT.has(ext)) throw new Error(`Unsupported image type: ${ext}`);
 
-  if (ext === ".svg") {
-    const result = svgoOptimize(input.toString("utf8"), { multipass: true });
-    const data = Buffer.from(result.data, "utf8");
-    let width: number | undefined;
-    let height: number | undefined;
-    try {
-      const meta = await sharp(data).metadata();
-      width = meta.width;
-      height = meta.height;
-    } catch {
-      // dimensionless SVG — leave width/height undefined
-    }
-    return { data, ext: ".svg", contentType: "image/svg+xml", width, height };
-  }
+  let pipeline = sharp(input, { failOn: "none", animated: true }).rotate();
+  const meta = await pipeline.metadata();
+  const outputWidth = opts.maxWidth
+    ? Math.min(meta.width ?? opts.maxWidth, opts.maxWidth)
+    : (meta.width ?? 800);
 
-  if (!RASTER_EXT.has(ext)) {
-    throw new Error(`Unsupported image type: ${ext}`);
-  }
-
-  let pipeline = sharp(input, { failOn: "none" }).rotate(); // auto-orient via EXIF
   if (opts.maxWidth && opts.maxWidth > 0) {
     pipeline = pipeline.resize({ width: opts.maxWidth, withoutEnlargement: true });
   }
 
   if (opts.watermarkBuffer) {
-    const meta = await pipeline.metadata();
-    const baseWidth = meta.width ?? 800;
-
-    // Scale watermark to ~14% of base image width (bounded between 50px and 180px)
-    const targetWmWidth = Math.min(Math.max(Math.round(baseWidth * 0.14), 50), 180);
-
-    const resizedWatermark = await sharp(opts.watermarkBuffer)
-      .resize({ width: targetWmWidth, withoutEnlargement: true })
+    // Match the previous small watermark scale: ~14% of image width.
+    const watermarkWidth = Math.min(Math.max(Math.round(outputWidth * 0.14), 50), 180);
+    const watermark = await sharp(opts.watermarkBuffer)
+      .resize({ width: watermarkWidth, withoutEnlargement: true })
+      .png()
       .toBuffer();
-
-    const position = opts.watermarkPosition ?? "bottom-right";
-    const gravity = GRAVITY_MAP[position] || "southeast";
-
     pipeline = pipeline.composite([
       {
-        input: resizedWatermark,
-        gravity,
+        input: watermark,
+        gravity: GRAVITY_MAP[opts.watermarkPosition ?? "bottom-right"],
       },
     ]);
   }
 
-  const webpOptions =
-    opts.mode === "photo"
-      ? { quality: 78, effort: 5 }
-      : { nearLossless: true, quality: 90, effort: 5 };
-
-  const { data, info } = await pipeline.webp(webpOptions).toBuffer({ resolveWithObject: true });
+  const { data, info } = await pipeline
+    // Effort affects encoder time, not the requested quality. Four keeps a
+    // large catalog build responsive while retaining strong compression.
+    .webp({ quality: opts.quality, effort: 4, smartSubsample: true })
+    .toBuffer({ resolveWithObject: true });
 
   return {
     data,

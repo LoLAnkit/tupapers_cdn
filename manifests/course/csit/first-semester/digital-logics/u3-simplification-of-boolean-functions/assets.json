@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.542Z",
+  "generatedAt": "2026-09-21T09:23:02.520Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/csit/first-semester/digital-logics/u3-simplification-of-boolean-functions",
   "totalAssets": 4,
   "assets": {
     "four-variable-kmap-layout.webp": {
-      "key": "course/csit/first-semester/digital-logics/u3-simplification-of-boolean-functions/four-variable-kmap-layout.8f1c84c2.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u3-simplification-of-boolean-functions/four-variable-kmap-layout.8f1c84c2.webp",
+      "key": "course/csit/first-semester/digital-logics/u3-simplification-of-boolean-functions/four-variable-kmap-layout.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u3-simplification-of-boolean-functions/four-variable-kmap-layout.webp",
       "contentType": "image/webp",
       "width": 1254,
       "height": 1254,
-      "bytes": 379868
+      "bytes": 61452,
+      "contentHashed": false
     },
     "nand-nand-implementation-from-kmap.webp": {
-      "key": "course/csit/first-semester/digital-logics/u3-simplification-of-boolean-functions/nand-nand-implementation-from-kmap.c3941df8.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u3-simplification-of-boolean-functions/nand-nand-implementation-from-kmap.c3941df8.webp",
+      "key": "course/csit/first-semester/digital-logics/u3-simplification-of-boolean-functions/nand-nand-implementation-from-kmap.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u3-simplification-of-boolean-functions/nand-nand-implementation-from-kmap.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 406286
+      "bytes": 35368,
+      "contentHashed": false
     },
     "pos-simplification-on-kmap.webp": {
-      "key": "course/csit/first-semester/digital-logics/u3-simplification-of-boolean-functions/pos-simplification-on-kmap.98dad94c.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u3-simplification-of-boolean-functions/pos-simplification-on-kmap.98dad94c.webp",
+      "key": "course/csit/first-semester/digital-logics/u3-simplification-of-boolean-functions/pos-simplification-on-kmap.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u3-simplification-of-boolean-functions/pos-simplification-on-kmap.webp",
       "contentType": "image/webp",
       "width": 1690,
       "height": 931,
-      "bytes": 396474
+      "bytes": 67172,
+      "contentHashed": false
     },
     "prime-implicant-selection-chart.webp": {
-      "key": "course/csit/first-semester/digital-logics/u3-simplification-of-boolean-functions/prime-implicant-selection-chart.6b3a5a53.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u3-simplification-of-boolean-functions/prime-implicant-selection-chart.6b3a5a53.webp",
+      "key": "course/csit/first-semester/digital-logics/u3-simplification-of-boolean-functions/prime-implicant-selection-chart.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u3-simplification-of-boolean-functions/prime-implicant-selection-chart.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 432026
+      "bytes": 71496,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u3-simplification-of-boolean-functions/four-variable-kmap-layout.8f1c84c2.webp",
-    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u3-simplification-of-boolean-functions/nand-nand-implementation-from-kmap.c3941df8.webp",
-    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u3-simplification-of-boolean-functions/pos-simplification-on-kmap.98dad94c.webp",
-    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u3-simplification-of-boolean-functions/prime-implicant-selection-chart.6b3a5a53.webp"
+    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u3-simplification-of-boolean-functions/four-variable-kmap-layout.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u3-simplification-of-boolean-functions/nand-nand-implementation-from-kmap.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u3-simplification-of-boolean-functions/pos-simplification-on-kmap.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u3-simplification-of-boolean-functions/prime-implicant-selection-chart.webp"
   ]
 }

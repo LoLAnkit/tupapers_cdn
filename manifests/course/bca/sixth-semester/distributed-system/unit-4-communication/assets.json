@@ -1,56 +1,61 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.916Z",
+  "generatedAt": "2026-09-21T09:23:02.084Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/sixth-semester/distributed-system/unit-4-communication",
   "totalAssets": 5,
   "assets": {
     "fig-4.1-rpc-working-process.webp": {
-      "key": "course/bca/sixth-semester/distributed-system/unit-4-communication/fig-4.1-rpc-working-process.99e4a84c.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-4-communication/fig-4.1-rpc-working-process.99e4a84c.webp",
+      "key": "course/bca/sixth-semester/distributed-system/unit-4-communication/fig-4.1-rpc-working-process.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-4-communication/fig-4.1-rpc-working-process.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 448638
+      "bytes": 62964,
+      "contentHashed": false
     },
     "fig-4.2-message-oriented-communication.webp": {
-      "key": "course/bca/sixth-semester/distributed-system/unit-4-communication/fig-4.2-message-oriented-communication.cbb14b9d.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-4-communication/fig-4.2-message-oriented-communication.cbb14b9d.webp",
+      "key": "course/bca/sixth-semester/distributed-system/unit-4-communication/fig-4.2-message-oriented-communication.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-4-communication/fig-4.2-message-oriented-communication.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 667176
+      "bytes": 67840,
+      "contentHashed": false
     },
     "fig-4.3-transient-synchronous-communication.webp": {
-      "key": "course/bca/sixth-semester/distributed-system/unit-4-communication/fig-4.3-transient-synchronous-communication.354b8331.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-4-communication/fig-4.3-transient-synchronous-communication.354b8331.webp",
+      "key": "course/bca/sixth-semester/distributed-system/unit-4-communication/fig-4.3-transient-synchronous-communication.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-4-communication/fig-4.3-transient-synchronous-communication.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 414360
+      "bytes": 52586,
+      "contentHashed": false
     },
     "fig-4.4-message-passing-interface.webp": {
-      "key": "course/bca/sixth-semester/distributed-system/unit-4-communication/fig-4.4-message-passing-interface.4c12e455.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-4-communication/fig-4.4-message-passing-interface.4c12e455.webp",
+      "key": "course/bca/sixth-semester/distributed-system/unit-4-communication/fig-4.4-message-passing-interface.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-4-communication/fig-4.4-message-passing-interface.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 561006
+      "bytes": 97366,
+      "contentHashed": false
     },
     "fig-4.5-socket-client-server-communication.webp": {
-      "key": "course/bca/sixth-semester/distributed-system/unit-4-communication/fig-4.5-socket-client-server-communication.c5764e96.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-4-communication/fig-4.5-socket-client-server-communication.c5764e96.webp",
+      "key": "course/bca/sixth-semester/distributed-system/unit-4-communication/fig-4.5-socket-client-server-communication.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-4-communication/fig-4.5-socket-client-server-communication.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 408042
+      "bytes": 55590,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-4-communication/fig-4.1-rpc-working-process.99e4a84c.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-4-communication/fig-4.2-message-oriented-communication.cbb14b9d.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-4-communication/fig-4.3-transient-synchronous-communication.354b8331.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-4-communication/fig-4.4-message-passing-interface.4c12e455.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-4-communication/fig-4.5-socket-client-server-communication.c5764e96.webp"
+    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-4-communication/fig-4.1-rpc-working-process.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-4-communication/fig-4.2-message-oriented-communication.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-4-communication/fig-4.3-transient-synchronous-communication.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-4-communication/fig-4.4-message-passing-interface.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/unit-4-communication/fig-4.5-socket-client-server-communication.webp"
   ]
 }

@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.549Z",
+  "generatedAt": "2026-09-21T09:23:02.523Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/csit/first-semester/digital-logics/u4-combinational-logic",
   "totalAssets": 4,
   "assets": {
     "full-adder-circuit-diagram.webp": {
-      "key": "course/csit/first-semester/digital-logics/u4-combinational-logic/full-adder-circuit-diagram.fd97d8f8.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u4-combinational-logic/full-adder-circuit-diagram.fd97d8f8.webp",
+      "key": "course/csit/first-semester/digital-logics/u4-combinational-logic/full-adder-circuit-diagram.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u4-combinational-logic/full-adder-circuit-diagram.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 564572
+      "bytes": 49440,
+      "contentHashed": false
     },
     "full-subtractor-circuit-diagram.webp": {
-      "key": "course/csit/first-semester/digital-logics/u4-combinational-logic/full-subtractor-circuit-diagram.df1677c2.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u4-combinational-logic/full-subtractor-circuit-diagram.df1677c2.webp",
+      "key": "course/csit/first-semester/digital-logics/u4-combinational-logic/full-subtractor-circuit-diagram.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u4-combinational-logic/full-subtractor-circuit-diagram.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 679636
+      "bytes": 68386,
+      "contentHashed": false
     },
     "odd-parity-generator.webp": {
-      "key": "course/csit/first-semester/digital-logics/u4-combinational-logic/odd-parity-generator.e87d0c09.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u4-combinational-logic/odd-parity-generator.e87d0c09.webp",
+      "key": "course/csit/first-semester/digital-logics/u4-combinational-logic/odd-parity-generator.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u4-combinational-logic/odd-parity-generator.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 710932
+      "bytes": 58308,
+      "contentHashed": false
     },
     "ripple-carry-adder-4-bit.webp": {
-      "key": "course/csit/first-semester/digital-logics/u4-combinational-logic/ripple-carry-adder-4-bit.87a43728.webp",
-      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u4-combinational-logic/ripple-carry-adder-4-bit.87a43728.webp",
+      "key": "course/csit/first-semester/digital-logics/u4-combinational-logic/ripple-carry-adder-4-bit.webp",
+      "url": "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u4-combinational-logic/ripple-carry-adder-4-bit.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 689064
+      "bytes": 65114,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u4-combinational-logic/full-adder-circuit-diagram.fd97d8f8.webp",
-    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u4-combinational-logic/full-subtractor-circuit-diagram.df1677c2.webp",
-    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u4-combinational-logic/odd-parity-generator.e87d0c09.webp",
-    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u4-combinational-logic/ripple-carry-adder-4-bit.87a43728.webp"
+    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u4-combinational-logic/full-adder-circuit-diagram.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u4-combinational-logic/full-subtractor-circuit-diagram.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u4-combinational-logic/odd-parity-generator.webp",
+    "https://cdn.tupapers.com/course/csit/first-semester/digital-logics/u4-combinational-logic/ripple-carry-adder-4-bit.webp"
   ]
 }

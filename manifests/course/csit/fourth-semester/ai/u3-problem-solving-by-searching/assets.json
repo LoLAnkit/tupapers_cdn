@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:02.603Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/csit/fourth-semester/ai/u3-problem-solving-by-searching",
+  "totalAssets": 4,
+  "assets": {
+    "graph-coloring-as-csp.webp": {
+      "key": "course/csit/fourth-semester/ai/u3-problem-solving-by-searching/graph-coloring-as-csp.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/ai/u3-problem-solving-by-searching/graph-coloring-as-csp.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 89284,
+      "contentHashed": false
+    },
+    "hill-climbing-search-landscape.webp": {
+      "key": "course/csit/fourth-semester/ai/u3-problem-solving-by-searching/hill-climbing-search-landscape.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/ai/u3-problem-solving-by-searching/hill-climbing-search-landscape.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 72612,
+      "contentHashed": false
+    },
+    "minimax-alpha-beta-pruning.webp": {
+      "key": "course/csit/fourth-semester/ai/u3-problem-solving-by-searching/minimax-alpha-beta-pruning.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/ai/u3-problem-solving-by-searching/minimax-alpha-beta-pruning.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 63644,
+      "contentHashed": false
+    },
+    "state-space-search-anatomy.webp": {
+      "key": "course/csit/fourth-semester/ai/u3-problem-solving-by-searching/state-space-search-anatomy.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/ai/u3-problem-solving-by-searching/state-space-search-anatomy.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 75346,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/csit/fourth-semester/ai/u3-problem-solving-by-searching/graph-coloring-as-csp.webp",
+    "https://cdn.tupapers.com/course/csit/fourth-semester/ai/u3-problem-solving-by-searching/hill-climbing-search-landscape.webp",
+    "https://cdn.tupapers.com/course/csit/fourth-semester/ai/u3-problem-solving-by-searching/minimax-alpha-beta-pruning.webp",
+    "https://cdn.tupapers.com/course/csit/fourth-semester/ai/u3-problem-solving-by-searching/state-space-search-anatomy.webp"
+  ]
+}

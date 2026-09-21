@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:02.617Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/csit/fourth-semester/computer-networking/u1-introduction-to-computer-network",
+  "totalAssets": 5,
+  "assets": {
+    "client-server-vs-peer-to-peer.webp": {
+      "key": "course/csit/fourth-semester/computer-networking/u1-introduction-to-computer-network/client-server-vs-peer-to-peer.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/computer-networking/u1-introduction-to-computer-network/client-server-vs-peer-to-peer.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 96268,
+      "contentHashed": false
+    },
+    "network-topologies.webp": {
+      "key": "course/csit/fourth-semester/computer-networking/u1-introduction-to-computer-network/network-topologies.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/computer-networking/u1-introduction-to-computer-network/network-topologies.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 64510,
+      "contentHashed": false
+    },
+    "network-types-by-coverage.webp": {
+      "key": "course/csit/fourth-semester/computer-networking/u1-introduction-to-computer-network/network-types-by-coverage.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/computer-networking/u1-introduction-to-computer-network/network-types-by-coverage.webp",
+      "contentType": "image/webp",
+      "width": 1312,
+      "height": 1199,
+      "bytes": 189312,
+      "contentHashed": false
+    },
+    "osi-seven-layer-model.webp": {
+      "key": "course/csit/fourth-semester/computer-networking/u1-introduction-to-computer-network/osi-seven-layer-model.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/computer-networking/u1-introduction-to-computer-network/osi-seven-layer-model.webp",
+      "contentType": "image/webp",
+      "width": 1226,
+      "height": 1283,
+      "bytes": 54328,
+      "contentHashed": false
+    },
+    "tcp-ip-and-osi-layer-mapping.webp": {
+      "key": "course/csit/fourth-semester/computer-networking/u1-introduction-to-computer-network/tcp-ip-and-osi-layer-mapping.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/computer-networking/u1-introduction-to-computer-network/tcp-ip-and-osi-layer-mapping.webp",
+      "contentType": "image/webp",
+      "width": 1227,
+      "height": 1282,
+      "bytes": 67706,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/csit/fourth-semester/computer-networking/u1-introduction-to-computer-network/client-server-vs-peer-to-peer.webp",
+    "https://cdn.tupapers.com/course/csit/fourth-semester/computer-networking/u1-introduction-to-computer-network/network-topologies.webp",
+    "https://cdn.tupapers.com/course/csit/fourth-semester/computer-networking/u1-introduction-to-computer-network/network-types-by-coverage.webp",
+    "https://cdn.tupapers.com/course/csit/fourth-semester/computer-networking/u1-introduction-to-computer-network/osi-seven-layer-model.webp",
+    "https://cdn.tupapers.com/course/csit/fourth-semester/computer-networking/u1-introduction-to-computer-network/tcp-ip-and-osi-layer-mapping.webp"
+  ]
+}

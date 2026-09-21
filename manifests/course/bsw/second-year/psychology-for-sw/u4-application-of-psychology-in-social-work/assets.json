@@ -1,56 +1,61 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.484Z",
+  "generatedAt": "2026-09-21T09:23:02.482Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/second-year/psychology-for-sw/u4-application-of-psychology-in-social-work",
   "totalAssets": 5,
   "assets": {
     "developmental-tasks-hazards-adjustment-lifespan.webp": {
-      "key": "course/bsw/second-year/psychology-for-sw/u4-application-of-psychology-in-social-work/developmental-tasks-hazards-adjustment-lifespan.57fbeb58.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u4-application-of-psychology-in-social-work/developmental-tasks-hazards-adjustment-lifespan.57fbeb58.webp",
+      "key": "course/bsw/second-year/psychology-for-sw/u4-application-of-psychology-in-social-work/developmental-tasks-hazards-adjustment-lifespan.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u4-application-of-psychology-in-social-work/developmental-tasks-hazards-adjustment-lifespan.webp",
       "contentType": "image/webp",
       "width": 2033,
       "height": 774,
-      "bytes": 1255592
+      "bytes": 244304,
+      "contentHashed": false
     },
     "health-mental-health-psychosocial-wellbeing-framework.webp": {
-      "key": "course/bsw/second-year/psychology-for-sw/u4-application-of-psychology-in-social-work/health-mental-health-psychosocial-wellbeing-framework.ddfab6f2.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u4-application-of-psychology-in-social-work/health-mental-health-psychosocial-wellbeing-framework.ddfab6f2.webp",
+      "key": "course/bsw/second-year/psychology-for-sw/u4-application-of-psychology-in-social-work/health-mental-health-psychosocial-wellbeing-framework.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u4-application-of-psychology-in-social-work/health-mental-health-psychosocial-wellbeing-framework.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 834940
+      "bytes": 103480,
+      "contentHashed": false
     },
     "positive-psychology-and-happiness-framework.webp": {
-      "key": "course/bsw/second-year/psychology-for-sw/u4-application-of-psychology-in-social-work/positive-psychology-and-happiness-framework.f92ca6c3.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u4-application-of-psychology-in-social-work/positive-psychology-and-happiness-framework.f92ca6c3.webp",
+      "key": "course/bsw/second-year/psychology-for-sw/u4-application-of-psychology-in-social-work/positive-psychology-and-happiness-framework.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u4-application-of-psychology-in-social-work/positive-psychology-and-happiness-framework.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 810064
+      "bytes": 102402,
+      "contentHashed": false
     },
     "psychopathology-causes-and-varieties.webp": {
-      "key": "course/bsw/second-year/psychology-for-sw/u4-application-of-psychology-in-social-work/psychopathology-causes-and-varieties.62f6b255.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u4-application-of-psychology-in-social-work/psychopathology-causes-and-varieties.62f6b255.webp",
+      "key": "course/bsw/second-year/psychology-for-sw/u4-application-of-psychology-in-social-work/psychopathology-causes-and-varieties.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u4-application-of-psychology-in-social-work/psychopathology-causes-and-varieties.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 1073004
+      "bytes": 205340,
+      "contentHashed": false
     },
     "stress-coping-management-cycle.webp": {
-      "key": "course/bsw/second-year/psychology-for-sw/u4-application-of-psychology-in-social-work/stress-coping-management-cycle.05925130.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u4-application-of-psychology-in-social-work/stress-coping-management-cycle.05925130.webp",
+      "key": "course/bsw/second-year/psychology-for-sw/u4-application-of-psychology-in-social-work/stress-coping-management-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u4-application-of-psychology-in-social-work/stress-coping-management-cycle.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 638384
+      "bytes": 71840,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u4-application-of-psychology-in-social-work/developmental-tasks-hazards-adjustment-lifespan.57fbeb58.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u4-application-of-psychology-in-social-work/health-mental-health-psychosocial-wellbeing-framework.ddfab6f2.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u4-application-of-psychology-in-social-work/positive-psychology-and-happiness-framework.f92ca6c3.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u4-application-of-psychology-in-social-work/psychopathology-causes-and-varieties.62f6b255.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u4-application-of-psychology-in-social-work/stress-coping-management-cycle.05925130.webp"
+    "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u4-application-of-psychology-in-social-work/developmental-tasks-hazards-adjustment-lifespan.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u4-application-of-psychology-in-social-work/health-mental-health-psychosocial-wellbeing-framework.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u4-application-of-psychology-in-social-work/positive-psychology-and-happiness-framework.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u4-application-of-psychology-in-social-work/psychopathology-causes-and-varieties.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/psychology-for-sw/u4-application-of-psychology-in-social-work/stress-coping-management-cycle.webp"
   ]
 }

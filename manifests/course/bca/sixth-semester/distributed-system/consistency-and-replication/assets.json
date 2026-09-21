@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.877Z",
+  "generatedAt": "2026-09-21T09:23:02.053Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/sixth-semester/distributed-system/consistency-and-replication",
   "totalAssets": 4,
   "assets": {
     "fig-7-1-data-centric-consistency-models.webp": {
-      "key": "course/bca/sixth-semester/distributed-system/consistency-and-replication/fig-7-1-data-centric-consistency-models.0c4db85b.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/consistency-and-replication/fig-7-1-data-centric-consistency-models.0c4db85b.webp",
+      "key": "course/bca/sixth-semester/distributed-system/consistency-and-replication/fig-7-1-data-centric-consistency-models.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/consistency-and-replication/fig-7-1-data-centric-consistency-models.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 552188
+      "bytes": 87138,
+      "contentHashed": false
     },
     "fig-7-2-replication-as-a-scaling-technique.webp": {
-      "key": "course/bca/sixth-semester/distributed-system/consistency-and-replication/fig-7-2-replication-as-a-scaling-technique.36e3246b.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/consistency-and-replication/fig-7-2-replication-as-a-scaling-technique.36e3246b.webp",
+      "key": "course/bca/sixth-semester/distributed-system/consistency-and-replication/fig-7-2-replication-as-a-scaling-technique.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/consistency-and-replication/fig-7-2-replication-as-a-scaling-technique.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 564346
+      "bytes": 92208,
+      "contentHashed": false
     },
     "fig-7-3-consistency-protocol-flow.webp": {
-      "key": "course/bca/sixth-semester/distributed-system/consistency-and-replication/fig-7-3-consistency-protocol-flow.e8d777d3.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/consistency-and-replication/fig-7-3-consistency-protocol-flow.e8d777d3.webp",
+      "key": "course/bca/sixth-semester/distributed-system/consistency-and-replication/fig-7-3-consistency-protocol-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/consistency-and-replication/fig-7-3-consistency-protocol-flow.webp",
       "contentType": "image/webp",
       "width": 1694,
       "height": 928,
-      "bytes": 652440
+      "bytes": 54380,
+      "contentHashed": false
     },
     "fig-7-4-client-centric-consistency.webp": {
-      "key": "course/bca/sixth-semester/distributed-system/consistency-and-replication/fig-7-4-client-centric-consistency.ece574f1.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/consistency-and-replication/fig-7-4-client-centric-consistency.ece574f1.webp",
+      "key": "course/bca/sixth-semester/distributed-system/consistency-and-replication/fig-7-4-client-centric-consistency.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/consistency-and-replication/fig-7-4-client-centric-consistency.webp",
       "contentType": "image/webp",
       "width": 1693,
       "height": 929,
-      "bytes": 741812
+      "bytes": 73204,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/consistency-and-replication/fig-7-1-data-centric-consistency-models.0c4db85b.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/consistency-and-replication/fig-7-2-replication-as-a-scaling-technique.36e3246b.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/consistency-and-replication/fig-7-3-consistency-protocol-flow.e8d777d3.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/consistency-and-replication/fig-7-4-client-centric-consistency.ece574f1.webp"
+    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/consistency-and-replication/fig-7-1-data-centric-consistency-models.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/consistency-and-replication/fig-7-2-replication-as-a-scaling-technique.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/consistency-and-replication/fig-7-3-consistency-protocol-flow.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/distributed-system/consistency-and-replication/fig-7-4-client-centric-consistency.webp"
   ]
 }

@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:01.609Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/first-semester/digital-logics/u2-boolean-algebra-and-its-simplification",
+  "totalAssets": 4,
+  "assets": {
+    "karnaugh-map-grouping.webp": {
+      "key": "course/bca/first-semester/digital-logics/u2-boolean-algebra-and-its-simplification/karnaugh-map-grouping.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u2-boolean-algebra-and-its-simplification/karnaugh-map-grouping.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 80780,
+      "contentHashed": false
+    },
+    "logic-gate-symbol-family.webp": {
+      "key": "course/bca/first-semester/digital-logics/u2-boolean-algebra-and-its-simplification/logic-gate-symbol-family.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u2-boolean-algebra-and-its-simplification/logic-gate-symbol-family.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 53048,
+      "contentHashed": false
+    },
+    "quine-mccluskey-tabulation-flow.webp": {
+      "key": "course/bca/first-semester/digital-logics/u2-boolean-algebra-and-its-simplification/quine-mccluskey-tabulation-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u2-boolean-algebra-and-its-simplification/quine-mccluskey-tabulation-flow.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 77178,
+      "contentHashed": false
+    },
+    "universal-gate-realizations.webp": {
+      "key": "course/bca/first-semester/digital-logics/u2-boolean-algebra-and-its-simplification/universal-gate-realizations.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u2-boolean-algebra-and-its-simplification/universal-gate-realizations.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 97866,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u2-boolean-algebra-and-its-simplification/karnaugh-map-grouping.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u2-boolean-algebra-and-its-simplification/logic-gate-symbol-family.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u2-boolean-algebra-and-its-simplification/quine-mccluskey-tabulation-flow.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u2-boolean-algebra-and-its-simplification/universal-gate-realizations.webp"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:02.628Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/csit/fourth-semester/computer-networking/u5-transport-layer",
+  "totalAssets": 4,
+  "assets": {
+    "leaky-bucket-and-token-bucket.webp": {
+      "key": "course/csit/fourth-semester/computer-networking/u5-transport-layer/leaky-bucket-and-token-bucket.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/computer-networking/u5-transport-layer/leaky-bucket-and-token-bucket.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 139210,
+      "contentHashed": false
+    },
+    "ports-and-sockets.webp": {
+      "key": "course/csit/fourth-semester/computer-networking/u5-transport-layer/ports-and-sockets.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/computer-networking/u5-transport-layer/ports-and-sockets.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 93896,
+      "contentHashed": false
+    },
+    "tcp-header-format.webp": {
+      "key": "course/csit/fourth-semester/computer-networking/u5-transport-layer/tcp-header-format.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/computer-networking/u5-transport-layer/tcp-header-format.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 54488,
+      "contentHashed": false
+    },
+    "tcp-three-way-handshake.webp": {
+      "key": "course/csit/fourth-semester/computer-networking/u5-transport-layer/tcp-three-way-handshake.webp",
+      "url": "https://cdn.tupapers.com/course/csit/fourth-semester/computer-networking/u5-transport-layer/tcp-three-way-handshake.webp",
+      "contentType": "image/webp",
+      "width": 1227,
+      "height": 1282,
+      "bytes": 73106,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/csit/fourth-semester/computer-networking/u5-transport-layer/leaky-bucket-and-token-bucket.webp",
+    "https://cdn.tupapers.com/course/csit/fourth-semester/computer-networking/u5-transport-layer/ports-and-sockets.webp",
+    "https://cdn.tupapers.com/course/csit/fourth-semester/computer-networking/u5-transport-layer/tcp-header-format.webp",
+    "https://cdn.tupapers.com/course/csit/fourth-semester/computer-networking/u5-transport-layer/tcp-three-way-handshake.webp"
+  ]
+}

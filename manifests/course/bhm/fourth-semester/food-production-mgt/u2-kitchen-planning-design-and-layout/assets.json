@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:02.158Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bhm/fourth-semester/food-production-mgt/u2-kitchen-planning-design-and-layout",
+  "totalAssets": 4,
+  "assets": {
+    "combine-preparation-and-finish-kitchen-layout.webp": {
+      "key": "course/bhm/fourth-semester/food-production-mgt/u2-kitchen-planning-design-and-layout/combine-preparation-and-finish-kitchen-layout.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u2-kitchen-planning-design-and-layout/combine-preparation-and-finish-kitchen-layout.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 193554,
+      "contentHashed": false
+    },
+    "kitchen-ergonomics.webp": {
+      "key": "course/bhm/fourth-semester/food-production-mgt/u2-kitchen-planning-design-and-layout/kitchen-ergonomics.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u2-kitchen-planning-design-and-layout/kitchen-ergonomics.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 175182,
+      "contentHashed": false
+    },
+    "kitchen-layout-and-traffic-flow.webp": {
+      "key": "course/bhm/fourth-semester/food-production-mgt/u2-kitchen-planning-design-and-layout/kitchen-layout-and-traffic-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u2-kitchen-planning-design-and-layout/kitchen-layout-and-traffic-flow.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 172218,
+      "contentHashed": false
+    },
+    "kitchen-work-flow-chart.webp": {
+      "key": "course/bhm/fourth-semester/food-production-mgt/u2-kitchen-planning-design-and-layout/kitchen-work-flow-chart.webp",
+      "url": "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u2-kitchen-planning-design-and-layout/kitchen-work-flow-chart.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 149364,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u2-kitchen-planning-design-and-layout/combine-preparation-and-finish-kitchen-layout.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u2-kitchen-planning-design-and-layout/kitchen-ergonomics.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u2-kitchen-planning-design-and-layout/kitchen-layout-and-traffic-flow.webp",
+    "https://cdn.tupapers.com/course/bhm/fourth-semester/food-production-mgt/u2-kitchen-planning-design-and-layout/kitchen-work-flow-chart.webp"
+  ]
+}

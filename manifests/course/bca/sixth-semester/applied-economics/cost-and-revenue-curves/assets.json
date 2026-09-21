@@ -1,56 +1,61 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:37.846Z",
+  "generatedAt": "2026-09-21T09:23:02.026Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/sixth-semester/applied-economics/cost-and-revenue-curves",
   "totalAssets": 5,
   "assets": {
     "ar-mr-perfect-vs-imperfect-competition.webp": {
-      "key": "course/bca/sixth-semester/applied-economics/cost-and-revenue-curves/ar-mr-perfect-vs-imperfect-competition.f395da29.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/cost-and-revenue-curves/ar-mr-perfect-vs-imperfect-competition.f395da29.webp",
+      "key": "course/bca/sixth-semester/applied-economics/cost-and-revenue-curves/ar-mr-perfect-vs-imperfect-competition.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/cost-and-revenue-curves/ar-mr-perfect-vs-imperfect-competition.webp",
       "contentType": "image/webp",
       "width": 1586,
       "height": 992,
-      "bytes": 1229858
+      "bytes": 101242,
+      "contentHashed": false
     },
     "lmc-lac-relationship.webp": {
-      "key": "course/bca/sixth-semester/applied-economics/cost-and-revenue-curves/lmc-lac-relationship.5e5bbcc2.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/cost-and-revenue-curves/lmc-lac-relationship.5e5bbcc2.webp",
+      "key": "course/bca/sixth-semester/applied-economics/cost-and-revenue-curves/lmc-lac-relationship.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/cost-and-revenue-curves/lmc-lac-relationship.webp",
       "contentType": "image/webp",
       "width": 1586,
       "height": 992,
-      "bytes": 1190564
+      "bytes": 81890,
+      "contentHashed": false
     },
     "short-run-average-and-marginal-cost-curves.webp": {
-      "key": "course/bca/sixth-semester/applied-economics/cost-and-revenue-curves/short-run-average-and-marginal-cost-curves.af2323bc.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/cost-and-revenue-curves/short-run-average-and-marginal-cost-curves.af2323bc.webp",
+      "key": "course/bca/sixth-semester/applied-economics/cost-and-revenue-curves/short-run-average-and-marginal-cost-curves.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/cost-and-revenue-curves/short-run-average-and-marginal-cost-curves.webp",
       "contentType": "image/webp",
       "width": 1586,
       "height": 992,
-      "bytes": 982158
+      "bytes": 80220,
+      "contentHashed": false
     },
     "short-run-long-run-ac-envelope-relationship.webp": {
-      "key": "course/bca/sixth-semester/applied-economics/cost-and-revenue-curves/short-run-long-run-ac-envelope-relationship.5cf9c8a8.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/cost-and-revenue-curves/short-run-long-run-ac-envelope-relationship.5cf9c8a8.webp",
+      "key": "course/bca/sixth-semester/applied-economics/cost-and-revenue-curves/short-run-long-run-ac-envelope-relationship.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/cost-and-revenue-curves/short-run-long-run-ac-envelope-relationship.webp",
       "contentType": "image/webp",
       "width": 1586,
       "height": 992,
-      "bytes": 1201398
+      "bytes": 95190,
+      "contentHashed": false
     },
     "short-run-total-cost-curves.webp": {
-      "key": "course/bca/sixth-semester/applied-economics/cost-and-revenue-curves/short-run-total-cost-curves.f502fc7c.webp",
-      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/cost-and-revenue-curves/short-run-total-cost-curves.f502fc7c.webp",
+      "key": "course/bca/sixth-semester/applied-economics/cost-and-revenue-curves/short-run-total-cost-curves.webp",
+      "url": "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/cost-and-revenue-curves/short-run-total-cost-curves.webp",
       "contentType": "image/webp",
       "width": 1586,
       "height": 992,
-      "bytes": 1007170
+      "bytes": 65300,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/cost-and-revenue-curves/ar-mr-perfect-vs-imperfect-competition.f395da29.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/cost-and-revenue-curves/lmc-lac-relationship.5e5bbcc2.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/cost-and-revenue-curves/short-run-average-and-marginal-cost-curves.af2323bc.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/cost-and-revenue-curves/short-run-long-run-ac-envelope-relationship.5cf9c8a8.webp",
-    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/cost-and-revenue-curves/short-run-total-cost-curves.f502fc7c.webp"
+    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/cost-and-revenue-curves/ar-mr-perfect-vs-imperfect-competition.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/cost-and-revenue-curves/lmc-lac-relationship.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/cost-and-revenue-curves/short-run-average-and-marginal-cost-curves.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/cost-and-revenue-curves/short-run-long-run-ac-envelope-relationship.webp",
+    "https://cdn.tupapers.com/course/bca/sixth-semester/applied-economics/cost-and-revenue-curves/short-run-total-cost-curves.webp"
   ]
 }

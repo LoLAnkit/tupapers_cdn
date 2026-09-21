@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:01.494Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbm/fourth-semester/psychology/u6-memory-and-forgetting",
+  "totalAssets": 4,
+  "assets": {
+    "memory-process-encoding-storage-retrieval.webp": {
+      "key": "course/bbm/fourth-semester/psychology/u6-memory-and-forgetting/memory-process-encoding-storage-retrieval.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u6-memory-and-forgetting/memory-process-encoding-storage-retrieval.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 129102,
+      "contentHashed": false
+    },
+    "memory-systems-architecture.webp": {
+      "key": "course/bbm/fourth-semester/psychology/u6-memory-and-forgetting/memory-systems-architecture.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u6-memory-and-forgetting/memory-systems-architecture.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 120380,
+      "contentHashed": false
+    },
+    "retrograde-vs-anterograde-amnesia.webp": {
+      "key": "course/bbm/fourth-semester/psychology/u6-memory-and-forgetting/retrograde-vs-anterograde-amnesia.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u6-memory-and-forgetting/retrograde-vs-anterograde-amnesia.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 127124,
+      "contentHashed": false
+    },
+    "types-and-causes-of-forgetting.webp": {
+      "key": "course/bbm/fourth-semester/psychology/u6-memory-and-forgetting/types-and-causes-of-forgetting.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u6-memory-and-forgetting/types-and-causes-of-forgetting.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 108640,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u6-memory-and-forgetting/memory-process-encoding-storage-retrieval.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u6-memory-and-forgetting/memory-systems-architecture.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u6-memory-and-forgetting/retrograde-vs-anterograde-amnesia.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/psychology/u6-memory-and-forgetting/types-and-causes-of-forgetting.webp"
+  ]
+}

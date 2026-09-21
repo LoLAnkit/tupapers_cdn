@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-21T09:23:01.782Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/fourth-semester/dbms/u5-relational-algebra-and-calculus",
+  "totalAssets": 3,
+  "assets": {
+    "natural-join.webp": {
+      "key": "course/bca/fourth-semester/dbms/u5-relational-algebra-and-calculus/natural-join.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u5-relational-algebra-and-calculus/natural-join.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 110248,
+      "contentHashed": false
+    },
+    "select-vs-project.webp": {
+      "key": "course/bca/fourth-semester/dbms/u5-relational-algebra-and-calculus/select-vs-project.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u5-relational-algebra-and-calculus/select-vs-project.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 124332,
+      "contentHashed": false
+    },
+    "set-operations-on-relations.webp": {
+      "key": "course/bca/fourth-semester/dbms/u5-relational-algebra-and-calculus/set-operations-on-relations.webp",
+      "url": "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u5-relational-algebra-and-calculus/set-operations-on-relations.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 128160,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u5-relational-algebra-and-calculus/natural-join.webp",
+    "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u5-relational-algebra-and-calculus/select-vs-project.webp",
+    "https://cdn.tupapers.com/course/bca/fourth-semester/dbms/u5-relational-algebra-and-calculus/set-operations-on-relations.webp"
+  ]
+}

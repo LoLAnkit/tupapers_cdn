@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.444Z",
+  "generatedAt": "2026-09-21T09:23:02.453Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/second-year/adolescent-juvenile-delinquency/u2-theories-of-adolescence-and-juvenile-delinquency",
   "totalAssets": 4,
   "assets": {
     "attachment-and-delinquency-pathway.webp": {
-      "key": "course/bsw/second-year/adolescent-juvenile-delinquency/u2-theories-of-adolescence-and-juvenile-delinquency/attachment-and-delinquency-pathway.72af0d90.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u2-theories-of-adolescence-and-juvenile-delinquency/attachment-and-delinquency-pathway.72af0d90.webp",
+      "key": "course/bsw/second-year/adolescent-juvenile-delinquency/u2-theories-of-adolescence-and-juvenile-delinquency/attachment-and-delinquency-pathway.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u2-theories-of-adolescence-and-juvenile-delinquency/attachment-and-delinquency-pathway.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 949426
+      "bytes": 132788,
+      "contentHashed": false
     },
     "kohlbergs-moral-development-stages.webp": {
-      "key": "course/bsw/second-year/adolescent-juvenile-delinquency/u2-theories-of-adolescence-and-juvenile-delinquency/kohlbergs-moral-development-stages.1c5669f9.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u2-theories-of-adolescence-and-juvenile-delinquency/kohlbergs-moral-development-stages.1c5669f9.webp",
+      "key": "course/bsw/second-year/adolescent-juvenile-delinquency/u2-theories-of-adolescence-and-juvenile-delinquency/kohlbergs-moral-development-stages.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u2-theories-of-adolescence-and-juvenile-delinquency/kohlbergs-moral-development-stages.webp",
       "contentType": "image/webp",
       "width": 1024,
       "height": 1536,
-      "bytes": 745464
+      "bytes": 147554,
+      "contentHashed": false
     },
     "learning-theory-pathways-to-delinquency.webp": {
-      "key": "course/bsw/second-year/adolescent-juvenile-delinquency/u2-theories-of-adolescence-and-juvenile-delinquency/learning-theory-pathways-to-delinquency.01434d8b.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u2-theories-of-adolescence-and-juvenile-delinquency/learning-theory-pathways-to-delinquency.01434d8b.webp",
+      "key": "course/bsw/second-year/adolescent-juvenile-delinquency/u2-theories-of-adolescence-and-juvenile-delinquency/learning-theory-pathways-to-delinquency.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u2-theories-of-adolescence-and-juvenile-delinquency/learning-theory-pathways-to-delinquency.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 844180
+      "bytes": 134910,
+      "contentHashed": false
     },
     "psychodynamic-explanations-of-delinquency.webp": {
-      "key": "course/bsw/second-year/adolescent-juvenile-delinquency/u2-theories-of-adolescence-and-juvenile-delinquency/psychodynamic-explanations-of-delinquency.7c23f314.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u2-theories-of-adolescence-and-juvenile-delinquency/psychodynamic-explanations-of-delinquency.7c23f314.webp",
+      "key": "course/bsw/second-year/adolescent-juvenile-delinquency/u2-theories-of-adolescence-and-juvenile-delinquency/psychodynamic-explanations-of-delinquency.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u2-theories-of-adolescence-and-juvenile-delinquency/psychodynamic-explanations-of-delinquency.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 993108
+      "bytes": 179906,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u2-theories-of-adolescence-and-juvenile-delinquency/attachment-and-delinquency-pathway.72af0d90.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u2-theories-of-adolescence-and-juvenile-delinquency/kohlbergs-moral-development-stages.1c5669f9.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u2-theories-of-adolescence-and-juvenile-delinquency/learning-theory-pathways-to-delinquency.01434d8b.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u2-theories-of-adolescence-and-juvenile-delinquency/psychodynamic-explanations-of-delinquency.7c23f314.webp"
+    "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u2-theories-of-adolescence-and-juvenile-delinquency/attachment-and-delinquency-pathway.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u2-theories-of-adolescence-and-juvenile-delinquency/kohlbergs-moral-development-stages.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u2-theories-of-adolescence-and-juvenile-delinquency/learning-theory-pathways-to-delinquency.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/adolescent-juvenile-delinquency/u2-theories-of-adolescence-and-juvenile-delinquency/psychodynamic-explanations-of-delinquency.webp"
   ]
 }

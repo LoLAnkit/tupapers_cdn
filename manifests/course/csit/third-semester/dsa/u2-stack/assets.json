@@ -1,38 +1,41 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.813Z",
+  "generatedAt": "2026-09-21T09:23:02.775Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/csit/third-semester/dsa/u2-stack",
   "totalAssets": 3,
   "assets": {
     "infix-to-postfix-conversion.webp": {
-      "key": "course/csit/third-semester/dsa/u2-stack/infix-to-postfix-conversion.d95cfc41.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u2-stack/infix-to-postfix-conversion.d95cfc41.webp",
+      "key": "course/csit/third-semester/dsa/u2-stack/infix-to-postfix-conversion.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u2-stack/infix-to-postfix-conversion.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 413548
+      "bytes": 122346,
+      "contentHashed": false
     },
     "postfix-evaluation-trace.webp": {
-      "key": "course/csit/third-semester/dsa/u2-stack/postfix-evaluation-trace.eaf1db3a.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u2-stack/postfix-evaluation-trace.eaf1db3a.webp",
+      "key": "course/csit/third-semester/dsa/u2-stack/postfix-evaluation-trace.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u2-stack/postfix-evaluation-trace.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 399812
+      "bytes": 50128,
+      "contentHashed": false
     },
     "stack-lifo-operations.webp": {
-      "key": "course/csit/third-semester/dsa/u2-stack/stack-lifo-operations.e603bf8b.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u2-stack/stack-lifo-operations.e603bf8b.webp",
+      "key": "course/csit/third-semester/dsa/u2-stack/stack-lifo-operations.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/dsa/u2-stack/stack-lifo-operations.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 560648
+      "bytes": 95742,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u2-stack/infix-to-postfix-conversion.d95cfc41.webp",
-    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u2-stack/postfix-evaluation-trace.eaf1db3a.webp",
-    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u2-stack/stack-lifo-operations.e603bf8b.webp"
+    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u2-stack/infix-to-postfix-conversion.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u2-stack/postfix-evaluation-trace.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/dsa/u2-stack/stack-lifo-operations.webp"
   ]
 }

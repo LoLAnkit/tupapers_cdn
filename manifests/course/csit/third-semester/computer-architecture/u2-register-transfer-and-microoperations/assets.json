@@ -1,47 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T13:57:38.710Z",
+  "generatedAt": "2026-09-21T09:23:02.713Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/csit/third-semester/computer-architecture/u2-register-transfer-and-microoperations",
   "totalAssets": 4,
   "assets": {
     "arithmetic-microoperation-circuit.webp": {
-      "key": "course/csit/third-semester/computer-architecture/u2-register-transfer-and-microoperations/arithmetic-microoperation-circuit.eb9f2e8f.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u2-register-transfer-and-microoperations/arithmetic-microoperation-circuit.eb9f2e8f.webp",
+      "key": "course/csit/third-semester/computer-architecture/u2-register-transfer-and-microoperations/arithmetic-microoperation-circuit.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u2-register-transfer-and-microoperations/arithmetic-microoperation-circuit.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 535506
+      "bytes": 62334,
+      "contentHashed": false
     },
     "four-bit-binary-adder-subtractor.webp": {
-      "key": "course/csit/third-semester/computer-architecture/u2-register-transfer-and-microoperations/four-bit-binary-adder-subtractor.c7903c3e.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u2-register-transfer-and-microoperations/four-bit-binary-adder-subtractor.c7903c3e.webp",
+      "key": "course/csit/third-semester/computer-architecture/u2-register-transfer-and-microoperations/four-bit-binary-adder-subtractor.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u2-register-transfer-and-microoperations/four-bit-binary-adder-subtractor.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 316004
+      "bytes": 51920,
+      "contentHashed": false
     },
     "logic-microoperation-hardware.webp": {
-      "key": "course/csit/third-semester/computer-architecture/u2-register-transfer-and-microoperations/logic-microoperation-hardware.de17d3ce.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u2-register-transfer-and-microoperations/logic-microoperation-hardware.de17d3ce.webp",
+      "key": "course/csit/third-semester/computer-architecture/u2-register-transfer-and-microoperations/logic-microoperation-hardware.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u2-register-transfer-and-microoperations/logic-microoperation-hardware.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 420180
+      "bytes": 51428,
+      "contentHashed": false
     },
     "shift-microoperations.webp": {
-      "key": "course/csit/third-semester/computer-architecture/u2-register-transfer-and-microoperations/shift-microoperations.a47c0253.webp",
-      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u2-register-transfer-and-microoperations/shift-microoperations.a47c0253.webp",
+      "key": "course/csit/third-semester/computer-architecture/u2-register-transfer-and-microoperations/shift-microoperations.webp",
+      "url": "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u2-register-transfer-and-microoperations/shift-microoperations.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 911726
+      "bytes": 127132,
+      "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u2-register-transfer-and-microoperations/arithmetic-microoperation-circuit.eb9f2e8f.webp",
-    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u2-register-transfer-and-microoperations/four-bit-binary-adder-subtractor.c7903c3e.webp",
-    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u2-register-transfer-and-microoperations/logic-microoperation-hardware.de17d3ce.webp",
-    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u2-register-transfer-and-microoperations/shift-microoperations.a47c0253.webp"
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u2-register-transfer-and-microoperations/arithmetic-microoperation-circuit.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u2-register-transfer-and-microoperations/four-bit-binary-adder-subtractor.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u2-register-transfer-and-microoperations/logic-microoperation-hardware.webp",
+    "https://cdn.tupapers.com/course/csit/third-semester/computer-architecture/u2-register-transfer-and-microoperations/shift-microoperations.webp"
   ]
 }
