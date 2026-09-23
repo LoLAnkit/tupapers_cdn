@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.538Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/first-year/business-english/u1-grammar-and-writing-mechanics",
+  "totalAssets": 8,
+  "assets": {
+    "connector-and-conjunction-map.webp": {
+      "key": "course/bbs/first-year/business-english/u1-grammar-and-writing-mechanics/connector-and-conjunction-map.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u1-grammar-and-writing-mechanics/connector-and-conjunction-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 109406,
+      "contentHashed": false
+    },
+    "modifier-placement.webp": {
+      "key": "course/bbs/first-year/business-english/u1-grammar-and-writing-mechanics/modifier-placement.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u1-grammar-and-writing-mechanics/modifier-placement.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 111940,
+      "contentHashed": false
+    },
+    "pronoun-antecedent-link.webp": {
+      "key": "course/bbs/first-year/business-english/u1-grammar-and-writing-mechanics/pronoun-antecedent-link.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u1-grammar-and-writing-mechanics/pronoun-antecedent-link.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 93162,
+      "contentHashed": false
+    },
+    "sentence-anatomy.webp": {
+      "key": "course/bbs/first-year/business-english/u1-grammar-and-writing-mechanics/sentence-anatomy.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u1-grammar-and-writing-mechanics/sentence-anatomy.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 77572,
+      "contentHashed": false
+    },
+    "sentence-pattern-map.webp": {
+      "key": "course/bbs/first-year/business-english/u1-grammar-and-writing-mechanics/sentence-pattern-map.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u1-grammar-and-writing-mechanics/sentence-pattern-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 93044,
+      "contentHashed": false
+    },
+    "subject-verb-agreement-guide.webp": {
+      "key": "course/bbs/first-year/business-english/u1-grammar-and-writing-mechanics/subject-verb-agreement-guide.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u1-grammar-and-writing-mechanics/subject-verb-agreement-guide.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 138122,
+      "contentHashed": false
+    },
+    "verb-and-tense-timeline.webp": {
+      "key": "course/bbs/first-year/business-english/u1-grammar-and-writing-mechanics/verb-and-tense-timeline.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u1-grammar-and-writing-mechanics/verb-and-tense-timeline.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 97188,
+      "contentHashed": false
+    },
+    "writing-mechanics-checklist.webp": {
+      "key": "course/bbs/first-year/business-english/u1-grammar-and-writing-mechanics/writing-mechanics-checklist.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u1-grammar-and-writing-mechanics/writing-mechanics-checklist.webp",
+      "contentType": "image/webp",
+      "width": 1145,
+      "height": 1374,
+      "bytes": 123450,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u1-grammar-and-writing-mechanics/connector-and-conjunction-map.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u1-grammar-and-writing-mechanics/modifier-placement.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u1-grammar-and-writing-mechanics/pronoun-antecedent-link.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u1-grammar-and-writing-mechanics/sentence-anatomy.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u1-grammar-and-writing-mechanics/sentence-pattern-map.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u1-grammar-and-writing-mechanics/subject-verb-agreement-guide.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u1-grammar-and-writing-mechanics/verb-and-tense-timeline.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u1-grammar-and-writing-mechanics/writing-mechanics-checklist.webp"
+  ]
+}

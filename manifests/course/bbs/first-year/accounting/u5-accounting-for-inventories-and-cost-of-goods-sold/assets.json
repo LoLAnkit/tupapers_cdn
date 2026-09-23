@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.516Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/first-year/accounting/u5-accounting-for-inventories-and-cost-of-goods-sold",
+  "totalAssets": 4,
+  "assets": {
+    "cost-of-goods-sold-model.webp": {
+      "key": "course/bbs/first-year/accounting/u5-accounting-for-inventories-and-cost-of-goods-sold/cost-of-goods-sold-model.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u5-accounting-for-inventories-and-cost-of-goods-sold/cost-of-goods-sold-model.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 103880,
+      "contentHashed": false
+    },
+    "inventory-cost-flow-methods.webp": {
+      "key": "course/bbs/first-year/accounting/u5-accounting-for-inventories-and-cost-of-goods-sold/inventory-cost-flow-methods.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u5-accounting-for-inventories-and-cost-of-goods-sold/inventory-cost-flow-methods.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 133530,
+      "contentHashed": false
+    },
+    "inventory-management-cycle.webp": {
+      "key": "course/bbs/first-year/accounting/u5-accounting-for-inventories-and-cost-of-goods-sold/inventory-management-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u5-accounting-for-inventories-and-cost-of-goods-sold/inventory-management-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 89394,
+      "contentHashed": false
+    },
+    "periodic-vs-perpetual-inventory-flow.webp": {
+      "key": "course/bbs/first-year/accounting/u5-accounting-for-inventories-and-cost-of-goods-sold/periodic-vs-perpetual-inventory-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u5-accounting-for-inventories-and-cost-of-goods-sold/periodic-vs-perpetual-inventory-flow.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 118266,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u5-accounting-for-inventories-and-cost-of-goods-sold/cost-of-goods-sold-model.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u5-accounting-for-inventories-and-cost-of-goods-sold/inventory-cost-flow-methods.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u5-accounting-for-inventories-and-cost-of-goods-sold/inventory-management-cycle.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u5-accounting-for-inventories-and-cost-of-goods-sold/periodic-vs-perpetual-inventory-flow.webp"
+  ]
+}

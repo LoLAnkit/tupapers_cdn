@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.810Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/second-year/macroeconomics/u8-government-finance",
+  "totalAssets": 6,
+  "assets": {
+    "deficit-financing-channels.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u8-government-finance/deficit-financing-channels.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u8-government-finance/deficit-financing-channels.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 121204,
+      "contentHashed": false
+    },
+    "fiscal-federalism-in-nepal.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u8-government-finance/fiscal-federalism-in-nepal.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u8-government-finance/fiscal-federalism-in-nepal.webp",
+      "contentType": "image/webp",
+      "width": 1227,
+      "height": 1282,
+      "bytes": 133404,
+      "contentHashed": false
+    },
+    "fiscal-policy-framework.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u8-government-finance/fiscal-policy-framework.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u8-government-finance/fiscal-policy-framework.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 139166,
+      "contentHashed": false
+    },
+    "government-budget-structure.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u8-government-finance/government-budget-structure.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u8-government-finance/government-budget-structure.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 137454,
+      "contentHashed": false
+    },
+    "government-expenditure-in-nepal.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u8-government-finance/government-expenditure-in-nepal.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u8-government-finance/government-expenditure-in-nepal.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 94708,
+      "contentHashed": false
+    },
+    "sources-of-government-revenue-in-nepal.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u8-government-finance/sources-of-government-revenue-in-nepal.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u8-government-finance/sources-of-government-revenue-in-nepal.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 103154,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u8-government-finance/deficit-financing-channels.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u8-government-finance/fiscal-federalism-in-nepal.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u8-government-finance/fiscal-policy-framework.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u8-government-finance/government-budget-structure.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u8-government-finance/government-expenditure-in-nepal.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u8-government-finance/sources-of-government-revenue-in-nepal.webp"
+  ]
+}

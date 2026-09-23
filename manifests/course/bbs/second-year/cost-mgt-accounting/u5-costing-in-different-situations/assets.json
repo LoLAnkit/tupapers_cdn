@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.721Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/second-year/cost-mgt-accounting/u5-costing-in-different-situations",
+  "totalAssets": 8,
+  "assets": {
+    "batch-costing-and-ebq.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u5-costing-in-different-situations/batch-costing-and-ebq.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u5-costing-in-different-situations/batch-costing-and-ebq.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 91858,
+      "contentHashed": false
+    },
+    "contract-costing-progress.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u5-costing-in-different-situations/contract-costing-progress.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u5-costing-in-different-situations/contract-costing-progress.webp",
+      "contentType": "image/webp",
+      "width": 1884,
+      "height": 835,
+      "bytes": 99116,
+      "contentHashed": false
+    },
+    "inter-process-profit.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u5-costing-in-different-situations/inter-process-profit.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u5-costing-in-different-situations/inter-process-profit.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 82924,
+      "contentHashed": false
+    },
+    "job-order-cost-flow.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u5-costing-in-different-situations/job-order-cost-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u5-costing-in-different-situations/job-order-cost-flow.webp",
+      "contentType": "image/webp",
+      "width": 2167,
+      "height": 726,
+      "bytes": 110048,
+      "contentHashed": false
+    },
+    "joint-and-by-product-split-off.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u5-costing-in-different-situations/joint-and-by-product-split-off.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u5-costing-in-different-situations/joint-and-by-product-split-off.webp",
+      "contentType": "image/webp",
+      "width": 1222,
+      "height": 1287,
+      "bytes": 90706,
+      "contentHashed": false
+    },
+    "normal-and-abnormal-process-loss.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u5-costing-in-different-situations/normal-and-abnormal-process-loss.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u5-costing-in-different-situations/normal-and-abnormal-process-loss.webp",
+      "contentType": "image/webp",
+      "width": 1223,
+      "height": 1286,
+      "bytes": 105734,
+      "contentHashed": false
+    },
+    "process-costing-flow.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u5-costing-in-different-situations/process-costing-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u5-costing-in-different-situations/process-costing-flow.webp",
+      "contentType": "image/webp",
+      "width": 2079,
+      "height": 756,
+      "bytes": 73192,
+      "contentHashed": false
+    },
+    "service-costing-cost-unit-map.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u5-costing-in-different-situations/service-costing-cost-unit-map.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u5-costing-in-different-situations/service-costing-cost-unit-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 101250,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u5-costing-in-different-situations/batch-costing-and-ebq.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u5-costing-in-different-situations/contract-costing-progress.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u5-costing-in-different-situations/inter-process-profit.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u5-costing-in-different-situations/job-order-cost-flow.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u5-costing-in-different-situations/joint-and-by-product-split-off.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u5-costing-in-different-situations/normal-and-abnormal-process-loss.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u5-costing-in-different-situations/process-costing-flow.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u5-costing-in-different-situations/service-costing-cost-unit-map.webp"
+  ]
+}

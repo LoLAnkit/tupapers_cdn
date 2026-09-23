@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.601Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/first-year/microeconomics/u8-theory-of-factor-pricing",
+  "totalAssets": 7,
+  "assets": {
+    "collective-bargaining.webp": {
+      "key": "course/bbs/first-year/microeconomics/u8-theory-of-factor-pricing/collective-bargaining.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u8-theory-of-factor-pricing/collective-bargaining.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 105112,
+      "contentHashed": false
+    },
+    "interest-rate-differentials.webp": {
+      "key": "course/bbs/first-year/microeconomics/u8-theory-of-factor-pricing/interest-rate-differentials.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u8-theory-of-factor-pricing/interest-rate-differentials.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 181854,
+      "contentHashed": false
+    },
+    "marginal-productivity-theory-of-wages.webp": {
+      "key": "course/bbs/first-year/microeconomics/u8-theory-of-factor-pricing/marginal-productivity-theory-of-wages.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u8-theory-of-factor-pricing/marginal-productivity-theory-of-wages.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 114626,
+      "contentHashed": false
+    },
+    "minimum-wage-fixation.webp": {
+      "key": "course/bbs/first-year/microeconomics/u8-theory-of-factor-pricing/minimum-wage-fixation.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u8-theory-of-factor-pricing/minimum-wage-fixation.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 116870,
+      "contentHashed": false
+    },
+    "modern-theory-of-rent.webp": {
+      "key": "course/bbs/first-year/microeconomics/u8-theory-of-factor-pricing/modern-theory-of-rent.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u8-theory-of-factor-pricing/modern-theory-of-rent.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 131820,
+      "contentHashed": false
+    },
+    "nominal-and-real-interest-rates.webp": {
+      "key": "course/bbs/first-year/microeconomics/u8-theory-of-factor-pricing/nominal-and-real-interest-rates.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u8-theory-of-factor-pricing/nominal-and-real-interest-rates.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 197630,
+      "contentHashed": false
+    },
+    "wage-differentials.webp": {
+      "key": "course/bbs/first-year/microeconomics/u8-theory-of-factor-pricing/wage-differentials.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u8-theory-of-factor-pricing/wage-differentials.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 206864,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u8-theory-of-factor-pricing/collective-bargaining.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u8-theory-of-factor-pricing/interest-rate-differentials.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u8-theory-of-factor-pricing/marginal-productivity-theory-of-wages.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u8-theory-of-factor-pricing/minimum-wage-fixation.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u8-theory-of-factor-pricing/modern-theory-of-rent.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u8-theory-of-factor-pricing/nominal-and-real-interest-rates.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u8-theory-of-factor-pricing/wage-differentials.webp"
+  ]
+}

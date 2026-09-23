@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.813Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/second-year/macroeconomics/u9-global-economy",
+  "totalAssets": 8,
+  "assets": {
+    "balance-of-payments-accounts.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u9-global-economy/balance-of-payments-accounts.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u9-global-economy/balance-of-payments-accounts.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 111332,
+      "contentHashed": false
+    },
+    "exchange-rate-equilibrium.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u9-global-economy/exchange-rate-equilibrium.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u9-global-economy/exchange-rate-equilibrium.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 47180,
+      "contentHashed": false
+    },
+    "fdi-and-foreign-employment-channels.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u9-global-economy/fdi-and-foreign-employment-channels.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u9-global-economy/fdi-and-foreign-employment-channels.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 113240,
+      "contentHashed": false
+    },
+    "fixed-vs-flexible-exchange-rate.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u9-global-economy/fixed-vs-flexible-exchange-rate.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u9-global-economy/fixed-vs-flexible-exchange-rate.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 182984,
+      "contentHashed": false
+    },
+    "global-economy-current-trends.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u9-global-economy/global-economy-current-trends.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u9-global-economy/global-economy-current-trends.webp",
+      "contentType": "image/webp",
+      "width": 1983,
+      "height": 793,
+      "bytes": 86412,
+      "contentHashed": false
+    },
+    "globalization-drivers-and-effects.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u9-global-economy/globalization-drivers-and-effects.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u9-global-economy/globalization-drivers-and-effects.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 112920,
+      "contentHashed": false
+    },
+    "nepal-foreign-trade-flow.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u9-global-economy/nepal-foreign-trade-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u9-global-economy/nepal-foreign-trade-flow.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 146054,
+      "contentHashed": false
+    },
+    "regional-economic-integration-ladder.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u9-global-economy/regional-economic-integration-ladder.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u9-global-economy/regional-economic-integration-ladder.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 130692,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u9-global-economy/balance-of-payments-accounts.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u9-global-economy/exchange-rate-equilibrium.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u9-global-economy/fdi-and-foreign-employment-channels.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u9-global-economy/fixed-vs-flexible-exchange-rate.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u9-global-economy/global-economy-current-trends.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u9-global-economy/globalization-drivers-and-effects.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u9-global-economy/nepal-foreign-trade-flow.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u9-global-economy/regional-economic-integration-ladder.webp"
+  ]
+}

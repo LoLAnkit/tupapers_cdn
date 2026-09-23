@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.520Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/first-year/accounting/u6-accounting-for-cash-and-internal-control",
+  "totalAssets": 4,
+  "assets": {
+    "bank-reconciliation-bridge.webp": {
+      "key": "course/bbs/first-year/accounting/u6-accounting-for-cash-and-internal-control/bank-reconciliation-bridge.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u6-accounting-for-cash-and-internal-control/bank-reconciliation-bridge.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 104814,
+      "contentHashed": false
+    },
+    "cash-internal-control-system.webp": {
+      "key": "course/bbs/first-year/accounting/u6-accounting-for-cash-and-internal-control/cash-internal-control-system.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u6-accounting-for-cash-and-internal-control/cash-internal-control-system.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 103988,
+      "contentHashed": false
+    },
+    "cash-receipts-and-disbursements-controls.webp": {
+      "key": "course/bbs/first-year/accounting/u6-accounting-for-cash-and-internal-control/cash-receipts-and-disbursements-controls.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u6-accounting-for-cash-and-internal-control/cash-receipts-and-disbursements-controls.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 99680,
+      "contentHashed": false
+    },
+    "petty-cash-cycle.webp": {
+      "key": "course/bbs/first-year/accounting/u6-accounting-for-cash-and-internal-control/petty-cash-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u6-accounting-for-cash-and-internal-control/petty-cash-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 104918,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u6-accounting-for-cash-and-internal-control/bank-reconciliation-bridge.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u6-accounting-for-cash-and-internal-control/cash-internal-control-system.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u6-accounting-for-cash-and-internal-control/cash-receipts-and-disbursements-controls.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u6-accounting-for-cash-and-internal-control/petty-cash-cycle.webp"
+  ]
+}

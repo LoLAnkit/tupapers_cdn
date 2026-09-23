@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.511Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/first-year/accounting/u4-accrual-basis-of-accounting",
+  "totalAssets": 4,
+  "assets": {
+    "accrual-vs-cash-recognition-timeline.webp": {
+      "key": "course/bbs/first-year/accounting/u4-accrual-basis-of-accounting/accrual-vs-cash-recognition-timeline.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u4-accrual-basis-of-accounting/accrual-vs-cash-recognition-timeline.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 62586,
+      "contentHashed": false
+    },
+    "adjusting-entry-cycle.webp": {
+      "key": "course/bbs/first-year/accounting/u4-accrual-basis-of-accounting/adjusting-entry-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u4-accrual-basis-of-accounting/adjusting-entry-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1916,
+      "height": 821,
+      "bytes": 100314,
+      "contentHashed": false
+    },
+    "closing-process.webp": {
+      "key": "course/bbs/first-year/accounting/u4-accrual-basis-of-accounting/closing-process.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u4-accrual-basis-of-accounting/closing-process.webp",
+      "contentType": "image/webp",
+      "width": 1916,
+      "height": 821,
+      "bytes": 66906,
+      "contentHashed": false
+    },
+    "prepaid-and-accrued-items.webp": {
+      "key": "course/bbs/first-year/accounting/u4-accrual-basis-of-accounting/prepaid-and-accrued-items.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u4-accrual-basis-of-accounting/prepaid-and-accrued-items.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 102642,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u4-accrual-basis-of-accounting/accrual-vs-cash-recognition-timeline.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u4-accrual-basis-of-accounting/adjusting-entry-cycle.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u4-accrual-basis-of-accounting/closing-process.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u4-accrual-basis-of-accounting/prepaid-and-accrued-items.webp"
+  ]
+}

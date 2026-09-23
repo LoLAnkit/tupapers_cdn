@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.696Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/second-year/business-communication/u8-employment-communication",
+  "totalAssets": 3,
+  "assets": {
+    "job-interview-process.webp": {
+      "key": "course/bbs/second-year/business-communication/u8-employment-communication/job-interview-process.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u8-employment-communication/job-interview-process.webp",
+      "contentType": "image/webp",
+      "width": 2020,
+      "height": 778,
+      "bytes": 86488,
+      "contentHashed": false
+    },
+    "job-search-planning.webp": {
+      "key": "course/bbs/second-year/business-communication/u8-employment-communication/job-search-planning.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u8-employment-communication/job-search-planning.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 53190,
+      "contentHashed": false
+    },
+    "resume-and-cover-letter-format.webp": {
+      "key": "course/bbs/second-year/business-communication/u8-employment-communication/resume-and-cover-letter-format.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u8-employment-communication/resume-and-cover-letter-format.webp",
+      "contentType": "image/webp",
+      "width": 1312,
+      "height": 1199,
+      "bytes": 179990,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u8-employment-communication/job-interview-process.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u8-employment-communication/job-search-planning.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u8-employment-communication/resume-and-cover-letter-format.webp"
+  ]
+}

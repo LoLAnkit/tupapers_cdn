@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.738Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/second-year/financial-management/u1-introduction-to-financial-management",
+  "totalAssets": 8,
+  "assets": {
+    "finance-within-an-organization.webp": {
+      "key": "course/bbs/second-year/financial-management/u1-introduction-to-financial-management/finance-within-an-organization.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u1-introduction-to-financial-management/finance-within-an-organization.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 100448,
+      "contentHashed": false
+    },
+    "financial-management-cycle.webp": {
+      "key": "course/bbs/second-year/financial-management/u1-introduction-to-financial-management/financial-management-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u1-introduction-to-financial-management/financial-management-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 92638,
+      "contentHashed": false
+    },
+    "financial-management-decision-triangle.webp": {
+      "key": "course/bbs/second-year/financial-management/u1-introduction-to-financial-management/financial-management-decision-triangle.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u1-introduction-to-financial-management/financial-management-decision-triangle.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 93992,
+      "contentHashed": false
+    },
+    "funds-flow-through-the-firm.webp": {
+      "key": "course/bbs/second-year/financial-management/u1-introduction-to-financial-management/funds-flow-through-the-firm.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u1-introduction-to-financial-management/funds-flow-through-the-firm.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 113910,
+      "contentHashed": false
+    },
+    "profit-vs-wealth-maximization.webp": {
+      "key": "course/bbs/second-year/financial-management/u1-introduction-to-financial-management/profit-vs-wealth-maximization.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u1-introduction-to-financial-management/profit-vs-wealth-maximization.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 109390,
+      "contentHashed": false
+    },
+    "scope-of-financial-management.webp": {
+      "key": "course/bbs/second-year/financial-management/u1-introduction-to-financial-management/scope-of-financial-management.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u1-introduction-to-financial-management/scope-of-financial-management.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 93456,
+      "contentHashed": false
+    },
+    "shareholder-and-society-balance.webp": {
+      "key": "course/bbs/second-year/financial-management/u1-introduction-to-financial-management/shareholder-and-society-balance.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u1-introduction-to-financial-management/shareholder-and-society-balance.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 140440,
+      "contentHashed": false
+    },
+    "wealth-maximization-value-chain.webp": {
+      "key": "course/bbs/second-year/financial-management/u1-introduction-to-financial-management/wealth-maximization-value-chain.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u1-introduction-to-financial-management/wealth-maximization-value-chain.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 87880,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u1-introduction-to-financial-management/finance-within-an-organization.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u1-introduction-to-financial-management/financial-management-cycle.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u1-introduction-to-financial-management/financial-management-decision-triangle.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u1-introduction-to-financial-management/funds-flow-through-the-firm.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u1-introduction-to-financial-management/profit-vs-wealth-maximization.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u1-introduction-to-financial-management/scope-of-financial-management.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u1-introduction-to-financial-management/shareholder-and-society-balance.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u1-introduction-to-financial-management/wealth-maximization-value-chain.webp"
+  ]
+}

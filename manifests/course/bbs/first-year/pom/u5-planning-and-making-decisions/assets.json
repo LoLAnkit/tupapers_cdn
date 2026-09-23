@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.639Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/first-year/pom/u5-planning-and-making-decisions",
+  "totalAssets": 8,
+  "assets": {
+    "decision-conditions.webp": {
+      "key": "course/bbs/first-year/pom/u5-planning-and-making-decisions/decision-conditions.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u5-planning-and-making-decisions/decision-conditions.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 167158,
+      "contentHashed": false
+    },
+    "decision-making-process.webp": {
+      "key": "course/bbs/first-year/pom/u5-planning-and-making-decisions/decision-making-process.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u5-planning-and-making-decisions/decision-making-process.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 70864,
+      "contentHashed": false
+    },
+    "elements-of-a-decision-situation.webp": {
+      "key": "course/bbs/first-year/pom/u5-planning-and-making-decisions/elements-of-a-decision-situation.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u5-planning-and-making-decisions/elements-of-a-decision-situation.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 126072,
+      "contentHashed": false
+    },
+    "group-decision-making.webp": {
+      "key": "course/bbs/first-year/pom/u5-planning-and-making-decisions/group-decision-making.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u5-planning-and-making-decisions/group-decision-making.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 304726,
+      "contentHashed": false
+    },
+    "management-by-objectives-mbo.webp": {
+      "key": "course/bbs/first-year/pom/u5-planning-and-making-decisions/management-by-objectives-mbo.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u5-planning-and-making-decisions/management-by-objectives-mbo.webp",
+      "contentType": "image/webp",
+      "width": 1312,
+      "height": 1199,
+      "bytes": 138136,
+      "contentHashed": false
+    },
+    "planning-process.webp": {
+      "key": "course/bbs/first-year/pom/u5-planning-and-making-decisions/planning-process.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u5-planning-and-making-decisions/planning-process.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 106950,
+      "contentHashed": false
+    },
+    "strategic-vs-tactical-vs-long-term-planning.webp": {
+      "key": "course/bbs/first-year/pom/u5-planning-and-making-decisions/strategic-vs-tactical-vs-long-term-planning.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u5-planning-and-making-decisions/strategic-vs-tactical-vs-long-term-planning.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 137986,
+      "contentHashed": false
+    },
+    "types-and-levels-of-planning.webp": {
+      "key": "course/bbs/first-year/pom/u5-planning-and-making-decisions/types-and-levels-of-planning.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u5-planning-and-making-decisions/types-and-levels-of-planning.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 132348,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u5-planning-and-making-decisions/decision-conditions.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u5-planning-and-making-decisions/decision-making-process.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u5-planning-and-making-decisions/elements-of-a-decision-situation.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u5-planning-and-making-decisions/group-decision-making.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u5-planning-and-making-decisions/management-by-objectives-mbo.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u5-planning-and-making-decisions/planning-process.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u5-planning-and-making-decisions/strategic-vs-tactical-vs-long-term-planning.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u5-planning-and-making-decisions/types-and-levels-of-planning.webp"
+  ]
+}

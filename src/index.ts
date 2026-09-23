@@ -29,8 +29,8 @@ import {
   collectFolderUploadTargets,
   type AssetEntry,
 } from "./manifest.js";
-import { objectExists, uploadObject } from "./upload.js";
-import { prune } from "./prune.js";
+import { uploadObject } from "./upload.js";
+import { listAllObjects, prune } from "./prune.js";
 
 // ---------------------------------------------------------------------------
 // Helpers
@@ -357,8 +357,12 @@ async function runUpload(opts: UploadOpts): Promise<void> {
   }
 
   const entries = Array.from(entriesMap.values());
+  // Fetch the bucket inventory once. Checking every object separately is much
+  // slower, and checking only content-hashed names caused normal asset names to
+  // be overwritten on every run.
+  const existingKeys = new Set(await listAllObjects());
 
-  // Upload image objects to dist
+  // Upload only objects that do not already exist in R2.
   await Promise.all(
     entries.map((entry) =>
       limit(async () => {
@@ -374,7 +378,7 @@ async function runUpload(opts: UploadOpts): Promise<void> {
 
         const contentHashed = isContentHashed(entry);
 
-        if (contentHashed && (await objectExists(client, bucket, entry.key))) {
+        if (existingKeys.has(entry.key)) {
           skipped += 1;
           if (opts.verbose) console.log(`  skip  ${entry.key}`);
           return;
@@ -487,7 +491,7 @@ program
 
 program
   .command("upload")
-  .description("Upload manifest assets to R2 (replace normal names; skip existing hashes)")
+  .description("Upload only manifest assets that do not already exist in R2")
   .option("--dry-run", "show what would upload without uploading")
   .option("--publish-manifest", "also upload folder assets.json manifests to R2")
   .option("-v, --verbose", "list every object decision")

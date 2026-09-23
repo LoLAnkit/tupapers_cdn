@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.589Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/first-year/microeconomics/u5-theory-of-production",
+  "totalAssets": 7,
+  "assets": {
+    "cobb-douglas-production-function.webp": {
+      "key": "course/bbs/first-year/microeconomics/u5-theory-of-production/cobb-douglas-production-function.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u5-theory-of-production/cobb-douglas-production-function.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 146592,
+      "contentHashed": false
+    },
+    "isocost-line.webp": {
+      "key": "course/bbs/first-year/microeconomics/u5-theory-of-production/isocost-line.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u5-theory-of-production/isocost-line.webp",
+      "contentType": "image/webp",
+      "width": 1374,
+      "height": 1145,
+      "bytes": 78976,
+      "contentHashed": false
+    },
+    "isoquant-and-mrts.webp": {
+      "key": "course/bbs/first-year/microeconomics/u5-theory-of-production/isoquant-and-mrts.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u5-theory-of-production/isoquant-and-mrts.webp",
+      "contentType": "image/webp",
+      "width": 1374,
+      "height": 1145,
+      "bytes": 54794,
+      "contentHashed": false
+    },
+    "law-of-variable-proportions.webp": {
+      "key": "course/bbs/first-year/microeconomics/u5-theory-of-production/law-of-variable-proportions.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u5-theory-of-production/law-of-variable-proportions.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 57168,
+      "contentHashed": false
+    },
+    "optimal-employment-of-inputs.webp": {
+      "key": "course/bbs/first-year/microeconomics/u5-theory-of-production/optimal-employment-of-inputs.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u5-theory-of-production/optimal-employment-of-inputs.webp",
+      "contentType": "image/webp",
+      "width": 1312,
+      "height": 1199,
+      "bytes": 97312,
+      "contentHashed": false
+    },
+    "returns-to-scale.webp": {
+      "key": "course/bbs/first-year/microeconomics/u5-theory-of-production/returns-to-scale.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u5-theory-of-production/returns-to-scale.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 187556,
+      "contentHashed": false
+    },
+    "short-run-and-long-run-production-functions.webp": {
+      "key": "course/bbs/first-year/microeconomics/u5-theory-of-production/short-run-and-long-run-production-functions.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u5-theory-of-production/short-run-and-long-run-production-functions.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 100854,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u5-theory-of-production/cobb-douglas-production-function.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u5-theory-of-production/isocost-line.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u5-theory-of-production/isoquant-and-mrts.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u5-theory-of-production/law-of-variable-proportions.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u5-theory-of-production/optimal-employment-of-inputs.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u5-theory-of-production/returns-to-scale.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u5-theory-of-production/short-run-and-long-run-production-functions.webp"
+  ]
+}

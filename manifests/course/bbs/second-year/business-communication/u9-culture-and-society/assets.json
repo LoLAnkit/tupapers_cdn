@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.703Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/second-year/business-communication/u9-culture-and-society",
+  "totalAssets": 4,
+  "assets": {
+    "dover-beach-sea-of-faith.webp": {
+      "key": "course/bbs/second-year/business-communication/u9-culture-and-society/dover-beach-sea-of-faith.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u9-culture-and-society/dover-beach-sea-of-faith.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 343706,
+      "contentHashed": false
+    },
+    "looking-for-a-rain-god-cause-and-effect.webp": {
+      "key": "course/bbs/second-year/business-communication/u9-culture-and-society/looking-for-a-rain-god-cause-and-effect.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u9-culture-and-society/looking-for-a-rain-god-cause-and-effect.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 170522,
+      "contentHashed": false
+    },
+    "new-nepal-reform-and-awakening.webp": {
+      "key": "course/bbs/second-year/business-communication/u9-culture-and-society/new-nepal-reform-and-awakening.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u9-culture-and-society/new-nepal-reform-and-awakening.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 249186,
+      "contentHashed": false
+    },
+    "shooting-an-elephant-imperial-conflict.webp": {
+      "key": "course/bbs/second-year/business-communication/u9-culture-and-society/shooting-an-elephant-imperial-conflict.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u9-culture-and-society/shooting-an-elephant-imperial-conflict.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 274652,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u9-culture-and-society/dover-beach-sea-of-faith.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u9-culture-and-society/looking-for-a-rain-god-cause-and-effect.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u9-culture-and-society/new-nepal-reform-and-awakening.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u9-culture-and-society/shooting-an-elephant-imperial-conflict.webp"
+  ]
+}

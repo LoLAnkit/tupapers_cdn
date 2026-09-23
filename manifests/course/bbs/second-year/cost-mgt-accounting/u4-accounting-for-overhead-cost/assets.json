@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.718Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/second-year/cost-mgt-accounting/u4-accounting-for-overhead-cost",
+  "totalAssets": 6,
+  "assets": {
+    "abc-cost-driver-network.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u4-accounting-for-overhead-cost/abc-cost-driver-network.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u4-accounting-for-overhead-cost/abc-cost-driver-network.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 147902,
+      "contentHashed": false
+    },
+    "allocation-vs-apportionment.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u4-accounting-for-overhead-cost/allocation-vs-apportionment.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u4-accounting-for-overhead-cost/allocation-vs-apportionment.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 110870,
+      "contentHashed": false
+    },
+    "machine-hour-rate-build-up.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u4-accounting-for-overhead-cost/machine-hour-rate-build-up.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u4-accounting-for-overhead-cost/machine-hour-rate-build-up.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 129120,
+      "contentHashed": false
+    },
+    "overhead-distribution-flow.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u4-accounting-for-overhead-cost/overhead-distribution-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u4-accounting-for-overhead-cost/overhead-distribution-flow.webp",
+      "contentType": "image/webp",
+      "width": 2127,
+      "height": 739,
+      "bytes": 97806,
+      "contentHashed": false
+    },
+    "primary-and-secondary-distribution.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u4-accounting-for-overhead-cost/primary-and-secondary-distribution.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u4-accounting-for-overhead-cost/primary-and-secondary-distribution.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 104436,
+      "contentHashed": false
+    },
+    "traditional-vs-abc-costing.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u4-accounting-for-overhead-cost/traditional-vs-abc-costing.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u4-accounting-for-overhead-cost/traditional-vs-abc-costing.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 101158,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u4-accounting-for-overhead-cost/abc-cost-driver-network.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u4-accounting-for-overhead-cost/allocation-vs-apportionment.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u4-accounting-for-overhead-cost/machine-hour-rate-build-up.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u4-accounting-for-overhead-cost/overhead-distribution-flow.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u4-accounting-for-overhead-cost/primary-and-secondary-distribution.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u4-accounting-for-overhead-cost/traditional-vs-abc-costing.webp"
+  ]
+}

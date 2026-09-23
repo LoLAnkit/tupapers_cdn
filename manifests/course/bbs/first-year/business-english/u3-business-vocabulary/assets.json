@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.548Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/first-year/business-english/u3-business-vocabulary",
+  "totalAssets": 6,
+  "assets": {
+    "business-terminology-map.webp": {
+      "key": "course/bbs/first-year/business-english/u3-business-vocabulary/business-terminology-map.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u3-business-vocabulary/business-terminology-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 141824,
+      "contentHashed": false
+    },
+    "business-vocabulary-growth-cycle.webp": {
+      "key": "course/bbs/first-year/business-english/u3-business-vocabulary/business-vocabulary-growth-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u3-business-vocabulary/business-vocabulary-growth-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 117008,
+      "contentHashed": false
+    },
+    "business-vocabulary-improvement-plan.webp": {
+      "key": "course/bbs/first-year/business-english/u3-business-vocabulary/business-vocabulary-improvement-plan.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u3-business-vocabulary/business-vocabulary-improvement-plan.webp",
+      "contentType": "image/webp",
+      "width": 2134,
+      "height": 737,
+      "bytes": 103388,
+      "contentHashed": false
+    },
+    "idioms-and-expressions-in-context.webp": {
+      "key": "course/bbs/first-year/business-english/u3-business-vocabulary/idioms-and-expressions-in-context.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u3-business-vocabulary/idioms-and-expressions-in-context.webp",
+      "contentType": "image/webp",
+      "width": 1374,
+      "height": 1145,
+      "bytes": 145922,
+      "contentHashed": false
+    },
+    "vocabulary-for-speaking-situations.webp": {
+      "key": "course/bbs/first-year/business-english/u3-business-vocabulary/vocabulary-for-speaking-situations.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u3-business-vocabulary/vocabulary-for-speaking-situations.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 112480,
+      "contentHashed": false
+    },
+    "vocabulary-for-writing-situations.webp": {
+      "key": "course/bbs/first-year/business-english/u3-business-vocabulary/vocabulary-for-writing-situations.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u3-business-vocabulary/vocabulary-for-writing-situations.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 134408,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u3-business-vocabulary/business-terminology-map.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u3-business-vocabulary/business-vocabulary-growth-cycle.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u3-business-vocabulary/business-vocabulary-improvement-plan.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u3-business-vocabulary/idioms-and-expressions-in-context.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u3-business-vocabulary/vocabulary-for-speaking-situations.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u3-business-vocabulary/vocabulary-for-writing-situations.webp"
+  ]
+}

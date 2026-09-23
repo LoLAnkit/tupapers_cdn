@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.865Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/second-year/ob-hrm/u9-job-design-and-analysis",
+  "totalAssets": 6,
+  "assets": {
+    "benefits-of-job-design.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u9-job-design-and-analysis/benefits-of-job-design.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u9-job-design-and-analysis/benefits-of-job-design.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 94780,
+      "contentHashed": false
+    },
+    "job-analysis-process-and-purpose.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u9-job-design-and-analysis/job-analysis-process-and-purpose.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u9-job-design-and-analysis/job-analysis-process-and-purpose.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 72626,
+      "contentHashed": false
+    },
+    "job-description-specification-and-evaluation.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u9-job-design-and-analysis/job-description-specification-and-evaluation.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u9-job-design-and-analysis/job-description-specification-and-evaluation.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 152412,
+      "contentHashed": false
+    },
+    "job-task-position-occupation-relationships.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u9-job-design-and-analysis/job-task-position-occupation-relationships.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u9-job-design-and-analysis/job-task-position-occupation-relationships.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 115304,
+      "contentHashed": false
+    },
+    "methods-of-job-design.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u9-job-design-and-analysis/methods-of-job-design.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u9-job-design-and-analysis/methods-of-job-design.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 142472,
+      "contentHashed": false
+    },
+    "sources-of-job-analysis-information.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u9-job-design-and-analysis/sources-of-job-analysis-information.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u9-job-design-and-analysis/sources-of-job-analysis-information.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 76918,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u9-job-design-and-analysis/benefits-of-job-design.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u9-job-design-and-analysis/job-analysis-process-and-purpose.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u9-job-design-and-analysis/job-description-specification-and-evaluation.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u9-job-design-and-analysis/job-task-position-occupation-relationships.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u9-job-design-and-analysis/methods-of-job-design.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u9-job-design-and-analysis/sources-of-job-analysis-information.webp"
+  ]
+}

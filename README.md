@@ -68,7 +68,7 @@ Old raw files may remain beside their canonical hashed replacements; build autom
    npm run sync            # build + upload
    # or step by step:
    npm run build           # exact copy → dist/, update folder assets.json manifests
-   npm run upload          # upload dist/ → R2; normal filenames are safely replaced
+   npm run upload          # upload only dist/ assets that are new to R2
    ```
 
 3. Folder-level manifests are created automatically:
@@ -82,7 +82,7 @@ Old raw files may remain beside their canonical hashed replacements; build autom
 | Command                         | What it does                                                                                        |
 | ------------------------------- | --------------------------------------------------------------------------------------------------- |
 | `npm run build`                 | Sharp-minify raster source files to WebP, apply the watermark, and update folder manifests.         |
-| `npm run upload`                | Upload `dist/` objects to R2. Hashed objects are skipped when present; normal objects are replaced. |
+| `npm run upload`                | Upload `dist/` objects that do not already exist in R2; existing keys are skipped.                  |
 | `npm run sync`                  | `build` then `upload`.                                                                              |
 | `npm run migrate:hashed-source` | Preview the one-time `dist` hashed-file migration into `source`; add `--apply` to copy.             |
 | `npm run scaffold:bca`          | Create all BCA semester/subject folders under `source/course/bca/`.                                 |
@@ -127,7 +127,7 @@ src/
   discover.ts   walk source/ → image list
   optimize.ts   Sharp WebP minification + watermarking
   keys.ts       source path → output key; recognize existing hashed filenames
-  upload.ts     immutable-hash skip / normal-name replacement + correct cache headers
+  upload.ts     R2 object upload with correct cache headers
   manifest.ts   read / write folder-structured assets.json manifests
   prune.ts      list & delete orphaned objects
 source/         canonical inputs: existing hash names + new normal names

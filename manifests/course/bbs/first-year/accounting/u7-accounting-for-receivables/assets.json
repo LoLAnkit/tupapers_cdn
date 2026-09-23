@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.525Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/first-year/accounting/u7-accounting-for-receivables",
+  "totalAssets": 4,
+  "assets": {
+    "allowance-for-doubtful-debts.webp": {
+      "key": "course/bbs/first-year/accounting/u7-accounting-for-receivables/allowance-for-doubtful-debts.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u7-accounting-for-receivables/allowance-for-doubtful-debts.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 70966,
+      "contentHashed": false
+    },
+    "notes-receivable-timeline.webp": {
+      "key": "course/bbs/first-year/accounting/u7-accounting-for-receivables/notes-receivable-timeline.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u7-accounting-for-receivables/notes-receivable-timeline.webp",
+      "contentType": "image/webp",
+      "width": 1916,
+      "height": 821,
+      "bytes": 44904,
+      "contentHashed": false
+    },
+    "receivables-lifecycle.webp": {
+      "key": "course/bbs/first-year/accounting/u7-accounting-for-receivables/receivables-lifecycle.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u7-accounting-for-receivables/receivables-lifecycle.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 60436,
+      "contentHashed": false
+    },
+    "receivables-management-cycle.webp": {
+      "key": "course/bbs/first-year/accounting/u7-accounting-for-receivables/receivables-management-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u7-accounting-for-receivables/receivables-management-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 87018,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u7-accounting-for-receivables/allowance-for-doubtful-debts.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u7-accounting-for-receivables/notes-receivable-timeline.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u7-accounting-for-receivables/receivables-lifecycle.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u7-accounting-for-receivables/receivables-management-cycle.webp"
+  ]
+}

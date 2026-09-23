@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.842Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/second-year/ob-hrm/u4-job-satisfaction",
+  "totalAssets": 6,
+  "assets": {
+    "importance-of-job-satisfaction.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u4-job-satisfaction/importance-of-job-satisfaction.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u4-job-satisfaction/importance-of-job-satisfaction.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 69646,
+      "contentHashed": false
+    },
+    "job-satisfaction-concept.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u4-job-satisfaction/job-satisfaction-concept.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u4-job-satisfaction/job-satisfaction-concept.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 102414,
+      "contentHashed": false
+    },
+    "job-satisfaction-feedback-loop.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u4-job-satisfaction/job-satisfaction-feedback-loop.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u4-job-satisfaction/job-satisfaction-feedback-loop.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 106704,
+      "contentHashed": false
+    },
+    "measuring-job-satisfaction.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u4-job-satisfaction/measuring-job-satisfaction.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u4-job-satisfaction/measuring-job-satisfaction.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 76526,
+      "contentHashed": false
+    },
+    "satisfaction-absenteeism-and-turnover.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u4-job-satisfaction/satisfaction-absenteeism-and-turnover.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u4-job-satisfaction/satisfaction-absenteeism-and-turnover.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 144808,
+      "contentHashed": false
+    },
+    "satisfaction-and-performance.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u4-job-satisfaction/satisfaction-and-performance.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u4-job-satisfaction/satisfaction-and-performance.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 113668,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u4-job-satisfaction/importance-of-job-satisfaction.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u4-job-satisfaction/job-satisfaction-concept.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u4-job-satisfaction/job-satisfaction-feedback-loop.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u4-job-satisfaction/measuring-job-satisfaction.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u4-job-satisfaction/satisfaction-absenteeism-and-turnover.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u4-job-satisfaction/satisfaction-and-performance.webp"
+  ]
+}

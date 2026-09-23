@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.507Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/first-year/accounting/u3-accounting-process",
+  "totalAssets": 5,
+  "assets": {
+    "accounting-cycle.webp": {
+      "key": "course/bbs/first-year/accounting/u3-accounting-process/accounting-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u3-accounting-process/accounting-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1916,
+      "height": 821,
+      "bytes": 150946,
+      "contentHashed": false
+    },
+    "accounting-equation-transaction-effects.webp": {
+      "key": "course/bbs/first-year/accounting/u3-accounting-process/accounting-equation-transaction-effects.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u3-accounting-process/accounting-equation-transaction-effects.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 167626,
+      "contentHashed": false
+    },
+    "debit-and-credit-rules.webp": {
+      "key": "course/bbs/first-year/accounting/u3-accounting-process/debit-and-credit-rules.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u3-accounting-process/debit-and-credit-rules.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 75030,
+      "contentHashed": false
+    },
+    "source-document-to-ledger-trail.webp": {
+      "key": "course/bbs/first-year/accounting/u3-accounting-process/source-document-to-ledger-trail.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u3-accounting-process/source-document-to-ledger-trail.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 117230,
+      "contentHashed": false
+    },
+    "subsidiary-journal-network.webp": {
+      "key": "course/bbs/first-year/accounting/u3-accounting-process/subsidiary-journal-network.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u3-accounting-process/subsidiary-journal-network.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 93456,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u3-accounting-process/accounting-cycle.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u3-accounting-process/accounting-equation-transaction-effects.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u3-accounting-process/debit-and-credit-rules.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u3-accounting-process/source-document-to-ledger-trail.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u3-accounting-process/subsidiary-journal-network.webp"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.574Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/first-year/microeconomics/u2-market-equilibrium-and-efficiency",
+  "totalAssets": 8,
+  "assets": {
+    "changes-in-market-equilibrium.webp": {
+      "key": "course/bbs/first-year/microeconomics/u2-market-equilibrium-and-efficiency/changes-in-market-equilibrium.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u2-market-equilibrium-and-efficiency/changes-in-market-equilibrium.webp",
+      "contentType": "image/webp",
+      "width": 1312,
+      "height": 1199,
+      "bytes": 135730,
+      "contentHashed": false
+    },
+    "consumer-surplus-producer-surplus-and-efficiency.webp": {
+      "key": "course/bbs/first-year/microeconomics/u2-market-equilibrium-and-efficiency/consumer-surplus-producer-surplus-and-efficiency.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u2-market-equilibrium-and-efficiency/consumer-surplus-producer-surplus-and-efficiency.webp",
+      "contentType": "image/webp",
+      "width": 1374,
+      "height": 1145,
+      "bytes": 107608,
+      "contentHashed": false
+    },
+    "demand-curve-movement-vs-shift.webp": {
+      "key": "course/bbs/first-year/microeconomics/u2-market-equilibrium-and-efficiency/demand-curve-movement-vs-shift.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u2-market-equilibrium-and-efficiency/demand-curve-movement-vs-shift.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 177484,
+      "contentHashed": false
+    },
+    "market-equilibrium.webp": {
+      "key": "course/bbs/first-year/microeconomics/u2-market-equilibrium-and-efficiency/market-equilibrium.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u2-market-equilibrium-and-efficiency/market-equilibrium.webp",
+      "contentType": "image/webp",
+      "width": 1312,
+      "height": 1199,
+      "bytes": 89736,
+      "contentHashed": false
+    },
+    "price-ceiling-and-price-floor.webp": {
+      "key": "course/bbs/first-year/microeconomics/u2-market-equilibrium-and-efficiency/price-ceiling-and-price-floor.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u2-market-equilibrium-and-efficiency/price-ceiling-and-price-floor.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 93336,
+      "contentHashed": false
+    },
+    "subsidy-and-market-equilibrium.webp": {
+      "key": "course/bbs/first-year/microeconomics/u2-market-equilibrium-and-efficiency/subsidy-and-market-equilibrium.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u2-market-equilibrium-and-efficiency/subsidy-and-market-equilibrium.webp",
+      "contentType": "image/webp",
+      "width": 1370,
+      "height": 1148,
+      "bytes": 61076,
+      "contentHashed": false
+    },
+    "supply-curve-movement-vs-shift.webp": {
+      "key": "course/bbs/first-year/microeconomics/u2-market-equilibrium-and-efficiency/supply-curve-movement-vs-shift.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u2-market-equilibrium-and-efficiency/supply-curve-movement-vs-shift.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 164630,
+      "contentHashed": false
+    },
+    "tax-and-market-equilibrium.webp": {
+      "key": "course/bbs/first-year/microeconomics/u2-market-equilibrium-and-efficiency/tax-and-market-equilibrium.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u2-market-equilibrium-and-efficiency/tax-and-market-equilibrium.webp",
+      "contentType": "image/webp",
+      "width": 1374,
+      "height": 1145,
+      "bytes": 70842,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u2-market-equilibrium-and-efficiency/changes-in-market-equilibrium.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u2-market-equilibrium-and-efficiency/consumer-surplus-producer-surplus-and-efficiency.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u2-market-equilibrium-and-efficiency/demand-curve-movement-vs-shift.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u2-market-equilibrium-and-efficiency/market-equilibrium.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u2-market-equilibrium-and-efficiency/price-ceiling-and-price-floor.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u2-market-equilibrium-and-efficiency/subsidy-and-market-equilibrium.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u2-market-equilibrium-and-efficiency/supply-curve-movement-vs-shift.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u2-market-equilibrium-and-efficiency/tax-and-market-equilibrium.webp"
+  ]
+}

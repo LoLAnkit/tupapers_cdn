@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.625Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/first-year/pom/u2-introduction-to-management",
+  "totalAssets": 6,
+  "assets": {
+    "emerging-challenges-for-management.webp": {
+      "key": "course/bbs/first-year/pom/u2-introduction-to-management/emerging-challenges-for-management.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u2-introduction-to-management/emerging-challenges-for-management.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 172054,
+      "contentHashed": false
+    },
+    "management-functions-cycle.webp": {
+      "key": "course/bbs/first-year/pom/u2-introduction-to-management/management-functions-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u2-introduction-to-management/management-functions-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1312,
+      "height": 1199,
+      "bytes": 174514,
+      "contentHashed": false
+    },
+    "managerial-hierarchy.webp": {
+      "key": "course/bbs/first-year/pom/u2-introduction-to-management/managerial-hierarchy.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u2-introduction-to-management/managerial-hierarchy.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 197164,
+      "contentHashed": false
+    },
+    "managerial-roles.webp": {
+      "key": "course/bbs/first-year/pom/u2-introduction-to-management/managerial-roles.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u2-introduction-to-management/managerial-roles.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 147896,
+      "contentHashed": false
+    },
+    "managerial-skills-by-level.webp": {
+      "key": "course/bbs/first-year/pom/u2-introduction-to-management/managerial-skills-by-level.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u2-introduction-to-management/managerial-skills-by-level.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 383742,
+      "contentHashed": false
+    },
+    "types-of-managers.webp": {
+      "key": "course/bbs/first-year/pom/u2-introduction-to-management/types-of-managers.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u2-introduction-to-management/types-of-managers.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 122672,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u2-introduction-to-management/emerging-challenges-for-management.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u2-introduction-to-management/management-functions-cycle.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u2-introduction-to-management/managerial-hierarchy.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u2-introduction-to-management/managerial-roles.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u2-introduction-to-management/managerial-skills-by-level.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u2-introduction-to-management/types-of-managers.webp"
+  ]
+}

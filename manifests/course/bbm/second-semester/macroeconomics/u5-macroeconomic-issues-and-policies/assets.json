@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.491Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbm/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies",
+  "totalAssets": 4,
+  "assets": {
+    "balance-of-payments-structure.webp": {
+      "key": "course/bbm/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/balance-of-payments-structure.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/balance-of-payments-structure.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 159212,
+      "contentHashed": false
+    },
+    "business-cycle-phases.webp": {
+      "key": "course/bbm/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/business-cycle-phases.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/business-cycle-phases.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 66634,
+      "contentHashed": false
+    },
+    "demand-pull-and-cost-push-inflation.webp": {
+      "key": "course/bbm/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/demand-pull-and-cost-push-inflation.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/demand-pull-and-cost-push-inflation.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 80016,
+      "contentHashed": false
+    },
+    "monetary-and-fiscal-policy-transmission.webp": {
+      "key": "course/bbm/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/monetary-and-fiscal-policy-transmission.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/monetary-and-fiscal-policy-transmission.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 112252,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbm/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/balance-of-payments-structure.webp",
+    "https://cdn.tupapers.com/course/bbm/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/business-cycle-phases.webp",
+    "https://cdn.tupapers.com/course/bbm/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/demand-pull-and-cost-push-inflation.webp",
+    "https://cdn.tupapers.com/course/bbm/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/monetary-and-fiscal-policy-transmission.webp"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.543Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/first-year/business-english/u2-using-the-business-language",
+  "totalAssets": 6,
+  "assets": {
+    "coherent-paragraph-flow.webp": {
+      "key": "course/bbs/first-year/business-english/u2-using-the-business-language/coherent-paragraph-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u2-using-the-business-language/coherent-paragraph-flow.webp",
+      "contentType": "image/webp",
+      "width": 2072,
+      "height": 759,
+      "bytes": 74974,
+      "contentHashed": false
+    },
+    "commonly-confused-words.webp": {
+      "key": "course/bbs/first-year/business-english/u2-using-the-business-language/commonly-confused-words.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u2-using-the-business-language/commonly-confused-words.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 146196,
+      "contentHashed": false
+    },
+    "functions-of-language.webp": {
+      "key": "course/bbs/first-year/business-english/u2-using-the-business-language/functions-of-language.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u2-using-the-business-language/functions-of-language.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 123796,
+      "contentHashed": false
+    },
+    "language-meaning-and-context.webp": {
+      "key": "course/bbs/first-year/business-english/u2-using-the-business-language/language-meaning-and-context.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u2-using-the-business-language/language-meaning-and-context.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 82146,
+      "contentHashed": false
+    },
+    "language-society-and-culture.webp": {
+      "key": "course/bbs/first-year/business-english/u2-using-the-business-language/language-society-and-culture.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u2-using-the-business-language/language-society-and-culture.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 104698,
+      "contentHashed": false
+    },
+    "strong-words-vs-weak-words.webp": {
+      "key": "course/bbs/first-year/business-english/u2-using-the-business-language/strong-words-vs-weak-words.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u2-using-the-business-language/strong-words-vs-weak-words.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 115272,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u2-using-the-business-language/coherent-paragraph-flow.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u2-using-the-business-language/commonly-confused-words.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u2-using-the-business-language/functions-of-language.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u2-using-the-business-language/language-meaning-and-context.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u2-using-the-business-language/language-society-and-culture.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u2-using-the-business-language/strong-words-vs-weak-words.webp"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.534Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/first-year/accounting/u9-accounting-for-long-lived-assets",
+  "totalAssets": 4,
+  "assets": {
+    "asset-disposal-gain-or-loss.webp": {
+      "key": "course/bbs/first-year/accounting/u9-accounting-for-long-lived-assets/asset-disposal-gain-or-loss.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u9-accounting-for-long-lived-assets/asset-disposal-gain-or-loss.webp",
+      "contentType": "image/webp",
+      "width": 1916,
+      "height": 821,
+      "bytes": 60308,
+      "contentHashed": false
+    },
+    "capital-vs-revenue-expenditure-decision.webp": {
+      "key": "course/bbs/first-year/accounting/u9-accounting-for-long-lived-assets/capital-vs-revenue-expenditure-decision.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u9-accounting-for-long-lived-assets/capital-vs-revenue-expenditure-decision.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 69634,
+      "contentHashed": false
+    },
+    "depreciation-methods-comparison.webp": {
+      "key": "course/bbs/first-year/accounting/u9-accounting-for-long-lived-assets/depreciation-methods-comparison.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u9-accounting-for-long-lived-assets/depreciation-methods-comparison.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 43152,
+      "contentHashed": false
+    },
+    "long-lived-asset-lifecycle.webp": {
+      "key": "course/bbs/first-year/accounting/u9-accounting-for-long-lived-assets/long-lived-asset-lifecycle.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u9-accounting-for-long-lived-assets/long-lived-asset-lifecycle.webp",
+      "contentType": "image/webp",
+      "width": 2163,
+      "height": 727,
+      "bytes": 94890,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u9-accounting-for-long-lived-assets/asset-disposal-gain-or-loss.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u9-accounting-for-long-lived-assets/capital-vs-revenue-expenditure-decision.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u9-accounting-for-long-lived-assets/depreciation-methods-comparison.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u9-accounting-for-long-lived-assets/long-lived-asset-lifecycle.webp"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.794Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/second-year/macroeconomics/u4-keynesian-macroeconomics",
+  "totalAssets": 8,
+  "assets": {
+    "consumption-function.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u4-keynesian-macroeconomics/consumption-function.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u4-keynesian-macroeconomics/consumption-function.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 34102,
+      "contentHashed": false
+    },
+    "four-sector-injections-and-leakages.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u4-keynesian-macroeconomics/four-sector-injections-and-leakages.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u4-keynesian-macroeconomics/four-sector-injections-and-leakages.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 76810,
+      "contentHashed": false
+    },
+    "investment-and-mec.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u4-keynesian-macroeconomics/investment-and-mec.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u4-keynesian-macroeconomics/investment-and-mec.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 38294,
+      "contentHashed": false
+    },
+    "multiplier-process.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u4-keynesian-macroeconomics/multiplier-process.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u4-keynesian-macroeconomics/multiplier-process.webp",
+      "contentType": "image/webp",
+      "width": 2076,
+      "height": 758,
+      "bytes": 94040,
+      "contentHashed": false
+    },
+    "paradox-of-thrift.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u4-keynesian-macroeconomics/paradox-of-thrift.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u4-keynesian-macroeconomics/paradox-of-thrift.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 68204,
+      "contentHashed": false
+    },
+    "principle-of-effective-demand.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u4-keynesian-macroeconomics/principle-of-effective-demand.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u4-keynesian-macroeconomics/principle-of-effective-demand.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 52716,
+      "contentHashed": false
+    },
+    "saving-function.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u4-keynesian-macroeconomics/saving-function.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u4-keynesian-macroeconomics/saving-function.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 41136,
+      "contentHashed": false
+    },
+    "two-sector-income-determination.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u4-keynesian-macroeconomics/two-sector-income-determination.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u4-keynesian-macroeconomics/two-sector-income-determination.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 46302,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u4-keynesian-macroeconomics/consumption-function.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u4-keynesian-macroeconomics/four-sector-injections-and-leakages.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u4-keynesian-macroeconomics/investment-and-mec.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u4-keynesian-macroeconomics/multiplier-process.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u4-keynesian-macroeconomics/paradox-of-thrift.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u4-keynesian-macroeconomics/principle-of-effective-demand.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u4-keynesian-macroeconomics/saving-function.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u4-keynesian-macroeconomics/two-sector-income-determination.webp"
+  ]
+}

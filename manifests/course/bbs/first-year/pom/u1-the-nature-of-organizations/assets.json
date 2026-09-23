@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.608Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/first-year/pom/u1-the-nature-of-organizations",
+  "totalAssets": 8,
+  "assets": {
+    "approaches-to-goal-formulation.webp": {
+      "key": "course/bbs/first-year/pom/u1-the-nature-of-organizations/approaches-to-goal-formulation.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u1-the-nature-of-organizations/approaches-to-goal-formulation.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 154842,
+      "contentHashed": false
+    },
+    "changing-perspectives-of-organization.webp": {
+      "key": "course/bbs/first-year/pom/u1-the-nature-of-organizations/changing-perspectives-of-organization.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u1-the-nature-of-organizations/changing-perspectives-of-organization.webp",
+      "contentType": "image/webp",
+      "width": 2071,
+      "height": 759,
+      "bytes": 132642,
+      "contentHashed": false
+    },
+    "features-of-effective-organizational-goals.webp": {
+      "key": "course/bbs/first-year/pom/u1-the-nature-of-organizations/features-of-effective-organizational-goals.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u1-the-nature-of-organizations/features-of-effective-organizational-goals.webp",
+      "contentType": "image/webp",
+      "width": 2161,
+      "height": 728,
+      "bytes": 102236,
+      "contentHashed": false
+    },
+    "goal-formulation-process.webp": {
+      "key": "course/bbs/first-year/pom/u1-the-nature-of-organizations/goal-formulation-process.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u1-the-nature-of-organizations/goal-formulation-process.webp",
+      "contentType": "image/webp",
+      "width": 2079,
+      "height": 756,
+      "bytes": 91074,
+      "contentHashed": false
+    },
+    "goal-succession-and-goal-displacement.webp": {
+      "key": "course/bbs/first-year/pom/u1-the-nature-of-organizations/goal-succession-and-goal-displacement.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u1-the-nature-of-organizations/goal-succession-and-goal-displacement.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 130442,
+      "contentHashed": false
+    },
+    "organization-as-an-open-system.webp": {
+      "key": "course/bbs/first-year/pom/u1-the-nature-of-organizations/organization-as-an-open-system.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u1-the-nature-of-organizations/organization-as-an-open-system.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 188562,
+      "contentHashed": false
+    },
+    "problems-of-goal-formulation.webp": {
+      "key": "course/bbs/first-year/pom/u1-the-nature-of-organizations/problems-of-goal-formulation.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u1-the-nature-of-organizations/problems-of-goal-formulation.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 148622,
+      "contentHashed": false
+    },
+    "types-and-purposes-of-organizational-goals.webp": {
+      "key": "course/bbs/first-year/pom/u1-the-nature-of-organizations/types-and-purposes-of-organizational-goals.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u1-the-nature-of-organizations/types-and-purposes-of-organizational-goals.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 116950,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u1-the-nature-of-organizations/approaches-to-goal-formulation.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u1-the-nature-of-organizations/changing-perspectives-of-organization.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u1-the-nature-of-organizations/features-of-effective-organizational-goals.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u1-the-nature-of-organizations/goal-formulation-process.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u1-the-nature-of-organizations/goal-succession-and-goal-displacement.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u1-the-nature-of-organizations/organization-as-an-open-system.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u1-the-nature-of-organizations/problems-of-goal-formulation.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u1-the-nature-of-organizations/types-and-purposes-of-organizational-goals.webp"
+  ]
+}

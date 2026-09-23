@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.584Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/first-year/microeconomics/u4-analysis-of-consumers-behavior",
+  "totalAssets": 8,
+  "assets": {
+    "cardinal-consumer-equilibrium.webp": {
+      "key": "course/bbs/first-year/microeconomics/u4-analysis-of-consumers-behavior/cardinal-consumer-equilibrium.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u4-analysis-of-consumers-behavior/cardinal-consumer-equilibrium.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 87254,
+      "contentHashed": false
+    },
+    "demand-curve-from-cardinal-utility.webp": {
+      "key": "course/bbs/first-year/microeconomics/u4-analysis-of-consumers-behavior/demand-curve-from-cardinal-utility.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u4-analysis-of-consumers-behavior/demand-curve-from-cardinal-utility.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 113542,
+      "contentHashed": false
+    },
+    "diminishing-marginal-rate-of-substitution.webp": {
+      "key": "course/bbs/first-year/microeconomics/u4-analysis-of-consumers-behavior/diminishing-marginal-rate-of-substitution.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u4-analysis-of-consumers-behavior/diminishing-marginal-rate-of-substitution.webp",
+      "contentType": "image/webp",
+      "width": 1374,
+      "height": 1145,
+      "bytes": 76640,
+      "contentHashed": false
+    },
+    "income-consumption-curves.webp": {
+      "key": "course/bbs/first-year/microeconomics/u4-analysis-of-consumers-behavior/income-consumption-curves.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u4-analysis-of-consumers-behavior/income-consumption-curves.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 91234,
+      "contentHashed": false
+    },
+    "indifference-curve-map-and-properties.webp": {
+      "key": "course/bbs/first-year/microeconomics/u4-analysis-of-consumers-behavior/indifference-curve-map-and-properties.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u4-analysis-of-consumers-behavior/indifference-curve-map-and-properties.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 71876,
+      "contentHashed": false
+    },
+    "ordinal-consumer-equilibrium.webp": {
+      "key": "course/bbs/first-year/microeconomics/u4-analysis-of-consumers-behavior/ordinal-consumer-equilibrium.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u4-analysis-of-consumers-behavior/ordinal-consumer-equilibrium.webp",
+      "contentType": "image/webp",
+      "width": 1374,
+      "height": 1145,
+      "bytes": 82186,
+      "contentHashed": false
+    },
+    "price-budget-line.webp": {
+      "key": "course/bbs/first-year/microeconomics/u4-analysis-of-consumers-behavior/price-budget-line.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u4-analysis-of-consumers-behavior/price-budget-line.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 78674,
+      "contentHashed": false
+    },
+    "price-effect-and-decomposition.webp": {
+      "key": "course/bbs/first-year/microeconomics/u4-analysis-of-consumers-behavior/price-effect-and-decomposition.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u4-analysis-of-consumers-behavior/price-effect-and-decomposition.webp",
+      "contentType": "image/webp",
+      "width": 1374,
+      "height": 1145,
+      "bytes": 93202,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u4-analysis-of-consumers-behavior/cardinal-consumer-equilibrium.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u4-analysis-of-consumers-behavior/demand-curve-from-cardinal-utility.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u4-analysis-of-consumers-behavior/diminishing-marginal-rate-of-substitution.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u4-analysis-of-consumers-behavior/income-consumption-curves.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u4-analysis-of-consumers-behavior/indifference-curve-map-and-properties.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u4-analysis-of-consumers-behavior/ordinal-consumer-equilibrium.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u4-analysis-of-consumers-behavior/price-budget-line.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u4-analysis-of-consumers-behavior/price-effect-and-decomposition.webp"
+  ]
+}

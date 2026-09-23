@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.707Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/second-year/cost-mgt-accounting/u1-conceptual-foundation",
+  "totalAssets": 8,
+  "assets": {
+    "cost-accounting-information-flow.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u1-conceptual-foundation/cost-accounting-information-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u1-conceptual-foundation/cost-accounting-information-flow.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 120466,
+      "contentHashed": false
+    },
+    "cost-behaviour-graphs.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u1-conceptual-foundation/cost-behaviour-graphs.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u1-conceptual-foundation/cost-behaviour-graphs.webp",
+      "contentType": "image/webp",
+      "width": 1983,
+      "height": 793,
+      "bytes": 57288,
+      "contentHashed": false
+    },
+    "cost-centre-profit-centre-cost-unit.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u1-conceptual-foundation/cost-centre-profit-centre-cost-unit.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u1-conceptual-foundation/cost-centre-profit-centre-cost-unit.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 157560,
+      "contentHashed": false
+    },
+    "cost-classification-tree.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u1-conceptual-foundation/cost-classification-tree.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u1-conceptual-foundation/cost-classification-tree.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 83342,
+      "contentHashed": false
+    },
+    "direct-vs-indirect-cost-path.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u1-conceptual-foundation/direct-vs-indirect-cost-path.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u1-conceptual-foundation/direct-vs-indirect-cost-path.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 122668,
+      "contentHashed": false
+    },
+    "financial-cost-management-accounting-relationship.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u1-conceptual-foundation/financial-cost-management-accounting-relationship.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u1-conceptual-foundation/financial-cost-management-accounting-relationship.webp",
+      "contentType": "image/webp",
+      "width": 1312,
+      "height": 1199,
+      "bytes": 153258,
+      "contentHashed": false
+    },
+    "least-squares-cost-estimation.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u1-conceptual-foundation/least-squares-cost-estimation.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u1-conceptual-foundation/least-squares-cost-estimation.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 39506,
+      "contentHashed": false
+    },
+    "two-point-cost-segregation.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u1-conceptual-foundation/two-point-cost-segregation.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u1-conceptual-foundation/two-point-cost-segregation.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 88824,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u1-conceptual-foundation/cost-accounting-information-flow.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u1-conceptual-foundation/cost-behaviour-graphs.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u1-conceptual-foundation/cost-centre-profit-centre-cost-unit.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u1-conceptual-foundation/cost-classification-tree.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u1-conceptual-foundation/direct-vs-indirect-cost-path.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u1-conceptual-foundation/financial-cost-management-accounting-relationship.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u1-conceptual-foundation/least-squares-cost-estimation.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u1-conceptual-foundation/two-point-cost-segregation.webp"
+  ]
+}

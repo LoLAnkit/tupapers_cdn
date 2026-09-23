@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.483Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbm/second-semester/macroeconomics/u3-consumption-saving-and-investment",
+  "totalAssets": 4,
+  "assets": {
+    "consumption-function.webp": {
+      "key": "course/bbm/second-semester/macroeconomics/u3-consumption-saving-and-investment/consumption-function.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/second-semester/macroeconomics/u3-consumption-saving-and-investment/consumption-function.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 58460,
+      "contentHashed": false
+    },
+    "mec-and-investment-demand.webp": {
+      "key": "course/bbm/second-semester/macroeconomics/u3-consumption-saving-and-investment/mec-and-investment-demand.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/second-semester/macroeconomics/u3-consumption-saving-and-investment/mec-and-investment-demand.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 47996,
+      "contentHashed": false
+    },
+    "mpc-mps-apc-and-aps-relationships.webp": {
+      "key": "course/bbm/second-semester/macroeconomics/u3-consumption-saving-and-investment/mpc-mps-apc-and-aps-relationships.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/second-semester/macroeconomics/u3-consumption-saving-and-investment/mpc-mps-apc-and-aps-relationships.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 91088,
+      "contentHashed": false
+    },
+    "saving-function.webp": {
+      "key": "course/bbm/second-semester/macroeconomics/u3-consumption-saving-and-investment/saving-function.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/second-semester/macroeconomics/u3-consumption-saving-and-investment/saving-function.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 55350,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbm/second-semester/macroeconomics/u3-consumption-saving-and-investment/consumption-function.webp",
+    "https://cdn.tupapers.com/course/bbm/second-semester/macroeconomics/u3-consumption-saving-and-investment/mec-and-investment-demand.webp",
+    "https://cdn.tupapers.com/course/bbm/second-semester/macroeconomics/u3-consumption-saving-and-investment/mpc-mps-apc-and-aps-relationships.webp",
+    "https://cdn.tupapers.com/course/bbm/second-semester/macroeconomics/u3-consumption-saving-and-investment/saving-function.webp"
+  ]
+}

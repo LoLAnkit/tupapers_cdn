@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.860Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/second-year/ob-hrm/u8-introduction",
+  "totalAssets": 6,
+  "assets": {
+    "challenges-of-hrm.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u8-introduction/challenges-of-hrm.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u8-introduction/challenges-of-hrm.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 72438,
+      "contentHashed": false
+    },
+    "hrm-objectives-and-functions-lifecycle-wheel.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u8-introduction/hrm-objectives-and-functions-lifecycle-wheel.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u8-introduction/hrm-objectives-and-functions-lifecycle-wheel.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 98250,
+      "contentHashed": false
+    },
+    "human-resource-management-system.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u8-introduction/human-resource-management-system.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u8-introduction/human-resource-management-system.webp",
+      "contentType": "image/webp",
+      "width": 1881,
+      "height": 836,
+      "bytes": 123988,
+      "contentHashed": false
+    },
+    "human-resource-outcomes-wheel.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u8-introduction/human-resource-outcomes-wheel.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u8-introduction/human-resource-outcomes-wheel.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 117450,
+      "contentHashed": false
+    },
+    "human-resource-planning-concept-and-characteristics.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u8-introduction/human-resource-planning-concept-and-characteristics.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u8-introduction/human-resource-planning-concept-and-characteristics.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 184080,
+      "contentHashed": false
+    },
+    "human-resource-planning-process.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u8-introduction/human-resource-planning-process.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u8-introduction/human-resource-planning-process.webp",
+      "contentType": "image/webp",
+      "width": 1897,
+      "height": 829,
+      "bytes": 65050,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u8-introduction/challenges-of-hrm.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u8-introduction/hrm-objectives-and-functions-lifecycle-wheel.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u8-introduction/human-resource-management-system.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u8-introduction/human-resource-outcomes-wheel.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u8-introduction/human-resource-planning-concept-and-characteristics.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u8-introduction/human-resource-planning-process.webp"
+  ]
+}

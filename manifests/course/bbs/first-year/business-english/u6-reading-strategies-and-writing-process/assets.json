@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.561Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/first-year/business-english/u6-reading-strategies-and-writing-process",
+  "totalAssets": 7,
+  "assets": {
+    "claim-reason-evidence-model.webp": {
+      "key": "course/bbs/first-year/business-english/u6-reading-strategies-and-writing-process/claim-reason-evidence-model.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u6-reading-strategies-and-writing-process/claim-reason-evidence-model.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 181852,
+      "contentHashed": false
+    },
+    "critical-reading-process.webp": {
+      "key": "course/bbs/first-year/business-english/u6-reading-strategies-and-writing-process/critical-reading-process.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u6-reading-strategies-and-writing-process/critical-reading-process.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 85678,
+      "contentHashed": false
+    },
+    "editing-and-proofreading-checklist.webp": {
+      "key": "course/bbs/first-year/business-english/u6-reading-strategies-and-writing-process/editing-and-proofreading-checklist.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u6-reading-strategies-and-writing-process/editing-and-proofreading-checklist.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 125954,
+      "contentHashed": false
+    },
+    "note-making-system.webp": {
+      "key": "course/bbs/first-year/business-english/u6-reading-strategies-and-writing-process/note-making-system.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u6-reading-strategies-and-writing-process/note-making-system.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 127302,
+      "contentHashed": false
+    },
+    "paragraph-structure.webp": {
+      "key": "course/bbs/first-year/business-english/u6-reading-strategies-and-writing-process/paragraph-structure.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u6-reading-strategies-and-writing-process/paragraph-structure.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 224668,
+      "contentHashed": false
+    },
+    "summarizing-process.webp": {
+      "key": "course/bbs/first-year/business-english/u6-reading-strategies-and-writing-process/summarizing-process.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u6-reading-strategies-and-writing-process/summarizing-process.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 117186,
+      "contentHashed": false
+    },
+    "writing-process.webp": {
+      "key": "course/bbs/first-year/business-english/u6-reading-strategies-and-writing-process/writing-process.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u6-reading-strategies-and-writing-process/writing-process.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 110430,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u6-reading-strategies-and-writing-process/claim-reason-evidence-model.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u6-reading-strategies-and-writing-process/critical-reading-process.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u6-reading-strategies-and-writing-process/editing-and-proofreading-checklist.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u6-reading-strategies-and-writing-process/note-making-system.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u6-reading-strategies-and-writing-process/paragraph-structure.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u6-reading-strategies-and-writing-process/summarizing-process.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u6-reading-strategies-and-writing-process/writing-process.webp"
+  ]
+}

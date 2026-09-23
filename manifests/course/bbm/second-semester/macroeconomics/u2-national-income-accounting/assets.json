@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.478Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbm/second-semester/macroeconomics/u2-national-income-accounting",
+  "totalAssets": 4,
+  "assets": {
+    "national-income-aggregate-conversion.webp": {
+      "key": "course/bbm/second-semester/macroeconomics/u2-national-income-accounting/national-income-aggregate-conversion.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/second-semester/macroeconomics/u2-national-income-accounting/national-income-aggregate-conversion.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 100474,
+      "contentHashed": false
+    },
+    "nominal-real-gdp-deflator-and-inflation.webp": {
+      "key": "course/bbm/second-semester/macroeconomics/u2-national-income-accounting/nominal-real-gdp-deflator-and-inflation.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/second-semester/macroeconomics/u2-national-income-accounting/nominal-real-gdp-deflator-and-inflation.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 90984,
+      "contentHashed": false
+    },
+    "three-approaches-to-measuring-gdp.webp": {
+      "key": "course/bbm/second-semester/macroeconomics/u2-national-income-accounting/three-approaches-to-measuring-gdp.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/second-semester/macroeconomics/u2-national-income-accounting/three-approaches-to-measuring-gdp.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 146362,
+      "contentHashed": false
+    },
+    "value-added-and-double-counting.webp": {
+      "key": "course/bbm/second-semester/macroeconomics/u2-national-income-accounting/value-added-and-double-counting.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/second-semester/macroeconomics/u2-national-income-accounting/value-added-and-double-counting.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 181194,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbm/second-semester/macroeconomics/u2-national-income-accounting/national-income-aggregate-conversion.webp",
+    "https://cdn.tupapers.com/course/bbm/second-semester/macroeconomics/u2-national-income-accounting/nominal-real-gdp-deflator-and-inflation.webp",
+    "https://cdn.tupapers.com/course/bbm/second-semester/macroeconomics/u2-national-income-accounting/three-approaches-to-measuring-gdp.webp",
+    "https://cdn.tupapers.com/course/bbm/second-semester/macroeconomics/u2-national-income-accounting/value-added-and-double-counting.webp"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.681Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/second-year/business-communication/u3-skills-and-values-in-business-communication",
+  "totalAssets": 7,
+  "assets": {
+    "communication-skill-sets.webp": {
+      "key": "course/bbs/second-year/business-communication/u3-skills-and-values-in-business-communication/communication-skill-sets.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u3-skills-and-values-in-business-communication/communication-skill-sets.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 98514,
+      "contentHashed": false
+    },
+    "ethical-values-in-communication.webp": {
+      "key": "course/bbs/second-year/business-communication/u3-skills-and-values-in-business-communication/ethical-values-in-communication.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u3-skills-and-values-in-business-communication/ethical-values-in-communication.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 114166,
+      "contentHashed": false
+    },
+    "intercultural-sensitivity.webp": {
+      "key": "course/bbs/second-year/business-communication/u3-skills-and-values-in-business-communication/intercultural-sensitivity.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u3-skills-and-values-in-business-communication/intercultural-sensitivity.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 101490,
+      "contentHashed": false
+    },
+    "interpersonal-communication-skills.webp": {
+      "key": "course/bbs/second-year/business-communication/u3-skills-and-values-in-business-communication/interpersonal-communication-skills.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u3-skills-and-values-in-business-communication/interpersonal-communication-skills.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 104020,
+      "contentHashed": false
+    },
+    "leadership-communication-skills.webp": {
+      "key": "course/bbs/second-year/business-communication/u3-skills-and-values-in-business-communication/leadership-communication-skills.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u3-skills-and-values-in-business-communication/leadership-communication-skills.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 76542,
+      "contentHashed": false
+    },
+    "organizational-communication-skills.webp": {
+      "key": "course/bbs/second-year/business-communication/u3-skills-and-values-in-business-communication/organizational-communication-skills.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u3-skills-and-values-in-business-communication/organizational-communication-skills.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 91298,
+      "contentHashed": false
+    },
+    "professionalism-in-business-communication.webp": {
+      "key": "course/bbs/second-year/business-communication/u3-skills-and-values-in-business-communication/professionalism-in-business-communication.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u3-skills-and-values-in-business-communication/professionalism-in-business-communication.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 109232,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u3-skills-and-values-in-business-communication/communication-skill-sets.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u3-skills-and-values-in-business-communication/ethical-values-in-communication.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u3-skills-and-values-in-business-communication/intercultural-sensitivity.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u3-skills-and-values-in-business-communication/interpersonal-communication-skills.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u3-skills-and-values-in-business-communication/leadership-communication-skills.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u3-skills-and-values-in-business-communication/organizational-communication-skills.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u3-skills-and-values-in-business-communication/professionalism-in-business-communication.webp"
+  ]
+}

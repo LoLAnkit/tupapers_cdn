@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.807Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/second-year/macroeconomics/u7-monetary-theory",
+  "totalAssets": 6,
+  "assets": {
+    "expansionary-vs-contractionary-monetary-policy.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u7-monetary-theory/expansionary-vs-contractionary-monetary-policy.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u7-monetary-theory/expansionary-vs-contractionary-monetary-policy.webp",
+      "contentType": "image/webp",
+      "width": 1312,
+      "height": 1199,
+      "bytes": 172484,
+      "contentHashed": false
+    },
+    "financial-market-structure-of-nepal.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u7-monetary-theory/financial-market-structure-of-nepal.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u7-monetary-theory/financial-market-structure-of-nepal.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 128258,
+      "contentHashed": false
+    },
+    "monetary-policy-instruments.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u7-monetary-theory/monetary-policy-instruments.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u7-monetary-theory/monetary-policy-instruments.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 77788,
+      "contentHashed": false
+    },
+    "monetary-policy-transmission.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u7-monetary-theory/monetary-policy-transmission.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u7-monetary-theory/monetary-policy-transmission.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 67058,
+      "contentHashed": false
+    },
+    "money-market-and-capital-market.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u7-monetary-theory/money-market-and-capital-market.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u7-monetary-theory/money-market-and-capital-market.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 148350,
+      "contentHashed": false
+    },
+    "money-supply-determinants.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u7-monetary-theory/money-supply-determinants.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u7-monetary-theory/money-supply-determinants.webp",
+      "contentType": "image/webp",
+      "width": 1916,
+      "height": 821,
+      "bytes": 65576,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u7-monetary-theory/expansionary-vs-contractionary-monetary-policy.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u7-monetary-theory/financial-market-structure-of-nepal.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u7-monetary-theory/monetary-policy-instruments.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u7-monetary-theory/monetary-policy-transmission.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u7-monetary-theory/money-market-and-capital-market.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u7-monetary-theory/money-supply-determinants.webp"
+  ]
+}

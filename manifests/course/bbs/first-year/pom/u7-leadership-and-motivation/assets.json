@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.647Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/first-year/pom/u7-leadership-and-motivation",
+  "totalAssets": 8,
+  "assets": {
+    "conflict-types-and-management.webp": {
+      "key": "course/bbs/first-year/pom/u7-leadership-and-motivation/conflict-types-and-management.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u7-leadership-and-motivation/conflict-types-and-management.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 158768,
+      "contentHashed": false
+    },
+    "leadership-functions-and-styles.webp": {
+      "key": "course/bbs/first-year/pom/u7-leadership-and-motivation/leadership-functions-and-styles.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u7-leadership-and-motivation/leadership-functions-and-styles.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 143336,
+      "contentHashed": false
+    },
+    "leadership-situation-and-decision.webp": {
+      "key": "course/bbs/first-year/pom/u7-leadership-and-motivation/leadership-situation-and-decision.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u7-leadership-and-motivation/leadership-situation-and-decision.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 158184,
+      "contentHashed": false
+    },
+    "leadership-today.webp": {
+      "key": "course/bbs/first-year/pom/u7-leadership-and-motivation/leadership-today.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u7-leadership-and-motivation/leadership-today.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 148080,
+      "contentHashed": false
+    },
+    "maslow-and-herzberg-motivation-theories.webp": {
+      "key": "course/bbs/first-year/pom/u7-leadership-and-motivation/maslow-and-herzberg-motivation-theories.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u7-leadership-and-motivation/maslow-and-herzberg-motivation-theories.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 53792,
+      "contentHashed": false
+    },
+    "motivation-process.webp": {
+      "key": "course/bbs/first-year/pom/u7-leadership-and-motivation/motivation-process.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u7-leadership-and-motivation/motivation-process.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 107376,
+      "contentHashed": false
+    },
+    "team-management.webp": {
+      "key": "course/bbs/first-year/pom/u7-leadership-and-motivation/team-management.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u7-leadership-and-motivation/team-management.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 177494,
+      "contentHashed": false
+    },
+    "trait-behavioral-and-situational-approaches.webp": {
+      "key": "course/bbs/first-year/pom/u7-leadership-and-motivation/trait-behavioral-and-situational-approaches.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u7-leadership-and-motivation/trait-behavioral-and-situational-approaches.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 129152,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u7-leadership-and-motivation/conflict-types-and-management.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u7-leadership-and-motivation/leadership-functions-and-styles.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u7-leadership-and-motivation/leadership-situation-and-decision.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u7-leadership-and-motivation/leadership-today.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u7-leadership-and-motivation/maslow-and-herzberg-motivation-theories.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u7-leadership-and-motivation/motivation-process.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u7-leadership-and-motivation/team-management.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u7-leadership-and-motivation/trait-behavioral-and-situational-approaches.webp"
+  ]
+}

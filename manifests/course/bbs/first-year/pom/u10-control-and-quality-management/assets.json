@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.612Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/first-year/pom/u10-control-and-quality-management",
+  "totalAssets": 8,
+  "assets": {
+    "barriers-to-successful-controlling.webp": {
+      "key": "course/bbs/first-year/pom/u10-control-and-quality-management/barriers-to-successful-controlling.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u10-control-and-quality-management/barriers-to-successful-controlling.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 107520,
+      "contentHashed": false
+    },
+    "characteristics-of-an-effective-control-system.webp": {
+      "key": "course/bbs/first-year/pom/u10-control-and-quality-management/characteristics-of-an-effective-control-system.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u10-control-and-quality-management/characteristics-of-an-effective-control-system.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 159840,
+      "contentHashed": false
+    },
+    "control-process.webp": {
+      "key": "course/bbs/first-year/pom/u10-control-and-quality-management/control-process.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u10-control-and-quality-management/control-process.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 127836,
+      "contentHashed": false
+    },
+    "deming-and-quality-improvement-process.webp": {
+      "key": "course/bbs/first-year/pom/u10-control-and-quality-management/deming-and-quality-improvement-process.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u10-control-and-quality-management/deming-and-quality-improvement-process.webp",
+      "contentType": "image/webp",
+      "width": 1374,
+      "height": 1145,
+      "bytes": 45694,
+      "contentHashed": false
+    },
+    "quality-control-system.webp": {
+      "key": "course/bbs/first-year/pom/u10-control-and-quality-management/quality-control-system.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u10-control-and-quality-management/quality-control-system.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 46738,
+      "contentHashed": false
+    },
+    "total-quality-management-framework.webp": {
+      "key": "course/bbs/first-year/pom/u10-control-and-quality-management/total-quality-management-framework.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u10-control-and-quality-management/total-quality-management-framework.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 127268,
+      "contentHashed": false
+    },
+    "tqm-tools.webp": {
+      "key": "course/bbs/first-year/pom/u10-control-and-quality-management/tqm-tools.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u10-control-and-quality-management/tqm-tools.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 71324,
+      "contentHashed": false
+    },
+    "types-of-control.webp": {
+      "key": "course/bbs/first-year/pom/u10-control-and-quality-management/types-of-control.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u10-control-and-quality-management/types-of-control.webp",
+      "contentType": "image/webp",
+      "width": 1916,
+      "height": 821,
+      "bytes": 103078,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u10-control-and-quality-management/barriers-to-successful-controlling.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u10-control-and-quality-management/characteristics-of-an-effective-control-system.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u10-control-and-quality-management/control-process.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u10-control-and-quality-management/deming-and-quality-improvement-process.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u10-control-and-quality-management/quality-control-system.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u10-control-and-quality-management/total-quality-management-framework.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u10-control-and-quality-management/tqm-tools.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u10-control-and-quality-management/types-of-control.webp"
+  ]
+}

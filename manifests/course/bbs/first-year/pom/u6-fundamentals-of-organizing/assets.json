@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.643Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/first-year/pom/u6-fundamentals-of-organizing",
+  "totalAssets": 8,
+  "assets": {
+    "approaches-to-organizing.webp": {
+      "key": "course/bbs/first-year/pom/u6-fundamentals-of-organizing/approaches-to-organizing.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u6-fundamentals-of-organizing/approaches-to-organizing.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 283954,
+      "contentHashed": false
+    },
+    "centralization-vs-decentralization.webp": {
+      "key": "course/bbs/first-year/pom/u6-fundamentals-of-organizing/centralization-vs-decentralization.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u6-fundamentals-of-organizing/centralization-vs-decentralization.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 174870,
+      "contentHashed": false
+    },
+    "delegation-of-authority.webp": {
+      "key": "course/bbs/first-year/pom/u6-fundamentals-of-organizing/delegation-of-authority.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u6-fundamentals-of-organizing/delegation-of-authority.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 182454,
+      "contentHashed": false
+    },
+    "departmentalization-types.webp": {
+      "key": "course/bbs/first-year/pom/u6-fundamentals-of-organizing/departmentalization-types.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u6-fundamentals-of-organizing/departmentalization-types.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 67508,
+      "contentHashed": false
+    },
+    "organic-vs-mechanistic-organization.webp": {
+      "key": "course/bbs/first-year/pom/u6-fundamentals-of-organizing/organic-vs-mechanistic-organization.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u6-fundamentals-of-organizing/organic-vs-mechanistic-organization.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 385586,
+      "contentHashed": false
+    },
+    "organization-architectures.webp": {
+      "key": "course/bbs/first-year/pom/u6-fundamentals-of-organizing/organization-architectures.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u6-fundamentals-of-organizing/organization-architectures.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 98770,
+      "contentHashed": false
+    },
+    "organizing-process.webp": {
+      "key": "course/bbs/first-year/pom/u6-fundamentals-of-organizing/organizing-process.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u6-fundamentals-of-organizing/organizing-process.webp",
+      "contentType": "image/webp",
+      "width": 2056,
+      "height": 765,
+      "bytes": 125146,
+      "contentHashed": false
+    },
+    "principles-of-organizing.webp": {
+      "key": "course/bbs/first-year/pom/u6-fundamentals-of-organizing/principles-of-organizing.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u6-fundamentals-of-organizing/principles-of-organizing.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 141196,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u6-fundamentals-of-organizing/approaches-to-organizing.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u6-fundamentals-of-organizing/centralization-vs-decentralization.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u6-fundamentals-of-organizing/delegation-of-authority.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u6-fundamentals-of-organizing/departmentalization-types.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u6-fundamentals-of-organizing/organic-vs-mechanistic-organization.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u6-fundamentals-of-organizing/organization-architectures.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u6-fundamentals-of-organizing/organizing-process.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u6-fundamentals-of-organizing/principles-of-organizing.webp"
+  ]
+}

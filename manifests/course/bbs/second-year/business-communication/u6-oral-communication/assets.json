@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.693Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/second-year/business-communication/u6-oral-communication",
+  "totalAssets": 6,
+  "assets": {
+    "meeting-communication-cycle.webp": {
+      "key": "course/bbs/second-year/business-communication/u6-oral-communication/meeting-communication-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u6-oral-communication/meeting-communication-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 69570,
+      "contentHashed": false
+    },
+    "negotiation-process.webp": {
+      "key": "course/bbs/second-year/business-communication/u6-oral-communication/negotiation-process.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u6-oral-communication/negotiation-process.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 40342,
+      "contentHashed": false
+    },
+    "nonverbal-communication.webp": {
+      "key": "course/bbs/second-year/business-communication/u6-oral-communication/nonverbal-communication.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u6-oral-communication/nonverbal-communication.webp",
+      "contentType": "image/webp",
+      "width": 1374,
+      "height": 1145,
+      "bytes": 155600,
+      "contentHashed": false
+    },
+    "presentation-planning.webp": {
+      "key": "course/bbs/second-year/business-communication/u6-oral-communication/presentation-planning.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u6-oral-communication/presentation-planning.webp",
+      "contentType": "image/webp",
+      "width": 2135,
+      "height": 736,
+      "bytes": 61594,
+      "contentHashed": false
+    },
+    "telephone-call-structure.webp": {
+      "key": "course/bbs/second-year/business-communication/u6-oral-communication/telephone-call-structure.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u6-oral-communication/telephone-call-structure.webp",
+      "contentType": "image/webp",
+      "width": 2076,
+      "height": 757,
+      "bytes": 66960,
+      "contentHashed": false
+    },
+    "visual-aids-in-oral-communication.webp": {
+      "key": "course/bbs/second-year/business-communication/u6-oral-communication/visual-aids-in-oral-communication.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u6-oral-communication/visual-aids-in-oral-communication.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 169422,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u6-oral-communication/meeting-communication-cycle.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u6-oral-communication/negotiation-process.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u6-oral-communication/nonverbal-communication.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u6-oral-communication/presentation-planning.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u6-oral-communication/telephone-call-structure.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u6-oral-communication/visual-aids-in-oral-communication.webp"
+  ]
+}

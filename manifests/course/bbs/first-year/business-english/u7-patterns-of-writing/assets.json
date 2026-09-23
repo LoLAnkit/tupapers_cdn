@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.566Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/first-year/business-english/u7-patterns-of-writing",
+  "totalAssets": 6,
+  "assets": {
+    "argumentation-pattern.webp": {
+      "key": "course/bbs/first-year/business-english/u7-patterns-of-writing/argumentation-pattern.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u7-patterns-of-writing/argumentation-pattern.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 88952,
+      "contentHashed": false
+    },
+    "cause-and-effect-pattern.webp": {
+      "key": "course/bbs/first-year/business-english/u7-patterns-of-writing/cause-and-effect-pattern.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u7-patterns-of-writing/cause-and-effect-pattern.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 120158,
+      "contentHashed": false
+    },
+    "comparison-and-contrast-pattern.webp": {
+      "key": "course/bbs/first-year/business-english/u7-patterns-of-writing/comparison-and-contrast-pattern.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u7-patterns-of-writing/comparison-and-contrast-pattern.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 145068,
+      "contentHashed": false
+    },
+    "definition-pattern.webp": {
+      "key": "course/bbs/first-year/business-english/u7-patterns-of-writing/definition-pattern.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u7-patterns-of-writing/definition-pattern.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 77212,
+      "contentHashed": false
+    },
+    "description-pattern.webp": {
+      "key": "course/bbs/first-year/business-english/u7-patterns-of-writing/description-pattern.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u7-patterns-of-writing/description-pattern.webp",
+      "contentType": "image/webp",
+      "width": 1312,
+      "height": 1199,
+      "bytes": 80400,
+      "contentHashed": false
+    },
+    "narration-pattern.webp": {
+      "key": "course/bbs/first-year/business-english/u7-patterns-of-writing/narration-pattern.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u7-patterns-of-writing/narration-pattern.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 59372,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u7-patterns-of-writing/argumentation-pattern.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u7-patterns-of-writing/cause-and-effect-pattern.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u7-patterns-of-writing/comparison-and-contrast-pattern.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u7-patterns-of-writing/definition-pattern.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u7-patterns-of-writing/description-pattern.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u7-patterns-of-writing/narration-pattern.webp"
+  ]
+}

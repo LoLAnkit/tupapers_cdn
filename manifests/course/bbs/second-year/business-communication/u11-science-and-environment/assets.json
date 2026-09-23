@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.665Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/second-year/business-communication/u11-science-and-environment",
+  "totalAssets": 6,
+  "assets": {
+    "etiquette-of-freedom-ecology-map.webp": {
+      "key": "course/bbs/second-year/business-communication/u11-science-and-environment/etiquette-of-freedom-ecology-map.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u11-science-and-environment/etiquette-of-freedom-ecology-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 104670,
+      "contentHashed": false
+    },
+    "on-warts-idea-progression.webp": {
+      "key": "course/bbs/second-year/business-communication/u11-science-and-environment/on-warts-idea-progression.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u11-science-and-environment/on-warts-idea-progression.webp",
+      "contentType": "image/webp",
+      "width": 2060,
+      "height": 763,
+      "bytes": 88920,
+      "contentHashed": false
+    },
+    "religion-and-science-relationship.webp": {
+      "key": "course/bbs/second-year/business-communication/u11-science-and-environment/religion-and-science-relationship.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u11-science-and-environment/religion-and-science-relationship.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 73502,
+      "contentHashed": false
+    },
+    "rights-of-animals-ethical-argument.webp": {
+      "key": "course/bbs/second-year/business-communication/u11-science-and-environment/rights-of-animals-ethical-argument.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u11-science-and-environment/rights-of-animals-ethical-argument.webp",
+      "contentType": "image/webp",
+      "width": 2001,
+      "height": 786,
+      "bytes": 130976,
+      "contentHashed": false
+    },
+    "root-cellar-imagery-of-survival.webp": {
+      "key": "course/bbs/second-year/business-communication/u11-science-and-environment/root-cellar-imagery-of-survival.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u11-science-and-environment/root-cellar-imagery-of-survival.webp",
+      "contentType": "image/webp",
+      "width": 1312,
+      "height": 1199,
+      "bytes": 292092,
+      "contentHashed": false
+    },
+    "the-new-physics-comparison.webp": {
+      "key": "course/bbs/second-year/business-communication/u11-science-and-environment/the-new-physics-comparison.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u11-science-and-environment/the-new-physics-comparison.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 103662,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u11-science-and-environment/etiquette-of-freedom-ecology-map.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u11-science-and-environment/on-warts-idea-progression.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u11-science-and-environment/religion-and-science-relationship.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u11-science-and-environment/rights-of-animals-ethical-argument.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u11-science-and-environment/root-cellar-imagery-of-survival.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u11-science-and-environment/the-new-physics-comparison.webp"
+  ]
+}

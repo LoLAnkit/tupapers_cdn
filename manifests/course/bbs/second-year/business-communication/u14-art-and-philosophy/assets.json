@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.676Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/second-year/business-communication/u14-art-and-philosophy",
+  "totalAssets": 6,
+  "assets": {
+    "allegory-of-the-cave-illusion-to-knowledge.webp": {
+      "key": "course/bbs/second-year/business-communication/u14-art-and-philosophy/allegory-of-the-cave-illusion-to-knowledge.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u14-art-and-philosophy/allegory-of-the-cave-illusion-to-knowledge.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 306618,
+      "contentHashed": false
+    },
+    "beauty-traditional-standards-and-sontag.webp": {
+      "key": "course/bbs/second-year/business-communication/u14-art-and-philosophy/beauty-traditional-standards-and-sontag.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u14-art-and-philosophy/beauty-traditional-standards-and-sontag.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 130210,
+      "contentHashed": false
+    },
+    "clock-tower-time-order-memory-symbolism.webp": {
+      "key": "course/bbs/second-year/business-communication/u14-art-and-philosophy/clock-tower-time-order-memory-symbolism.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u14-art-and-philosophy/clock-tower-time-order-memory-symbolism.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 208454,
+      "contentHashed": false
+    },
+    "essay-in-aesthetics-practical-and-aesthetic-life.webp": {
+      "key": "course/bbs/second-year/business-communication/u14-art-and-philosophy/essay-in-aesthetics-practical-and-aesthetic-life.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u14-art-and-philosophy/essay-in-aesthetics-practical-and-aesthetic-life.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 139332,
+      "contentHashed": false
+    },
+    "her-first-ball-narrative-arc.webp": {
+      "key": "course/bbs/second-year/business-communication/u14-art-and-philosophy/her-first-ball-narrative-arc.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u14-art-and-philosophy/her-first-ball-narrative-arc.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 183628,
+      "contentHashed": false
+    },
+    "not-the-non-existent-concept-map.webp": {
+      "key": "course/bbs/second-year/business-communication/u14-art-and-philosophy/not-the-non-existent-concept-map.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u14-art-and-philosophy/not-the-non-existent-concept-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 123868,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u14-art-and-philosophy/allegory-of-the-cave-illusion-to-knowledge.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u14-art-and-philosophy/beauty-traditional-standards-and-sontag.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u14-art-and-philosophy/clock-tower-time-order-memory-symbolism.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u14-art-and-philosophy/essay-in-aesthetics-practical-and-aesthetic-life.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u14-art-and-philosophy/her-first-ball-narrative-arc.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u14-art-and-philosophy/not-the-non-existent-concept-map.webp"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.751Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/second-year/financial-management/u3-time-value-of-money",
+  "totalAssets": 6,
+  "assets": {
+    "annuity-vs-perpetuity.webp": {
+      "key": "course/bbs/second-year/financial-management/u3-time-value-of-money/annuity-vs-perpetuity.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u3-time-value-of-money/annuity-vs-perpetuity.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 72998,
+      "contentHashed": false
+    },
+    "cash-flow-time-line.webp": {
+      "key": "course/bbs/second-year/financial-management/u3-time-value-of-money/cash-flow-time-line.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u3-time-value-of-money/cash-flow-time-line.webp",
+      "contentType": "image/webp",
+      "width": 1920,
+      "height": 819,
+      "bytes": 63960,
+      "contentHashed": false
+    },
+    "compounding-and-discounting-ladder.webp": {
+      "key": "course/bbs/second-year/financial-management/u3-time-value-of-money/compounding-and-discounting-ladder.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u3-time-value-of-money/compounding-and-discounting-ladder.webp",
+      "contentType": "image/webp",
+      "width": 1226,
+      "height": 1283,
+      "bytes": 147614,
+      "contentHashed": false
+    },
+    "loan-amortization-pattern.webp": {
+      "key": "course/bbs/second-year/financial-management/u3-time-value-of-money/loan-amortization-pattern.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u3-time-value-of-money/loan-amortization-pattern.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 80926,
+      "contentHashed": false
+    },
+    "ordinary-annuity-vs-annuity-due.webp": {
+      "key": "course/bbs/second-year/financial-management/u3-time-value-of-money/ordinary-annuity-vs-annuity-due.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u3-time-value-of-money/ordinary-annuity-vs-annuity-due.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 56594,
+      "contentHashed": false
+    },
+    "uneven-cash-flow-valuation.webp": {
+      "key": "course/bbs/second-year/financial-management/u3-time-value-of-money/uneven-cash-flow-valuation.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u3-time-value-of-money/uneven-cash-flow-valuation.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 67130,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u3-time-value-of-money/annuity-vs-perpetuity.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u3-time-value-of-money/cash-flow-time-line.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u3-time-value-of-money/compounding-and-discounting-ladder.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u3-time-value-of-money/loan-amortization-pattern.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u3-time-value-of-money/ordinary-annuity-vs-annuity-due.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u3-time-value-of-money/uneven-cash-flow-valuation.webp"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.502Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/first-year/accounting/u2-conceptual-framework-of-accounting",
+  "totalAssets": 4,
+  "assets": {
+    "accounting-concepts-framework.webp": {
+      "key": "course/bbs/first-year/accounting/u2-conceptual-framework-of-accounting/accounting-concepts-framework.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u2-conceptual-framework-of-accounting/accounting-concepts-framework.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 117956,
+      "contentHashed": false
+    },
+    "accounting-standards-relationship.webp": {
+      "key": "course/bbs/first-year/accounting/u2-conceptual-framework-of-accounting/accounting-standards-relationship.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u2-conceptual-framework-of-accounting/accounting-standards-relationship.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 137624,
+      "contentHashed": false
+    },
+    "dual-aspect-balance.webp": {
+      "key": "course/bbs/first-year/accounting/u2-conceptual-framework-of-accounting/dual-aspect-balance.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u2-conceptual-framework-of-accounting/dual-aspect-balance.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 115194,
+      "contentHashed": false
+    },
+    "revenue-recognition-and-matching-timeline.webp": {
+      "key": "course/bbs/first-year/accounting/u2-conceptual-framework-of-accounting/revenue-recognition-and-matching-timeline.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u2-conceptual-framework-of-accounting/revenue-recognition-and-matching-timeline.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 77364,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u2-conceptual-framework-of-accounting/accounting-concepts-framework.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u2-conceptual-framework-of-accounting/accounting-standards-relationship.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u2-conceptual-framework-of-accounting/dual-aspect-balance.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u2-conceptual-framework-of-accounting/revenue-recognition-and-matching-timeline.webp"
+  ]
+}

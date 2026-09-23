@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.847Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/second-year/ob-hrm/u5-groups-and-teams-in-organizations",
+  "totalAssets": 7,
+  "assets": {
+    "group-dynamics.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u5-groups-and-teams-in-organizations/group-dynamics.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u5-groups-and-teams-in-organizations/group-dynamics.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 121082,
+      "contentHashed": false
+    },
+    "group-versus-team.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u5-groups-and-teams-in-organizations/group-versus-team.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u5-groups-and-teams-in-organizations/group-versus-team.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 156400,
+      "contentHashed": false
+    },
+    "informal-groups.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u5-groups-and-teams-in-organizations/informal-groups.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u5-groups-and-teams-in-organizations/informal-groups.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 105186,
+      "contentHashed": false
+    },
+    "issues-in-managing-work-teams.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u5-groups-and-teams-in-organizations/issues-in-managing-work-teams.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u5-groups-and-teams-in-organizations/issues-in-managing-work-teams.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 162554,
+      "contentHashed": false
+    },
+    "stages-of-group-formation.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u5-groups-and-teams-in-organizations/stages-of-group-formation.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u5-groups-and-teams-in-organizations/stages-of-group-formation.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 201684,
+      "contentHashed": false
+    },
+    "team-performance-factors.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u5-groups-and-teams-in-organizations/team-performance-factors.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u5-groups-and-teams-in-organizations/team-performance-factors.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 142418,
+      "contentHashed": false
+    },
+    "types-of-groups.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u5-groups-and-teams-in-organizations/types-of-groups.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u5-groups-and-teams-in-organizations/types-of-groups.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 83346,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u5-groups-and-teams-in-organizations/group-dynamics.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u5-groups-and-teams-in-organizations/group-versus-team.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u5-groups-and-teams-in-organizations/informal-groups.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u5-groups-and-teams-in-organizations/issues-in-managing-work-teams.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u5-groups-and-teams-in-organizations/stages-of-group-formation.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u5-groups-and-teams-in-organizations/team-performance-factors.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u5-groups-and-teams-in-organizations/types-of-groups.webp"
+  ]
+}

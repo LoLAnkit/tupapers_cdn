@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.552Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/first-year/business-english/u4-business-communication-messages",
+  "totalAssets": 7,
+  "assets": {
+    "electronic-message-format.webp": {
+      "key": "course/bbs/first-year/business-english/u4-business-communication-messages/electronic-message-format.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u4-business-communication-messages/electronic-message-format.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 124024,
+      "contentHashed": false
+    },
+    "memo-format.webp": {
+      "key": "course/bbs/first-year/business-english/u4-business-communication-messages/memo-format.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u4-business-communication-messages/memo-format.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 57932,
+      "contentHashed": false
+    },
+    "nonverbal-message-cues.webp": {
+      "key": "course/bbs/first-year/business-english/u4-business-communication-messages/nonverbal-message-cues.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u4-business-communication-messages/nonverbal-message-cues.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 232060,
+      "contentHashed": false
+    },
+    "notice-format.webp": {
+      "key": "course/bbs/first-year/business-english/u4-business-communication-messages/notice-format.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u4-business-communication-messages/notice-format.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 103514,
+      "contentHashed": false
+    },
+    "oral-message-structure.webp": {
+      "key": "course/bbs/first-year/business-english/u4-business-communication-messages/oral-message-structure.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u4-business-communication-messages/oral-message-structure.webp",
+      "contentType": "image/webp",
+      "width": 2075,
+      "height": 758,
+      "bytes": 73036,
+      "contentHashed": false
+    },
+    "visual-message-design.webp": {
+      "key": "course/bbs/first-year/business-english/u4-business-communication-messages/visual-message-design.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u4-business-communication-messages/visual-message-design.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 210140,
+      "contentHashed": false
+    },
+    "written-message-model.webp": {
+      "key": "course/bbs/first-year/business-english/u4-business-communication-messages/written-message-model.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u4-business-communication-messages/written-message-model.webp",
+      "contentType": "image/webp",
+      "width": 2149,
+      "height": 732,
+      "bytes": 73156,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u4-business-communication-messages/electronic-message-format.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u4-business-communication-messages/memo-format.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u4-business-communication-messages/nonverbal-message-cues.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u4-business-communication-messages/notice-format.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u4-business-communication-messages/oral-message-structure.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u4-business-communication-messages/visual-message-design.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u4-business-communication-messages/written-message-model.webp"
+  ]
+}

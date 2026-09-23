@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.711Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/second-year/cost-mgt-accounting/u2-accounting-for-materials",
+  "totalAssets": 7,
+  "assets": {
+    "abc-inventory-classification.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u2-accounting-for-materials/abc-inventory-classification.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u2-accounting-for-materials/abc-inventory-classification.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 131888,
+      "contentHashed": false
+    },
+    "eoq-cost-trade-off.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u2-accounting-for-materials/eoq-cost-trade-off.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u2-accounting-for-materials/eoq-cost-trade-off.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 59498,
+      "contentHashed": false
+    },
+    "inventory-stock-level-sawtooth.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u2-accounting-for-materials/inventory-stock-level-sawtooth.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u2-accounting-for-materials/inventory-stock-level-sawtooth.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 72756,
+      "contentHashed": false
+    },
+    "inventory-turnover-cycle.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u2-accounting-for-materials/inventory-turnover-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u2-accounting-for-materials/inventory-turnover-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 131104,
+      "contentHashed": false
+    },
+    "jit-material-flow.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u2-accounting-for-materials/jit-material-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u2-accounting-for-materials/jit-material-flow.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 91666,
+      "contentHashed": false
+    },
+    "perpetual-inventory-system.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u2-accounting-for-materials/perpetual-inventory-system.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u2-accounting-for-materials/perpetual-inventory-system.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 84060,
+      "contentHashed": false
+    },
+    "re-order-level-timeline.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u2-accounting-for-materials/re-order-level-timeline.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u2-accounting-for-materials/re-order-level-timeline.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 119604,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u2-accounting-for-materials/abc-inventory-classification.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u2-accounting-for-materials/eoq-cost-trade-off.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u2-accounting-for-materials/inventory-stock-level-sawtooth.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u2-accounting-for-materials/inventory-turnover-cycle.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u2-accounting-for-materials/jit-material-flow.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u2-accounting-for-materials/perpetual-inventory-system.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u2-accounting-for-materials/re-order-level-timeline.webp"
+  ]
+}

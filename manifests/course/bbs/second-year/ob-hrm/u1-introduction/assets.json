@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.817Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/second-year/ob-hrm/u1-introduction",
+  "totalAssets": 8,
+  "assets": {
+    "basic-assumptions-of-ob.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u1-introduction/basic-assumptions-of-ob.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u1-introduction/basic-assumptions-of-ob.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 126636,
+      "contentHashed": false
+    },
+    "contributing-disciplines-to-ob.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u1-introduction/contributing-disciplines-to-ob.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u1-introduction/contributing-disciplines-to-ob.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 108248,
+      "contentHashed": false
+    },
+    "emotions-cognitive-dissonance-managerial-challenges.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u1-introduction/emotions-cognitive-dissonance-managerial-challenges.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u1-introduction/emotions-cognitive-dissonance-managerial-challenges.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 179672,
+      "contentHashed": false
+    },
+    "individual-behavior-input-output-system.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u1-introduction/individual-behavior-input-output-system.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u1-introduction/individual-behavior-input-output-system.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 96354,
+      "contentHashed": false
+    },
+    "levels-of-ob-analysis.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u1-introduction/levels-of-ob-analysis.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u1-introduction/levels-of-ob-analysis.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 143350,
+      "contentHashed": false
+    },
+    "mental-processes-and-behavior.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u1-introduction/mental-processes-and-behavior.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u1-introduction/mental-processes-and-behavior.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 79726,
+      "contentHashed": false
+    },
+    "organizational-behavior-concept.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u1-introduction/organizational-behavior-concept.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u1-introduction/organizational-behavior-concept.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 103666,
+      "contentHashed": false
+    },
+    "organizational-behavior-system.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u1-introduction/organizational-behavior-system.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u1-introduction/organizational-behavior-system.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 92724,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u1-introduction/basic-assumptions-of-ob.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u1-introduction/contributing-disciplines-to-ob.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u1-introduction/emotions-cognitive-dissonance-managerial-challenges.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u1-introduction/individual-behavior-input-output-system.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u1-introduction/levels-of-ob-analysis.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u1-introduction/mental-processes-and-behavior.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u1-introduction/organizational-behavior-concept.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u1-introduction/organizational-behavior-system.webp"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.734Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/second-year/cost-mgt-accounting/u8-cost-reduction",
+  "totalAssets": 6,
+  "assets": {
+    "cost-control-feedback-loop.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u8-cost-reduction/cost-control-feedback-loop.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u8-cost-reduction/cost-control-feedback-loop.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 90056,
+      "contentHashed": false
+    },
+    "cost-reduction-process.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u8-cost-reduction/cost-reduction-process.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u8-cost-reduction/cost-reduction-process.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 65190,
+      "contentHashed": false
+    },
+    "cost-reduction-responsibility-map.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u8-cost-reduction/cost-reduction-responsibility-map.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u8-cost-reduction/cost-reduction-responsibility-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 108038,
+      "contentHashed": false
+    },
+    "cost-reduction-vs-cost-control-paths.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u8-cost-reduction/cost-reduction-vs-cost-control-paths.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u8-cost-reduction/cost-reduction-vs-cost-control-paths.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 92646,
+      "contentHashed": false
+    },
+    "value-analysis-function-cost-map.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u8-cost-reduction/value-analysis-function-cost-map.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u8-cost-reduction/value-analysis-function-cost-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 88756,
+      "contentHashed": false
+    },
+    "value-engineering-lifecycle.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u8-cost-reduction/value-engineering-lifecycle.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u8-cost-reduction/value-engineering-lifecycle.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 100326,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u8-cost-reduction/cost-control-feedback-loop.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u8-cost-reduction/cost-reduction-process.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u8-cost-reduction/cost-reduction-responsibility-map.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u8-cost-reduction/cost-reduction-vs-cost-control-paths.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u8-cost-reduction/value-analysis-function-cost-map.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u8-cost-reduction/value-engineering-lifecycle.webp"
+  ]
+}

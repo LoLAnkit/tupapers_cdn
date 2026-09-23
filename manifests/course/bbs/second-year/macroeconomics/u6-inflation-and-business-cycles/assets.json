@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.803Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/second-year/macroeconomics/u6-inflation-and-business-cycles",
+  "totalAssets": 7,
+  "assets": {
+    "anti-inflation-policy-channels.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u6-inflation-and-business-cycles/anti-inflation-policy-channels.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u6-inflation-and-business-cycles/anti-inflation-policy-channels.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 83746,
+      "contentHashed": false
+    },
+    "business-cycle-phases.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u6-inflation-and-business-cycles/business-cycle-phases.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u6-inflation-and-business-cycles/business-cycle-phases.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 40342,
+      "contentHashed": false
+    },
+    "cost-push-inflation.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u6-inflation-and-business-cycles/cost-push-inflation.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u6-inflation-and-business-cycles/cost-push-inflation.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 47782,
+      "contentHashed": false
+    },
+    "deflationary-spiral.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u6-inflation-and-business-cycles/deflationary-spiral.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u6-inflation-and-business-cycles/deflationary-spiral.webp",
+      "contentType": "image/webp",
+      "width": 1312,
+      "height": 1199,
+      "bytes": 70010,
+      "contentHashed": false
+    },
+    "demand-pull-inflation.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u6-inflation-and-business-cycles/demand-pull-inflation.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u6-inflation-and-business-cycles/demand-pull-inflation.webp",
+      "contentType": "image/webp",
+      "width": 1374,
+      "height": 1145,
+      "bytes": 52024,
+      "contentHashed": false
+    },
+    "measuring-inflation.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u6-inflation-and-business-cycles/measuring-inflation.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u6-inflation-and-business-cycles/measuring-inflation.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 63462,
+      "contentHashed": false
+    },
+    "phillips-curve-and-stagflation.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u6-inflation-and-business-cycles/phillips-curve-and-stagflation.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u6-inflation-and-business-cycles/phillips-curve-and-stagflation.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 50394,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u6-inflation-and-business-cycles/anti-inflation-policy-channels.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u6-inflation-and-business-cycles/business-cycle-phases.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u6-inflation-and-business-cycles/cost-push-inflation.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u6-inflation-and-business-cycles/deflationary-spiral.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u6-inflation-and-business-cycles/demand-pull-inflation.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u6-inflation-and-business-cycles/measuring-inflation.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u6-inflation-and-business-cycles/phillips-curve-and-stagflation.webp"
+  ]
+}

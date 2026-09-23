@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.700Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/second-year/business-communication/u7-visual-communication",
+  "totalAssets": 3,
+  "assets": {
+    "charts-for-business-communication.webp": {
+      "key": "course/bbs/second-year/business-communication/u7-visual-communication/charts-for-business-communication.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u7-visual-communication/charts-for-business-communication.webp",
+      "contentType": "image/webp",
+      "width": 1374,
+      "height": 1145,
+      "bytes": 144738,
+      "contentHashed": false
+    },
+    "graphics-for-business-communication.webp": {
+      "key": "course/bbs/second-year/business-communication/u7-visual-communication/graphics-for-business-communication.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u7-visual-communication/graphics-for-business-communication.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 150692,
+      "contentHashed": false
+    },
+    "pictures-in-business-communication.webp": {
+      "key": "course/bbs/second-year/business-communication/u7-visual-communication/pictures-in-business-communication.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u7-visual-communication/pictures-in-business-communication.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 203802,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u7-visual-communication/charts-for-business-communication.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u7-visual-communication/graphics-for-business-communication.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u7-visual-communication/pictures-in-business-communication.webp"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.419Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbm/fourth-semester/legal-environment-business/u4-law-of-company-and-insolvency",
+  "totalAssets": 3,
+  "assets": {
+    "company-incorporation-process.webp": {
+      "key": "course/bbm/fourth-semester/legal-environment-business/u4-law-of-company-and-insolvency/company-incorporation-process.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/legal-environment-business/u4-law-of-company-and-insolvency/company-incorporation-process.webp",
+      "contentType": "image/webp",
+      "width": 2167,
+      "height": 726,
+      "bytes": 87298,
+      "contentHashed": false
+    },
+    "insolvency-to-liquidation.webp": {
+      "key": "course/bbm/fourth-semester/legal-environment-business/u4-law-of-company-and-insolvency/insolvency-to-liquidation.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/legal-environment-business/u4-law-of-company-and-insolvency/insolvency-to-liquidation.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 79690,
+      "contentHashed": false
+    },
+    "liquidators-role.webp": {
+      "key": "course/bbm/fourth-semester/legal-environment-business/u4-law-of-company-and-insolvency/liquidators-role.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/legal-environment-business/u4-law-of-company-and-insolvency/liquidators-role.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 106664,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/legal-environment-business/u4-law-of-company-and-insolvency/company-incorporation-process.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/legal-environment-business/u4-law-of-company-and-insolvency/insolvency-to-liquidation.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/legal-environment-business/u4-law-of-company-and-insolvency/liquidators-role.webp"
+  ]
+}

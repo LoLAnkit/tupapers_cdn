@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.473Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbm/second-semester/macroeconomics/u1-introduction-to-macroeconomics",
+  "totalAssets": 3,
+  "assets": {
+    "circular-flow-closed-and-open-economies.webp": {
+      "key": "course/bbm/second-semester/macroeconomics/u1-introduction-to-macroeconomics/circular-flow-closed-and-open-economies.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/second-semester/macroeconomics/u1-introduction-to-macroeconomics/circular-flow-closed-and-open-economies.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 116278,
+      "contentHashed": false
+    },
+    "macroeconomics-and-business-environment.webp": {
+      "key": "course/bbm/second-semester/macroeconomics/u1-introduction-to-macroeconomics/macroeconomics-and-business-environment.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/second-semester/macroeconomics/u1-introduction-to-macroeconomics/macroeconomics-and-business-environment.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 129720,
+      "contentHashed": false
+    },
+    "scope-of-macroeconomics.webp": {
+      "key": "course/bbm/second-semester/macroeconomics/u1-introduction-to-macroeconomics/scope-of-macroeconomics.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/second-semester/macroeconomics/u1-introduction-to-macroeconomics/scope-of-macroeconomics.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 95672,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbm/second-semester/macroeconomics/u1-introduction-to-macroeconomics/circular-flow-closed-and-open-economies.webp",
+    "https://cdn.tupapers.com/course/bbm/second-semester/macroeconomics/u1-introduction-to-macroeconomics/macroeconomics-and-business-environment.webp",
+    "https://cdn.tupapers.com/course/bbm/second-semester/macroeconomics/u1-introduction-to-macroeconomics/scope-of-macroeconomics.webp"
+  ]
+}

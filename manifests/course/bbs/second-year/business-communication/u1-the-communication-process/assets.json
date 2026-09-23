@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.659Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/second-year/business-communication/u1-the-communication-process",
+  "totalAssets": 8,
+  "assets": {
+    "barriers-of-business-communication.webp": {
+      "key": "course/bbs/second-year/business-communication/u1-the-communication-process/barriers-of-business-communication.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u1-the-communication-process/barriers-of-business-communication.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 137024,
+      "contentHashed": false
+    },
+    "communication-structures-and-systems.webp": {
+      "key": "course/bbs/second-year/business-communication/u1-the-communication-process/communication-structures-and-systems.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u1-the-communication-process/communication-structures-and-systems.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 86598,
+      "contentHashed": false
+    },
+    "elements-of-communication-process.webp": {
+      "key": "course/bbs/second-year/business-communication/u1-the-communication-process/elements-of-communication-process.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u1-the-communication-process/elements-of-communication-process.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 65392,
+      "contentHashed": false
+    },
+    "group-work-and-collaboration.webp": {
+      "key": "course/bbs/second-year/business-communication/u1-the-communication-process/group-work-and-collaboration.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u1-the-communication-process/group-work-and-collaboration.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 95044,
+      "contentHashed": false
+    },
+    "management-style-and-communication.webp": {
+      "key": "course/bbs/second-year/business-communication/u1-the-communication-process/management-style-and-communication.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u1-the-communication-process/management-style-and-communication.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 130968,
+      "contentHashed": false
+    },
+    "methods-of-communication.webp": {
+      "key": "course/bbs/second-year/business-communication/u1-the-communication-process/methods-of-communication.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u1-the-communication-process/methods-of-communication.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 77328,
+      "contentHashed": false
+    },
+    "oral-communication-process.webp": {
+      "key": "course/bbs/second-year/business-communication/u1-the-communication-process/oral-communication-process.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u1-the-communication-process/oral-communication-process.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 97062,
+      "contentHashed": false
+    },
+    "writing-process.webp": {
+      "key": "course/bbs/second-year/business-communication/u1-the-communication-process/writing-process.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u1-the-communication-process/writing-process.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 62674,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u1-the-communication-process/barriers-of-business-communication.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u1-the-communication-process/communication-structures-and-systems.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u1-the-communication-process/elements-of-communication-process.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u1-the-communication-process/group-work-and-collaboration.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u1-the-communication-process/management-style-and-communication.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u1-the-communication-process/methods-of-communication.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u1-the-communication-process/oral-communication-process.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u1-the-communication-process/writing-process.webp"
+  ]
+}

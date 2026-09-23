@@ -64,7 +64,7 @@ tupapers_cdn/
 │  ├─ discover.ts                # Walk source/ → list of image files
 │  ├─ optimize.ts                # Read dimensions without changing image bytes
 │  ├─ keys.ts                    # Build output keys and recognize existing hash names
-│  ├─ upload.ts                  # HeadObject (skip if exists) → PutObject
+│  ├─ upload.ts                  # PutObject upload with cache headers
 │  ├─ manifest.ts                # Read/merge/write manifest.json (sorted keys)
 │  └─ prune.ts                   # List/delete orphaned bucket objects (dry-run default)
 │
@@ -172,7 +172,7 @@ npm run build -- -v              # verbose (list every file)
 
 ### `npm run upload`
 
-Upload manifest-referenced `dist/` objects to R2. Existing hashed objects are skipped; normal-name objects are uploaded again so changed bytes replace the old version. **Requires credentials.**
+Upload manifest-referenced `dist/` objects to R2. The bucket is scanned once and every existing object key is skipped, so only new asset keys are uploaded. **Requires credentials.**
 
 ```bash
 npm run upload                     # upload, skip existing
@@ -576,7 +576,7 @@ Cached:  public, max-age=31536000, immutable
 
 ### Upload skips everything: "object already exists"
 
-**Normal behavior.** Content-addressed: same bytes = same hash = already uploaded. To force re-upload, delete the object in R2 or change the source image.
+**Normal behavior.** Existing R2 object keys are skipped. To replace an asset at the same key, delete that object from R2 first and then run upload again.
 
 ### Manifest.json not updating
 

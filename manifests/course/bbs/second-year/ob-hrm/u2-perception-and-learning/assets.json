@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.833Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/second-year/ob-hrm/u2-perception-and-learning",
+  "totalAssets": 6,
+  "assets": {
+    "attribution-theory-and-errors.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u2-perception-and-learning/attribution-theory-and-errors.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u2-perception-and-learning/attribution-theory-and-errors.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 99818,
+      "contentHashed": false
+    },
+    "behavior-modification.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u2-perception-and-learning/behavior-modification.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u2-perception-and-learning/behavior-modification.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 82684,
+      "contentHashed": false
+    },
+    "factors-affecting-perception.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u2-perception-and-learning/factors-affecting-perception.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u2-perception-and-learning/factors-affecting-perception.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 103234,
+      "contentHashed": false
+    },
+    "learning-theories.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u2-perception-and-learning/learning-theories.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u2-perception-and-learning/learning-theories.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 137432,
+      "contentHashed": false
+    },
+    "perception-and-individual-decision-making.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u2-perception-and-learning/perception-and-individual-decision-making.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u2-perception-and-learning/perception-and-individual-decision-making.webp",
+      "contentType": "image/webp",
+      "width": 2079,
+      "height": 756,
+      "bytes": 78132,
+      "contentHashed": false
+    },
+    "perceptual-process.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u2-perception-and-learning/perceptual-process.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u2-perception-and-learning/perceptual-process.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 85010,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u2-perception-and-learning/attribution-theory-and-errors.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u2-perception-and-learning/behavior-modification.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u2-perception-and-learning/factors-affecting-perception.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u2-perception-and-learning/learning-theories.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u2-perception-and-learning/perception-and-individual-decision-making.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u2-perception-and-learning/perceptual-process.webp"
+  ]
+}

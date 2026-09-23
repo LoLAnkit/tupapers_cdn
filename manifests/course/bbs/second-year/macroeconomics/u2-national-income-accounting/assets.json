@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.784Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/second-year/macroeconomics/u2-national-income-accounting",
+  "totalAssets": 7,
+  "assets": {
+    "double-counting-and-value-added.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u2-national-income-accounting/double-counting-and-value-added.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u2-national-income-accounting/double-counting-and-value-added.webp",
+      "contentType": "image/webp",
+      "width": 1666,
+      "height": 944,
+      "bytes": 213066,
+      "contentHashed": false
+    },
+    "market-price-to-factor-cost-bridge.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u2-national-income-accounting/market-price-to-factor-cost-bridge.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u2-national-income-accounting/market-price-to-factor-cost-bridge.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 260550,
+      "contentHashed": false
+    },
+    "national-income-aggregates-ladder.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u2-national-income-accounting/national-income-aggregates-ladder.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u2-national-income-accounting/national-income-aggregates-ladder.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 102846,
+      "contentHashed": false
+    },
+    "nominal-real-gdp-and-deflator.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u2-national-income-accounting/nominal-real-gdp-and-deflator.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u2-national-income-accounting/nominal-real-gdp-and-deflator.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 108116,
+      "contentHashed": false
+    },
+    "three-and-four-sector-circular-flow.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u2-national-income-accounting/three-and-four-sector-circular-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u2-national-income-accounting/three-and-four-sector-circular-flow.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 120046,
+      "contentHashed": false
+    },
+    "three-methods-of-national-income.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u2-national-income-accounting/three-methods-of-national-income.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u2-national-income-accounting/three-methods-of-national-income.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 101026,
+      "contentHashed": false
+    },
+    "two-sector-circular-flow.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u2-national-income-accounting/two-sector-circular-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u2-national-income-accounting/two-sector-circular-flow.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 121256,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u2-national-income-accounting/double-counting-and-value-added.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u2-national-income-accounting/market-price-to-factor-cost-bridge.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u2-national-income-accounting/national-income-aggregates-ladder.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u2-national-income-accounting/nominal-real-gdp-and-deflator.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u2-national-income-accounting/three-and-four-sector-circular-flow.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u2-national-income-accounting/three-methods-of-national-income.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u2-national-income-accounting/two-sector-circular-flow.webp"
+  ]
+}

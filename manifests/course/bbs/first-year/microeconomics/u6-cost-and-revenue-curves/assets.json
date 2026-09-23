@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.593Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/first-year/microeconomics/u6-cost-and-revenue-curves",
+  "totalAssets": 8,
+  "assets": {
+    "ac-mc-relationship.webp": {
+      "key": "course/bbs/first-year/microeconomics/u6-cost-and-revenue-curves/ac-mc-relationship.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u6-cost-and-revenue-curves/ac-mc-relationship.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 84362,
+      "contentHashed": false
+    },
+    "alternative-lrac-shapes.webp": {
+      "key": "course/bbs/first-year/microeconomics/u6-cost-and-revenue-curves/alternative-lrac-shapes.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u6-cost-and-revenue-curves/alternative-lrac-shapes.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 121146,
+      "contentHashed": false
+    },
+    "cost-concepts-relationship-map.webp": {
+      "key": "course/bbs/first-year/microeconomics/u6-cost-and-revenue-curves/cost-concepts-relationship-map.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u6-cost-and-revenue-curves/cost-concepts-relationship-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 173244,
+      "contentHashed": false
+    },
+    "economies-of-scale-and-scope.webp": {
+      "key": "course/bbs/first-year/microeconomics/u6-cost-and-revenue-curves/economies-of-scale-and-scope.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u6-cost-and-revenue-curves/economies-of-scale-and-scope.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 173692,
+      "contentHashed": false
+    },
+    "long-run-average-and-marginal-cost.webp": {
+      "key": "course/bbs/first-year/microeconomics/u6-cost-and-revenue-curves/long-run-average-and-marginal-cost.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u6-cost-and-revenue-curves/long-run-average-and-marginal-cost.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 54560,
+      "contentHashed": false
+    },
+    "revenue-curves-and-elasticity-link.webp": {
+      "key": "course/bbs/first-year/microeconomics/u6-cost-and-revenue-curves/revenue-curves-and-elasticity-link.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u6-cost-and-revenue-curves/revenue-curves-and-elasticity-link.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 61850,
+      "contentHashed": false
+    },
+    "short-run-average-and-marginal-costs.webp": {
+      "key": "course/bbs/first-year/microeconomics/u6-cost-and-revenue-curves/short-run-average-and-marginal-costs.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u6-cost-and-revenue-curves/short-run-average-and-marginal-costs.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 58282,
+      "contentHashed": false
+    },
+    "short-run-total-cost-curves.webp": {
+      "key": "course/bbs/first-year/microeconomics/u6-cost-and-revenue-curves/short-run-total-cost-curves.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u6-cost-and-revenue-curves/short-run-total-cost-curves.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 59558,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u6-cost-and-revenue-curves/ac-mc-relationship.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u6-cost-and-revenue-curves/alternative-lrac-shapes.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u6-cost-and-revenue-curves/cost-concepts-relationship-map.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u6-cost-and-revenue-curves/economies-of-scale-and-scope.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u6-cost-and-revenue-curves/long-run-average-and-marginal-cost.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u6-cost-and-revenue-curves/revenue-curves-and-elasticity-link.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u6-cost-and-revenue-curves/short-run-average-and-marginal-costs.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u6-cost-and-revenue-curves/short-run-total-cost-curves.webp"
+  ]
+}

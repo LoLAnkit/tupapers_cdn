@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.730Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/second-year/cost-mgt-accounting/u7-cost-accounting-for-planning-and-control",
+  "totalAssets": 8,
+  "assets": {
+    "budgetary-control-cycle.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u7-cost-accounting-for-planning-and-control/budgetary-control-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u7-cost-accounting-for-planning-and-control/budgetary-control-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 80214,
+      "contentHashed": false
+    },
+    "fixed-vs-flexible-budget.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u7-cost-accounting-for-planning-and-control/fixed-vs-flexible-budget.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u7-cost-accounting-for-planning-and-control/fixed-vs-flexible-budget.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 48998,
+      "contentHashed": false
+    },
+    "labour-variance-tree.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u7-cost-accounting-for-planning-and-control/labour-variance-tree.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u7-cost-accounting-for-planning-and-control/labour-variance-tree.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 62164,
+      "contentHashed": false
+    },
+    "master-budget-network.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u7-cost-accounting-for-planning-and-control/master-budget-network.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u7-cost-accounting-for-planning-and-control/master-budget-network.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 94636,
+      "contentHashed": false
+    },
+    "material-variance-tree.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u7-cost-accounting-for-planning-and-control/material-variance-tree.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u7-cost-accounting-for-planning-and-control/material-variance-tree.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 84766,
+      "contentHashed": false
+    },
+    "overhead-variance-tree.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u7-cost-accounting-for-planning-and-control/overhead-variance-tree.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u7-cost-accounting-for-planning-and-control/overhead-variance-tree.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 275570,
+      "contentHashed": false
+    },
+    "production-and-material-purchase-budget-flow.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u7-cost-accounting-for-planning-and-control/production-and-material-purchase-budget-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u7-cost-accounting-for-planning-and-control/production-and-material-purchase-budget-flow.webp",
+      "contentType": "image/webp",
+      "width": 2169,
+      "height": 725,
+      "bytes": 75200,
+      "contentHashed": false
+    },
+    "standard-costing-control-loop.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u7-cost-accounting-for-planning-and-control/standard-costing-control-loop.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u7-cost-accounting-for-planning-and-control/standard-costing-control-loop.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 87436,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u7-cost-accounting-for-planning-and-control/budgetary-control-cycle.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u7-cost-accounting-for-planning-and-control/fixed-vs-flexible-budget.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u7-cost-accounting-for-planning-and-control/labour-variance-tree.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u7-cost-accounting-for-planning-and-control/master-budget-network.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u7-cost-accounting-for-planning-and-control/material-variance-tree.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u7-cost-accounting-for-planning-and-control/overhead-variance-tree.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u7-cost-accounting-for-planning-and-control/production-and-material-purchase-budget-flow.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u7-cost-accounting-for-planning-and-control/standard-costing-control-loop.webp"
+  ]
+}

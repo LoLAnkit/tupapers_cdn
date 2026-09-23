@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.821Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/second-year/ob-hrm/u10-talent-acquisition-and-development",
+  "totalAssets": 8,
+  "assets": {
+    "evaluating-training-effectiveness.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u10-talent-acquisition-and-development/evaluating-training-effectiveness.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u10-talent-acquisition-and-development/evaluating-training-effectiveness.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 143600,
+      "contentHashed": false
+    },
+    "management-development-techniques.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u10-talent-acquisition-and-development/management-development-techniques.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u10-talent-acquisition-and-development/management-development-techniques.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 176200,
+      "contentHashed": false
+    },
+    "recruitment-and-selection-process.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u10-talent-acquisition-and-development/recruitment-and-selection-process.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u10-talent-acquisition-and-development/recruitment-and-selection-process.webp",
+      "contentType": "image/webp",
+      "width": 1145,
+      "height": 1374,
+      "bytes": 137842,
+      "contentHashed": false
+    },
+    "recruitment-sources-and-methods.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u10-talent-acquisition-and-development/recruitment-sources-and-methods.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u10-talent-acquisition-and-development/recruitment-sources-and-methods.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 105420,
+      "contentHashed": false
+    },
+    "selection-tests-and-interviews.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u10-talent-acquisition-and-development/selection-tests-and-interviews.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u10-talent-acquisition-and-development/selection-tests-and-interviews.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 142156,
+      "contentHashed": false
+    },
+    "socialization-process.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u10-talent-acquisition-and-development/socialization-process.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u10-talent-acquisition-and-development/socialization-process.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 164804,
+      "contentHashed": false
+    },
+    "talent-management-and-development-cycle.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u10-talent-acquisition-and-development/talent-management-and-development-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u10-talent-acquisition-and-development/talent-management-and-development-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 101704,
+      "contentHashed": false
+    },
+    "training-needs-and-training-methods.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u10-talent-acquisition-and-development/training-needs-and-training-methods.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u10-talent-acquisition-and-development/training-needs-and-training-methods.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 149768,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u10-talent-acquisition-and-development/evaluating-training-effectiveness.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u10-talent-acquisition-and-development/management-development-techniques.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u10-talent-acquisition-and-development/recruitment-and-selection-process.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u10-talent-acquisition-and-development/recruitment-sources-and-methods.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u10-talent-acquisition-and-development/selection-tests-and-interviews.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u10-talent-acquisition-and-development/socialization-process.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u10-talent-acquisition-and-development/talent-management-and-development-cycle.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u10-talent-acquisition-and-development/training-needs-and-training-methods.webp"
+  ]
+}

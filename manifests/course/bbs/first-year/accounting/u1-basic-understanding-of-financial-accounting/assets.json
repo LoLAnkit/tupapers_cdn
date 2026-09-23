@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.498Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/first-year/accounting/u1-basic-understanding-of-financial-accounting",
+  "totalAssets": 6,
+  "assets": {
+    "accounting-and-other-disciplines.webp": {
+      "key": "course/bbs/first-year/accounting/u1-basic-understanding-of-financial-accounting/accounting-and-other-disciplines.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u1-basic-understanding-of-financial-accounting/accounting-and-other-disciplines.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 149270,
+      "contentHashed": false
+    },
+    "accounting-information-flow.webp": {
+      "key": "course/bbs/first-year/accounting/u1-basic-understanding-of-financial-accounting/accounting-information-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u1-basic-understanding-of-financial-accounting/accounting-information-flow.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 107506,
+      "contentHashed": false
+    },
+    "business-entity-forms-map.webp": {
+      "key": "course/bbs/first-year/accounting/u1-basic-understanding-of-financial-accounting/business-entity-forms-map.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u1-basic-understanding-of-financial-accounting/business-entity-forms-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 174552,
+      "contentHashed": false
+    },
+    "cash-basis-vs-accrual-basis-timing.webp": {
+      "key": "course/bbs/first-year/accounting/u1-basic-understanding-of-financial-accounting/cash-basis-vs-accrual-basis-timing.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u1-basic-understanding-of-financial-accounting/cash-basis-vs-accrual-basis-timing.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 111990,
+      "contentHashed": false
+    },
+    "financial-and-operating-cycles.webp": {
+      "key": "course/bbs/first-year/accounting/u1-basic-understanding-of-financial-accounting/financial-and-operating-cycles.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u1-basic-understanding-of-financial-accounting/financial-and-operating-cycles.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 82476,
+      "contentHashed": false
+    },
+    "qualitative-features-of-accounting-information.webp": {
+      "key": "course/bbs/first-year/accounting/u1-basic-understanding-of-financial-accounting/qualitative-features-of-accounting-information.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u1-basic-understanding-of-financial-accounting/qualitative-features-of-accounting-information.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 86474,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u1-basic-understanding-of-financial-accounting/accounting-and-other-disciplines.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u1-basic-understanding-of-financial-accounting/accounting-information-flow.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u1-basic-understanding-of-financial-accounting/business-entity-forms-map.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u1-basic-understanding-of-financial-accounting/cash-basis-vs-accrual-basis-timing.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u1-basic-understanding-of-financial-accounting/financial-and-operating-cycles.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u1-basic-understanding-of-financial-accounting/qualitative-features-of-accounting-information.webp"
+  ]
+}

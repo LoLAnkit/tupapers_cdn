@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.780Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/second-year/macroeconomics/u1-introduction-to-macroeconomics",
+  "totalAssets": 8,
+  "assets": {
+    "comparative-macro-statics.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u1-introduction-to-macroeconomics/comparative-macro-statics.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u1-introduction-to-macroeconomics/comparative-macro-statics.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 72728,
+      "contentHashed": false
+    },
+    "dynamic-macroeconomic-analysis.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u1-introduction-to-macroeconomics/dynamic-macroeconomic-analysis.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u1-introduction-to-macroeconomics/dynamic-macroeconomic-analysis.webp",
+      "contentType": "image/webp",
+      "width": 1648,
+      "height": 954,
+      "bytes": 37966,
+      "contentHashed": false
+    },
+    "equilibrium-and-disequilibrium.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u1-introduction-to-macroeconomics/equilibrium-and-disequilibrium.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u1-introduction-to-macroeconomics/equilibrium-and-disequilibrium.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 73588,
+      "contentHashed": false
+    },
+    "limitations-of-macroeconomics.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u1-introduction-to-macroeconomics/limitations-of-macroeconomics.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u1-introduction-to-macroeconomics/limitations-of-macroeconomics.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 154812,
+      "contentHashed": false
+    },
+    "macro-static-analysis.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u1-introduction-to-macroeconomics/macro-static-analysis.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u1-introduction-to-macroeconomics/macro-static-analysis.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 58538,
+      "contentHashed": false
+    },
+    "macroeconomics-scope-map.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u1-introduction-to-macroeconomics/macroeconomics-scope-map.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u1-introduction-to-macroeconomics/macroeconomics-scope-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 112106,
+      "contentHashed": false
+    },
+    "stock-vs-flow-variables.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u1-introduction-to-macroeconomics/stock-vs-flow-variables.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u1-introduction-to-macroeconomics/stock-vs-flow-variables.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 145650,
+      "contentHashed": false
+    },
+    "uses-of-macroeconomics.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u1-introduction-to-macroeconomics/uses-of-macroeconomics.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u1-introduction-to-macroeconomics/uses-of-macroeconomics.webp",
+      "contentType": "image/webp",
+      "width": 2124,
+      "height": 740,
+      "bytes": 100850,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u1-introduction-to-macroeconomics/comparative-macro-statics.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u1-introduction-to-macroeconomics/dynamic-macroeconomic-analysis.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u1-introduction-to-macroeconomics/equilibrium-and-disequilibrium.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u1-introduction-to-macroeconomics/limitations-of-macroeconomics.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u1-introduction-to-macroeconomics/macro-static-analysis.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u1-introduction-to-macroeconomics/macroeconomics-scope-map.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u1-introduction-to-macroeconomics/stock-vs-flow-variables.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u1-introduction-to-macroeconomics/uses-of-macroeconomics.webp"
+  ]
+}

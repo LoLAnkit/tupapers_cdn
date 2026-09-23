@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.760Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/second-year/financial-management/u5-financial-assets-valuation",
+  "totalAssets": 6,
+  "assets": {
+    "bond-cash-flow-anatomy.webp": {
+      "key": "course/bbs/second-year/financial-management/u5-financial-assets-valuation/bond-cash-flow-anatomy.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u5-financial-assets-valuation/bond-cash-flow-anatomy.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 52938,
+      "contentHashed": false
+    },
+    "bond-price-vs-required-return.webp": {
+      "key": "course/bbs/second-year/financial-management/u5-financial-assets-valuation/bond-price-vs-required-return.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u5-financial-assets-valuation/bond-price-vs-required-return.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 39662,
+      "contentHashed": false
+    },
+    "dividend-discount-growth-phases.webp": {
+      "key": "course/bbs/second-year/financial-management/u5-financial-assets-valuation/dividend-discount-growth-phases.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u5-financial-assets-valuation/dividend-discount-growth-phases.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 89098,
+      "contentHashed": false
+    },
+    "preferred-stock-as-a-perpetuity.webp": {
+      "key": "course/bbs/second-year/financial-management/u5-financial-assets-valuation/preferred-stock-as-a-perpetuity.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u5-financial-assets-valuation/preferred-stock-as-a-perpetuity.webp",
+      "contentType": "image/webp",
+      "width": 1916,
+      "height": 821,
+      "bytes": 45006,
+      "contentHashed": false
+    },
+    "yield-components-of-a-bond.webp": {
+      "key": "course/bbs/second-year/financial-management/u5-financial-assets-valuation/yield-components-of-a-bond.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u5-financial-assets-valuation/yield-components-of-a-bond.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 93942,
+      "contentHashed": false
+    },
+    "zero-coupon-bond-valuation.webp": {
+      "key": "course/bbs/second-year/financial-management/u5-financial-assets-valuation/zero-coupon-bond-valuation.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u5-financial-assets-valuation/zero-coupon-bond-valuation.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 53024,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u5-financial-assets-valuation/bond-cash-flow-anatomy.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u5-financial-assets-valuation/bond-price-vs-required-return.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u5-financial-assets-valuation/dividend-discount-growth-phases.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u5-financial-assets-valuation/preferred-stock-as-a-perpetuity.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u5-financial-assets-valuation/yield-components-of-a-bond.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u5-financial-assets-valuation/zero-coupon-bond-valuation.webp"
+  ]
+}

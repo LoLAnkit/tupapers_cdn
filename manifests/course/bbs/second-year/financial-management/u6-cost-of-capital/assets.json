@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.764Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/second-year/financial-management/u6-cost-of-capital",
+  "totalAssets": 6,
+  "assets": {
+    "after-tax-cost-of-debt.webp": {
+      "key": "course/bbs/second-year/financial-management/u6-cost-of-capital/after-tax-cost-of-debt.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u6-cost-of-capital/after-tax-cost-of-debt.webp",
+      "contentType": "image/webp",
+      "width": 2089,
+      "height": 753,
+      "bytes": 98854,
+      "contentHashed": false
+    },
+    "cost-of-capital-as-a-hurdle-rate.webp": {
+      "key": "course/bbs/second-year/financial-management/u6-cost-of-capital/cost-of-capital-as-a-hurdle-rate.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u6-cost-of-capital/cost-of-capital-as-a-hurdle-rate.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 79482,
+      "contentHashed": false
+    },
+    "cost-of-capital-components.webp": {
+      "key": "course/bbs/second-year/financial-management/u6-cost-of-capital/cost-of-capital-components.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u6-cost-of-capital/cost-of-capital-components.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 97676,
+      "contentHashed": false
+    },
+    "preferred-stock-cost.webp": {
+      "key": "course/bbs/second-year/financial-management/u6-cost-of-capital/preferred-stock-cost.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u6-cost-of-capital/preferred-stock-cost.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 105120,
+      "contentHashed": false
+    },
+    "retained-vs-new-common-equity.webp": {
+      "key": "course/bbs/second-year/financial-management/u6-cost-of-capital/retained-vs-new-common-equity.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u6-cost-of-capital/retained-vs-new-common-equity.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 212030,
+      "contentHashed": false
+    },
+    "wacc-weighting.webp": {
+      "key": "course/bbs/second-year/financial-management/u6-cost-of-capital/wacc-weighting.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u6-cost-of-capital/wacc-weighting.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 138830,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u6-cost-of-capital/after-tax-cost-of-debt.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u6-cost-of-capital/cost-of-capital-as-a-hurdle-rate.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u6-cost-of-capital/cost-of-capital-components.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u6-cost-of-capital/preferred-stock-cost.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u6-cost-of-capital/retained-vs-new-common-equity.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u6-cost-of-capital/wacc-weighting.webp"
+  ]
+}

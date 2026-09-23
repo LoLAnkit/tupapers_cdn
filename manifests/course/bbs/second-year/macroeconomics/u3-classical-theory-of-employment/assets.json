@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.790Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/second-year/macroeconomics/u3-classical-theory-of-employment",
+  "totalAssets": 6,
+  "assets": {
+    "classical-employment-model-components.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u3-classical-theory-of-employment/classical-employment-model-components.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u3-classical-theory-of-employment/classical-employment-model-components.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 134138,
+      "contentHashed": false
+    },
+    "classical-labour-market-equilibrium.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u3-classical-theory-of-employment/classical-labour-market-equilibrium.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u3-classical-theory-of-employment/classical-labour-market-equilibrium.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 43476,
+      "contentHashed": false
+    },
+    "says-law-assumptions-and-implications.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u3-classical-theory-of-employment/says-law-assumptions-and-implications.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u3-classical-theory-of-employment/says-law-assumptions-and-implications.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 133264,
+      "contentHashed": false
+    },
+    "says-law-process.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u3-classical-theory-of-employment/says-law-process.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u3-classical-theory-of-employment/says-law-process.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 91164,
+      "contentHashed": false
+    },
+    "types-of-unemployment.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u3-classical-theory-of-employment/types-of-unemployment.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u3-classical-theory-of-employment/types-of-unemployment.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 123150,
+      "contentHashed": false
+    },
+    "wage-flexibility-adjustment.webp": {
+      "key": "course/bbs/second-year/macroeconomics/u3-classical-theory-of-employment/wage-flexibility-adjustment.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u3-classical-theory-of-employment/wage-flexibility-adjustment.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 60400,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u3-classical-theory-of-employment/classical-employment-model-components.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u3-classical-theory-of-employment/classical-labour-market-equilibrium.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u3-classical-theory-of-employment/says-law-assumptions-and-implications.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u3-classical-theory-of-employment/says-law-process.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u3-classical-theory-of-employment/types-of-unemployment.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/macroeconomics/u3-classical-theory-of-employment/wage-flexibility-adjustment.webp"
+  ]
+}

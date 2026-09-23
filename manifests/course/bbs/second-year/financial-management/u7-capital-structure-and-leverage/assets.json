@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.769Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/second-year/financial-management/u7-capital-structure-and-leverage",
+  "totalAssets": 6,
+  "assets": {
+    "capital-structure-mix.webp": {
+      "key": "course/bbs/second-year/financial-management/u7-capital-structure-and-leverage/capital-structure-mix.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u7-capital-structure-and-leverage/capital-structure-mix.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 139610,
+      "contentHashed": false
+    },
+    "financial-leverage.webp": {
+      "key": "course/bbs/second-year/financial-management/u7-capital-structure-and-leverage/financial-leverage.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u7-capital-structure-and-leverage/financial-leverage.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 95322,
+      "contentHashed": false
+    },
+    "operating-break-even-graph.webp": {
+      "key": "course/bbs/second-year/financial-management/u7-capital-structure-and-leverage/operating-break-even-graph.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u7-capital-structure-and-leverage/operating-break-even-graph.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 81988,
+      "contentHashed": false
+    },
+    "operating-cash-financial-break-even.webp": {
+      "key": "course/bbs/second-year/financial-management/u7-capital-structure-and-leverage/operating-cash-financial-break-even.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u7-capital-structure-and-leverage/operating-cash-financial-break-even.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 153708,
+      "contentHashed": false
+    },
+    "operating-leverage.webp": {
+      "key": "course/bbs/second-year/financial-management/u7-capital-structure-and-leverage/operating-leverage.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u7-capital-structure-and-leverage/operating-leverage.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 108242,
+      "contentHashed": false
+    },
+    "total-leverage-chain.webp": {
+      "key": "course/bbs/second-year/financial-management/u7-capital-structure-and-leverage/total-leverage-chain.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u7-capital-structure-and-leverage/total-leverage-chain.webp",
+      "contentType": "image/webp",
+      "width": 1916,
+      "height": 821,
+      "bytes": 106350,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u7-capital-structure-and-leverage/capital-structure-mix.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u7-capital-structure-and-leverage/financial-leverage.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u7-capital-structure-and-leverage/operating-break-even-graph.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u7-capital-structure-and-leverage/operating-cash-financial-break-even.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u7-capital-structure-and-leverage/operating-leverage.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u7-capital-structure-and-leverage/total-leverage-chain.webp"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.679Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/second-year/business-communication/u2-business-communication",
+  "totalAssets": 7,
+  "assets": {
+    "challenges-for-business-communication.webp": {
+      "key": "course/bbs/second-year/business-communication/u2-business-communication/challenges-for-business-communication.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u2-business-communication/challenges-for-business-communication.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 94490,
+      "contentHashed": false
+    },
+    "components-of-business-communication.webp": {
+      "key": "course/bbs/second-year/business-communication/u2-business-communication/components-of-business-communication.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u2-business-communication/components-of-business-communication.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 96990,
+      "contentHashed": false
+    },
+    "functions-of-business-communication.webp": {
+      "key": "course/bbs/second-year/business-communication/u2-business-communication/functions-of-business-communication.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u2-business-communication/functions-of-business-communication.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 100526,
+      "contentHashed": false
+    },
+    "nature-of-business-communication.webp": {
+      "key": "course/bbs/second-year/business-communication/u2-business-communication/nature-of-business-communication.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u2-business-communication/nature-of-business-communication.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 99946,
+      "contentHashed": false
+    },
+    "principles-of-effective-business-communication.webp": {
+      "key": "course/bbs/second-year/business-communication/u2-business-communication/principles-of-effective-business-communication.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u2-business-communication/principles-of-effective-business-communication.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 99578,
+      "contentHashed": false
+    },
+    "purposes-of-business-communication.webp": {
+      "key": "course/bbs/second-year/business-communication/u2-business-communication/purposes-of-business-communication.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u2-business-communication/purposes-of-business-communication.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 82648,
+      "contentHashed": false
+    },
+    "types-of-business-communication.webp": {
+      "key": "course/bbs/second-year/business-communication/u2-business-communication/types-of-business-communication.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u2-business-communication/types-of-business-communication.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 64460,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u2-business-communication/challenges-for-business-communication.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u2-business-communication/components-of-business-communication.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u2-business-communication/functions-of-business-communication.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u2-business-communication/nature-of-business-communication.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u2-business-communication/principles-of-effective-business-communication.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u2-business-communication/purposes-of-business-communication.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u2-business-communication/types-of-business-communication.webp"
+  ]
+}

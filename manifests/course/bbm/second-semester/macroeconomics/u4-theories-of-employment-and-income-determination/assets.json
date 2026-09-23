@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.487Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbm/second-semester/macroeconomics/u4-theories-of-employment-and-income-determination",
+  "totalAssets": 4,
+  "assets": {
+    "classical-labour-market-equilibrium.webp": {
+      "key": "course/bbm/second-semester/macroeconomics/u4-theories-of-employment-and-income-determination/classical-labour-market-equilibrium.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/second-semester/macroeconomics/u4-theories-of-employment-and-income-determination/classical-labour-market-equilibrium.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 43306,
+      "contentHashed": false
+    },
+    "is-lm-equilibrium-and-policy-shifts.webp": {
+      "key": "course/bbm/second-semester/macroeconomics/u4-theories-of-employment-and-income-determination/is-lm-equilibrium-and-policy-shifts.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/second-semester/macroeconomics/u4-theories-of-employment-and-income-determination/is-lm-equilibrium-and-policy-shifts.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 62634,
+      "contentHashed": false
+    },
+    "keynesian-income-determination.webp": {
+      "key": "course/bbm/second-semester/macroeconomics/u4-theories-of-employment-and-income-determination/keynesian-income-determination.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/second-semester/macroeconomics/u4-theories-of-employment-and-income-determination/keynesian-income-determination.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 53638,
+      "contentHashed": false
+    },
+    "multiplier-process.webp": {
+      "key": "course/bbm/second-semester/macroeconomics/u4-theories-of-employment-and-income-determination/multiplier-process.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/second-semester/macroeconomics/u4-theories-of-employment-and-income-determination/multiplier-process.webp",
+      "contentType": "image/webp",
+      "width": 2043,
+      "height": 770,
+      "bytes": 127388,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbm/second-semester/macroeconomics/u4-theories-of-employment-and-income-determination/classical-labour-market-equilibrium.webp",
+    "https://cdn.tupapers.com/course/bbm/second-semester/macroeconomics/u4-theories-of-employment-and-income-determination/is-lm-equilibrium-and-policy-shifts.webp",
+    "https://cdn.tupapers.com/course/bbm/second-semester/macroeconomics/u4-theories-of-employment-and-income-determination/keynesian-income-determination.webp",
+    "https://cdn.tupapers.com/course/bbm/second-semester/macroeconomics/u4-theories-of-employment-and-income-determination/multiplier-process.webp"
+  ]
+}

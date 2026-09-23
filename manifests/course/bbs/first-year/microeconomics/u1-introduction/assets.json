@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.571Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/first-year/microeconomics/u1-introduction",
+  "totalAssets": 8,
+  "assets": {
+    "business-economics-decision-framework.webp": {
+      "key": "course/bbs/first-year/microeconomics/u1-introduction/business-economics-decision-framework.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u1-introduction/business-economics-decision-framework.webp",
+      "contentType": "image/webp",
+      "width": 2048,
+      "height": 768,
+      "bytes": 111672,
+      "contentHashed": false
+    },
+    "incremental-analysis.webp": {
+      "key": "course/bbs/first-year/microeconomics/u1-introduction/incremental-analysis.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u1-introduction/incremental-analysis.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 150160,
+      "contentHashed": false
+    },
+    "marginal-analysis.webp": {
+      "key": "course/bbs/first-year/microeconomics/u1-introduction/marginal-analysis.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u1-introduction/marginal-analysis.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 83974,
+      "contentHashed": false
+    },
+    "production-possibility-curve.webp": {
+      "key": "course/bbs/first-year/microeconomics/u1-introduction/production-possibility-curve.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u1-introduction/production-possibility-curve.webp",
+      "contentType": "image/webp",
+      "width": 1374,
+      "height": 1145,
+      "bytes": 68450,
+      "contentHashed": false
+    },
+    "scope-of-microeconomics.webp": {
+      "key": "course/bbs/first-year/microeconomics/u1-introduction/scope-of-microeconomics.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u1-introduction/scope-of-microeconomics.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 166860,
+      "contentHashed": false
+    },
+    "static-and-dynamic-equilibrium.webp": {
+      "key": "course/bbs/first-year/microeconomics/u1-introduction/static-and-dynamic-equilibrium.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u1-introduction/static-and-dynamic-equilibrium.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 140196,
+      "contentHashed": false
+    },
+    "static-vs-dynamic-analysis.webp": {
+      "key": "course/bbs/first-year/microeconomics/u1-introduction/static-vs-dynamic-analysis.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u1-introduction/static-vs-dynamic-analysis.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 150818,
+      "contentHashed": false
+    },
+    "ten-principles-of-economics.webp": {
+      "key": "course/bbs/first-year/microeconomics/u1-introduction/ten-principles-of-economics.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u1-introduction/ten-principles-of-economics.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 233636,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u1-introduction/business-economics-decision-framework.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u1-introduction/incremental-analysis.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u1-introduction/marginal-analysis.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u1-introduction/production-possibility-curve.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u1-introduction/scope-of-microeconomics.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u1-introduction/static-and-dynamic-equilibrium.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u1-introduction/static-vs-dynamic-analysis.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u1-introduction/ten-principles-of-economics.webp"
+  ]
+}

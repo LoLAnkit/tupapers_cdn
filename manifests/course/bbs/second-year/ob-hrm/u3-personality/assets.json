@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.838Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/second-year/ob-hrm/u3-personality",
+  "totalAssets": 6,
+  "assets": {
+    "determinants-of-personality.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u3-personality/determinants-of-personality.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u3-personality/determinants-of-personality.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 101344,
+      "contentHashed": false
+    },
+    "emotions-and-personality.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u3-personality/emotions-and-personality.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u3-personality/emotions-and-personality.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 128402,
+      "contentHashed": false
+    },
+    "personality-attributes-influencing-ob.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u3-personality/personality-attributes-influencing-ob.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u3-personality/personality-attributes-influencing-ob.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 103772,
+      "contentHashed": false
+    },
+    "personality-behavior-fit.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u3-personality/personality-behavior-fit.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u3-personality/personality-behavior-fit.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 145596,
+      "contentHashed": false
+    },
+    "personality-concept-and-types.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u3-personality/personality-concept-and-types.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u3-personality/personality-concept-and-types.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 98022,
+      "contentHashed": false
+    },
+    "personality-traits-and-characteristics.webp": {
+      "key": "course/bbs/second-year/ob-hrm/u3-personality/personality-traits-and-characteristics.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u3-personality/personality-traits-and-characteristics.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 101810,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u3-personality/determinants-of-personality.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u3-personality/emotions-and-personality.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u3-personality/personality-attributes-influencing-ob.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u3-personality/personality-behavior-fit.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u3-personality/personality-concept-and-types.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/ob-hrm/u3-personality/personality-traits-and-characteristics.webp"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.727Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/second-year/cost-mgt-accounting/u6-accounting-for-profit-planning",
+  "totalAssets": 6,
+  "assets": {
+    "absorption-costing-cost-flow.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u6-accounting-for-profit-planning/absorption-costing-cost-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u6-accounting-for-profit-planning/absorption-costing-cost-flow.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 115012,
+      "contentHashed": false
+    },
+    "absorption-vs-variable-profit-reconciliation.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u6-accounting-for-profit-planning/absorption-vs-variable-profit-reconciliation.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u6-accounting-for-profit-planning/absorption-vs-variable-profit-reconciliation.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 139786,
+      "contentHashed": false
+    },
+    "break-even-chart.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u6-accounting-for-profit-planning/break-even-chart.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u6-accounting-for-profit-planning/break-even-chart.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 53488,
+      "contentHashed": false
+    },
+    "cvp-relationship-map.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u6-accounting-for-profit-planning/cvp-relationship-map.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u6-accounting-for-profit-planning/cvp-relationship-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 132690,
+      "contentHashed": false
+    },
+    "profit-volume-graph.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u6-accounting-for-profit-planning/profit-volume-graph.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u6-accounting-for-profit-planning/profit-volume-graph.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 41004,
+      "contentHashed": false
+    },
+    "variable-costing-cost-flow.webp": {
+      "key": "course/bbs/second-year/cost-mgt-accounting/u6-accounting-for-profit-planning/variable-costing-cost-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u6-accounting-for-profit-planning/variable-costing-cost-flow.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 88766,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u6-accounting-for-profit-planning/absorption-costing-cost-flow.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u6-accounting-for-profit-planning/absorption-vs-variable-profit-reconciliation.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u6-accounting-for-profit-planning/break-even-chart.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u6-accounting-for-profit-planning/cvp-relationship-map.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u6-accounting-for-profit-planning/profit-volume-graph.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/cost-mgt-accounting/u6-accounting-for-profit-planning/variable-costing-cost-flow.webp"
+  ]
+}

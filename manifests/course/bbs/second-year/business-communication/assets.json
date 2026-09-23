@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.655Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/second-year/business-communication",
+  "totalAssets": 2,
+  "assets": {
+    "coherent-paragraph-flow.webp": {
+      "key": "course/bbs/second-year/business-communication/coherent-paragraph-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/coherent-paragraph-flow.webp",
+      "contentType": "image/webp",
+      "width": 2072,
+      "height": 759,
+      "bytes": 74974,
+      "contentHashed": false
+    },
+    "functions-of-language.webp": {
+      "key": "course/bbs/second-year/business-communication/functions-of-language.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/functions-of-language.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 123796,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/coherent-paragraph-flow.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/functions-of-language.webp"
+  ]
+}

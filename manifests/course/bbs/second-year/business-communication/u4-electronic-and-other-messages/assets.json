@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.685Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/second-year/business-communication/u4-electronic-and-other-messages",
+  "totalAssets": 7,
+  "assets": {
+    "advertisement-layout.webp": {
+      "key": "course/bbs/second-year/business-communication/u4-electronic-and-other-messages/advertisement-layout.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u4-electronic-and-other-messages/advertisement-layout.webp",
+      "contentType": "image/webp",
+      "width": 1225,
+      "height": 1284,
+      "bytes": 134132,
+      "contentHashed": false
+    },
+    "blog-structure.webp": {
+      "key": "course/bbs/second-year/business-communication/u4-electronic-and-other-messages/blog-structure.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u4-electronic-and-other-messages/blog-structure.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 160652,
+      "contentHashed": false
+    },
+    "business-letter-format.webp": {
+      "key": "course/bbs/second-year/business-communication/u4-electronic-and-other-messages/business-letter-format.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u4-electronic-and-other-messages/business-letter-format.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 106252,
+      "contentHashed": false
+    },
+    "memo-format.webp": {
+      "key": "course/bbs/second-year/business-communication/u4-electronic-and-other-messages/memo-format.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u4-electronic-and-other-messages/memo-format.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 103086,
+      "contentHashed": false
+    },
+    "notice-format.webp": {
+      "key": "course/bbs/second-year/business-communication/u4-electronic-and-other-messages/notice-format.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u4-electronic-and-other-messages/notice-format.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 109154,
+      "contentHashed": false
+    },
+    "press-release-format.webp": {
+      "key": "course/bbs/second-year/business-communication/u4-electronic-and-other-messages/press-release-format.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u4-electronic-and-other-messages/press-release-format.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 165364,
+      "contentHashed": false
+    },
+    "professional-email-format.webp": {
+      "key": "course/bbs/second-year/business-communication/u4-electronic-and-other-messages/professional-email-format.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u4-electronic-and-other-messages/professional-email-format.webp",
+      "contentType": "image/webp",
+      "width": 1223,
+      "height": 1286,
+      "bytes": 75812,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u4-electronic-and-other-messages/advertisement-layout.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u4-electronic-and-other-messages/blog-structure.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u4-electronic-and-other-messages/business-letter-format.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u4-electronic-and-other-messages/memo-format.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u4-electronic-and-other-messages/notice-format.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u4-electronic-and-other-messages/press-release-format.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u4-electronic-and-other-messages/professional-email-format.webp"
+  ]
+}

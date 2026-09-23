@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.773Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/second-year/financial-management/u8-basics-of-capital-budgeting",
+  "totalAssets": 7,
+  "assets": {
+    "capital-budgeting-decision-process.webp": {
+      "key": "course/bbs/second-year/financial-management/u8-basics-of-capital-budgeting/capital-budgeting-decision-process.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u8-basics-of-capital-budgeting/capital-budgeting-decision-process.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 89780,
+      "contentHashed": false
+    },
+    "discounted-payback.webp": {
+      "key": "course/bbs/second-year/financial-management/u8-basics-of-capital-budgeting/discounted-payback.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u8-basics-of-capital-budgeting/discounted-payback.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 73238,
+      "contentHashed": false
+    },
+    "irr-and-npv-profile.webp": {
+      "key": "course/bbs/second-year/financial-management/u8-basics-of-capital-budgeting/irr-and-npv-profile.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u8-basics-of-capital-budgeting/irr-and-npv-profile.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 66172,
+      "contentHashed": false
+    },
+    "mirr-cash-flow-logic.webp": {
+      "key": "course/bbs/second-year/financial-management/u8-basics-of-capital-budgeting/mirr-cash-flow-logic.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u8-basics-of-capital-budgeting/mirr-cash-flow-logic.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 85392,
+      "contentHashed": false
+    },
+    "npv-valuation-flow.webp": {
+      "key": "course/bbs/second-year/financial-management/u8-basics-of-capital-budgeting/npv-valuation-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u8-basics-of-capital-budgeting/npv-valuation-flow.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 71744,
+      "contentHashed": false
+    },
+    "payback-period-time-line.webp": {
+      "key": "course/bbs/second-year/financial-management/u8-basics-of-capital-budgeting/payback-period-time-line.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u8-basics-of-capital-budgeting/payback-period-time-line.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 81420,
+      "contentHashed": false
+    },
+    "profitability-index-decision.webp": {
+      "key": "course/bbs/second-year/financial-management/u8-basics-of-capital-budgeting/profitability-index-decision.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u8-basics-of-capital-budgeting/profitability-index-decision.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 143142,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u8-basics-of-capital-budgeting/capital-budgeting-decision-process.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u8-basics-of-capital-budgeting/discounted-payback.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u8-basics-of-capital-budgeting/irr-and-npv-profile.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u8-basics-of-capital-budgeting/mirr-cash-flow-logic.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u8-basics-of-capital-budgeting/npv-valuation-flow.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u8-basics-of-capital-budgeting/payback-period-time-line.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u8-basics-of-capital-budgeting/profitability-index-decision.webp"
+  ]
+}

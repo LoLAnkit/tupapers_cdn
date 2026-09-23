@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.689Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/second-year/business-communication/u5-reports-and-proposals",
+  "totalAssets": 3,
+  "assets": {
+    "business-plan-structure.webp": {
+      "key": "course/bbs/second-year/business-communication/u5-reports-and-proposals/business-plan-structure.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u5-reports-and-proposals/business-plan-structure.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 54570,
+      "contentHashed": false
+    },
+    "proposal-format.webp": {
+      "key": "course/bbs/second-year/business-communication/u5-reports-and-proposals/proposal-format.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u5-reports-and-proposals/proposal-format.webp",
+      "contentType": "image/webp",
+      "width": 2056,
+      "height": 765,
+      "bytes": 78178,
+      "contentHashed": false
+    },
+    "report-format.webp": {
+      "key": "course/bbs/second-year/business-communication/u5-reports-and-proposals/report-format.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u5-reports-and-proposals/report-format.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 102978,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u5-reports-and-proposals/business-plan-structure.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u5-reports-and-proposals/proposal-format.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/business-communication/u5-reports-and-proposals/report-format.webp"
+  ]
+}

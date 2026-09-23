@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.629Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/first-year/pom/u3-management-history-and-current-thinking",
+  "totalAssets": 7,
+  "assets": {
+    "classical-management-theory.webp": {
+      "key": "course/bbs/first-year/pom/u3-management-history-and-current-thinking/classical-management-theory.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u3-management-history-and-current-thinking/classical-management-theory.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 180588,
+      "contentHashed": false
+    },
+    "contingency-theory.webp": {
+      "key": "course/bbs/first-year/pom/u3-management-history-and-current-thinking/contingency-theory.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u3-management-history-and-current-thinking/contingency-theory.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 127216,
+      "contentHashed": false
+    },
+    "decision-and-management-science-theories.webp": {
+      "key": "course/bbs/first-year/pom/u3-management-history-and-current-thinking/decision-and-management-science-theories.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u3-management-history-and-current-thinking/decision-and-management-science-theories.webp",
+      "contentType": "image/webp",
+      "width": 2043,
+      "height": 770,
+      "bytes": 97896,
+      "contentHashed": false
+    },
+    "emerging-management-concepts.webp": {
+      "key": "course/bbs/first-year/pom/u3-management-history-and-current-thinking/emerging-management-concepts.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u3-management-history-and-current-thinking/emerging-management-concepts.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 146822,
+      "contentHashed": false
+    },
+    "evolution-of-management-thought.webp": {
+      "key": "course/bbs/first-year/pom/u3-management-history-and-current-thinking/evolution-of-management-thought.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u3-management-history-and-current-thinking/evolution-of-management-thought.webp",
+      "contentType": "image/webp",
+      "width": 2057,
+      "height": 765,
+      "bytes": 143866,
+      "contentHashed": false
+    },
+    "human-relations-and-behavioral-science.webp": {
+      "key": "course/bbs/first-year/pom/u3-management-history-and-current-thinking/human-relations-and-behavioral-science.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u3-management-history-and-current-thinking/human-relations-and-behavioral-science.webp",
+      "contentType": "image/webp",
+      "width": 2056,
+      "height": 765,
+      "bytes": 176738,
+      "contentHashed": false
+    },
+    "system-theory-of-management.webp": {
+      "key": "course/bbs/first-year/pom/u3-management-history-and-current-thinking/system-theory-of-management.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/pom/u3-management-history-and-current-thinking/system-theory-of-management.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 174044,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u3-management-history-and-current-thinking/classical-management-theory.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u3-management-history-and-current-thinking/contingency-theory.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u3-management-history-and-current-thinking/decision-and-management-science-theories.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u3-management-history-and-current-thinking/emerging-management-concepts.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u3-management-history-and-current-thinking/evolution-of-management-thought.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u3-management-history-and-current-thinking/human-relations-and-behavioral-science.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/pom/u3-management-history-and-current-thinking/system-theory-of-management.webp"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.530Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/first-year/accounting/u8-accounting-for-current-liabilities-and-contingencies",
+  "totalAssets": 4,
+  "assets": {
+    "contingent-liability-decision-path.webp": {
+      "key": "course/bbs/first-year/accounting/u8-accounting-for-current-liabilities-and-contingencies/contingent-liability-decision-path.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u8-accounting-for-current-liabilities-and-contingencies/contingent-liability-decision-path.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 55630,
+      "contentHashed": false
+    },
+    "current-liability-classification.webp": {
+      "key": "course/bbs/first-year/accounting/u8-accounting-for-current-liabilities-and-contingencies/current-liability-classification.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u8-accounting-for-current-liabilities-and-contingencies/current-liability-classification.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 97390,
+      "contentHashed": false
+    },
+    "notes-payable-lifecycle.webp": {
+      "key": "course/bbs/first-year/accounting/u8-accounting-for-current-liabilities-and-contingencies/notes-payable-lifecycle.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u8-accounting-for-current-liabilities-and-contingencies/notes-payable-lifecycle.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 39992,
+      "contentHashed": false
+    },
+    "warranty-and-guarantee-accounting-flow.webp": {
+      "key": "course/bbs/first-year/accounting/u8-accounting-for-current-liabilities-and-contingencies/warranty-and-guarantee-accounting-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u8-accounting-for-current-liabilities-and-contingencies/warranty-and-guarantee-accounting-flow.webp",
+      "contentType": "image/webp",
+      "width": 2067,
+      "height": 761,
+      "bytes": 69988,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u8-accounting-for-current-liabilities-and-contingencies/contingent-liability-decision-path.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u8-accounting-for-current-liabilities-and-contingencies/current-liability-classification.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u8-accounting-for-current-liabilities-and-contingencies/notes-payable-lifecycle.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u8-accounting-for-current-liabilities-and-contingencies/warranty-and-guarantee-accounting-flow.webp"
+  ]
+}

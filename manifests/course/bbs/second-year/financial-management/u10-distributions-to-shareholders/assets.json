@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.742Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/second-year/financial-management/u10-distributions-to-shareholders",
+  "totalAssets": 7,
+  "assets": {
+    "dividend-decision-framework.webp": {
+      "key": "course/bbs/second-year/financial-management/u10-distributions-to-shareholders/dividend-decision-framework.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u10-distributions-to-shareholders/dividend-decision-framework.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 141236,
+      "contentHashed": false
+    },
+    "dividend-payment-procedure.webp": {
+      "key": "course/bbs/second-year/financial-management/u10-distributions-to-shareholders/dividend-payment-procedure.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u10-distributions-to-shareholders/dividend-payment-procedure.webp",
+      "contentType": "image/webp",
+      "width": 1855,
+      "height": 848,
+      "bytes": 69696,
+      "contentHashed": false
+    },
+    "residual-dividend-policy.webp": {
+      "key": "course/bbs/second-year/financial-management/u10-distributions-to-shareholders/residual-dividend-policy.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u10-distributions-to-shareholders/residual-dividend-policy.webp",
+      "contentType": "image/webp",
+      "width": 2048,
+      "height": 768,
+      "bytes": 126772,
+      "contentHashed": false
+    },
+    "stable-vs-residual-dividends.webp": {
+      "key": "course/bbs/second-year/financial-management/u10-distributions-to-shareholders/stable-vs-residual-dividends.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u10-distributions-to-shareholders/stable-vs-residual-dividends.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 71424,
+      "contentHashed": false
+    },
+    "stock-dividend-before-and-after.webp": {
+      "key": "course/bbs/second-year/financial-management/u10-distributions-to-shareholders/stock-dividend-before-and-after.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u10-distributions-to-shareholders/stock-dividend-before-and-after.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 182058,
+      "contentHashed": false
+    },
+    "stock-repurchase-mechanics.webp": {
+      "key": "course/bbs/second-year/financial-management/u10-distributions-to-shareholders/stock-repurchase-mechanics.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u10-distributions-to-shareholders/stock-repurchase-mechanics.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 144502,
+      "contentHashed": false
+    },
+    "stock-split-and-reverse-split.webp": {
+      "key": "course/bbs/second-year/financial-management/u10-distributions-to-shareholders/stock-split-and-reverse-split.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u10-distributions-to-shareholders/stock-split-and-reverse-split.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 144294,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u10-distributions-to-shareholders/dividend-decision-framework.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u10-distributions-to-shareholders/dividend-payment-procedure.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u10-distributions-to-shareholders/residual-dividend-policy.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u10-distributions-to-shareholders/stable-vs-residual-dividends.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u10-distributions-to-shareholders/stock-dividend-before-and-after.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u10-distributions-to-shareholders/stock-repurchase-mechanics.webp",
+    "https://cdn.tupapers.com/course/bbs/second-year/financial-management/u10-distributions-to-shareholders/stock-split-and-reverse-split.webp"
+  ]
+}

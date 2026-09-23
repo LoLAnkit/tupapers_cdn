@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.598Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/first-year/microeconomics/u7-product-pricing-theories-and-practices",
+  "totalAssets": 7,
+  "assets": {
+    "market-structure-comparison.webp": {
+      "key": "course/bbs/first-year/microeconomics/u7-product-pricing-theories-and-practices/market-structure-comparison.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u7-product-pricing-theories-and-practices/market-structure-comparison.webp",
+      "contentType": "image/webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 166608,
+      "contentHashed": false
+    },
+    "monopolistic-competition-equilibrium.webp": {
+      "key": "course/bbs/first-year/microeconomics/u7-product-pricing-theories-and-practices/monopolistic-competition-equilibrium.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u7-product-pricing-theories-and-practices/monopolistic-competition-equilibrium.webp",
+      "contentType": "image/webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 137806,
+      "contentHashed": false
+    },
+    "monopoly-economic-effects.webp": {
+      "key": "course/bbs/first-year/microeconomics/u7-product-pricing-theories-and-practices/monopoly-economic-effects.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u7-product-pricing-theories-and-practices/monopoly-economic-effects.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 97618,
+      "contentHashed": false
+    },
+    "monopoly-price-and-output.webp": {
+      "key": "course/bbs/first-year/microeconomics/u7-product-pricing-theories-and-practices/monopoly-price-and-output.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u7-product-pricing-theories-and-practices/monopoly-price-and-output.webp",
+      "contentType": "image/webp",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 103134,
+      "contentHashed": false
+    },
+    "perfect-competition-equilibrium.webp": {
+      "key": "course/bbs/first-year/microeconomics/u7-product-pricing-theories-and-practices/perfect-competition-equilibrium.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u7-product-pricing-theories-and-practices/perfect-competition-equilibrium.webp",
+      "contentType": "image/webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 88332,
+      "contentHashed": false
+    },
+    "profit-maximization-goal.webp": {
+      "key": "course/bbs/first-year/microeconomics/u7-product-pricing-theories-and-practices/profit-maximization-goal.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u7-product-pricing-theories-and-practices/profit-maximization-goal.webp",
+      "contentType": "image/webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 83342,
+      "contentHashed": false
+    },
+    "short-run-supply-perfect-competition.webp": {
+      "key": "course/bbs/first-year/microeconomics/u7-product-pricing-theories-and-practices/short-run-supply-perfect-competition.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u7-product-pricing-theories-and-practices/short-run-supply-perfect-competition.webp",
+      "contentType": "image/webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 96784,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u7-product-pricing-theories-and-practices/market-structure-comparison.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u7-product-pricing-theories-and-practices/monopolistic-competition-equilibrium.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u7-product-pricing-theories-and-practices/monopoly-economic-effects.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u7-product-pricing-theories-and-practices/monopoly-price-and-output.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u7-product-pricing-theories-and-practices/perfect-competition-equilibrium.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u7-product-pricing-theories-and-practices/profit-maximization-goal.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/microeconomics/u7-product-pricing-theories-and-practices/short-run-supply-perfect-competition.webp"
+  ]
+}

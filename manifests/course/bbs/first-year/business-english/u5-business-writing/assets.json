@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T15:12:21.556Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/first-year/business-english/u5-business-writing",
+  "totalAssets": 8,
+  "assets": {
+    "advertisement-layout.webp": {
+      "key": "course/bbs/first-year/business-english/u5-business-writing/advertisement-layout.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u5-business-writing/advertisement-layout.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 193446,
+      "contentHashed": false
+    },
+    "article-and-feature-story-structure.webp": {
+      "key": "course/bbs/first-year/business-english/u5-business-writing/article-and-feature-story-structure.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u5-business-writing/article-and-feature-story-structure.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 64640,
+      "contentHashed": false
+    },
+    "broadcasting-story-script.webp": {
+      "key": "course/bbs/first-year/business-english/u5-business-writing/broadcasting-story-script.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u5-business-writing/broadcasting-story-script.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 133324,
+      "contentHashed": false
+    },
+    "brochure-format.webp": {
+      "key": "course/bbs/first-year/business-english/u5-business-writing/brochure-format.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u5-business-writing/brochure-format.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 164124,
+      "contentHashed": false
+    },
+    "effective-media-relations.webp": {
+      "key": "course/bbs/first-year/business-english/u5-business-writing/effective-media-relations.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u5-business-writing/effective-media-relations.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 115272,
+      "contentHashed": false
+    },
+    "media-story-structure.webp": {
+      "key": "course/bbs/first-year/business-english/u5-business-writing/media-story-structure.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u5-business-writing/media-story-structure.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 155568,
+      "contentHashed": false
+    },
+    "news-report-format.webp": {
+      "key": "course/bbs/first-year/business-english/u5-business-writing/news-report-format.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u5-business-writing/news-report-format.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 192260,
+      "contentHashed": false
+    },
+    "press-release-format.webp": {
+      "key": "course/bbs/first-year/business-english/u5-business-writing/press-release-format.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/business-english/u5-business-writing/press-release-format.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 161176,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u5-business-writing/advertisement-layout.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u5-business-writing/article-and-feature-story-structure.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u5-business-writing/broadcasting-story-script.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u5-business-writing/brochure-format.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u5-business-writing/effective-media-relations.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u5-business-writing/media-story-structure.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u5-business-writing/news-report-format.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/business-english/u5-business-writing/press-release-format.webp"
+  ]
+}
