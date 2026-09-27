@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:22.046Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/first-semester/foundation-of-bm/u7-group-and-team",
+  "totalAssets": 6,
+  "assets": {
+    "01-group-vs-team.webp": {
+      "key": "course/bba/first-semester/foundation-of-bm/u7-group-and-team/01-group-vs-team.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u7-group-and-team/01-group-vs-team.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 59308,
+      "contentHashed": false
+    },
+    "02-team-importance-organization.webp": {
+      "key": "course/bba/first-semester/foundation-of-bm/u7-group-and-team/02-team-importance-organization.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u7-group-and-team/02-team-importance-organization.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 54632,
+      "contentHashed": false
+    },
+    "03-creating-effective-team.webp": {
+      "key": "course/bba/first-semester/foundation-of-bm/u7-group-and-team/03-creating-effective-team.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u7-group-and-team/03-creating-effective-team.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 52978,
+      "contentHashed": false
+    },
+    "04-group-and-team-types.webp": {
+      "key": "course/bba/first-semester/foundation-of-bm/u7-group-and-team/04-group-and-team-types.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u7-group-and-team/04-group-and-team-types.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 67028,
+      "contentHashed": false
+    },
+    "05-team-conflict-management.webp": {
+      "key": "course/bba/first-semester/foundation-of-bm/u7-group-and-team/05-team-conflict-management.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u7-group-and-team/05-team-conflict-management.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 69550,
+      "contentHashed": false
+    },
+    "06-teamwork-nepalese-organizations.webp": {
+      "key": "course/bba/first-semester/foundation-of-bm/u7-group-and-team/06-teamwork-nepalese-organizations.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u7-group-and-team/06-teamwork-nepalese-organizations.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 64812,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u7-group-and-team/01-group-vs-team.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u7-group-and-team/02-team-importance-organization.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u7-group-and-team/03-creating-effective-team.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u7-group-and-team/04-group-and-team-types.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u7-group-and-team/05-team-conflict-management.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u7-group-and-team/06-teamwork-nepalese-organizations.webp"
+  ]
+}

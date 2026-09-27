@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:22.004Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/first-semester/english/u-1",
+  "totalAssets": 7,
+  "assets": {
+    "customs-and-traditions-comparison-scene.webp": {
+      "key": "course/bba/first-semester/english/u-1/customs-and-traditions-comparison-scene.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/english/u-1/customs-and-traditions-comparison-scene.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 652772,
+      "contentHashed": false
+    },
+    "health-matters-body-and-treatment-flow.webp": {
+      "key": "course/bba/first-semester/english/u-1/health-matters-body-and-treatment-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/english/u-1/health-matters-body-and-treatment-flow.webp",
+      "contentType": "image/webp",
+      "width": 2076,
+      "height": 758,
+      "bytes": 117894,
+      "contentHashed": false
+    },
+    "into-the-wild-environment-vocabulary.webp": {
+      "key": "course/bba/first-semester/english/u-1/into-the-wild-environment-vocabulary.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/english/u-1/into-the-wild-environment-vocabulary.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 275102,
+      "contentHashed": false
+    },
+    "looking-ahead-time-line.webp": {
+      "key": "course/bba/first-semester/english/u-1/looking-ahead-time-line.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/english/u-1/looking-ahead-time-line.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 43098,
+      "contentHashed": false
+    },
+    "traces-of-the-past-past-time-narrative.webp": {
+      "key": "course/bba/first-semester/english/u-1/traces-of-the-past-past-time-narrative.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/english/u-1/traces-of-the-past-past-time-narrative.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 87102,
+      "contentHashed": false
+    },
+    "what-are-you-like-language-map.webp": {
+      "key": "course/bba/first-semester/english/u-1/what-are-you-like-language-map.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/english/u-1/what-are-you-like-language-map.webp",
+      "contentType": "image/webp",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 125904,
+      "contentHashed": false
+    },
+    "would-you-believe-it-modal-meaning-scale.webp": {
+      "key": "course/bba/first-semester/english/u-1/would-you-believe-it-modal-meaning-scale.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/english/u-1/would-you-believe-it-modal-meaning-scale.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 116530,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/first-semester/english/u-1/customs-and-traditions-comparison-scene.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/english/u-1/health-matters-body-and-treatment-flow.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/english/u-1/into-the-wild-environment-vocabulary.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/english/u-1/looking-ahead-time-line.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/english/u-1/traces-of-the-past-past-time-narrative.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/english/u-1/what-are-you-like-language-map.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/english/u-1/would-you-believe-it-modal-meaning-scale.webp"
+  ]
+}

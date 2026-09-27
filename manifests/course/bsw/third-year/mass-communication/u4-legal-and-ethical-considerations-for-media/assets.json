@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:23.836Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/third-year/mass-communication/u4-legal-and-ethical-considerations-for-media",
+  "totalAssets": 4,
+  "assets": {
+    "journalism-ethics-decision-flow.webp": {
+      "key": "course/bsw/third-year/mass-communication/u4-legal-and-ethical-considerations-for-media/journalism-ethics-decision-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/mass-communication/u4-legal-and-ethical-considerations-for-media/journalism-ethics-decision-flow.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 69338,
+      "contentHashed": false
+    },
+    "journalist-code-of-conduct-framework.webp": {
+      "key": "course/bsw/third-year/mass-communication/u4-legal-and-ethical-considerations-for-media/journalist-code-of-conduct-framework.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/mass-communication/u4-legal-and-ethical-considerations-for-media/journalist-code-of-conduct-framework.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 87112,
+      "contentHashed": false
+    },
+    "media-law-ethics-and-code-relationship.webp": {
+      "key": "course/bsw/third-year/mass-communication/u4-legal-and-ethical-considerations-for-media/media-law-ethics-and-code-relationship.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/mass-communication/u4-legal-and-ethical-considerations-for-media/media-law-ethics-and-code-relationship.webp",
+      "contentType": "image/webp",
+      "width": 1374,
+      "height": 1145,
+      "bytes": 164804,
+      "contentHashed": false
+    },
+    "press-council-nepal-and-code-implementation.webp": {
+      "key": "course/bsw/third-year/mass-communication/u4-legal-and-ethical-considerations-for-media/press-council-nepal-and-code-implementation.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/mass-communication/u4-legal-and-ethical-considerations-for-media/press-council-nepal-and-code-implementation.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 108488,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/third-year/mass-communication/u4-legal-and-ethical-considerations-for-media/journalism-ethics-decision-flow.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/mass-communication/u4-legal-and-ethical-considerations-for-media/journalist-code-of-conduct-framework.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/mass-communication/u4-legal-and-ethical-considerations-for-media/media-law-ethics-and-code-relationship.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/mass-communication/u4-legal-and-ethical-considerations-for-media/press-council-nepal-and-code-implementation.webp"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:23.839Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/third-year/mass-communication/u5-practical-work-and-evaluation",
+  "totalAssets": 4,
+  "assets": {
+    "final-evaluation-structure.webp": {
+      "key": "course/bsw/third-year/mass-communication/u5-practical-work-and-evaluation/final-evaluation-structure.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/mass-communication/u5-practical-work-and-evaluation/final-evaluation-structure.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 82436,
+      "contentHashed": false
+    },
+    "model-newspaper-group-production.webp": {
+      "key": "course/bsw/third-year/mass-communication/u5-practical-work-and-evaluation/model-newspaper-group-production.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/mass-communication/u5-practical-work-and-evaluation/model-newspaper-group-production.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 154890,
+      "contentHashed": false
+    },
+    "news-and-editing-task-report-workflow.webp": {
+      "key": "course/bsw/third-year/mass-communication/u5-practical-work-and-evaluation/news-and-editing-task-report-workflow.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/mass-communication/u5-practical-work-and-evaluation/news-and-editing-task-report-workflow.webp",
+      "contentType": "image/webp",
+      "width": 2089,
+      "height": 753,
+      "bytes": 98748,
+      "contentHashed": false
+    },
+    "practical-work-timeline.webp": {
+      "key": "course/bsw/third-year/mass-communication/u5-practical-work-and-evaluation/practical-work-timeline.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/mass-communication/u5-practical-work-and-evaluation/practical-work-timeline.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 103612,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/third-year/mass-communication/u5-practical-work-and-evaluation/final-evaluation-structure.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/mass-communication/u5-practical-work-and-evaluation/model-newspaper-group-production.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/mass-communication/u5-practical-work-and-evaluation/news-and-editing-task-report-workflow.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/mass-communication/u5-practical-work-and-evaluation/practical-work-timeline.webp"
+  ]
+}

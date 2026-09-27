@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:22.050Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/first-semester/foundation-of-bm/u8-communication-and-control",
+  "totalAssets": 6,
+  "assets": {
+    "01-business-communication-process.webp": {
+      "key": "course/bba/first-semester/foundation-of-bm/u8-communication-and-control/01-business-communication-process.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u8-communication-and-control/01-business-communication-process.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 54436,
+      "contentHashed": false
+    },
+    "02-communication-barriers-improvement.webp": {
+      "key": "course/bba/first-semester/foundation-of-bm/u8-communication-and-control/02-communication-barriers-improvement.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u8-communication-and-control/02-communication-barriers-improvement.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 52742,
+      "contentHashed": false
+    },
+    "03-control-process-cycle.webp": {
+      "key": "course/bba/first-semester/foundation-of-bm/u8-communication-and-control/03-control-process-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u8-communication-and-control/03-control-process-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 65368,
+      "contentHashed": false
+    },
+    "04-types-of-control.webp": {
+      "key": "course/bba/first-semester/foundation-of-bm/u8-communication-and-control/04-types-of-control.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u8-communication-and-control/04-types-of-control.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 58666,
+      "contentHashed": false
+    },
+    "05-effective-control-system-essentials.webp": {
+      "key": "course/bba/first-semester/foundation-of-bm/u8-communication-and-control/05-effective-control-system-essentials.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u8-communication-and-control/05-effective-control-system-essentials.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 85420,
+      "contentHashed": false
+    },
+    "06-control-tools-techniques.webp": {
+      "key": "course/bba/first-semester/foundation-of-bm/u8-communication-and-control/06-control-tools-techniques.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u8-communication-and-control/06-control-tools-techniques.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 53600,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u8-communication-and-control/01-business-communication-process.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u8-communication-and-control/02-communication-barriers-improvement.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u8-communication-and-control/03-control-process-cycle.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u8-communication-and-control/04-types-of-control.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u8-communication-and-control/05-effective-control-system-essentials.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u8-communication-and-control/06-control-tools-techniques.webp"
+  ]
+}

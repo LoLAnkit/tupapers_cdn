@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-25T16:46:32.778Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/first-semester/english/u1-health-matters",
+  "totalAssets": 1,
+  "assets": {
+    "health-matters-body-and-treatment-flow.webp": {
+      "key": "course/bba/first-semester/english/u1-health-matters/health-matters-body-and-treatment-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/english/u1-health-matters/health-matters-body-and-treatment-flow.webp",
+      "contentType": "image/webp",
+      "width": 2076,
+      "height": 758,
+      "bytes": 117894,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/first-semester/english/u1-health-matters/health-matters-body-and-treatment-flow.webp"
+  ]
+}

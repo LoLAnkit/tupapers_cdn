@@ -1,5 +1,12 @@
 # tupapers-assets
 
+
+> **Quick Delete Subject Command:**
+> ```bash
+> npm run remove course/<program>/<semester>/<subject>
+> ```
+> Deletes the subject from **Cloudflare R2**, **source/**, **dist/**, **manifests/**, and **build cache** automatically in one step.
+
 Asset pipeline for the **TUpapers** notes CDN. Build uses local Sharp processing to minify raster images to WebP and apply a small bottom-right watermark, then uploads them to Cloudflare **R2** and writes folder-structured `assets.json` manifests.
 
 Full design rationale lives in [`r2.md`](./r2.md) and [`docs/cdn.md`](./docs/cdn.md).

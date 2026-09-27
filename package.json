@@ -16,6 +16,7 @@
     "migrate:hashed-source": "tsx scripts/migrate-hashed-source.ts",
     "prune": "tsx src/index.ts prune",
     "scaffold:bca": "tsx scripts/scaffold-bca.ts",
+    "remove": "tsx scripts/remove-subject.ts",
     "typecheck": "tsc --noEmit",
     "lint": "eslint src"
   },

@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:22.100Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/first-semester/microeconomics/u3-analysis-of-consumers-behavior",
+  "totalAssets": 6,
+  "assets": {
+    "budget-line-changes.webp": {
+      "key": "course/bba/first-semester/microeconomics/u3-analysis-of-consumers-behavior/budget-line-changes.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u3-analysis-of-consumers-behavior/budget-line-changes.webp",
+      "contentType": "image/webp",
+      "width": 1374,
+      "height": 1145,
+      "bytes": 86576,
+      "contentHashed": false
+    },
+    "cardinal-utility-equilibrium.webp": {
+      "key": "course/bba/first-semester/microeconomics/u3-analysis-of-consumers-behavior/cardinal-utility-equilibrium.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u3-analysis-of-consumers-behavior/cardinal-utility-equilibrium.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 90022,
+      "contentHashed": false
+    },
+    "consumer-equilibrium.webp": {
+      "key": "course/bba/first-semester/microeconomics/u3-analysis-of-consumers-behavior/consumer-equilibrium.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u3-analysis-of-consumers-behavior/consumer-equilibrium.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 54292,
+      "contentHashed": false
+    },
+    "indifference-curve-properties.webp": {
+      "key": "course/bba/first-semester/microeconomics/u3-analysis-of-consumers-behavior/indifference-curve-properties.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u3-analysis-of-consumers-behavior/indifference-curve-properties.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 53262,
+      "contentHashed": false
+    },
+    "price-consumption-curve-to-demand-curve.webp": {
+      "key": "course/bba/first-semester/microeconomics/u3-analysis-of-consumers-behavior/price-consumption-curve-to-demand-curve.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u3-analysis-of-consumers-behavior/price-consumption-curve-to-demand-curve.webp",
+      "contentType": "image/webp",
+      "width": 1145,
+      "height": 1374,
+      "bytes": 89518,
+      "contentHashed": false
+    },
+    "total-utility-and-marginal-utility.webp": {
+      "key": "course/bba/first-semester/microeconomics/u3-analysis-of-consumers-behavior/total-utility-and-marginal-utility.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u3-analysis-of-consumers-behavior/total-utility-and-marginal-utility.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 47336,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u3-analysis-of-consumers-behavior/budget-line-changes.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u3-analysis-of-consumers-behavior/cardinal-utility-equilibrium.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u3-analysis-of-consumers-behavior/consumer-equilibrium.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u3-analysis-of-consumers-behavior/indifference-curve-properties.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u3-analysis-of-consumers-behavior/price-consumption-curve-to-demand-curve.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u3-analysis-of-consumers-behavior/total-utility-and-marginal-utility.webp"
+  ]
+}

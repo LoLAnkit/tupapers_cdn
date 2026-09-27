@@ -1,51 +1,81 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-23T15:12:21.989Z",
+  "generatedAt": "2026-09-27T06:14:22.959Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/first-semester/digital-logics/u2-boolean-algebra-and-its-simplification",
-  "totalAssets": 4,
+  "totalAssets": 7,
   "assets": {
+    "basic-and-derived-logic-gates.webp": {
+      "key": "course/bca/first-semester/digital-logics/u2-boolean-algebra-and-its-simplification/basic-and-derived-logic-gates.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u2-boolean-algebra-and-its-simplification/basic-and-derived-logic-gates.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 80806,
+      "contentHashed": false
+    },
+    "boolean-expression-to-logic-circuit.webp": {
+      "key": "course/bca/first-semester/digital-logics/u2-boolean-algebra-and-its-simplification/boolean-expression-to-logic-circuit.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u2-boolean-algebra-and-its-simplification/boolean-expression-to-logic-circuit.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 31274,
+      "contentHashed": false
+    },
+    "canonical-sop-pos-structure.webp": {
+      "key": "course/bca/first-semester/digital-logics/u2-boolean-algebra-and-its-simplification/canonical-sop-pos-structure.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u2-boolean-algebra-and-its-simplification/canonical-sop-pos-structure.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 110790,
+      "contentHashed": false
+    },
+    "de-morgans-theorems-visually.webp": {
+      "key": "course/bca/first-semester/digital-logics/u2-boolean-algebra-and-its-simplification/de-morgans-theorems-visually.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u2-boolean-algebra-and-its-simplification/de-morgans-theorems-visually.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 50168,
+      "contentHashed": false
+    },
     "karnaugh-map-grouping.webp": {
       "key": "course/bca/first-semester/digital-logics/u2-boolean-algebra-and-its-simplification/karnaugh-map-grouping.webp",
       "url": "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u2-boolean-algebra-and-its-simplification/karnaugh-map-grouping.webp",
       "contentType": "image/webp",
-      "width": 1254,
-      "height": 1254,
-      "bytes": 80780,
+      "width": 1536,
+      "height": 1024,
+      "bytes": 61798,
       "contentHashed": false
     },
-    "logic-gate-symbol-family.webp": {
-      "key": "course/bca/first-semester/digital-logics/u2-boolean-algebra-and-its-simplification/logic-gate-symbol-family.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u2-boolean-algebra-and-its-simplification/logic-gate-symbol-family.webp",
+    "nand-nor-universal-gates.webp": {
+      "key": "course/bca/first-semester/digital-logics/u2-boolean-algebra-and-its-simplification/nand-nor-universal-gates.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u2-boolean-algebra-and-its-simplification/nand-nor-universal-gates.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 53048,
+      "bytes": 84526,
       "contentHashed": false
     },
     "quine-mccluskey-tabulation-flow.webp": {
       "key": "course/bca/first-semester/digital-logics/u2-boolean-algebra-and-its-simplification/quine-mccluskey-tabulation-flow.webp",
       "url": "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u2-boolean-algebra-and-its-simplification/quine-mccluskey-tabulation-flow.webp",
       "contentType": "image/webp",
-      "width": 1024,
-      "height": 1536,
-      "bytes": 77178,
-      "contentHashed": false
-    },
-    "universal-gate-realizations.webp": {
-      "key": "course/bca/first-semester/digital-logics/u2-boolean-algebra-and-its-simplification/universal-gate-realizations.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u2-boolean-algebra-and-its-simplification/universal-gate-realizations.webp",
-      "contentType": "image/webp",
-      "width": 1536,
-      "height": 1024,
-      "bytes": 97866,
+      "width": 1222,
+      "height": 1287,
+      "bytes": 128886,
       "contentHashed": false
     }
   },
   "urls": [
+    "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u2-boolean-algebra-and-its-simplification/basic-and-derived-logic-gates.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u2-boolean-algebra-and-its-simplification/boolean-expression-to-logic-circuit.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u2-boolean-algebra-and-its-simplification/canonical-sop-pos-structure.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u2-boolean-algebra-and-its-simplification/de-morgans-theorems-visually.webp",
     "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u2-boolean-algebra-and-its-simplification/karnaugh-map-grouping.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u2-boolean-algebra-and-its-simplification/logic-gate-symbol-family.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u2-boolean-algebra-and-its-simplification/quine-mccluskey-tabulation-flow.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u2-boolean-algebra-and-its-simplification/universal-gate-realizations.webp"
+    "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u2-boolean-algebra-and-its-simplification/nand-nor-universal-gates.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u2-boolean-algebra-and-its-simplification/quine-mccluskey-tabulation-flow.webp"
   ]
 }

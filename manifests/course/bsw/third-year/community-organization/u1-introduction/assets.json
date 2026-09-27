@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:23.786Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/third-year/community-organization/u1-introduction",
+  "totalAssets": 6,
+  "assets": {
+    "community-characteristics-map.webp": {
+      "key": "course/bsw/third-year/community-organization/u1-introduction/community-characteristics-map.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/community-organization/u1-introduction/community-characteristics-map.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 106724,
+      "contentHashed": false
+    },
+    "community-development-characteristics-and-objectives.webp": {
+      "key": "course/bsw/third-year/community-organization/u1-introduction/community-development-characteristics-and-objectives.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/community-organization/u1-introduction/community-development-characteristics-and-objectives.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 128018,
+      "contentHashed": false
+    },
+    "community-organization-core-framework.webp": {
+      "key": "course/bsw/third-year/community-organization/u1-introduction/community-organization-core-framework.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/community-organization/u1-introduction/community-organization-core-framework.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 105680,
+      "contentHashed": false
+    },
+    "community-organization-for-community-development.webp": {
+      "key": "course/bsw/third-year/community-organization/u1-introduction/community-organization-for-community-development.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/community-organization/u1-introduction/community-organization-for-community-development.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 81558,
+      "contentHashed": false
+    },
+    "community-organization-scope-and-importance.webp": {
+      "key": "course/bsw/third-year/community-organization/u1-introduction/community-organization-scope-and-importance.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/community-organization/u1-introduction/community-organization-scope-and-importance.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 77662,
+      "contentHashed": false
+    },
+    "community-types-and-components-map.webp": {
+      "key": "course/bsw/third-year/community-organization/u1-introduction/community-types-and-components-map.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/community-organization/u1-introduction/community-types-and-components-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 102824,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/third-year/community-organization/u1-introduction/community-characteristics-map.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/community-organization/u1-introduction/community-development-characteristics-and-objectives.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/community-organization/u1-introduction/community-organization-core-framework.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/community-organization/u1-introduction/community-organization-for-community-development.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/community-organization/u1-introduction/community-organization-scope-and-importance.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/community-organization/u1-introduction/community-types-and-components-map.webp"
+  ]
+}

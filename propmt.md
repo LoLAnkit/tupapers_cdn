@@ -1,10 +1,10 @@
 **# Figure generation workflow**
 
-Generate textbook-style educational images for the subject  **business-communication**.
+Generate textbook-style educational images generation for below source folder.
 
 Source subject folder:
 
-`source/course/bbs/second-year/business-communication`
+`source/course/bba/second-semester/macroeconomics`
 
 I will paste one or more units below. For each unit:
 
@@ -48,18 +48,25 @@ Example:
 
 **# Generate images only for the following units and figures.**
 
-
-Unit VII: Visual Communication
-1. Pictures in Business Communication — A photo/illustration annotated for subject focus, caption, context, relevance and ethical use. Style: /handwrittenimages annotated picture layout, white background
-2. Charts for Business Communication — Bar, line, pie and process chart mini-examples matched to comparison, trend, composition and sequence. Style: /handwrittenimages chart-selection guide, white background
-3. Graphics for Business Communication — Icons, diagrams, maps, schematics and infographics shown with labels for clarity, hierarchy and message support. Style: /handwrittenimages visual-communication comparison, white background
-Unit VIII: Employment Communication
-1. Job Search Planning — Self-assessment → target roles → vacancy research → networking → tailored application → follow-up → interview preparation. Style: /handwrittenimages job-search process flow, white background
-2. Resume and Cover Letter Format — One-page resume structure beside a formal cover-letter structure, showing the proper sections and matching keywords. Style: /handwrittenimages official-document comparison, white background
-3. Job Interview Process — Preparation → arrival → introduction → common question types → evidence-based answers → questions to employer → closing → follow-up. Style: /handwrittenimages interview lifecycle, white background
-Unit IX: Culture and Society
-1. New Nepal — Old Nepal problems on one side and the poet’s vision of a renewed Nepal on the other, connected by reform and awakening. Style: /handwrittenimages contrast diagram, white background
-2. Looking for a Rain God — Drought → desperation → traditional belief → sacrifice → legal/social consequence shown as a cause-and-effect chain. Style: /handwrittenimages causal flow, white background
-3. Dover Beach — Sea, shore, ebbing ‘Sea of Faith’ and the poem’s movement from beauty to uncertainty mapped as a symbolic sequence. Style: /handwrittenimages symbolic landscape, white background
-4. Shooting an Elephant — Narrator, colonial crowd, elephant and imperial pressure arranged to show the conflict between personal judgment and public expectation. Style: /handwrittenimages conflict diagram, white background
- 
+Unit 4: Theory of Income and Employment
+1.[Classical Labour Market Equilibrium] — Labour-demand and labour-supply graph showing the equilibrium real wage and full-employment level, with axes and equilibrium point clearly labeled. Style: Handwritten image, white background
+2.[Two-Sector Keynesian Equilibrium] — 45-degree diagram showing aggregate expenditure C+I, the income line, and the equilibrium income where planned expenditure equals output. Style: Handwritten image, white background
+3.[Three-Sector Income Determination] — Income-expenditure diagram showing consumption, investment, government spending, taxes, and the equilibrium point in a three-sector economy. Style: Handwritten image, white background
+4.[Four-Sector Income Determination] — Leakage-injection flow showing saving, taxes, imports versus investment, government spending, and exports, with the equilibrium condition labeled. Style: Handwritten image, white background
+5.[Multiplier Process] — Sequential flow showing an initial autonomous expenditure increase creating repeated rounds of income, consumption, and further income until the total multiplier effect is reached. Style: Handwritten image, white background
+6.[Paradox of Thrift] — Keynesian cross illustration showing how an attempted rise in saving lowers aggregate expenditure and equilibrium income, potentially leaving realized saving unchanged. Style: Handwritten image, white background
+7.[Derivation of the IS Curve] — Two-panel visual linking goods-market equilibrium at different interest rates to corresponding income levels and tracing the downward-sloping IS curve. Style: Handwritten image, white background
+8.[Derivation of the LM Curve] — Two-panel visual linking money-market equilibrium at different income levels to corresponding interest rates and tracing the upward-sloping LM curve. Style: Handwritten image, white background
+9.[IS-LM Equilibrium] — Graph showing IS and LM curves intersecting at the equilibrium level of income and rate of interest, with both axes and equilibrium coordinates labeled. Style: Handwritten image, white background
+10.[Monetary and Fiscal Policy in IS-LM] — Shift diagram showing expansionary fiscal policy shifting IS and expansionary monetary policy shifting LM, with resulting changes in equilibrium income and interest rate. Style: Handwritten image, white background
+Unit 5: Macroeconomic Issues and Policies
+1.[Demand-Pull Inflation] — AD-AS graph showing aggregate demand shifting right, raising the price level and output in the short run. Style: Handwritten image, white background
+2.[Cost-Push Inflation] — AD-AS graph showing short-run aggregate supply shifting left, raising the price level while reducing output and employment. Style: Handwritten image, white background
+3.[Business Cycle] — Time-series wave around a long-run trend line labeled expansion, prosperity/peak, recession, depression/trough, and recovery. Style: Handwritten image, white background
+4.[Balance of Payments Structure] — Tree diagram dividing the balance of payments into current account, capital/financial account, and reserve-related items with key components labeled. Style: Handwritten image, white background
+5.[Exchange Rate Determination] — Foreign-exchange demand-and-supply graph showing equilibrium exchange rate and quantity of foreign currency, plus a shift illustrating appreciation or depreciation. Style: Handwritten image, white background
+6.[Financial Inclusion Ecosystem] — Relationship map linking access, affordability, financial literacy, digital infrastructure, institutions, regulation, and usage to financial inclusion. Style: Handwritten image, white background
+7.[Fiscal Federalism] — Flow diagram showing federal, provincial, and local governments connected through revenue assignment, expenditure responsibility, grants, and intergovernmental transfers. Style: Handwritten image, white background
+8.[Public-Private Partnership] — Project-relationship diagram showing government, private partner, financiers, and users with flows of capital, service delivery, risk sharing, and payments. Style: Handwritten image, white background
+9.[Monetary Policy Transmission] — Process flow from central-bank instruments to money supply and interest rates, then investment and aggregate demand, and finally output, employment, and price stability. Style: Handwritten image, white background
+10.[Fiscal Policy Transmission] — Process flow from changes in government spending and taxation to disposable income and aggregate demand, then output, employment, and inflation. Style: Handwritten image, white background

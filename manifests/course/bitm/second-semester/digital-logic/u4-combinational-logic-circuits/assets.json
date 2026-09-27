@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:23.444Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bitm/second-semester/digital-logic/u4-combinational-logic-circuits",
+  "totalAssets": 7,
+  "assets": {
+    "adder-and-subtractor-family.webp": {
+      "key": "course/bitm/second-semester/digital-logic/u4-combinational-logic-circuits/adder-and-subtractor-family.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u4-combinational-logic-circuits/adder-and-subtractor-family.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 81604,
+      "contentHashed": false
+    },
+    "binary-adder-structure.webp": {
+      "key": "course/bitm/second-semester/digital-logic/u4-combinational-logic-circuits/binary-adder-structure.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u4-combinational-logic-circuits/binary-adder-structure.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 49114,
+      "contentHashed": false
+    },
+    "demultiplexer-routing.webp": {
+      "key": "course/bitm/second-semester/digital-logic/u4-combinational-logic-circuits/demultiplexer-routing.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u4-combinational-logic-circuits/demultiplexer-routing.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 74958,
+      "contentHashed": false
+    },
+    "encoder-and-decoder.webp": {
+      "key": "course/bitm/second-semester/digital-logic/u4-combinational-logic-circuits/encoder-and-decoder.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u4-combinational-logic-circuits/encoder-and-decoder.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 59390,
+      "contentHashed": false
+    },
+    "multiplexer-function-implementation.webp": {
+      "key": "course/bitm/second-semester/digital-logic/u4-combinational-logic-circuits/multiplexer-function-implementation.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u4-combinational-logic-circuits/multiplexer-function-implementation.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 71654,
+      "contentHashed": false
+    },
+    "pla-and-pal-architecture.webp": {
+      "key": "course/bitm/second-semester/digital-logic/u4-combinational-logic-circuits/pla-and-pal-architecture.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u4-combinational-logic-circuits/pla-and-pal-architecture.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 74896,
+      "contentHashed": false
+    },
+    "seven-segment-decoder.webp": {
+      "key": "course/bitm/second-semester/digital-logic/u4-combinational-logic-circuits/seven-segment-decoder.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u4-combinational-logic-circuits/seven-segment-decoder.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 79462,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u4-combinational-logic-circuits/adder-and-subtractor-family.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u4-combinational-logic-circuits/binary-adder-structure.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u4-combinational-logic-circuits/demultiplexer-routing.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u4-combinational-logic-circuits/encoder-and-decoder.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u4-combinational-logic-circuits/multiplexer-function-implementation.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u4-combinational-logic-circuits/pla-and-pal-architecture.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u4-combinational-logic-circuits/seven-segment-decoder.webp"
+  ]
+}

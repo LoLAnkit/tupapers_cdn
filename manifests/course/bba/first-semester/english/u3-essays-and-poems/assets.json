@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:22.013Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/first-semester/english/u3-essays-and-poems",
+  "totalAssets": 6,
+  "assets": {
+    "here-i-love-you-emotional-landscape.webp": {
+      "key": "course/bba/first-semester/english/u3-essays-and-poems/here-i-love-you-emotional-landscape.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/english/u3-essays-and-poems/here-i-love-you-emotional-landscape.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 167922,
+      "contentHashed": false
+    },
+    "parrot-in-the-cage-symbolism.webp": {
+      "key": "course/bba/first-semester/english/u3-essays-and-poems/parrot-in-the-cage-symbolism.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/english/u3-essays-and-poems/parrot-in-the-cage-symbolism.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 181322,
+      "contentHashed": false
+    },
+    "professions-for-women-obstacles-to-independence.webp": {
+      "key": "course/bba/first-semester/english/u3-essays-and-poems/professions-for-women-obstacles-to-independence.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/english/u3-essays-and-poems/professions-for-women-obstacles-to-independence.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 140388,
+      "contentHashed": false
+    },
+    "rights-of-animals-argument-structure.webp": {
+      "key": "course/bba/first-semester/english/u3-essays-and-poems/rights-of-animals-argument-structure.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/english/u3-essays-and-poems/rights-of-animals-argument-structure.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 157628,
+      "contentHashed": false
+    },
+    "shooting-an-elephant-imperialism-trap.webp": {
+      "key": "course/bba/first-semester/english/u3-essays-and-poems/shooting-an-elephant-imperialism-trap.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/english/u3-essays-and-poems/shooting-an-elephant-imperialism-trap.webp",
+      "contentType": "image/webp",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 125904,
+      "contentHashed": false
+    },
+    "the-stronger-power-relationship.webp": {
+      "key": "course/bba/first-semester/english/u3-essays-and-poems/the-stronger-power-relationship.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/english/u3-essays-and-poems/the-stronger-power-relationship.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 191738,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/first-semester/english/u3-essays-and-poems/here-i-love-you-emotional-landscape.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/english/u3-essays-and-poems/parrot-in-the-cage-symbolism.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/english/u3-essays-and-poems/professions-for-women-obstacles-to-independence.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/english/u3-essays-and-poems/rights-of-animals-argument-structure.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/english/u3-essays-and-poems/shooting-an-elephant-imperialism-trap.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/english/u3-essays-and-poems/the-stronger-power-relationship.webp"
+  ]
+}

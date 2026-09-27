@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:22.088Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/first-semester/it-application/u9-computer-security-and-privacy",
+  "totalAssets": 7,
+  "assets": {
+    "computer-sabotage-protection.webp": {
+      "key": "course/bba/first-semester/it-application/u9-computer-security-and-privacy/computer-sabotage-protection.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u9-computer-security-and-privacy/computer-sabotage-protection.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 239268,
+      "contentHashed": false
+    },
+    "data-and-message-security.webp": {
+      "key": "course/bba/first-semester/it-application/u9-computer-security-and-privacy/data-and-message-security.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u9-computer-security-and-privacy/data-and-message-security.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 128566,
+      "contentHashed": false
+    },
+    "encryption-and-decryption.webp": {
+      "key": "course/bba/first-semester/it-application/u9-computer-security-and-privacy/encryption-and-decryption.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u9-computer-security-and-privacy/encryption-and-decryption.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 76096,
+      "contentHashed": false
+    },
+    "hardware-and-software-firewall.webp": {
+      "key": "course/bba/first-semester/it-application/u9-computer-security-and-privacy/hardware-and-software-firewall.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u9-computer-security-and-privacy/hardware-and-software-firewall.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 157416,
+      "contentHashed": false
+    },
+    "malware-and-spyware-path.webp": {
+      "key": "course/bba/first-semester/it-application/u9-computer-security-and-privacy/malware-and-spyware-path.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u9-computer-security-and-privacy/malware-and-spyware-path.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 117502,
+      "contentHashed": false
+    },
+    "network-security-zones.webp": {
+      "key": "course/bba/first-semester/it-application/u9-computer-security-and-privacy/network-security-zones.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u9-computer-security-and-privacy/network-security-zones.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 173110,
+      "contentHashed": false
+    },
+    "unauthorized-access-and-protection.webp": {
+      "key": "course/bba/first-semester/it-application/u9-computer-security-and-privacy/unauthorized-access-and-protection.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u9-computer-security-and-privacy/unauthorized-access-and-protection.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 169602,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u9-computer-security-and-privacy/computer-sabotage-protection.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u9-computer-security-and-privacy/data-and-message-security.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u9-computer-security-and-privacy/encryption-and-decryption.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u9-computer-security-and-privacy/hardware-and-software-firewall.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u9-computer-security-and-privacy/malware-and-spyware-path.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u9-computer-security-and-privacy/network-security-zones.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u9-computer-security-and-privacy/unauthorized-access-and-protection.webp"
+  ]
+}

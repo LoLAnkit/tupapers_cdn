@@ -1,51 +1,71 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-23T15:12:21.959Z",
+  "generatedAt": "2026-09-27T06:14:22.939Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/first-semester/cfa/u3-computer-software",
-  "totalAssets": 4,
+  "totalAssets": 6,
   "assets": {
-    "language-translator-flow.webp": {
-      "key": "course/bca/first-semester/cfa/u3-computer-software/language-translator-flow.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u3-computer-software/language-translator-flow.webp",
+    "language-translation-flow.webp": {
+      "key": "course/bca/first-semester/cfa/u3-computer-software/language-translation-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u3-computer-software/language-translation-flow.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 99824,
+      "bytes": 127214,
       "contentHashed": false
     },
-    "operating-system-position-and-functions.webp": {
-      "key": "course/bca/first-semester/cfa/u3-computer-software/operating-system-position-and-functions.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u3-computer-software/operating-system-position-and-functions.webp",
+    "operating-system-as-resource-manager.webp": {
+      "key": "course/bca/first-semester/cfa/u3-computer-software/operating-system-as-resource-manager.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u3-computer-software/operating-system-as-resource-manager.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 93778,
+      "bytes": 128644,
       "contentHashed": false
     },
-    "software-classification.webp": {
-      "key": "course/bca/first-semester/cfa/u3-computer-software/software-classification.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u3-computer-software/software-classification.webp",
+    "operating-system-types-map.webp": {
+      "key": "course/bca/first-semester/cfa/u3-computer-software/operating-system-types-map.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u3-computer-software/operating-system-types-map.webp",
       "contentType": "image/webp",
-      "width": 1774,
-      "height": 887,
-      "bytes": 56850,
+      "width": 1536,
+      "height": 1024,
+      "bytes": 177648,
       "contentHashed": false
     },
-    "virus-and-antivirus-response.webp": {
-      "key": "course/bca/first-semester/cfa/u3-computer-software/virus-and-antivirus-response.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u3-computer-software/virus-and-antivirus-response.webp",
+    "software-classification-tree.webp": {
+      "key": "course/bca/first-semester/cfa/u3-computer-software/software-classification-tree.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u3-computer-software/software-classification-tree.webp",
       "contentType": "image/webp",
-      "width": 1925,
-      "height": 817,
-      "bytes": 72474,
+      "width": 1536,
+      "height": 1024,
+      "bytes": 60830,
+      "contentHashed": false
+    },
+    "utility-software-roles.webp": {
+      "key": "course/bca/first-semester/cfa/u3-computer-software/utility-software-roles.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u3-computer-software/utility-software-roles.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 137540,
+      "contentHashed": false
+    },
+    "virus-infection-and-prevention-cycle.webp": {
+      "key": "course/bca/first-semester/cfa/u3-computer-software/virus-infection-and-prevention-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u3-computer-software/virus-infection-and-prevention-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 147260,
       "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u3-computer-software/language-translator-flow.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u3-computer-software/operating-system-position-and-functions.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u3-computer-software/software-classification.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u3-computer-software/virus-and-antivirus-response.webp"
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u3-computer-software/language-translation-flow.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u3-computer-software/operating-system-as-resource-manager.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u3-computer-software/operating-system-types-map.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u3-computer-software/software-classification-tree.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u3-computer-software/utility-software-roles.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u3-computer-software/virus-infection-and-prevention-cycle.webp"
   ]
 }

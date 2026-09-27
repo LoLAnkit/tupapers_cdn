@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:22.021Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/first-semester/foundation-of-bm/u1-introduction",
+  "totalAssets": 7,
+  "assets": {
+    "business-environment-layers.webp": {
+      "key": "course/bba/first-semester/foundation-of-bm/u1-introduction/business-environment-layers.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u1-introduction/business-environment-layers.webp",
+      "contentType": "image/webp",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 84474,
+      "contentHashed": false
+    },
+    "changing-managerial-job-and-challenges.webp": {
+      "key": "course/bba/first-semester/foundation-of-bm/u1-introduction/changing-managerial-job-and-challenges.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u1-introduction/changing-managerial-job-and-challenges.webp",
+      "contentType": "image/webp",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 81334,
+      "contentHashed": false
+    },
+    "management-and-business-management-concept-map.webp": {
+      "key": "course/bba/first-semester/foundation-of-bm/u1-introduction/management-and-business-management-concept-map.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u1-introduction/management-and-business-management-concept-map.webp",
+      "contentType": "image/webp",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 139600,
+      "contentHashed": false
+    },
+    "management-process-cycle.webp": {
+      "key": "course/bba/first-semester/foundation-of-bm/u1-introduction/management-process-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u1-introduction/management-process-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 55914,
+      "contentHashed": false
+    },
+    "managerial-roles-and-skills-relationship.webp": {
+      "key": "course/bba/first-semester/foundation-of-bm/u1-introduction/managerial-roles-and-skills-relationship.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u1-introduction/managerial-roles-and-skills-relationship.webp",
+      "contentType": "image/webp",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 59510,
+      "contentHashed": false
+    },
+    "porters-five-forces-industry-view.webp": {
+      "key": "course/bba/first-semester/foundation-of-bm/u1-introduction/porters-five-forces-industry-view.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u1-introduction/porters-five-forces-industry-view.webp",
+      "contentType": "image/webp",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 62932,
+      "contentHashed": false
+    },
+    "types-of-managers.webp": {
+      "key": "course/bba/first-semester/foundation-of-bm/u1-introduction/types-of-managers.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u1-introduction/types-of-managers.webp",
+      "contentType": "image/webp",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 57164,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u1-introduction/business-environment-layers.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u1-introduction/changing-managerial-job-and-challenges.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u1-introduction/management-and-business-management-concept-map.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u1-introduction/management-process-cycle.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u1-introduction/managerial-roles-and-skills-relationship.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u1-introduction/porters-five-forces-industry-view.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u1-introduction/types-of-managers.webp"
+  ]
+}

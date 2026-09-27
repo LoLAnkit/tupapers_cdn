@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:22.197Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/second-semester/dbms/u8-advanced-topics",
+  "totalAssets": 7,
+  "assets": {
+    "big-data-characteristics.webp": {
+      "key": "course/bba/second-semester/dbms/u8-advanced-topics/big-data-characteristics.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u8-advanced-topics/big-data-characteristics.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 154720,
+      "contentHashed": false
+    },
+    "data-mining-process.webp": {
+      "key": "course/bba/second-semester/dbms/u8-advanced-topics/data-mining-process.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u8-advanced-topics/data-mining-process.webp",
+      "contentType": "image/webp",
+      "width": 1916,
+      "height": 821,
+      "bytes": 125936,
+      "contentHashed": false
+    },
+    "data-warehouse-architecture.webp": {
+      "key": "course/bba/second-semester/dbms/u8-advanced-topics/data-warehouse-architecture.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u8-advanced-topics/data-warehouse-architecture.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 90510,
+      "contentHashed": false
+    },
+    "database-performance-tuning-path.webp": {
+      "key": "course/bba/second-semester/dbms/u8-advanced-topics/database-performance-tuning-path.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u8-advanced-topics/database-performance-tuning-path.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 87346,
+      "contentHashed": false
+    },
+    "database-security-layers.webp": {
+      "key": "course/bba/second-semester/dbms/u8-advanced-topics/database-security-layers.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u8-advanced-topics/database-security-layers.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 123774,
+      "contentHashed": false
+    },
+    "nosql-database-models.webp": {
+      "key": "course/bba/second-semester/dbms/u8-advanced-topics/nosql-database-models.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u8-advanced-topics/nosql-database-models.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 155704,
+      "contentHashed": false
+    },
+    "parallel-and-distributed-databases.webp": {
+      "key": "course/bba/second-semester/dbms/u8-advanced-topics/parallel-and-distributed-databases.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u8-advanced-topics/parallel-and-distributed-databases.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 191972,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u8-advanced-topics/big-data-characteristics.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u8-advanced-topics/data-mining-process.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u8-advanced-topics/data-warehouse-architecture.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u8-advanced-topics/database-performance-tuning-path.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u8-advanced-topics/database-security-layers.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u8-advanced-topics/nosql-database-models.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u8-advanced-topics/parallel-and-distributed-databases.webp"
+  ]
+}

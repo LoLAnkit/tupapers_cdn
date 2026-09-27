@@ -1,53 +1,62 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-23T15:12:21.993Z",
+  "generatedAt": "2026-09-27T06:14:22.972Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication",
-  "totalAssets": 6,
+  "totalAssets": 7,
   "assets": {
     "barriers-to-effective-communication.webp": {
       "key": "course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/barriers-to-effective-communication.webp",
       "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/barriers-to-effective-communication.webp",
       "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 106254,
+      "contentHashed": false
+    },
+    "communication-process-flow.webp": {
+      "key": "course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/communication-process-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/communication-process-flow.webp",
+      "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 111102,
+      "bytes": 55298,
       "contentHashed": false
     },
-    "communication-process.webp": {
-      "key": "course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/communication-process.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/communication-process.webp",
+    "fundamentals-of-language.webp": {
+      "key": "course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/fundamentals-of-language.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/fundamentals-of-language.webp",
+      "contentType": "image/webp",
+      "width": 1145,
+      "height": 1374,
+      "bytes": 126310,
+      "contentHashed": false
+    },
+    "history-of-professional-communication-timeline.webp": {
+      "key": "course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/history-of-professional-communication-timeline.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/history-of-professional-communication-timeline.webp",
+      "contentType": "image/webp",
+      "width": 2144,
+      "height": 733,
+      "bytes": 136362,
+      "contentHashed": false
+    },
+    "professional-communication-principles.webp": {
+      "key": "course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/professional-communication-principles.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/professional-communication-principles.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 71522,
+      "bytes": 92550,
       "contentHashed": false
     },
-    "language-fundamentals-map.webp": {
-      "key": "course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/language-fundamentals-map.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/language-fundamentals-map.webp",
+    "proxemics-in-the-workplace.webp": {
+      "key": "course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/proxemics-in-the-workplace.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/proxemics-in-the-workplace.webp",
       "contentType": "image/webp",
-      "width": 1024,
-      "height": 1536,
-      "bytes": 138180,
-      "contentHashed": false
-    },
-    "nonverbal-communication-cues.webp": {
-      "key": "course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/nonverbal-communication-cues.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/nonverbal-communication-cues.webp",
-      "contentType": "image/webp",
-      "width": 1536,
-      "height": 1024,
-      "bytes": 152902,
-      "contentHashed": false
-    },
-    "professional-communication-principles-in-action.webp": {
-      "key": "course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/professional-communication-principles-in-action.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/professional-communication-principles-in-action.webp",
-      "contentType": "image/webp",
-      "width": 1536,
-      "height": 1024,
-      "bytes": 409914,
+      "width": 1312,
+      "height": 1199,
+      "bytes": 138060,
       "contentHashed": false
     },
     "tense-timeline.webp": {
@@ -56,16 +65,17 @@
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 115990,
+      "bytes": 114600,
       "contentHashed": false
     }
   },
   "urls": [
     "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/barriers-to-effective-communication.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/communication-process.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/language-fundamentals-map.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/nonverbal-communication-cues.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/professional-communication-principles-in-action.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/communication-process-flow.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/fundamentals-of-language.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/history-of-professional-communication-timeline.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/professional-communication-principles.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/proxemics-in-the-workplace.webp",
     "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u1-foundation-of-professional-communication/tense-timeline.webp"
   ]
 }

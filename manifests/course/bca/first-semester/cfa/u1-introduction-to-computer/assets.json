@@ -1,61 +1,81 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-23T15:12:21.949Z",
+  "generatedAt": "2026-09-27T06:14:22.931Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/first-semester/cfa/u1-introduction-to-computer",
-  "totalAssets": 5,
+  "totalAssets": 7,
   "assets": {
-    "anatomy-of-computer.webp": {
-      "key": "course/bca/first-semester/cfa/u1-introduction-to-computer/anatomy-of-computer.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u1-introduction-to-computer/anatomy-of-computer.webp",
-      "contentType": "image/webp",
-      "width": 1774,
-      "height": 887,
-      "bytes": 67354,
-      "contentHashed": false
-    },
-    "applications-of-computer.webp": {
-      "key": "course/bca/first-semester/cfa/u1-introduction-to-computer/applications-of-computer.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u1-introduction-to-computer/applications-of-computer.webp",
+    "application-areas-of-computers.webp": {
+      "key": "course/bca/first-semester/cfa/u1-introduction-to-computer/application-areas-of-computers.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u1-introduction-to-computer/application-areas-of-computers.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 71884,
+      "bytes": 116058,
       "contentHashed": false
     },
-    "computer-characteristics-overview.webp": {
-      "key": "course/bca/first-semester/cfa/u1-introduction-to-computer/computer-characteristics-overview.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u1-introduction-to-computer/computer-characteristics-overview.webp",
+    "computer-characteristics-map.webp": {
+      "key": "course/bca/first-semester/cfa/u1-introduction-to-computer/computer-characteristics-map.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u1-introduction-to-computer/computer-characteristics-map.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 103078,
+      "bytes": 133752,
       "contentHashed": false
     },
     "computer-generations-timeline.webp": {
       "key": "course/bca/first-semester/cfa/u1-introduction-to-computer/computer-generations-timeline.webp",
       "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u1-introduction-to-computer/computer-generations-timeline.webp",
       "contentType": "image/webp",
-      "width": 2056,
-      "height": 765,
-      "bytes": 105280,
+      "width": 2079,
+      "height": 756,
+      "bytes": 140986,
       "contentHashed": false
     },
-    "types-of-computers.webp": {
-      "key": "course/bca/first-semester/cfa/u1-introduction-to-computer/types-of-computers.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u1-introduction-to-computer/types-of-computers.webp",
+    "computer-system-anatomy.webp": {
+      "key": "course/bca/first-semester/cfa/u1-introduction-to-computer/computer-system-anatomy.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u1-introduction-to-computer/computer-system-anatomy.webp",
       "contentType": "image/webp",
-      "width": 1916,
-      "height": 821,
-      "bytes": 80316,
+      "width": 1774,
+      "height": 887,
+      "bytes": 71034,
+      "contentHashed": false
+    },
+    "input-process-output-cycle.webp": {
+      "key": "course/bca/first-semester/cfa/u1-introduction-to-computer/input-process-output-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u1-introduction-to-computer/input-process-output-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 116992,
+      "contentHashed": false
+    },
+    "types-of-computers-by-principle.webp": {
+      "key": "course/bca/first-semester/cfa/u1-introduction-to-computer/types-of-computers-by-principle.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u1-introduction-to-computer/types-of-computers-by-principle.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 191156,
+      "contentHashed": false
+    },
+    "types-of-computers-by-size.webp": {
+      "key": "course/bca/first-semester/cfa/u1-introduction-to-computer/types-of-computers-by-size.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u1-introduction-to-computer/types-of-computers-by-size.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 178952,
       "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u1-introduction-to-computer/anatomy-of-computer.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u1-introduction-to-computer/applications-of-computer.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u1-introduction-to-computer/computer-characteristics-overview.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u1-introduction-to-computer/application-areas-of-computers.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u1-introduction-to-computer/computer-characteristics-map.webp",
     "https://cdn.tupapers.com/course/bca/first-semester/cfa/u1-introduction-to-computer/computer-generations-timeline.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u1-introduction-to-computer/types-of-computers.webp"
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u1-introduction-to-computer/computer-system-anatomy.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u1-introduction-to-computer/input-process-output-cycle.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u1-introduction-to-computer/types-of-computers-by-principle.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u1-introduction-to-computer/types-of-computers-by-size.webp"
   ]
 }

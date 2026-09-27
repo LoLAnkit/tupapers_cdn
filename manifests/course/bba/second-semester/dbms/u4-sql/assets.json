@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:22.181Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/second-semester/dbms/u4-sql",
+  "totalAssets": 7,
+  "assets": {
+    "aggregation-and-grouping.webp": {
+      "key": "course/bba/second-semester/dbms/u4-sql/aggregation-and-grouping.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u4-sql/aggregation-and-grouping.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 63182,
+      "contentHashed": false
+    },
+    "basic-and-complex-retrieval-flow.webp": {
+      "key": "course/bba/second-semester/dbms/u4-sql/basic-and-complex-retrieval-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u4-sql/basic-and-complex-retrieval-flow.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 55958,
+      "contentHashed": false
+    },
+    "constraint-placement-in-a-table.webp": {
+      "key": "course/bba/second-semester/dbms/u4-sql/constraint-placement-in-a-table.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u4-sql/constraint-placement-in-a-table.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 70580,
+      "contentHashed": false
+    },
+    "insert-update-delete-effects.webp": {
+      "key": "course/bba/second-semester/dbms/u4-sql/insert-update-delete-effects.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u4-sql/insert-update-delete-effects.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 80090,
+      "contentHashed": false
+    },
+    "sql-data-types.webp": {
+      "key": "course/bba/second-semester/dbms/u4-sql/sql-data-types.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u4-sql/sql-data-types.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 70268,
+      "contentHashed": false
+    },
+    "sql-statement-families.webp": {
+      "key": "course/bba/second-semester/dbms/u4-sql/sql-statement-families.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u4-sql/sql-statement-families.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 58082,
+      "contentHashed": false
+    },
+    "view-architecture.webp": {
+      "key": "course/bba/second-semester/dbms/u4-sql/view-architecture.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u4-sql/view-architecture.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 72014,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u4-sql/aggregation-and-grouping.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u4-sql/basic-and-complex-retrieval-flow.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u4-sql/constraint-placement-in-a-table.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u4-sql/insert-update-delete-effects.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u4-sql/sql-data-types.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u4-sql/sql-statement-families.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u4-sql/view-architecture.webp"
+  ]
+}

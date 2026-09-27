@@ -1,51 +1,71 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-23T15:12:22.005Z",
+  "generatedAt": "2026-09-27T06:14:22.987Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/first-semester/professional-ethics/u5-digital-communication",
-  "totalAssets": 4,
+  "totalAssets": 6,
   "assets": {
-    "netiquette-interaction-path.webp": {
-      "key": "course/bca/first-semester/professional-ethics/u5-digital-communication/netiquette-interaction-path.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u5-digital-communication/netiquette-interaction-path.webp",
+    "choosing-a-visual-form.webp": {
+      "key": "course/bca/first-semester/professional-ethics/u5-digital-communication/choosing-a-visual-form.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u5-digital-communication/choosing-a-visual-form.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 75382,
+      "contentHashed": false
+    },
+    "netiquette-and-the-human-element.webp": {
+      "key": "course/bca/first-semester/professional-ethics/u5-digital-communication/netiquette-and-the-human-element.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u5-digital-communication/netiquette-and-the-human-element.webp",
+      "contentType": "image/webp",
+      "width": 1778,
+      "height": 885,
+      "bytes": 133316,
+      "contentHashed": false
+    },
+    "online-professional-reputation.webp": {
+      "key": "course/bca/first-semester/professional-ethics/u5-digital-communication/online-professional-reputation.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u5-digital-communication/online-professional-reputation.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 149260,
+      "bytes": 123916,
       "contentHashed": false
     },
-    "online-plagiarism-prevention-workflow.webp": {
-      "key": "course/bca/first-semester/professional-ethics/u5-digital-communication/online-plagiarism-prevention-workflow.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u5-digital-communication/online-plagiarism-prevention-workflow.webp",
+    "plagiarism-to-proper-attribution.webp": {
+      "key": "course/bca/first-semester/professional-ethics/u5-digital-communication/plagiarism-to-proper-attribution.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u5-digital-communication/plagiarism-to-proper-attribution.webp",
       "contentType": "image/webp",
-      "width": 2172,
-      "height": 724,
-      "bytes": 101432,
+      "width": 1774,
+      "height": 887,
+      "bytes": 118570,
       "contentHashed": false
     },
-    "prepositions-of-place-scene.webp": {
-      "key": "course/bca/first-semester/professional-ethics/u5-digital-communication/prepositions-of-place-scene.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u5-digital-communication/prepositions-of-place-scene.webp",
+    "prepositions-of-place-and-direction.webp": {
+      "key": "course/bca/first-semester/professional-ethics/u5-digital-communication/prepositions-of-place-and-direction.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u5-digital-communication/prepositions-of-place-and-direction.webp",
+      "contentType": "image/webp",
+      "width": 1983,
+      "height": 793,
+      "bytes": 240494,
+      "contentHashed": false
+    },
+    "social-media-and-collaborative-communication.webp": {
+      "key": "course/bca/first-semester/professional-ethics/u5-digital-communication/social-media-and-collaborative-communication.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u5-digital-communication/social-media-and-collaborative-communication.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 236910,
-      "contentHashed": false
-    },
-    "social-media-and-collaboration-ecosystem.webp": {
-      "key": "course/bca/first-semester/professional-ethics/u5-digital-communication/social-media-and-collaboration-ecosystem.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u5-digital-communication/social-media-and-collaboration-ecosystem.webp",
-      "contentType": "image/webp",
-      "width": 1536,
-      "height": 1024,
-      "bytes": 134588,
+      "bytes": 92702,
       "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u5-digital-communication/netiquette-interaction-path.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u5-digital-communication/online-plagiarism-prevention-workflow.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u5-digital-communication/prepositions-of-place-scene.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u5-digital-communication/social-media-and-collaboration-ecosystem.webp"
+    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u5-digital-communication/choosing-a-visual-form.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u5-digital-communication/netiquette-and-the-human-element.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u5-digital-communication/online-professional-reputation.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u5-digital-communication/plagiarism-to-proper-attribution.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u5-digital-communication/prepositions-of-place-and-direction.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u5-digital-communication/social-media-and-collaborative-communication.webp"
   ]
 }

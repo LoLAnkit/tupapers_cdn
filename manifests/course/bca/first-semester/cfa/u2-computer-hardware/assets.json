@@ -1,17 +1,26 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-23T15:12:21.954Z",
+  "generatedAt": "2026-09-27T06:14:22.936Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/first-semester/cfa/u2-computer-hardware",
-  "totalAssets": 4,
+  "totalAssets": 7,
   "assets": {
     "basic-computer-organization.webp": {
       "key": "course/bca/first-semester/cfa/u2-computer-hardware/basic-computer-organization.webp",
       "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u2-computer-hardware/basic-computer-organization.webp",
       "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 78384,
+      "contentHashed": false
+    },
+    "bios-cmos-smps-startup-relationship.webp": {
+      "key": "course/bca/first-semester/cfa/u2-computer-hardware/bios-cmos-smps-startup-relationship.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u2-computer-hardware/bios-cmos-smps-startup-relationship.webp",
+      "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 79140,
+      "bytes": 116680,
       "contentHashed": false
     },
     "cpu-internal-structure.webp": {
@@ -20,32 +29,53 @@
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 94418,
+      "bytes": 90260,
       "contentHashed": false
     },
-    "memory-hierarchy.webp": {
-      "key": "course/bca/first-semester/cfa/u2-computer-hardware/memory-hierarchy.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u2-computer-hardware/memory-hierarchy.webp",
+    "memory-hierarchy-pyramid.webp": {
+      "key": "course/bca/first-semester/cfa/u2-computer-hardware/memory-hierarchy-pyramid.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u2-computer-hardware/memory-hierarchy-pyramid.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 102976,
+      "bytes": 133868,
       "contentHashed": false
     },
-    "motherboard-components.webp": {
-      "key": "course/bca/first-semester/cfa/u2-computer-hardware/motherboard-components.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u2-computer-hardware/motherboard-components.webp",
+    "motherboard-component-layout.webp": {
+      "key": "course/bca/first-semester/cfa/u2-computer-hardware/motherboard-component-layout.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u2-computer-hardware/motherboard-component-layout.webp",
       "contentType": "image/webp",
-      "width": 1222,
-      "height": 1287,
-      "bytes": 249274,
+      "width": 1418,
+      "height": 1109,
+      "bytes": 196986,
+      "contentHashed": false
+    },
+    "sram-and-dram-cell-concept.webp": {
+      "key": "course/bca/first-semester/cfa/u2-computer-hardware/sram-and-dram-cell-concept.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u2-computer-hardware/sram-and-dram-cell-concept.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 82696,
+      "contentHashed": false
+    },
+    "system-bus-structure.webp": {
+      "key": "course/bca/first-semester/cfa/u2-computer-hardware/system-bus-structure.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u2-computer-hardware/system-bus-structure.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 68054,
       "contentHashed": false
     }
   },
   "urls": [
     "https://cdn.tupapers.com/course/bca/first-semester/cfa/u2-computer-hardware/basic-computer-organization.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u2-computer-hardware/bios-cmos-smps-startup-relationship.webp",
     "https://cdn.tupapers.com/course/bca/first-semester/cfa/u2-computer-hardware/cpu-internal-structure.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u2-computer-hardware/memory-hierarchy.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u2-computer-hardware/motherboard-components.webp"
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u2-computer-hardware/memory-hierarchy-pyramid.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u2-computer-hardware/motherboard-component-layout.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u2-computer-hardware/sram-and-dram-cell-concept.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u2-computer-hardware/system-bus-structure.webp"
   ]
 }

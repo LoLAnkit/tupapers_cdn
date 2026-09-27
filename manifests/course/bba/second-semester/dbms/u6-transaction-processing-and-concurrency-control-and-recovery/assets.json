@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:22.189Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/second-semester/dbms/u6-transaction-processing-and-concurrency-control-and-recovery",
+  "totalAssets": 6,
+  "assets": {
+    "acid-properties-in-one-transaction.webp": {
+      "key": "course/bba/second-semester/dbms/u6-transaction-processing-and-concurrency-control-and-recovery/acid-properties-in-one-transaction.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u6-transaction-processing-and-concurrency-control-and-recovery/acid-properties-in-one-transaction.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 97656,
+      "contentHashed": false
+    },
+    "concurrent-versus-serial-execution.webp": {
+      "key": "course/bba/second-semester/dbms/u6-transaction-processing-and-concurrency-control-and-recovery/concurrent-versus-serial-execution.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u6-transaction-processing-and-concurrency-control-and-recovery/concurrent-versus-serial-execution.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 91594,
+      "contentHashed": false
+    },
+    "serializable-schedule-reasoning.webp": {
+      "key": "course/bba/second-semester/dbms/u6-transaction-processing-and-concurrency-control-and-recovery/serializable-schedule-reasoning.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u6-transaction-processing-and-concurrency-control-and-recovery/serializable-schedule-reasoning.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 87088,
+      "contentHashed": false
+    },
+    "timestamp-ordering.webp": {
+      "key": "course/bba/second-semester/dbms/u6-transaction-processing-and-concurrency-control-and-recovery/timestamp-ordering.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u6-transaction-processing-and-concurrency-control-and-recovery/timestamp-ordering.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 104856,
+      "contentHashed": false
+    },
+    "transaction-state-lifecycle.webp": {
+      "key": "course/bba/second-semester/dbms/u6-transaction-processing-and-concurrency-control-and-recovery/transaction-state-lifecycle.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u6-transaction-processing-and-concurrency-control-and-recovery/transaction-state-lifecycle.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 71416,
+      "contentHashed": false
+    },
+    "two-phase-locking-protocol.webp": {
+      "key": "course/bba/second-semester/dbms/u6-transaction-processing-and-concurrency-control-and-recovery/two-phase-locking-protocol.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u6-transaction-processing-and-concurrency-control-and-recovery/two-phase-locking-protocol.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 115540,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u6-transaction-processing-and-concurrency-control-and-recovery/acid-properties-in-one-transaction.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u6-transaction-processing-and-concurrency-control-and-recovery/concurrent-versus-serial-execution.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u6-transaction-processing-and-concurrency-control-and-recovery/serializable-schedule-reasoning.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u6-transaction-processing-and-concurrency-control-and-recovery/timestamp-ordering.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u6-transaction-processing-and-concurrency-control-and-recovery/transaction-state-lifecycle.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u6-transaction-processing-and-concurrency-control-and-recovery/two-phase-locking-protocol.webp"
+  ]
+}

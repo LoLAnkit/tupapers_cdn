@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:22.464Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbm/fourth-semester/taxation/u6-income-from-investment",
+  "totalAssets": 6,
+  "assets": {
+    "capital-gain-computation.webp": {
+      "key": "course/bbm/fourth-semester/taxation/u6-income-from-investment/capital-gain-computation.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u6-income-from-investment/capital-gain-computation.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 54924,
+      "contentHashed": false
+    },
+    "chargeable-vs-non-chargeable-investment-income.webp": {
+      "key": "course/bbm/fourth-semester/taxation/u6-income-from-investment/chargeable-vs-non-chargeable-investment-income.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u6-income-from-investment/chargeable-vs-non-chargeable-investment-income.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 72762,
+      "contentHashed": false
+    },
+    "investment-expense-deduction.webp": {
+      "key": "course/bbm/fourth-semester/taxation/u6-income-from-investment/investment-expense-deduction.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u6-income-from-investment/investment-expense-deduction.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 76074,
+      "contentHashed": false
+    },
+    "investment-income-sources.webp": {
+      "key": "course/bbm/fourth-semester/taxation/u6-income-from-investment/investment-income-sources.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u6-income-from-investment/investment-income-sources.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 91024,
+      "contentHashed": false
+    },
+    "investment-loss-set-off-and-carry-forward.webp": {
+      "key": "course/bbm/fourth-semester/taxation/u6-income-from-investment/investment-loss-set-off-and-carry-forward.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u6-income-from-investment/investment-loss-set-off-and-carry-forward.webp",
+      "contentType": "image/webp",
+      "width": 2110,
+      "height": 745,
+      "bytes": 66768,
+      "contentHashed": false
+    },
+    "investment-vs-business-income.webp": {
+      "key": "course/bbm/fourth-semester/taxation/u6-income-from-investment/investment-vs-business-income.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u6-income-from-investment/investment-vs-business-income.webp",
+      "contentType": "image/webp",
+      "width": 1224,
+      "height": 1285,
+      "bytes": 230836,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u6-income-from-investment/capital-gain-computation.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u6-income-from-investment/chargeable-vs-non-chargeable-investment-income.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u6-income-from-investment/investment-expense-deduction.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u6-income-from-investment/investment-income-sources.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u6-income-from-investment/investment-loss-set-off-and-carry-forward.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u6-income-from-investment/investment-vs-business-income.webp"
+  ]
+}

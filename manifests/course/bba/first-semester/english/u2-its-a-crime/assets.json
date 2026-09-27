@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-25T16:46:33.205Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/first-semester/english/u2-its-a-crime",
+  "totalAssets": 1,
+  "assets": {
+    "its-a-crime-event-sequence.webp": {
+      "key": "course/bba/first-semester/english/u2-its-a-crime/its-a-crime-event-sequence.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/english/u2-its-a-crime/its-a-crime-event-sequence.webp",
+      "contentType": "image/webp",
+      "width": 2014,
+      "height": 781,
+      "bytes": 132414,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/first-semester/english/u2-its-a-crime/its-a-crime-event-sequence.webp"
+  ]
+}

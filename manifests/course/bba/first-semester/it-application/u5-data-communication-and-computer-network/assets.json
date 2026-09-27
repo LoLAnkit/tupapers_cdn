@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:22.072Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/first-semester/it-application/u5-data-communication-and-computer-network",
+  "totalAssets": 7,
+  "assets": {
+    "client-server-vs-peer-to-peer.webp": {
+      "key": "course/bba/first-semester/it-application/u5-data-communication-and-computer-network/client-server-vs-peer-to-peer.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u5-data-communication-and-computer-network/client-server-vs-peer-to-peer.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 119484,
+      "contentHashed": false
+    },
+    "communication-media.webp": {
+      "key": "course/bba/first-semester/it-application/u5-data-communication-and-computer-network/communication-media.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u5-data-communication-and-computer-network/communication-media.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 140540,
+      "contentHashed": false
+    },
+    "data-communication-model.webp": {
+      "key": "course/bba/first-semester/it-application/u5-data-communication-and-computer-network/data-communication-model.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u5-data-communication-and-computer-network/data-communication-model.webp",
+      "contentType": "image/webp",
+      "width": 2081,
+      "height": 756,
+      "bytes": 50862,
+      "contentHashed": false
+    },
+    "network-topologies.webp": {
+      "key": "course/bba/first-semester/it-application/u5-data-communication-and-computer-network/network-topologies.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u5-data-communication-and-computer-network/network-topologies.webp",
+      "contentType": "image/webp",
+      "width": 1374,
+      "height": 1145,
+      "bytes": 88924,
+      "contentHashed": false
+    },
+    "networking-hardware-in-a-lan.webp": {
+      "key": "course/bba/first-semester/it-application/u5-data-communication-and-computer-network/networking-hardware-in-a-lan.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u5-data-communication-and-computer-network/networking-hardware-in-a-lan.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 118238,
+      "contentHashed": false
+    },
+    "protocol-communication.webp": {
+      "key": "course/bba/first-semester/it-application/u5-data-communication-and-computer-network/protocol-communication.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u5-data-communication-and-computer-network/protocol-communication.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 121638,
+      "contentHashed": false
+    },
+    "wireless-networking.webp": {
+      "key": "course/bba/first-semester/it-application/u5-data-communication-and-computer-network/wireless-networking.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u5-data-communication-and-computer-network/wireless-networking.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 100290,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u5-data-communication-and-computer-network/client-server-vs-peer-to-peer.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u5-data-communication-and-computer-network/communication-media.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u5-data-communication-and-computer-network/data-communication-model.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u5-data-communication-and-computer-network/network-topologies.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u5-data-communication-and-computer-network/networking-hardware-in-a-lan.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u5-data-communication-and-computer-network/protocol-communication.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u5-data-communication-and-computer-network/wireless-networking.webp"
+  ]
+}

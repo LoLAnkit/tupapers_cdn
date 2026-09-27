@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:23.453Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bitm/second-semester/digital-logic/u7-sequential-machine-designs",
+  "totalAssets": 6,
+  "assets": {
+    "binary-state-assignment.webp": {
+      "key": "course/bitm/second-semester/digital-logic/u7-sequential-machine-designs/binary-state-assignment.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u7-sequential-machine-designs/binary-state-assignment.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 66322,
+      "contentHashed": false
+    },
+    "flip-flop-input-function-derivation.webp": {
+      "key": "course/bitm/second-semester/digital-logic/u7-sequential-machine-designs/flip-flop-input-function-derivation.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u7-sequential-machine-designs/flip-flop-input-function-derivation.webp",
+      "contentType": "image/webp",
+      "width": 2048,
+      "height": 768,
+      "bytes": 83502,
+      "contentHashed": false
+    },
+    "redundant-state-reduction.webp": {
+      "key": "course/bitm/second-semester/digital-logic/u7-sequential-machine-designs/redundant-state-reduction.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u7-sequential-machine-designs/redundant-state-reduction.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 60670,
+      "contentHashed": false
+    },
+    "sequential-machine-circuit-realization.webp": {
+      "key": "course/bitm/second-semester/digital-logic/u7-sequential-machine-designs/sequential-machine-circuit-realization.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u7-sequential-machine-designs/sequential-machine-circuit-realization.webp",
+      "contentType": "image/webp",
+      "width": 1909,
+      "height": 824,
+      "bytes": 60888,
+      "contentHashed": false
+    },
+    "state-diagram-to-state-table.webp": {
+      "key": "course/bitm/second-semester/digital-logic/u7-sequential-machine-designs/state-diagram-to-state-table.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u7-sequential-machine-designs/state-diagram-to-state-table.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 59308,
+      "contentHashed": false
+    },
+    "transition-and-excitation-map.webp": {
+      "key": "course/bitm/second-semester/digital-logic/u7-sequential-machine-designs/transition-and-excitation-map.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u7-sequential-machine-designs/transition-and-excitation-map.webp",
+      "contentType": "image/webp",
+      "width": 1983,
+      "height": 793,
+      "bytes": 79580,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u7-sequential-machine-designs/binary-state-assignment.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u7-sequential-machine-designs/flip-flop-input-function-derivation.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u7-sequential-machine-designs/redundant-state-reduction.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u7-sequential-machine-designs/sequential-machine-circuit-realization.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u7-sequential-machine-designs/state-diagram-to-state-table.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u7-sequential-machine-designs/transition-and-excitation-map.webp"
+  ]
+}

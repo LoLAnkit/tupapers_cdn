@@ -1,35 +1,35 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-23T15:12:21.963Z",
+  "generatedAt": "2026-09-27T06:14:22.942Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/first-semester/cfa/u4-database-management-system",
-  "totalAssets": 4,
+  "totalAssets": 6,
   "assets": {
-    "data-mining-and-big-data-pipeline.webp": {
-      "key": "course/bca/first-semester/cfa/u4-database-management-system/data-mining-and-big-data-pipeline.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u4-database-management-system/data-mining-and-big-data-pipeline.webp",
+    "data-mining-big-data-pipeline.webp": {
+      "key": "course/bca/first-semester/cfa/u4-database-management-system/data-mining-big-data-pipeline.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u4-database-management-system/data-mining-big-data-pipeline.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 122144,
+      "bytes": 199926,
       "contentHashed": false
     },
-    "data-warehouse-flow.webp": {
-      "key": "course/bca/first-semester/cfa/u4-database-management-system/data-warehouse-flow.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u4-database-management-system/data-warehouse-flow.webp",
+    "data-warehouse-etl-flow.webp": {
+      "key": "course/bca/first-semester/cfa/u4-database-management-system/data-warehouse-etl-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u4-database-management-system/data-warehouse-etl-flow.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 84636,
+      "bytes": 98152,
       "contentHashed": false
     },
-    "database-models.webp": {
-      "key": "course/bca/first-semester/cfa/u4-database-management-system/database-models.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u4-database-management-system/database-models.webp",
+    "database-models-overview.webp": {
+      "key": "course/bca/first-semester/cfa/u4-database-management-system/database-models-overview.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u4-database-management-system/database-models-overview.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 103606,
+      "bytes": 125524,
       "contentHashed": false
     },
     "database-system-architecture.webp": {
@@ -38,14 +38,34 @@
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 86904,
+      "bytes": 116594,
+      "contentHashed": false
+    },
+    "dbms-environment.webp": {
+      "key": "course/bca/first-semester/cfa/u4-database-management-system/dbms-environment.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u4-database-management-system/dbms-environment.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 91924,
+      "contentHashed": false
+    },
+    "relational-model-relationships.webp": {
+      "key": "course/bca/first-semester/cfa/u4-database-management-system/relational-model-relationships.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u4-database-management-system/relational-model-relationships.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 114770,
       "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u4-database-management-system/data-mining-and-big-data-pipeline.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u4-database-management-system/data-warehouse-flow.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u4-database-management-system/database-models.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u4-database-management-system/database-system-architecture.webp"
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u4-database-management-system/data-mining-big-data-pipeline.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u4-database-management-system/data-warehouse-etl-flow.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u4-database-management-system/database-models-overview.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u4-database-management-system/database-system-architecture.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u4-database-management-system/dbms-environment.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u4-database-management-system/relational-model-relationships.webp"
   ]
 }

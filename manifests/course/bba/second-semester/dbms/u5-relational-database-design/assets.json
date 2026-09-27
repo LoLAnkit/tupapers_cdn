@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:22.185Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/second-semester/dbms/u5-relational-database-design",
+  "totalAssets": 7,
+  "assets": {
+    "bcnf-and-fourth-normal-form.webp": {
+      "key": "course/bba/second-semester/dbms/u5-relational-database-design/bcnf-and-fourth-normal-form.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u5-relational-database-design/bcnf-and-fourth-normal-form.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 88146,
+      "contentHashed": false
+    },
+    "first-normal-form-transformation.webp": {
+      "key": "course/bba/second-semester/dbms/u5-relational-database-design/first-normal-form-transformation.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u5-relational-database-design/first-normal-form-transformation.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 97376,
+      "contentHashed": false
+    },
+    "functional-dependency-map.webp": {
+      "key": "course/bba/second-semester/dbms/u5-relational-database-design/functional-dependency-map.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u5-relational-database-design/functional-dependency-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 98498,
+      "contentHashed": false
+    },
+    "relational-decomposition-properties.webp": {
+      "key": "course/bba/second-semester/dbms/u5-relational-database-design/relational-decomposition-properties.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u5-relational-database-design/relational-decomposition-properties.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 176770,
+      "contentHashed": false
+    },
+    "second-normal-form-decomposition.webp": {
+      "key": "course/bba/second-semester/dbms/u5-relational-database-design/second-normal-form-decomposition.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u5-relational-database-design/second-normal-form-decomposition.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 105556,
+      "contentHashed": false
+    },
+    "third-normal-form-decomposition.webp": {
+      "key": "course/bba/second-semester/dbms/u5-relational-database-design/third-normal-form-decomposition.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u5-relational-database-design/third-normal-form-decomposition.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 96540,
+      "contentHashed": false
+    },
+    "update-anomalies-before-normalization.webp": {
+      "key": "course/bba/second-semester/dbms/u5-relational-database-design/update-anomalies-before-normalization.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u5-relational-database-design/update-anomalies-before-normalization.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 118392,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u5-relational-database-design/bcnf-and-fourth-normal-form.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u5-relational-database-design/first-normal-form-transformation.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u5-relational-database-design/functional-dependency-map.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u5-relational-database-design/relational-decomposition-properties.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u5-relational-database-design/second-normal-form-decomposition.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u5-relational-database-design/third-normal-form-decomposition.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u5-relational-database-design/update-anomalies-before-normalization.webp"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:23.611Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/fourth-year/industrial-organizational-psychology/u9-organization-and-well-being",
+  "totalAssets": 7,
+  "assets": {
+    "consequences-of-stress.webp": {
+      "key": "course/bsw/fourth-year/industrial-organizational-psychology/u9-organization-and-well-being/consequences-of-stress.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/fourth-year/industrial-organizational-psychology/u9-organization-and-well-being/consequences-of-stress.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 107602,
+      "contentHashed": false
+    },
+    "improving-quality-of-work-life.webp": {
+      "key": "course/bsw/fourth-year/industrial-organizational-psychology/u9-organization-and-well-being/improving-quality-of-work-life.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/fourth-year/industrial-organizational-psychology/u9-organization-and-well-being/improving-quality-of-work-life.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 140428,
+      "contentHashed": false
+    },
+    "quality-of-work-life-dimensions.webp": {
+      "key": "course/bsw/fourth-year/industrial-organizational-psychology/u9-organization-and-well-being/quality-of-work-life-dimensions.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/fourth-year/industrial-organizational-psychology/u9-organization-and-well-being/quality-of-work-life-dimensions.webp",
+      "contentType": "image/webp",
+      "width": 1312,
+      "height": 1199,
+      "bytes": 150672,
+      "contentHashed": false
+    },
+    "sources-of-organizational-stress.webp": {
+      "key": "course/bsw/fourth-year/industrial-organizational-psychology/u9-organization-and-well-being/sources-of-organizational-stress.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/fourth-year/industrial-organizational-psychology/u9-organization-and-well-being/sources-of-organizational-stress.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 96828,
+      "contentHashed": false
+    },
+    "stress-management-at-three-levels.webp": {
+      "key": "course/bsw/fourth-year/industrial-organizational-psychology/u9-organization-and-well-being/stress-management-at-three-levels.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/fourth-year/industrial-organizational-psychology/u9-organization-and-well-being/stress-management-at-three-levels.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 191312,
+      "contentHashed": false
+    },
+    "workplace-safety-and-hazard-control.webp": {
+      "key": "course/bsw/fourth-year/industrial-organizational-psychology/u9-organization-and-well-being/workplace-safety-and-hazard-control.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/fourth-year/industrial-organizational-psychology/u9-organization-and-well-being/workplace-safety-and-hazard-control.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 197044,
+      "contentHashed": false
+    },
+    "workplace-stress-process.webp": {
+      "key": "course/bsw/fourth-year/industrial-organizational-psychology/u9-organization-and-well-being/workplace-stress-process.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/fourth-year/industrial-organizational-psychology/u9-organization-and-well-being/workplace-stress-process.webp",
+      "contentType": "image/webp",
+      "width": 1903,
+      "height": 826,
+      "bytes": 99022,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/fourth-year/industrial-organizational-psychology/u9-organization-and-well-being/consequences-of-stress.webp",
+    "https://cdn.tupapers.com/course/bsw/fourth-year/industrial-organizational-psychology/u9-organization-and-well-being/improving-quality-of-work-life.webp",
+    "https://cdn.tupapers.com/course/bsw/fourth-year/industrial-organizational-psychology/u9-organization-and-well-being/quality-of-work-life-dimensions.webp",
+    "https://cdn.tupapers.com/course/bsw/fourth-year/industrial-organizational-psychology/u9-organization-and-well-being/sources-of-organizational-stress.webp",
+    "https://cdn.tupapers.com/course/bsw/fourth-year/industrial-organizational-psychology/u9-organization-and-well-being/stress-management-at-three-levels.webp",
+    "https://cdn.tupapers.com/course/bsw/fourth-year/industrial-organizational-psychology/u9-organization-and-well-being/workplace-safety-and-hazard-control.webp",
+    "https://cdn.tupapers.com/course/bsw/fourth-year/industrial-organizational-psychology/u9-organization-and-well-being/workplace-stress-process.webp"
+  ]
+}

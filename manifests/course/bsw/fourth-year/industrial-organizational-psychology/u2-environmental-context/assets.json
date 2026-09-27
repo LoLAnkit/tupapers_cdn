@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:23.587Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/fourth-year/industrial-organizational-psychology/u2-environmental-context",
+  "totalAssets": 6,
+  "assets": {
+    "cross-cultural-work-environment.webp": {
+      "key": "course/bsw/fourth-year/industrial-organizational-psychology/u2-environmental-context/cross-cultural-work-environment.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/fourth-year/industrial-organizational-psychology/u2-environmental-context/cross-cultural-work-environment.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 159118,
+      "contentHashed": false
+    },
+    "dimensions-of-workplace-diversity.webp": {
+      "key": "course/bsw/fourth-year/industrial-organizational-psychology/u2-environmental-context/dimensions-of-workplace-diversity.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/fourth-year/industrial-organizational-psychology/u2-environmental-context/dimensions-of-workplace-diversity.webp",
+      "contentType": "image/webp",
+      "width": 1374,
+      "height": 1145,
+      "bytes": 145754,
+      "contentHashed": false
+    },
+    "diversity-to-inclusion-path.webp": {
+      "key": "course/bsw/fourth-year/industrial-organizational-psychology/u2-environmental-context/diversity-to-inclusion-path.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/fourth-year/industrial-organizational-psychology/u2-environmental-context/diversity-to-inclusion-path.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 76568,
+      "contentHashed": false
+    },
+    "ethical-decision-making-flow.webp": {
+      "key": "course/bsw/fourth-year/industrial-organizational-psychology/u2-environmental-context/ethical-decision-making-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/fourth-year/industrial-organizational-psychology/u2-environmental-context/ethical-decision-making-flow.webp",
+      "contentType": "image/webp",
+      "width": 2155,
+      "height": 730,
+      "bytes": 48800,
+      "contentHashed": false
+    },
+    "ethics-and-organizational-success.webp": {
+      "key": "course/bsw/fourth-year/industrial-organizational-psychology/u2-environmental-context/ethics-and-organizational-success.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/fourth-year/industrial-organizational-psychology/u2-environmental-context/ethics-and-organizational-success.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 66688,
+      "contentHashed": false
+    },
+    "globalization-and-the-workplace.webp": {
+      "key": "course/bsw/fourth-year/industrial-organizational-psychology/u2-environmental-context/globalization-and-the-workplace.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/fourth-year/industrial-organizational-psychology/u2-environmental-context/globalization-and-the-workplace.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 114242,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/fourth-year/industrial-organizational-psychology/u2-environmental-context/cross-cultural-work-environment.webp",
+    "https://cdn.tupapers.com/course/bsw/fourth-year/industrial-organizational-psychology/u2-environmental-context/dimensions-of-workplace-diversity.webp",
+    "https://cdn.tupapers.com/course/bsw/fourth-year/industrial-organizational-psychology/u2-environmental-context/diversity-to-inclusion-path.webp",
+    "https://cdn.tupapers.com/course/bsw/fourth-year/industrial-organizational-psychology/u2-environmental-context/ethical-decision-making-flow.webp",
+    "https://cdn.tupapers.com/course/bsw/fourth-year/industrial-organizational-psychology/u2-environmental-context/ethics-and-organizational-success.webp",
+    "https://cdn.tupapers.com/course/bsw/fourth-year/industrial-organizational-psychology/u2-environmental-context/globalization-and-the-workplace.webp"
+  ]
+}

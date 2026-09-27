@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:23.890Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/third-year/reading-writing/u5-science-technologies",
+  "totalAssets": 8,
+  "assets": {
+    "can-we-know-the-universe-scales-of-knowledge-sagan.webp": {
+      "key": "course/bsw/third-year/reading-writing/u5-science-technologies/can-we-know-the-universe-scales-of-knowledge-sagan.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u5-science-technologies/can-we-know-the-universe-scales-of-knowledge-sagan.webp",
+      "contentType": "image/webp",
+      "width": 1374,
+      "height": 1145,
+      "bytes": 129356,
+      "contentHashed": false
+    },
+    "identity-reinterpretation-model-bettelheim-joey.webp": {
+      "key": "course/bsw/third-year/reading-writing/u5-science-technologies/identity-reinterpretation-model-bettelheim-joey.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u5-science-technologies/identity-reinterpretation-model-bettelheim-joey.webp",
+      "contentType": "image/webp",
+      "width": 2048,
+      "height": 768,
+      "bytes": 234032,
+      "contentHashed": false
+    },
+    "mcdonalds-fry-flavor-science-flow.webp": {
+      "key": "course/bsw/third-year/reading-writing/u5-science-technologies/mcdonalds-fry-flavor-science-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u5-science-technologies/mcdonalds-fry-flavor-science-flow.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 127558,
+      "contentHashed": false
+    },
+    "natural-born-liars-deception-spectrum-smith.webp": {
+      "key": "course/bsw/third-year/reading-writing/u5-science-technologies/natural-born-liars-deception-spectrum-smith.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u5-science-technologies/natural-born-liars-deception-spectrum-smith.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 129656,
+      "contentHashed": false
+    },
+    "schlossers-rhetorical-techniques-spider.webp": {
+      "key": "course/bsw/third-year/reading-writing/u5-science-technologies/schlossers-rhetorical-techniques-spider.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u5-science-technologies/schlossers-rhetorical-techniques-spider.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 83382,
+      "contentHashed": false
+    },
+    "scientific-inquiry-cycle-cultural-bias-martin.webp": {
+      "key": "course/bsw/third-year/reading-writing/u5-science-technologies/scientific-inquiry-cycle-cultural-bias-martin.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u5-science-technologies/scientific-inquiry-cycle-cultural-bias-martin.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 79406,
+      "contentHashed": false
+    },
+    "stem-cell-types-and-sources-shreeve.webp": {
+      "key": "course/bsw/third-year/reading-writing/u5-science-technologies/stem-cell-types-and-sources-shreeve.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u5-science-technologies/stem-cell-types-and-sources-shreeve.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 132356,
+      "contentHashed": false
+    },
+    "why-is-the-sky-blue-rayleigh-scattering.webp": {
+      "key": "course/bsw/third-year/reading-writing/u5-science-technologies/why-is-the-sky-blue-rayleigh-scattering.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u5-science-technologies/why-is-the-sky-blue-rayleigh-scattering.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 144104,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u5-science-technologies/can-we-know-the-universe-scales-of-knowledge-sagan.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u5-science-technologies/identity-reinterpretation-model-bettelheim-joey.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u5-science-technologies/mcdonalds-fry-flavor-science-flow.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u5-science-technologies/natural-born-liars-deception-spectrum-smith.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u5-science-technologies/schlossers-rhetorical-techniques-spider.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u5-science-technologies/scientific-inquiry-cycle-cultural-bias-martin.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u5-science-technologies/stem-cell-types-and-sources-shreeve.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u5-science-technologies/why-is-the-sky-blue-rayleigh-scattering.webp"
+  ]
+}

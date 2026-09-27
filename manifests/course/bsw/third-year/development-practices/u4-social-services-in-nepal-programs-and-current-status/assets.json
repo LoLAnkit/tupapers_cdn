@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:23.813Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/third-year/development-practices/u4-social-services-in-nepal-programs-and-current-status",
+  "totalAssets": 5,
+  "assets": {
+    "education-service-pathway.webp": {
+      "key": "course/bsw/third-year/development-practices/u4-social-services-in-nepal-programs-and-current-status/education-service-pathway.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u4-social-services-in-nepal-programs-and-current-status/education-service-pathway.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 130208,
+      "contentHashed": false
+    },
+    "health-service-delivery-pathway.webp": {
+      "key": "course/bsw/third-year/development-practices/u4-social-services-in-nepal-programs-and-current-status/health-service-delivery-pathway.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u4-social-services-in-nepal-programs-and-current-status/health-service-delivery-pathway.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 191060,
+      "contentHashed": false
+    },
+    "nutrition-pathway.webp": {
+      "key": "course/bsw/third-year/development-practices/u4-social-services-in-nepal-programs-and-current-status/nutrition-pathway.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u4-social-services-in-nepal-programs-and-current-status/nutrition-pathway.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 156232,
+      "contentHashed": false
+    },
+    "social-security-fund-flow.webp": {
+      "key": "course/bsw/third-year/development-practices/u4-social-services-in-nepal-programs-and-current-status/social-security-fund-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u4-social-services-in-nepal-programs-and-current-status/social-security-fund-flow.webp",
+      "contentType": "image/webp",
+      "width": 1877,
+      "height": 838,
+      "bytes": 114550,
+      "contentHashed": false
+    },
+    "water-and-sanitation-cycle.webp": {
+      "key": "course/bsw/third-year/development-practices/u4-social-services-in-nepal-programs-and-current-status/water-and-sanitation-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u4-social-services-in-nepal-programs-and-current-status/water-and-sanitation-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 162534,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u4-social-services-in-nepal-programs-and-current-status/education-service-pathway.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u4-social-services-in-nepal-programs-and-current-status/health-service-delivery-pathway.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u4-social-services-in-nepal-programs-and-current-status/nutrition-pathway.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u4-social-services-in-nepal-programs-and-current-status/social-security-fund-flow.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u4-social-services-in-nepal-programs-and-current-status/water-and-sanitation-cycle.webp"
+  ]
+}

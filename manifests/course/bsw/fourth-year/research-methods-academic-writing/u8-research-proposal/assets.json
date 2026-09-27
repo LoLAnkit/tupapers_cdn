@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:23.643Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/fourth-year/research-methods-academic-writing/u8-research-proposal",
+  "totalAssets": 2,
+  "assets": {
+    "research-proposal-format-roadmap.webp": {
+      "key": "course/bsw/fourth-year/research-methods-academic-writing/u8-research-proposal/research-proposal-format-roadmap.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/fourth-year/research-methods-academic-writing/u8-research-proposal/research-proposal-format-roadmap.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 117484,
+      "contentHashed": false
+    },
+    "research-proposal-purpose-map.webp": {
+      "key": "course/bsw/fourth-year/research-methods-academic-writing/u8-research-proposal/research-proposal-purpose-map.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/fourth-year/research-methods-academic-writing/u8-research-proposal/research-proposal-purpose-map.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 53098,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/fourth-year/research-methods-academic-writing/u8-research-proposal/research-proposal-format-roadmap.webp",
+    "https://cdn.tupapers.com/course/bsw/fourth-year/research-methods-academic-writing/u8-research-proposal/research-proposal-purpose-map.webp"
+  ]
+}

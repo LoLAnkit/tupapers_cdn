@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:23.846Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/third-year/psychosocial-counselling/u2-mental-health-in-nepal",
+  "totalAssets": 4,
+  "assets": {
+    "mental-health-gap.webp": {
+      "key": "course/bsw/third-year/psychosocial-counselling/u2-mental-health-in-nepal/mental-health-gap.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/psychosocial-counselling/u2-mental-health-in-nepal/mental-health-gap.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 180548,
+      "contentHashed": false
+    },
+    "mental-health-issues-in-the-nepalese-context.webp": {
+      "key": "course/bsw/third-year/psychosocial-counselling/u2-mental-health-in-nepal/mental-health-issues-in-the-nepalese-context.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/psychosocial-counselling/u2-mental-health-in-nepal/mental-health-issues-in-the-nepalese-context.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 222236,
+      "contentHashed": false
+    },
+    "mental-health-network.webp": {
+      "key": "course/bsw/third-year/psychosocial-counselling/u2-mental-health-in-nepal/mental-health-network.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/psychosocial-counselling/u2-mental-health-in-nepal/mental-health-network.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 122020,
+      "contentHashed": false
+    },
+    "mental-health-policy.webp": {
+      "key": "course/bsw/third-year/psychosocial-counselling/u2-mental-health-in-nepal/mental-health-policy.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/psychosocial-counselling/u2-mental-health-in-nepal/mental-health-policy.webp",
+      "contentType": "image/webp",
+      "width": 2109,
+      "height": 745,
+      "bytes": 129596,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/third-year/psychosocial-counselling/u2-mental-health-in-nepal/mental-health-gap.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/psychosocial-counselling/u2-mental-health-in-nepal/mental-health-issues-in-the-nepalese-context.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/psychosocial-counselling/u2-mental-health-in-nepal/mental-health-network.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/psychosocial-counselling/u2-mental-health-in-nepal/mental-health-policy.webp"
+  ]
+}

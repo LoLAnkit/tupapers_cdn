@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:22.969Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/first-semester/digital-logics/u5-counters-and-registers",
+  "totalAssets": 7,
+  "assets": {
+    "asynchronous-ripple-counter.webp": {
+      "key": "course/bca/first-semester/digital-logics/u5-counters-and-registers/asynchronous-ripple-counter.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u5-counters-and-registers/asynchronous-ripple-counter.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 64390,
+      "contentHashed": false
+    },
+    "bidirectional-shift-register.webp": {
+      "key": "course/bca/first-semester/digital-logics/u5-counters-and-registers/bidirectional-shift-register.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u5-counters-and-registers/bidirectional-shift-register.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 84644,
+      "contentHashed": false
+    },
+    "counter-state-sequence.webp": {
+      "key": "course/bca/first-semester/digital-logics/u5-counters-and-registers/counter-state-sequence.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u5-counters-and-registers/counter-state-sequence.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 72880,
+      "contentHashed": false
+    },
+    "parallel-load-shift-register.webp": {
+      "key": "course/bca/first-semester/digital-logics/u5-counters-and-registers/parallel-load-shift-register.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u5-counters-and-registers/parallel-load-shift-register.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 73416,
+      "contentHashed": false
+    },
+    "ring-counter.webp": {
+      "key": "course/bca/first-semester/digital-logics/u5-counters-and-registers/ring-counter.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u5-counters-and-registers/ring-counter.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 66056,
+      "contentHashed": false
+    },
+    "shift-register-types.webp": {
+      "key": "course/bca/first-semester/digital-logics/u5-counters-and-registers/shift-register-types.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u5-counters-and-registers/shift-register-types.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 62362,
+      "contentHashed": false
+    },
+    "synchronous-counter.webp": {
+      "key": "course/bca/first-semester/digital-logics/u5-counters-and-registers/synchronous-counter.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u5-counters-and-registers/synchronous-counter.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 49074,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u5-counters-and-registers/asynchronous-ripple-counter.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u5-counters-and-registers/bidirectional-shift-register.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u5-counters-and-registers/counter-state-sequence.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u5-counters-and-registers/parallel-load-shift-register.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u5-counters-and-registers/ring-counter.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u5-counters-and-registers/shift-register-types.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u5-counters-and-registers/synchronous-counter.webp"
+  ]
+}

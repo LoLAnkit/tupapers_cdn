@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-25T16:46:33.263Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/first-semester/english/u2-the-big-issues",
+  "totalAssets": 1,
+  "assets": {
+    "the-big-issues-cause-and-response-map.webp": {
+      "key": "course/bba/first-semester/english/u2-the-big-issues/the-big-issues-cause-and-response-map.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/english/u2-the-big-issues/the-big-issues-cause-and-response-map.webp",
+      "contentType": "image/webp",
+      "width": 2048,
+      "height": 768,
+      "bytes": 157444,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/first-semester/english/u2-the-big-issues/the-big-issues-cause-and-response-map.webp"
+  ]
+}

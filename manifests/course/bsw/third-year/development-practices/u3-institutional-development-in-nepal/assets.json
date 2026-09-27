@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:23.810Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/third-year/development-practices/u3-institutional-development-in-nepal",
+  "totalAssets": 4,
+  "assets": {
+    "community-forestry-governance-cycle.webp": {
+      "key": "course/bsw/third-year/development-practices/u3-institutional-development-in-nepal/community-forestry-governance-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u3-institutional-development-in-nepal/community-forestry-governance-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 268818,
+      "contentHashed": false
+    },
+    "integrated-rural-development-programme-irdp.webp": {
+      "key": "course/bsw/third-year/development-practices/u3-institutional-development-in-nepal/integrated-rural-development-programme-irdp.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u3-institutional-development-in-nepal/integrated-rural-development-programme-irdp.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 184934,
+      "contentHashed": false
+    },
+    "remote-area-development-programme-radp.webp": {
+      "key": "course/bsw/third-year/development-practices/u3-institutional-development-in-nepal/remote-area-development-programme-radp.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u3-institutional-development-in-nepal/remote-area-development-programme-radp.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 125794,
+      "contentHashed": false
+    },
+    "small-farmer-development-programme-sfdp.webp": {
+      "key": "course/bsw/third-year/development-practices/u3-institutional-development-in-nepal/small-farmer-development-programme-sfdp.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u3-institutional-development-in-nepal/small-farmer-development-programme-sfdp.webp",
+      "contentType": "image/webp",
+      "width": 2095,
+      "height": 751,
+      "bytes": 64890,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u3-institutional-development-in-nepal/community-forestry-governance-cycle.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u3-institutional-development-in-nepal/integrated-rural-development-programme-irdp.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u3-institutional-development-in-nepal/remote-area-development-programme-radp.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u3-institutional-development-in-nepal/small-farmer-development-programme-sfdp.webp"
+  ]
+}

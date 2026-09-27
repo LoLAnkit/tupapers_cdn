@@ -1,71 +1,81 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-23T15:12:21.986Z",
+  "generatedAt": "2026-09-27T06:14:22.955Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/first-semester/digital-logics/u1-digital-design-fundamentals-and-number-system",
-  "totalAssets": 6,
+  "totalAssets": 7,
   "assets": {
-    "analog-and-digital-signal-waveforms.webp": {
-      "key": "course/bca/first-semester/digital-logics/u1-digital-design-fundamentals-and-number-system/analog-and-digital-signal-waveforms.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u1-digital-design-fundamentals-and-number-system/analog-and-digital-signal-waveforms.webp",
-      "contentType": "image/webp",
-      "width": 1942,
-      "height": 809,
-      "bytes": 47628,
-      "contentHashed": false
-    },
-    "analog-and-digital-system-signal-flow.webp": {
-      "key": "course/bca/first-semester/digital-logics/u1-digital-design-fundamentals-and-number-system/analog-and-digital-system-signal-flow.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u1-digital-design-fundamentals-and-number-system/analog-and-digital-system-signal-flow.webp",
-      "contentType": "image/webp",
-      "width": 2043,
-      "height": 770,
-      "bytes": 67050,
-      "contentHashed": false
-    },
-    "complements-and-binary-arithmetic.webp": {
-      "key": "course/bca/first-semester/digital-logics/u1-digital-design-fundamentals-and-number-system/complements-and-binary-arithmetic.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u1-digital-design-fundamentals-and-number-system/complements-and-binary-arithmetic.webp",
-      "contentType": "image/webp",
-      "width": 1536,
-      "height": 1024,
-      "bytes": 86712,
-      "contentHashed": false
-    },
-    "number-system-conversion-routes.webp": {
-      "key": "course/bca/first-semester/digital-logics/u1-digital-design-fundamentals-and-number-system/number-system-conversion-routes.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u1-digital-design-fundamentals-and-number-system/number-system-conversion-routes.webp",
-      "contentType": "image/webp",
-      "width": 1536,
-      "height": 1024,
-      "bytes": 86274,
-      "contentHashed": false
-    },
-    "number-system-place-value-map.webp": {
-      "key": "course/bca/first-semester/digital-logics/u1-digital-design-fundamentals-and-number-system/number-system-place-value-map.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u1-digital-design-fundamentals-and-number-system/number-system-place-value-map.webp",
+    "analog-and-digital-signals.webp": {
+      "key": "course/bca/first-semester/digital-logics/u1-digital-design-fundamentals-and-number-system/analog-and-digital-signals.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u1-digital-design-fundamentals-and-number-system/analog-and-digital-signals.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 99466,
+      "bytes": 32158,
       "contentHashed": false
     },
-    "signed-and-floating-point-representation.webp": {
-      "key": "course/bca/first-semester/digital-logics/u1-digital-design-fundamentals-and-number-system/signed-and-floating-point-representation.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u1-digital-design-fundamentals-and-number-system/signed-and-floating-point-representation.webp",
+    "bcd-ascii-excess3-gray-code-overview.webp": {
+      "key": "course/bca/first-semester/digital-logics/u1-digital-design-fundamentals-and-number-system/bcd-ascii-excess3-gray-code-overview.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u1-digital-design-fundamentals-and-number-system/bcd-ascii-excess3-gray-code-overview.webp",
       "contentType": "image/webp",
-      "width": 1774,
-      "height": 887,
-      "bytes": 79716,
+      "width": 1536,
+      "height": 1024,
+      "bytes": 140254,
+      "contentHashed": false
+    },
+    "binary-arithmetic-flow.webp": {
+      "key": "course/bca/first-semester/digital-logics/u1-digital-design-fundamentals-and-number-system/binary-arithmetic-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u1-digital-design-fundamentals-and-number-system/binary-arithmetic-flow.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 78356,
+      "contentHashed": false
+    },
+    "ieee-754-double-precision-layout.webp": {
+      "key": "course/bca/first-semester/digital-logics/u1-digital-design-fundamentals-and-number-system/ieee-754-double-precision-layout.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u1-digital-design-fundamentals-and-number-system/ieee-754-double-precision-layout.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 83078,
+      "contentHashed": false
+    },
+    "number-system-conversion-map.webp": {
+      "key": "course/bca/first-semester/digital-logics/u1-digital-design-fundamentals-and-number-system/number-system-conversion-map.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u1-digital-design-fundamentals-and-number-system/number-system-conversion-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 118498,
+      "contentHashed": false
+    },
+    "ones-twos-complement-process.webp": {
+      "key": "course/bca/first-semester/digital-logics/u1-digital-design-fundamentals-and-number-system/ones-twos-complement-process.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u1-digital-design-fundamentals-and-number-system/ones-twos-complement-process.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 73192,
+      "contentHashed": false
+    },
+    "place-value-representation.webp": {
+      "key": "course/bca/first-semester/digital-logics/u1-digital-design-fundamentals-and-number-system/place-value-representation.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u1-digital-design-fundamentals-and-number-system/place-value-representation.webp",
+      "contentType": "image/webp",
+      "width": 1664,
+      "height": 945,
+      "bytes": 65750,
       "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u1-digital-design-fundamentals-and-number-system/analog-and-digital-signal-waveforms.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u1-digital-design-fundamentals-and-number-system/analog-and-digital-system-signal-flow.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u1-digital-design-fundamentals-and-number-system/complements-and-binary-arithmetic.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u1-digital-design-fundamentals-and-number-system/number-system-conversion-routes.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u1-digital-design-fundamentals-and-number-system/number-system-place-value-map.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u1-digital-design-fundamentals-and-number-system/signed-and-floating-point-representation.webp"
+    "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u1-digital-design-fundamentals-and-number-system/analog-and-digital-signals.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u1-digital-design-fundamentals-and-number-system/bcd-ascii-excess3-gray-code-overview.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u1-digital-design-fundamentals-and-number-system/binary-arithmetic-flow.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u1-digital-design-fundamentals-and-number-system/ieee-754-double-precision-layout.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u1-digital-design-fundamentals-and-number-system/number-system-conversion-map.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u1-digital-design-fundamentals-and-number-system/ones-twos-complement-process.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u1-digital-design-fundamentals-and-number-system/place-value-representation.webp"
   ]
 }

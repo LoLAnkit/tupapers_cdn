@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-25T16:46:33.082Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/first-semester/english/u2-buying-and-selling",
+  "totalAssets": 1,
+  "assets": {
+    "buying-and-selling-transaction-flow.webp": {
+      "key": "course/bba/first-semester/english/u2-buying-and-selling/buying-and-selling-transaction-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/english/u2-buying-and-selling/buying-and-selling-transaction-flow.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 108062,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/first-semester/english/u2-buying-and-selling/buying-and-selling-transaction-flow.webp"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:22.150Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/fourth-semester/marketing/u7-pricing-decisions",
+  "totalAssets": 7,
+  "assets": {
+    "competition-based-pricing-flow.webp": {
+      "key": "course/bba/fourth-semester/marketing/u7-pricing-decisions/competition-based-pricing-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u7-pricing-decisions/competition-based-pricing-flow.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 122528,
+      "contentHashed": false
+    },
+    "cost-based-pricing-flow.webp": {
+      "key": "course/bba/fourth-semester/marketing/u7-pricing-decisions/cost-based-pricing-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u7-pricing-decisions/cost-based-pricing-flow.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 126788,
+      "contentHashed": false
+    },
+    "demand-based-pricing-relationship.webp": {
+      "key": "course/bba/fourth-semester/marketing/u7-pricing-decisions/demand-based-pricing-relationship.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u7-pricing-decisions/demand-based-pricing-relationship.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 53930,
+      "contentHashed": false
+    },
+    "new-product-pricing-decisions.webp": {
+      "key": "course/bba/fourth-semester/marketing/u7-pricing-decisions/new-product-pricing-decisions.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u7-pricing-decisions/new-product-pricing-decisions.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 84934,
+      "contentHashed": false
+    },
+    "price-change-response.webp": {
+      "key": "course/bba/fourth-semester/marketing/u7-pricing-decisions/price-change-response.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u7-pricing-decisions/price-change-response.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 100838,
+      "contentHashed": false
+    },
+    "pricing-decision-factors.webp": {
+      "key": "course/bba/fourth-semester/marketing/u7-pricing-decisions/pricing-decision-factors.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u7-pricing-decisions/pricing-decision-factors.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 146594,
+      "contentHashed": false
+    },
+    "value-based-pricing-flow.webp": {
+      "key": "course/bba/fourth-semester/marketing/u7-pricing-decisions/value-based-pricing-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u7-pricing-decisions/value-based-pricing-flow.webp",
+      "contentType": "image/webp",
+      "width": 1916,
+      "height": 821,
+      "bytes": 108174,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u7-pricing-decisions/competition-based-pricing-flow.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u7-pricing-decisions/cost-based-pricing-flow.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u7-pricing-decisions/demand-based-pricing-relationship.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u7-pricing-decisions/new-product-pricing-decisions.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u7-pricing-decisions/price-change-response.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u7-pricing-decisions/pricing-decision-factors.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u7-pricing-decisions/value-based-pricing-flow.webp"
+  ]
+}

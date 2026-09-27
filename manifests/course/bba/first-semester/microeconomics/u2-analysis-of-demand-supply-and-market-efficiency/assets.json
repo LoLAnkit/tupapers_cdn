@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:22.096Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/first-semester/microeconomics/u2-analysis-of-demand-supply-and-market-efficiency",
+  "totalAssets": 7,
+  "assets": {
+    "consumer-and-producer-surplus.webp": {
+      "key": "course/bba/first-semester/microeconomics/u2-analysis-of-demand-supply-and-market-efficiency/consumer-and-producer-surplus.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u2-analysis-of-demand-supply-and-market-efficiency/consumer-and-producer-surplus.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 49662,
+      "contentHashed": false
+    },
+    "elasticity-and-total-revenue.webp": {
+      "key": "course/bba/first-semester/microeconomics/u2-analysis-of-demand-supply-and-market-efficiency/elasticity-and-total-revenue.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u2-analysis-of-demand-supply-and-market-efficiency/elasticity-and-total-revenue.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 70860,
+      "contentHashed": false
+    },
+    "market-equilibrium-and-simultaneous-shifts.webp": {
+      "key": "course/bba/first-semester/microeconomics/u2-analysis-of-demand-supply-and-market-efficiency/market-equilibrium-and-simultaneous-shifts.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u2-analysis-of-demand-supply-and-market-efficiency/market-equilibrium-and-simultaneous-shifts.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 86926,
+      "contentHashed": false
+    },
+    "movement-vs-shift-in-demand.webp": {
+      "key": "course/bba/first-semester/microeconomics/u2-analysis-of-demand-supply-and-market-efficiency/movement-vs-shift-in-demand.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u2-analysis-of-demand-supply-and-market-efficiency/movement-vs-shift-in-demand.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 70338,
+      "contentHashed": false
+    },
+    "movement-vs-shift-in-supply.webp": {
+      "key": "course/bba/first-semester/microeconomics/u2-analysis-of-demand-supply-and-market-efficiency/movement-vs-shift-in-supply.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u2-analysis-of-demand-supply-and-market-efficiency/movement-vs-shift-in-supply.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 57062,
+      "contentHashed": false
+    },
+    "price-floor-and-price-ceiling.webp": {
+      "key": "course/bba/first-semester/microeconomics/u2-analysis-of-demand-supply-and-market-efficiency/price-floor-and-price-ceiling.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u2-analysis-of-demand-supply-and-market-efficiency/price-floor-and-price-ceiling.webp",
+      "contentType": "image/webp",
+      "width": 1374,
+      "height": 1145,
+      "bytes": 50300,
+      "contentHashed": false
+    },
+    "tax-and-subsidy-effects-on-equilibrium.webp": {
+      "key": "course/bba/first-semester/microeconomics/u2-analysis-of-demand-supply-and-market-efficiency/tax-and-subsidy-effects-on-equilibrium.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u2-analysis-of-demand-supply-and-market-efficiency/tax-and-subsidy-effects-on-equilibrium.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 101120,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u2-analysis-of-demand-supply-and-market-efficiency/consumer-and-producer-surplus.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u2-analysis-of-demand-supply-and-market-efficiency/elasticity-and-total-revenue.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u2-analysis-of-demand-supply-and-market-efficiency/market-equilibrium-and-simultaneous-shifts.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u2-analysis-of-demand-supply-and-market-efficiency/movement-vs-shift-in-demand.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u2-analysis-of-demand-supply-and-market-efficiency/movement-vs-shift-in-supply.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u2-analysis-of-demand-supply-and-market-efficiency/price-floor-and-price-ceiling.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u2-analysis-of-demand-supply-and-market-efficiency/tax-and-subsidy-effects-on-equilibrium.webp"
+  ]
+}

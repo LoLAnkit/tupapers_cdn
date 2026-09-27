@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:22.017Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/first-semester/english/u4-stories-and-poems",
+  "totalAssets": 7,
+  "assets": {
+    "allegory-of-the-cave-layout.webp": {
+      "key": "course/bba/first-semester/english/u4-stories-and-poems/allegory-of-the-cave-layout.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/english/u4-stories-and-poems/allegory-of-the-cave-layout.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 292498,
+      "contentHashed": false
+    },
+    "clock-tower-social-image.webp": {
+      "key": "course/bba/first-semester/english/u4-stories-and-poems/clock-tower-social-image.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/english/u4-stories-and-poems/clock-tower-social-image.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 238990,
+      "contentHashed": false
+    },
+    "girl-prescribed-gender-roles.webp": {
+      "key": "course/bba/first-semester/english/u4-stories-and-poems/girl-prescribed-gender-roles.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/english/u4-stories-and-poems/girl-prescribed-gender-roles.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 237790,
+      "contentHashed": false
+    },
+    "hundredth-dove-plot-and-moral.webp": {
+      "key": "course/bba/first-semester/english/u4-stories-and-poems/hundredth-dove-plot-and-moral.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/english/u4-stories-and-poems/hundredth-dove-plot-and-moral.webp",
+      "contentType": "image/webp",
+      "width": 1919,
+      "height": 820,
+      "bytes": 118140,
+      "contentHashed": false
+    },
+    "lunatic-society-through-speaker.webp": {
+      "key": "course/bba/first-semester/english/u4-stories-and-poems/lunatic-society-through-speaker.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/english/u4-stories-and-poems/lunatic-society-through-speaker.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 171276,
+      "contentHashed": false
+    },
+    "popular-mechanics-conflict-escalation.webp": {
+      "key": "course/bba/first-semester/english/u4-stories-and-poems/popular-mechanics-conflict-escalation.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/english/u4-stories-and-poems/popular-mechanics-conflict-escalation.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 177478,
+      "contentHashed": false
+    },
+    "the-fly-speaker-and-fly.webp": {
+      "key": "course/bba/first-semester/english/u4-stories-and-poems/the-fly-speaker-and-fly.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/english/u4-stories-and-poems/the-fly-speaker-and-fly.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 133908,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/first-semester/english/u4-stories-and-poems/allegory-of-the-cave-layout.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/english/u4-stories-and-poems/clock-tower-social-image.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/english/u4-stories-and-poems/girl-prescribed-gender-roles.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/english/u4-stories-and-poems/hundredth-dove-plot-and-moral.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/english/u4-stories-and-poems/lunatic-society-through-speaker.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/english/u4-stories-and-poems/popular-mechanics-conflict-escalation.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/english/u4-stories-and-poems/the-fly-speaker-and-fly.webp"
+  ]
+}

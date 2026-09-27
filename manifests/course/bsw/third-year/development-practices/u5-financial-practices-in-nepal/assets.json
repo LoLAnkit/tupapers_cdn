@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:23.817Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/third-year/development-practices/u5-financial-practices-in-nepal",
+  "totalAssets": 4,
+  "assets": {
+    "cooperative-resource-mobilization.webp": {
+      "key": "course/bsw/third-year/development-practices/u5-financial-practices-in-nepal/cooperative-resource-mobilization.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u5-financial-practices-in-nepal/cooperative-resource-mobilization.webp",
+      "contentType": "image/webp",
+      "width": 1312,
+      "height": 1199,
+      "bytes": 142254,
+      "contentHashed": false
+    },
+    "financial-management-cycle.webp": {
+      "key": "course/bsw/third-year/development-practices/u5-financial-practices-in-nepal/financial-management-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u5-financial-practices-in-nepal/financial-management-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 113406,
+      "contentHashed": false
+    },
+    "public-and-private-sector-roles.webp": {
+      "key": "course/bsw/third-year/development-practices/u5-financial-practices-in-nepal/public-and-private-sector-roles.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u5-financial-practices-in-nepal/public-and-private-sector-roles.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 151182,
+      "contentHashed": false
+    },
+    "sources-of-finance.webp": {
+      "key": "course/bsw/third-year/development-practices/u5-financial-practices-in-nepal/sources-of-finance.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u5-financial-practices-in-nepal/sources-of-finance.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 117638,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u5-financial-practices-in-nepal/cooperative-resource-mobilization.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u5-financial-practices-in-nepal/financial-management-cycle.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u5-financial-practices-in-nepal/public-and-private-sector-roles.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u5-financial-practices-in-nepal/sources-of-finance.webp"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:23.833Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/third-year/mass-communication/u3-reporting-and-writing-on-special-issues",
+  "totalAssets": 7,
+  "assets": {
+    "development-reporting-framework.webp": {
+      "key": "course/bsw/third-year/mass-communication/u3-reporting-and-writing-on-special-issues/development-reporting-framework.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/mass-communication/u3-reporting-and-writing-on-special-issues/development-reporting-framework.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 87298,
+      "contentHashed": false
+    },
+    "disaster-management-in-nepali-context.webp": {
+      "key": "course/bsw/third-year/mass-communication/u3-reporting-and-writing-on-special-issues/disaster-management-in-nepali-context.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/mass-communication/u3-reporting-and-writing-on-special-issues/disaster-management-in-nepali-context.webp",
+      "contentType": "image/webp",
+      "width": 1312,
+      "height": 1199,
+      "bytes": 66454,
+      "contentHashed": false
+    },
+    "disaster-reporting-timeline.webp": {
+      "key": "course/bsw/third-year/mass-communication/u3-reporting-and-writing-on-special-issues/disaster-reporting-timeline.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/mass-communication/u3-reporting-and-writing-on-special-issues/disaster-reporting-timeline.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 124162,
+      "contentHashed": false
+    },
+    "environment-and-climate-change-reporting-chain.webp": {
+      "key": "course/bsw/third-year/mass-communication/u3-reporting-and-writing-on-special-issues/environment-and-climate-change-reporting-chain.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/mass-communication/u3-reporting-and-writing-on-special-issues/environment-and-climate-change-reporting-chain.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 92354,
+      "contentHashed": false
+    },
+    "migration-labour-communication-and-crisis-management.webp": {
+      "key": "course/bsw/third-year/mass-communication/u3-reporting-and-writing-on-special-issues/migration-labour-communication-and-crisis-management.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/mass-communication/u3-reporting-and-writing-on-special-issues/migration-labour-communication-and-crisis-management.webp",
+      "contentType": "image/webp",
+      "width": 1916,
+      "height": 821,
+      "bytes": 124518,
+      "contentHashed": false
+    },
+    "social-issue-reporting-stakeholder-map.webp": {
+      "key": "course/bsw/third-year/mass-communication/u3-reporting-and-writing-on-special-issues/social-issue-reporting-stakeholder-map.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/mass-communication/u3-reporting-and-writing-on-special-issues/social-issue-reporting-stakeholder-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 59224,
+      "contentHashed": false
+    },
+    "women-children-and-minorities-reporting-map.webp": {
+      "key": "course/bsw/third-year/mass-communication/u3-reporting-and-writing-on-special-issues/women-children-and-minorities-reporting-map.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/mass-communication/u3-reporting-and-writing-on-special-issues/women-children-and-minorities-reporting-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 134324,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/third-year/mass-communication/u3-reporting-and-writing-on-special-issues/development-reporting-framework.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/mass-communication/u3-reporting-and-writing-on-special-issues/disaster-management-in-nepali-context.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/mass-communication/u3-reporting-and-writing-on-special-issues/disaster-reporting-timeline.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/mass-communication/u3-reporting-and-writing-on-special-issues/environment-and-climate-change-reporting-chain.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/mass-communication/u3-reporting-and-writing-on-special-issues/migration-labour-communication-and-crisis-management.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/mass-communication/u3-reporting-and-writing-on-special-issues/social-issue-reporting-stakeholder-map.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/mass-communication/u3-reporting-and-writing-on-special-issues/women-children-and-minorities-reporting-map.webp"
+  ]
+}

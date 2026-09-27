@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:22.136Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/fourth-semester/marketing/u4-buyer-behavior",
+  "totalAssets": 6,
+  "assets": {
+    "business-buyer-decision-process.webp": {
+      "key": "course/bba/fourth-semester/marketing/u4-buyer-behavior/business-buyer-decision-process.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u4-buyer-behavior/business-buyer-decision-process.webp",
+      "contentType": "image/webp",
+      "width": 2135,
+      "height": 736,
+      "bytes": 61232,
+      "contentHashed": false
+    },
+    "business-buyer-influences.webp": {
+      "key": "course/bba/fourth-semester/marketing/u4-buyer-behavior/business-buyer-influences.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u4-buyer-behavior/business-buyer-influences.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 144922,
+      "contentHashed": false
+    },
+    "business-buying-situations.webp": {
+      "key": "course/bba/fourth-semester/marketing/u4-buyer-behavior/business-buying-situations.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u4-buyer-behavior/business-buying-situations.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 111756,
+      "contentHashed": false
+    },
+    "consumer-behavior-influences.webp": {
+      "key": "course/bba/fourth-semester/marketing/u4-buyer-behavior/consumer-behavior-influences.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u4-buyer-behavior/consumer-behavior-influences.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 109930,
+      "contentHashed": false
+    },
+    "consumer-behavior-model.webp": {
+      "key": "course/bba/fourth-semester/marketing/u4-buyer-behavior/consumer-behavior-model.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u4-buyer-behavior/consumer-behavior-model.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 88088,
+      "contentHashed": false
+    },
+    "consumer-buying-decision-process.webp": {
+      "key": "course/bba/fourth-semester/marketing/u4-buyer-behavior/consumer-buying-decision-process.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u4-buyer-behavior/consumer-buying-decision-process.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 81488,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u4-buyer-behavior/business-buyer-decision-process.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u4-buyer-behavior/business-buyer-influences.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u4-buyer-behavior/business-buying-situations.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u4-buyer-behavior/consumer-behavior-influences.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u4-buyer-behavior/consumer-behavior-model.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u4-buyer-behavior/consumer-buying-decision-process.webp"
+  ]
+}

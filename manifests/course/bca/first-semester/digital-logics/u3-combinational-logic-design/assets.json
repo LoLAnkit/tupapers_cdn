@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:22.963Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/first-semester/digital-logics/u3-combinational-logic-design",
+  "totalAssets": 7,
+  "assets": {
+    "4-bit-parallel-adder.webp": {
+      "key": "course/bca/first-semester/digital-logics/u3-combinational-logic-design/4-bit-parallel-adder.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u3-combinational-logic-design/4-bit-parallel-adder.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 53616,
+      "contentHashed": false
+    },
+    "encoder-and-decoder-structures.webp": {
+      "key": "course/bca/first-semester/digital-logics/u3-combinational-logic-design/encoder-and-decoder-structures.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u3-combinational-logic-design/encoder-and-decoder-structures.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 88532,
+      "contentHashed": false
+    },
+    "full-adder-using-two-half-adders.webp": {
+      "key": "course/bca/first-semester/digital-logics/u3-combinational-logic-design/full-adder-using-two-half-adders.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u3-combinational-logic-design/full-adder-using-two-half-adders.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 54414,
+      "contentHashed": false
+    },
+    "half-adder-and-full-adder-circuits.webp": {
+      "key": "course/bca/first-semester/digital-logics/u3-combinational-logic-design/half-adder-and-full-adder-circuits.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u3-combinational-logic-design/half-adder-and-full-adder-circuits.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 59176,
+      "contentHashed": false
+    },
+    "magnitude-comparator.webp": {
+      "key": "course/bca/first-semester/digital-logics/u3-combinational-logic-design/magnitude-comparator.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u3-combinational-logic-design/magnitude-comparator.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 91520,
+      "contentHashed": false
+    },
+    "multiplexer-and-demultiplexer-data-paths.webp": {
+      "key": "course/bca/first-semester/digital-logics/u3-combinational-logic-design/multiplexer-and-demultiplexer-data-paths.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u3-combinational-logic-design/multiplexer-and-demultiplexer-data-paths.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 65772,
+      "contentHashed": false
+    },
+    "programmable-logic-rom-pal-pla.webp": {
+      "key": "course/bca/first-semester/digital-logics/u3-combinational-logic-design/programmable-logic-rom-pal-pla.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u3-combinational-logic-design/programmable-logic-rom-pal-pla.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 66752,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u3-combinational-logic-design/4-bit-parallel-adder.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u3-combinational-logic-design/encoder-and-decoder-structures.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u3-combinational-logic-design/full-adder-using-two-half-adders.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u3-combinational-logic-design/half-adder-and-full-adder-circuits.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u3-combinational-logic-design/magnitude-comparator.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u3-combinational-logic-design/multiplexer-and-demultiplexer-data-paths.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u3-combinational-logic-design/programmable-logic-rom-pal-pla.webp"
+  ]
+}

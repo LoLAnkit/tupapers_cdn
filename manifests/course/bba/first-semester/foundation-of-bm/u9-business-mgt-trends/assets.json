@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:22.054Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/first-semester/foundation-of-bm/u9-business-mgt-trends",
+  "totalAssets": 6,
+  "assets": {
+    "01-growth-business-sector-nepal.webp": {
+      "key": "course/bba/first-semester/foundation-of-bm/u9-business-mgt-trends/01-growth-business-sector-nepal.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u9-business-mgt-trends/01-growth-business-sector-nepal.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 75258,
+      "contentHashed": false
+    },
+    "02-major-industry-categories-nepal.webp": {
+      "key": "course/bba/first-semester/foundation-of-bm/u9-business-mgt-trends/02-major-industry-categories-nepal.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u9-business-mgt-trends/02-major-industry-categories-nepal.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 58200,
+      "contentHashed": false
+    },
+    "03-manufacturing-trade-orientation.webp": {
+      "key": "course/bba/first-semester/foundation-of-bm/u9-business-mgt-trends/03-manufacturing-trade-orientation.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u9-business-mgt-trends/03-manufacturing-trade-orientation.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 50338,
+      "contentHashed": false
+    },
+    "04-service-sector-problems-nepal.webp": {
+      "key": "course/bba/first-semester/foundation-of-bm/u9-business-mgt-trends/04-service-sector-problems-nepal.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u9-business-mgt-trends/04-service-sector-problems-nepal.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 65706,
+      "contentHashed": false
+    },
+    "05-management-business-practices.webp": {
+      "key": "course/bba/first-semester/foundation-of-bm/u9-business-mgt-trends/05-management-business-practices.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u9-business-mgt-trends/05-management-business-practices.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 90296,
+      "contentHashed": false
+    },
+    "06-major-problems-nepalese-business.webp": {
+      "key": "course/bba/first-semester/foundation-of-bm/u9-business-mgt-trends/06-major-problems-nepalese-business.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u9-business-mgt-trends/06-major-problems-nepalese-business.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 75116,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u9-business-mgt-trends/01-growth-business-sector-nepal.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u9-business-mgt-trends/02-major-industry-categories-nepal.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u9-business-mgt-trends/03-manufacturing-trade-orientation.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u9-business-mgt-trends/04-service-sector-problems-nepal.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u9-business-mgt-trends/05-management-business-practices.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u9-business-mgt-trends/06-major-problems-nepalese-business.webp"
+  ]
+}

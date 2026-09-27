@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:23.447Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bitm/second-semester/digital-logic/u5-sequential-logic-circuits",
+  "totalAssets": 6,
+  "assets": {
+    "characteristic-and-excitation-relationships.webp": {
+      "key": "course/bitm/second-semester/digital-logic/u5-sequential-logic-circuits/characteristic-and-excitation-relationships.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u5-sequential-logic-circuits/characteristic-and-excitation-relationships.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 105492,
+      "contentHashed": false
+    },
+    "d-flip-flop-operation.webp": {
+      "key": "course/bitm/second-semester/digital-logic/u5-sequential-logic-circuits/d-flip-flop-operation.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u5-sequential-logic-circuits/d-flip-flop-operation.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 40332,
+      "contentHashed": false
+    },
+    "latch-vs-edge-triggered-flip-flop.webp": {
+      "key": "course/bitm/second-semester/digital-logic/u5-sequential-logic-circuits/latch-vs-edge-triggered-flip-flop.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u5-sequential-logic-circuits/latch-vs-edge-triggered-flip-flop.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 55060,
+      "contentHashed": false
+    },
+    "master-slave-flip-flop.webp": {
+      "key": "course/bitm/second-semester/digital-logic/u5-sequential-logic-circuits/master-slave-flip-flop.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u5-sequential-logic-circuits/master-slave-flip-flop.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 62282,
+      "contentHashed": false
+    },
+    "sr-flip-flop-and-invalid-state.webp": {
+      "key": "course/bitm/second-semester/digital-logic/u5-sequential-logic-circuits/sr-flip-flop-and-invalid-state.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u5-sequential-logic-circuits/sr-flip-flop-and-invalid-state.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 74356,
+      "contentHashed": false
+    },
+    "t-and-jk-flip-flop-comparison.webp": {
+      "key": "course/bitm/second-semester/digital-logic/u5-sequential-logic-circuits/t-and-jk-flip-flop-comparison.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u5-sequential-logic-circuits/t-and-jk-flip-flop-comparison.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 81650,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u5-sequential-logic-circuits/characteristic-and-excitation-relationships.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u5-sequential-logic-circuits/d-flip-flop-operation.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u5-sequential-logic-circuits/latch-vs-edge-triggered-flip-flop.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u5-sequential-logic-circuits/master-slave-flip-flop.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u5-sequential-logic-circuits/sr-flip-flop-and-invalid-state.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u5-sequential-logic-circuits/t-and-jk-flip-flop-comparison.webp"
+  ]
+}

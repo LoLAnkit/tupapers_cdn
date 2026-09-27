@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:23.884Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/third-year/reading-writing/u3-arts-humanities",
+  "totalAssets": 6,
+  "assets": {
+    "bergers-argument-structure-hiroshima.webp": {
+      "key": "course/bsw/third-year/reading-writing/u3-arts-humanities/bergers-argument-structure-hiroshima.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u3-arts-humanities/bergers-argument-structure-hiroshima.webp",
+      "contentType": "image/webp",
+      "width": 1312,
+      "height": 1199,
+      "bytes": 158484,
+      "contentHashed": false
+    },
+    "egg-sperm-gender-stereotype-mapping-emily-martin.webp": {
+      "key": "course/bsw/third-year/reading-writing/u3-arts-humanities/egg-sperm-gender-stereotype-mapping-emily-martin.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u3-arts-humanities/egg-sperm-gender-stereotype-mapping-emily-martin.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 80650,
+      "contentHashed": false
+    },
+    "language-thought-corruption-cycle-orwell.webp": {
+      "key": "course/bsw/third-year/reading-writing/u3-arts-humanities/language-thought-corruption-cycle-orwell.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u3-arts-humanities/language-thought-corruption-cycle-orwell.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 78172,
+      "contentHashed": false
+    },
+    "orwells-six-rules-of-good-writing.webp": {
+      "key": "course/bsw/third-year/reading-writing/u3-arts-humanities/orwells-six-rules-of-good-writing.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u3-arts-humanities/orwells-six-rules-of-good-writing.webp",
+      "contentType": "image/webp",
+      "width": 1224,
+      "height": 1285,
+      "bytes": 140228,
+      "contentHashed": false
+    },
+    "reflective-writing-structure-angelou-graduation.webp": {
+      "key": "course/bsw/third-year/reading-writing/u3-arts-humanities/reflective-writing-structure-angelou-graduation.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u3-arts-humanities/reflective-writing-structure-angelou-graduation.webp",
+      "contentType": "image/webp",
+      "width": 2098,
+      "height": 749,
+      "bytes": 136476,
+      "contentHashed": false
+    },
+    "scientific-objectivity-spectrum-emily-martin.webp": {
+      "key": "course/bsw/third-year/reading-writing/u3-arts-humanities/scientific-objectivity-spectrum-emily-martin.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u3-arts-humanities/scientific-objectivity-spectrum-emily-martin.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 58724,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u3-arts-humanities/bergers-argument-structure-hiroshima.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u3-arts-humanities/egg-sperm-gender-stereotype-mapping-emily-martin.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u3-arts-humanities/language-thought-corruption-cycle-orwell.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u3-arts-humanities/orwells-six-rules-of-good-writing.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u3-arts-humanities/reflective-writing-structure-angelou-graduation.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u3-arts-humanities/scientific-objectivity-spectrum-emily-martin.webp"
+  ]
+}

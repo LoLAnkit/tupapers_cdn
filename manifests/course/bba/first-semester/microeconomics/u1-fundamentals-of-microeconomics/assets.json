@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:22.092Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/first-semester/microeconomics/u1-fundamentals-of-microeconomics",
+  "totalAssets": 7,
+  "assets": {
+    "business-economics-as-applied-economics.webp": {
+      "key": "course/bba/first-semester/microeconomics/u1-fundamentals-of-microeconomics/business-economics-as-applied-economics.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u1-fundamentals-of-microeconomics/business-economics-as-applied-economics.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 147406,
+      "contentHashed": false
+    },
+    "how-people-interact-households-and-firms.webp": {
+      "key": "course/bba/first-semester/microeconomics/u1-fundamentals-of-microeconomics/how-people-interact-households-and-firms.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u1-fundamentals-of-microeconomics/how-people-interact-households-and-firms.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 104710,
+      "contentHashed": false
+    },
+    "how-people-make-decisions.webp": {
+      "key": "course/bba/first-semester/microeconomics/u1-fundamentals-of-microeconomics/how-people-make-decisions.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u1-fundamentals-of-microeconomics/how-people-make-decisions.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 77018,
+      "contentHashed": false
+    },
+    "how-the-economy-as-a-whole-works.webp": {
+      "key": "course/bba/first-semester/microeconomics/u1-fundamentals-of-microeconomics/how-the-economy-as-a-whole-works.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u1-fundamentals-of-microeconomics/how-the-economy-as-a-whole-works.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 118560,
+      "contentHashed": false
+    },
+    "microeconomics-concept-and-scope.webp": {
+      "key": "course/bba/first-semester/microeconomics/u1-fundamentals-of-microeconomics/microeconomics-concept-and-scope.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u1-fundamentals-of-microeconomics/microeconomics-concept-and-scope.webp",
+      "contentType": "image/webp",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 97006,
+      "contentHashed": false
+    },
+    "microeconomics-in-business-decisions.webp": {
+      "key": "course/bba/first-semester/microeconomics/u1-fundamentals-of-microeconomics/microeconomics-in-business-decisions.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u1-fundamentals-of-microeconomics/microeconomics-in-business-decisions.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 74600,
+      "contentHashed": false
+    },
+    "nature-of-microeconomics-zoom-in.webp": {
+      "key": "course/bba/first-semester/microeconomics/u1-fundamentals-of-microeconomics/nature-of-microeconomics-zoom-in.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u1-fundamentals-of-microeconomics/nature-of-microeconomics-zoom-in.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 174260,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u1-fundamentals-of-microeconomics/business-economics-as-applied-economics.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u1-fundamentals-of-microeconomics/how-people-interact-households-and-firms.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u1-fundamentals-of-microeconomics/how-people-make-decisions.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u1-fundamentals-of-microeconomics/how-the-economy-as-a-whole-works.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u1-fundamentals-of-microeconomics/microeconomics-concept-and-scope.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u1-fundamentals-of-microeconomics/microeconomics-in-business-decisions.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u1-fundamentals-of-microeconomics/nature-of-microeconomics-zoom-in.webp"
+  ]
+}

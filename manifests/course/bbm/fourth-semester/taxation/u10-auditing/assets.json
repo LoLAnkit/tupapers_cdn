@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:22.449Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbm/fourth-semester/taxation/u10-auditing",
+  "totalAssets": 6,
+  "assets": {
+    "audit-process.webp": {
+      "key": "course/bbm/fourth-semester/taxation/u10-auditing/audit-process.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u10-auditing/audit-process.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 77204,
+      "contentHashed": false
+    },
+    "errors-and-frauds.webp": {
+      "key": "course/bbm/fourth-semester/taxation/u10-auditing/errors-and-frauds.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u10-auditing/errors-and-frauds.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 77306,
+      "contentHashed": false
+    },
+    "internal-control-internal-audit-and-internal-check.webp": {
+      "key": "course/bbm/fourth-semester/taxation/u10-auditing/internal-control-internal-audit-and-internal-check.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u10-auditing/internal-control-internal-audit-and-internal-check.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 108804,
+      "contentHashed": false
+    },
+    "tax-audit.webp": {
+      "key": "course/bbm/fourth-semester/taxation/u10-auditing/tax-audit.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u10-auditing/tax-audit.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 76024,
+      "contentHashed": false
+    },
+    "types-of-audit-report.webp": {
+      "key": "course/bbm/fourth-semester/taxation/u10-auditing/types-of-audit-report.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u10-auditing/types-of-audit-report.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 66594,
+      "contentHashed": false
+    },
+    "vouching-verification-and-evaluation.webp": {
+      "key": "course/bbm/fourth-semester/taxation/u10-auditing/vouching-verification-and-evaluation.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u10-auditing/vouching-verification-and-evaluation.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 109858,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u10-auditing/audit-process.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u10-auditing/errors-and-frauds.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u10-auditing/internal-control-internal-audit-and-internal-check.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u10-auditing/tax-audit.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u10-auditing/types-of-audit-report.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u10-auditing/vouching-verification-and-evaluation.webp"
+  ]
+}

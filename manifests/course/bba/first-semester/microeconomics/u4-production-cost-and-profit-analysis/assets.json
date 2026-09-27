@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:22.104Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/first-semester/microeconomics/u4-production-cost-and-profit-analysis",
+  "totalAssets": 7,
+  "assets": {
+    "accounting-vs-economic-profit.webp": {
+      "key": "course/bba/first-semester/microeconomics/u4-production-cost-and-profit-analysis/accounting-vs-economic-profit.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u4-production-cost-and-profit-analysis/accounting-vs-economic-profit.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 172954,
+      "contentHashed": false
+    },
+    "isoquant-isocost-optimum.webp": {
+      "key": "course/bba/first-semester/microeconomics/u4-production-cost-and-profit-analysis/isoquant-isocost-optimum.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u4-production-cost-and-profit-analysis/isoquant-isocost-optimum.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 62084,
+      "contentHashed": false
+    },
+    "law-of-variable-proportions.webp": {
+      "key": "course/bba/first-semester/microeconomics/u4-production-cost-and-profit-analysis/law-of-variable-proportions.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u4-production-cost-and-profit-analysis/law-of-variable-proportions.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 68128,
+      "contentHashed": false
+    },
+    "long-run-average-cost-and-scale.webp": {
+      "key": "course/bba/first-semester/microeconomics/u4-production-cost-and-profit-analysis/long-run-average-cost-and-scale.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u4-production-cost-and-profit-analysis/long-run-average-cost-and-scale.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 49352,
+      "contentHashed": false
+    },
+    "production-function-cobb-douglas-inputs.webp": {
+      "key": "course/bba/first-semester/microeconomics/u4-production-cost-and-profit-analysis/production-function-cobb-douglas-inputs.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u4-production-cost-and-profit-analysis/production-function-cobb-douglas-inputs.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 54044,
+      "contentHashed": false
+    },
+    "short-run-cost-curves.webp": {
+      "key": "course/bba/first-semester/microeconomics/u4-production-cost-and-profit-analysis/short-run-cost-curves.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u4-production-cost-and-profit-analysis/short-run-cost-curves.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 64106,
+      "contentHashed": false
+    },
+    "tfc-tvc-and-tc.webp": {
+      "key": "course/bba/first-semester/microeconomics/u4-production-cost-and-profit-analysis/tfc-tvc-and-tc.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u4-production-cost-and-profit-analysis/tfc-tvc-and-tc.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 43616,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u4-production-cost-and-profit-analysis/accounting-vs-economic-profit.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u4-production-cost-and-profit-analysis/isoquant-isocost-optimum.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u4-production-cost-and-profit-analysis/law-of-variable-proportions.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u4-production-cost-and-profit-analysis/long-run-average-cost-and-scale.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u4-production-cost-and-profit-analysis/production-function-cobb-douglas-inputs.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u4-production-cost-and-profit-analysis/short-run-cost-curves.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u4-production-cost-and-profit-analysis/tfc-tvc-and-tc.webp"
+  ]
+}

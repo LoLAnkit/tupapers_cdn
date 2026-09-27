@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-25T16:46:32.882Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/first-semester/english/u1-what-are-you-like",
+  "totalAssets": 1,
+  "assets": {
+    "what-are-you-like-language-map.webp": {
+      "key": "course/bba/first-semester/english/u1-what-are-you-like/what-are-you-like-language-map.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/english/u1-what-are-you-like/what-are-you-like-language-map.webp",
+      "contentType": "image/webp",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 125904,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/first-semester/english/u1-what-are-you-like/what-are-you-like-language-map.webp"
+  ]
+}

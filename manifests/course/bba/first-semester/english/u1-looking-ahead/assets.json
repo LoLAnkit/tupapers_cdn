@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-25T16:46:32.917Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/first-semester/english/u1-looking-ahead",
+  "totalAssets": 1,
+  "assets": {
+    "looking-ahead-time-line.webp": {
+      "key": "course/bba/first-semester/english/u1-looking-ahead/looking-ahead-time-line.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/english/u1-looking-ahead/looking-ahead-time-line.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 43098,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/first-semester/english/u1-looking-ahead/looking-ahead-time-line.webp"
+  ]
+}

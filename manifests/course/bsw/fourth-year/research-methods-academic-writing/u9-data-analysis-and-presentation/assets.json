@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:23.647Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/fourth-year/research-methods-academic-writing/u9-data-analysis-and-presentation",
+  "totalAssets": 7,
+  "assets": {
+    "correlation-and-regression-visual.webp": {
+      "key": "course/bsw/fourth-year/research-methods-academic-writing/u9-data-analysis-and-presentation/correlation-and-regression-visual.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/fourth-year/research-methods-academic-writing/u9-data-analysis-and-presentation/correlation-and-regression-visual.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 81750,
+      "contentHashed": false
+    },
+    "data-preparation-workflow.webp": {
+      "key": "course/bsw/fourth-year/research-methods-academic-writing/u9-data-analysis-and-presentation/data-preparation-workflow.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/fourth-year/research-methods-academic-writing/u9-data-analysis-and-presentation/data-preparation-workflow.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 49542,
+      "contentHashed": false
+    },
+    "diagrams-and-graphs-selection-map.webp": {
+      "key": "course/bsw/fourth-year/research-methods-academic-writing/u9-data-analysis-and-presentation/diagrams-and-graphs-selection-map.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/fourth-year/research-methods-academic-writing/u9-data-analysis-and-presentation/diagrams-and-graphs-selection-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 110240,
+      "contentHashed": false
+    },
+    "mean-median-mode-position-visual.webp": {
+      "key": "course/bsw/fourth-year/research-methods-academic-writing/u9-data-analysis-and-presentation/mean-median-mode-position-visual.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/fourth-year/research-methods-academic-writing/u9-data-analysis-and-presentation/mean-median-mode-position-visual.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 33808,
+      "contentHashed": false
+    },
+    "standard-deviation-spread-comparison.webp": {
+      "key": "course/bsw/fourth-year/research-methods-academic-writing/u9-data-analysis-and-presentation/standard-deviation-spread-comparison.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/fourth-year/research-methods-academic-writing/u9-data-analysis-and-presentation/standard-deviation-spread-comparison.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 48220,
+      "contentHashed": false
+    },
+    "t-test-vs-chi-square-use-flow.webp": {
+      "key": "course/bsw/fourth-year/research-methods-academic-writing/u9-data-analysis-and-presentation/t-test-vs-chi-square-use-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/fourth-year/research-methods-academic-writing/u9-data-analysis-and-presentation/t-test-vs-chi-square-use-flow.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 80026,
+      "contentHashed": false
+    },
+    "thematic-analysis-steps-flow.webp": {
+      "key": "course/bsw/fourth-year/research-methods-academic-writing/u9-data-analysis-and-presentation/thematic-analysis-steps-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/fourth-year/research-methods-academic-writing/u9-data-analysis-and-presentation/thematic-analysis-steps-flow.webp",
+      "contentType": "image/webp",
+      "width": 1993,
+      "height": 789,
+      "bytes": 71068,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/fourth-year/research-methods-academic-writing/u9-data-analysis-and-presentation/correlation-and-regression-visual.webp",
+    "https://cdn.tupapers.com/course/bsw/fourth-year/research-methods-academic-writing/u9-data-analysis-and-presentation/data-preparation-workflow.webp",
+    "https://cdn.tupapers.com/course/bsw/fourth-year/research-methods-academic-writing/u9-data-analysis-and-presentation/diagrams-and-graphs-selection-map.webp",
+    "https://cdn.tupapers.com/course/bsw/fourth-year/research-methods-academic-writing/u9-data-analysis-and-presentation/mean-median-mode-position-visual.webp",
+    "https://cdn.tupapers.com/course/bsw/fourth-year/research-methods-academic-writing/u9-data-analysis-and-presentation/standard-deviation-spread-comparison.webp",
+    "https://cdn.tupapers.com/course/bsw/fourth-year/research-methods-academic-writing/u9-data-analysis-and-presentation/t-test-vs-chi-square-use-flow.webp",
+    "https://cdn.tupapers.com/course/bsw/fourth-year/research-methods-academic-writing/u9-data-analysis-and-presentation/thematic-analysis-steps-flow.webp"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:22.146Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/fourth-semester/marketing/u6-product-decisions",
+  "totalAssets": 7,
+  "assets": {
+    "branding-strategy-framework.webp": {
+      "key": "course/bba/fourth-semester/marketing/u6-product-decisions/branding-strategy-framework.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u6-product-decisions/branding-strategy-framework.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 135550,
+      "contentHashed": false
+    },
+    "levels-of-product.webp": {
+      "key": "course/bba/fourth-semester/marketing/u6-product-decisions/levels-of-product.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u6-product-decisions/levels-of-product.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 146494,
+      "contentHashed": false
+    },
+    "new-product-development-process.webp": {
+      "key": "course/bba/fourth-semester/marketing/u6-product-decisions/new-product-development-process.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u6-product-decisions/new-product-development-process.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 107968,
+      "contentHashed": false
+    },
+    "packaging-levels.webp": {
+      "key": "course/bba/fourth-semester/marketing/u6-product-decisions/packaging-levels.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u6-product-decisions/packaging-levels.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 153164,
+      "contentHashed": false
+    },
+    "product-classification-map.webp": {
+      "key": "course/bba/fourth-semester/marketing/u6-product-decisions/product-classification-map.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u6-product-decisions/product-classification-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 76780,
+      "contentHashed": false
+    },
+    "product-life-cycle.webp": {
+      "key": "course/bba/fourth-semester/marketing/u6-product-decisions/product-life-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u6-product-decisions/product-life-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 59274,
+      "contentHashed": false
+    },
+    "product-line-and-mix.webp": {
+      "key": "course/bba/fourth-semester/marketing/u6-product-decisions/product-line-and-mix.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u6-product-decisions/product-line-and-mix.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 107144,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u6-product-decisions/branding-strategy-framework.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u6-product-decisions/levels-of-product.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u6-product-decisions/new-product-development-process.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u6-product-decisions/packaging-levels.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u6-product-decisions/product-classification-map.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u6-product-decisions/product-life-cycle.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u6-product-decisions/product-line-and-mix.webp"
+  ]
+}

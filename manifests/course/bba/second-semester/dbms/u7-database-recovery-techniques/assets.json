@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:22.193Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/second-semester/dbms/u7-database-recovery-techniques",
+  "totalAssets": 5,
+  "assets": {
+    "catastrophic-failure-recovery.webp": {
+      "key": "course/bba/second-semester/dbms/u7-database-recovery-techniques/catastrophic-failure-recovery.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u7-database-recovery-techniques/catastrophic-failure-recovery.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 409356,
+      "contentHashed": false
+    },
+    "deferred-update-recovery.webp": {
+      "key": "course/bba/second-semester/dbms/u7-database-recovery-techniques/deferred-update-recovery.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u7-database-recovery-techniques/deferred-update-recovery.webp",
+      "contentType": "image/webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 96672,
+      "contentHashed": false
+    },
+    "immediate-update-recovery.webp": {
+      "key": "course/bba/second-semester/dbms/u7-database-recovery-techniques/immediate-update-recovery.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u7-database-recovery-techniques/immediate-update-recovery.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 109794,
+      "contentHashed": false
+    },
+    "recovery-log-and-checkpoint-flow.webp": {
+      "key": "course/bba/second-semester/dbms/u7-database-recovery-techniques/recovery-log-and-checkpoint-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u7-database-recovery-techniques/recovery-log-and-checkpoint-flow.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 99778,
+      "contentHashed": false
+    },
+    "shadow-paging.webp": {
+      "key": "course/bba/second-semester/dbms/u7-database-recovery-techniques/shadow-paging.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/dbms/u7-database-recovery-techniques/shadow-paging.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 86758,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u7-database-recovery-techniques/catastrophic-failure-recovery.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u7-database-recovery-techniques/deferred-update-recovery.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u7-database-recovery-techniques/immediate-update-recovery.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u7-database-recovery-techniques/recovery-log-and-checkpoint-flow.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/dbms/u7-database-recovery-techniques/shadow-paging.webp"
+  ]
+}

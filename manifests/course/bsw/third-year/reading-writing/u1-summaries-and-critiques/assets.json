@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:23.876Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/third-year/reading-writing/u1-summaries-and-critiques",
+  "totalAssets": 8,
+  "assets": {
+    "critical-reading-stages.webp": {
+      "key": "course/bsw/third-year/reading-writing/u1-summaries-and-critiques/critical-reading-stages.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u1-summaries-and-critiques/critical-reading-stages.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 146386,
+      "contentHashed": false
+    },
+    "critique-essay-skeleton.webp": {
+      "key": "course/bsw/third-year/reading-writing/u1-summaries-and-critiques/critique-essay-skeleton.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u1-summaries-and-critiques/critique-essay-skeleton.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 139542,
+      "contentHashed": false
+    },
+    "note-making-system.webp": {
+      "key": "course/bsw/third-year/reading-writing/u1-summaries-and-critiques/note-making-system.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u1-summaries-and-critiques/note-making-system.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 46786,
+      "contentHashed": false
+    },
+    "objectivity-spectrum.webp": {
+      "key": "course/bsw/third-year/reading-writing/u1-summaries-and-critiques/objectivity-spectrum.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u1-summaries-and-critiques/objectivity-spectrum.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 52668,
+      "contentHashed": false
+    },
+    "plagiarism-decision-tree.webp": {
+      "key": "course/bsw/third-year/reading-writing/u1-summaries-and-critiques/plagiarism-decision-tree.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u1-summaries-and-critiques/plagiarism-decision-tree.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 70832,
+      "contentHashed": false
+    },
+    "summarizing-paraphrasing-quoting.webp": {
+      "key": "course/bsw/third-year/reading-writing/u1-summaries-and-critiques/summarizing-paraphrasing-quoting.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u1-summaries-and-critiques/summarizing-paraphrasing-quoting.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 142524,
+      "contentHashed": false
+    },
+    "summary-length-proportion.webp": {
+      "key": "course/bsw/third-year/reading-writing/u1-summaries-and-critiques/summary-length-proportion.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u1-summaries-and-critiques/summary-length-proportion.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 84256,
+      "contentHashed": false
+    },
+    "summary-process-flow.webp": {
+      "key": "course/bsw/third-year/reading-writing/u1-summaries-and-critiques/summary-process-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u1-summaries-and-critiques/summary-process-flow.webp",
+      "contentType": "image/webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 65590,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u1-summaries-and-critiques/critical-reading-stages.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u1-summaries-and-critiques/critique-essay-skeleton.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u1-summaries-and-critiques/note-making-system.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u1-summaries-and-critiques/objectivity-spectrum.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u1-summaries-and-critiques/plagiarism-decision-tree.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u1-summaries-and-critiques/summarizing-paraphrasing-quoting.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u1-summaries-and-critiques/summary-length-proportion.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u1-summaries-and-critiques/summary-process-flow.webp"
+  ]
+}

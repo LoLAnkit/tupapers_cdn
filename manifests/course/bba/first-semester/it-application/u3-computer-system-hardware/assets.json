@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:22.064Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/first-semester/it-application/u3-computer-system-hardware",
+  "totalAssets": 7,
+  "assets": {
+    "cache-memory-placement.webp": {
+      "key": "course/bba/first-semester/it-application/u3-computer-system-hardware/cache-memory-placement.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u3-computer-system-hardware/cache-memory-placement.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 148510,
+      "contentHashed": false
+    },
+    "computer-unit-interconnection.webp": {
+      "key": "course/bba/first-semester/it-application/u3-computer-system-hardware/computer-unit-interconnection.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u3-computer-system-hardware/computer-unit-interconnection.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 169616,
+      "contentHashed": false
+    },
+    "cpu-internal-organization.webp": {
+      "key": "course/bba/first-semester/it-application/u3-computer-system-hardware/cpu-internal-organization.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u3-computer-system-hardware/cpu-internal-organization.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 79290,
+      "contentHashed": false
+    },
+    "cpu-registers.webp": {
+      "key": "course/bba/first-semester/it-application/u3-computer-system-hardware/cpu-registers.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u3-computer-system-hardware/cpu-registers.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 113884,
+      "contentHashed": false
+    },
+    "inside-a-computer-cabinet.webp": {
+      "key": "course/bba/first-semester/it-application/u3-computer-system-hardware/inside-a-computer-cabinet.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u3-computer-system-hardware/inside-a-computer-cabinet.webp",
+      "contentType": "image/webp",
+      "width": 1374,
+      "height": 1145,
+      "bytes": 202330,
+      "contentHashed": false
+    },
+    "io-system-working.webp": {
+      "key": "course/bba/first-semester/it-application/u3-computer-system-hardware/io-system-working.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u3-computer-system-hardware/io-system-working.webp",
+      "contentType": "image/webp",
+      "width": 1974,
+      "height": 797,
+      "bytes": 120294,
+      "contentHashed": false
+    },
+    "memory-hierarchy.webp": {
+      "key": "course/bba/first-semester/it-application/u3-computer-system-hardware/memory-hierarchy.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u3-computer-system-hardware/memory-hierarchy.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 132222,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u3-computer-system-hardware/cache-memory-placement.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u3-computer-system-hardware/computer-unit-interconnection.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u3-computer-system-hardware/cpu-internal-organization.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u3-computer-system-hardware/cpu-registers.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u3-computer-system-hardware/inside-a-computer-cabinet.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u3-computer-system-hardware/io-system-working.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u3-computer-system-hardware/memory-hierarchy.webp"
+  ]
+}

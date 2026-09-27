@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:22.077Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/first-semester/it-application/u6-internet-and-internet-services",
+  "totalAssets": 7,
+  "assets": {
+    "client-server-architecture.webp": {
+      "key": "course/bba/first-semester/it-application/u6-internet-and-internet-services/client-server-architecture.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u6-internet-and-internet-services/client-server-architecture.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 128350,
+      "contentHashed": false
+    },
+    "dns-name-resolution.webp": {
+      "key": "course/bba/first-semester/it-application/u6-internet-and-internet-services/dns-name-resolution.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u6-internet-and-internet-services/dns-name-resolution.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 94194,
+      "contentHashed": false
+    },
+    "http-request-response.webp": {
+      "key": "course/bba/first-semester/it-application/u6-internet-and-internet-services/http-request-response.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u6-internet-and-internet-services/http-request-response.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 106152,
+      "contentHashed": false
+    },
+    "internet-architecture.webp": {
+      "key": "course/bba/first-semester/it-application/u6-internet-and-internet-services/internet-architecture.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u6-internet-and-internet-services/internet-architecture.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 120684,
+      "contentHashed": false
+    },
+    "internet-service-protocols.webp": {
+      "key": "course/bba/first-semester/it-application/u6-internet-and-internet-services/internet-service-protocols.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u6-internet-and-internet-services/internet-service-protocols.webp",
+      "contentType": "image/webp",
+      "width": 1225,
+      "height": 1284,
+      "bytes": 120424,
+      "contentHashed": false
+    },
+    "search-engine-workflow.webp": {
+      "key": "course/bba/first-semester/it-application/u6-internet-and-internet-services/search-engine-workflow.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u6-internet-and-internet-services/search-engine-workflow.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 118722,
+      "contentHashed": false
+    },
+    "static-vs-dynamic-webpages.webp": {
+      "key": "course/bba/first-semester/it-application/u6-internet-and-internet-services/static-vs-dynamic-webpages.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u6-internet-and-internet-services/static-vs-dynamic-webpages.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 101560,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u6-internet-and-internet-services/client-server-architecture.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u6-internet-and-internet-services/dns-name-resolution.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u6-internet-and-internet-services/http-request-response.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u6-internet-and-internet-services/internet-architecture.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u6-internet-and-internet-services/internet-service-protocols.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u6-internet-and-internet-services/search-engine-workflow.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u6-internet-and-internet-services/static-vs-dynamic-webpages.webp"
+  ]
+}

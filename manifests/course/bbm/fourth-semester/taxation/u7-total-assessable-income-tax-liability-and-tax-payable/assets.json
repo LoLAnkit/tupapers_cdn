@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:22.467Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbm/fourth-semester/taxation/u7-total-assessable-income-tax-liability-and-tax-payable",
+  "totalAssets": 6,
+  "assets": {
+    "assessable-income-to-tax-payable-flow.webp": {
+      "key": "course/bbm/fourth-semester/taxation/u7-total-assessable-income-tax-liability-and-tax-payable/assessable-income-to-tax-payable-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u7-total-assessable-income-tax-liability-and-tax-payable/assessable-income-to-tax-payable-flow.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 79926,
+      "contentHashed": false
+    },
+    "exemption-and-tax-concession-treatment.webp": {
+      "key": "course/bbm/fourth-semester/taxation/u7-total-assessable-income-tax-liability-and-tax-payable/exemption-and-tax-concession-treatment.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u7-total-assessable-income-tax-liability-and-tax-payable/exemption-and-tax-concession-treatment.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 75822,
+      "contentHashed": false
+    },
+    "progressive-and-flat-tax-rates.webp": {
+      "key": "course/bbm/fourth-semester/taxation/u7-total-assessable-income-tax-liability-and-tax-payable/progressive-and-flat-tax-rates.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u7-total-assessable-income-tax-liability-and-tax-payable/progressive-and-flat-tax-rates.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 110440,
+      "contentHashed": false
+    },
+    "tax-credits.webp": {
+      "key": "course/bbm/fourth-semester/taxation/u7-total-assessable-income-tax-liability-and-tax-payable/tax-credits.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u7-total-assessable-income-tax-liability-and-tax-payable/tax-credits.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 82618,
+      "contentHashed": false
+    },
+    "total-tax-computation-for-an-individual.webp": {
+      "key": "course/bbm/fourth-semester/taxation/u7-total-assessable-income-tax-liability-and-tax-payable/total-tax-computation-for-an-individual.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u7-total-assessable-income-tax-liability-and-tax-payable/total-tax-computation-for-an-individual.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 69954,
+      "contentHashed": false
+    },
+    "withholding-and-tds-flow.webp": {
+      "key": "course/bbm/fourth-semester/taxation/u7-total-assessable-income-tax-liability-and-tax-payable/withholding-and-tds-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u7-total-assessable-income-tax-liability-and-tax-payable/withholding-and-tds-flow.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 59092,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u7-total-assessable-income-tax-liability-and-tax-payable/assessable-income-to-tax-payable-flow.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u7-total-assessable-income-tax-liability-and-tax-payable/exemption-and-tax-concession-treatment.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u7-total-assessable-income-tax-liability-and-tax-payable/progressive-and-flat-tax-rates.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u7-total-assessable-income-tax-liability-and-tax-payable/tax-credits.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u7-total-assessable-income-tax-liability-and-tax-payable/total-tax-computation-for-an-individual.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u7-total-assessable-income-tax-liability-and-tax-payable/withholding-and-tds-flow.webp"
+  ]
+}

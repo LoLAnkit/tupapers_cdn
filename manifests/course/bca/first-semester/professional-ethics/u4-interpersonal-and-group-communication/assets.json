@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-23T15:12:22.002Z",
+  "generatedAt": "2026-09-27T06:14:22.983Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/first-semester/professional-ethics/u4-interpersonal-and-group-communication",
-  "totalAssets": 4,
+  "totalAssets": 6,
   "assets": {
-    "active-listening-ladder.webp": {
-      "key": "course/bca/first-semester/professional-ethics/u4-interpersonal-and-group-communication/active-listening-ladder.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u4-interpersonal-and-group-communication/active-listening-ladder.webp",
+    "adapting-communication-to-audience.webp": {
+      "key": "course/bca/first-semester/professional-ethics/u4-interpersonal-and-group-communication/adapting-communication-to-audience.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u4-interpersonal-and-group-communication/adapting-communication-to-audience.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 101104,
+      "bytes": 110936,
       "contentHashed": false
     },
     "intercultural-communication-iceberg.webp": {
@@ -20,32 +20,52 @@
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 165016,
+      "bytes": 158492,
       "contentHashed": false
     },
-    "leadership-communication-loop.webp": {
-      "key": "course/bca/first-semester/professional-ethics/u4-interpersonal-and-group-communication/leadership-communication-loop.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u4-interpersonal-and-group-communication/leadership-communication-loop.webp",
+    "interpersonal-communication-loop.webp": {
+      "key": "course/bca/first-semester/professional-ethics/u4-interpersonal-and-group-communication/interpersonal-communication-loop.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u4-interpersonal-and-group-communication/interpersonal-communication-loop.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 119002,
+      "bytes": 144350,
       "contentHashed": false
     },
-    "team-sociogram.webp": {
-      "key": "course/bca/first-semester/professional-ethics/u4-interpersonal-and-group-communication/team-sociogram.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u4-interpersonal-and-group-communication/team-sociogram.webp",
+    "leadership-communication-in-crisis.webp": {
+      "key": "course/bca/first-semester/professional-ethics/u4-interpersonal-and-group-communication/leadership-communication-in-crisis.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u4-interpersonal-and-group-communication/leadership-communication-in-crisis.webp",
+      "contentType": "image/webp",
+      "width": 2007,
+      "height": 784,
+      "bytes": 136488,
+      "contentHashed": false
+    },
+    "sociogram-of-team-dynamics.webp": {
+      "key": "course/bca/first-semester/professional-ethics/u4-interpersonal-and-group-communication/sociogram-of-team-dynamics.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u4-interpersonal-and-group-communication/sociogram-of-team-dynamics.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 78954,
+      "bytes": 89740,
+      "contentHashed": false
+    },
+    "three-degrees-of-active-listening.webp": {
+      "key": "course/bca/first-semester/professional-ethics/u4-interpersonal-and-group-communication/three-degrees-of-active-listening.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u4-interpersonal-and-group-communication/three-degrees-of-active-listening.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 147450,
       "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u4-interpersonal-and-group-communication/active-listening-ladder.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u4-interpersonal-and-group-communication/adapting-communication-to-audience.webp",
     "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u4-interpersonal-and-group-communication/intercultural-communication-iceberg.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u4-interpersonal-and-group-communication/leadership-communication-loop.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u4-interpersonal-and-group-communication/team-sociogram.webp"
+    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u4-interpersonal-and-group-communication/interpersonal-communication-loop.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u4-interpersonal-and-group-communication/leadership-communication-in-crisis.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u4-interpersonal-and-group-communication/sociogram-of-team-dynamics.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u4-interpersonal-and-group-communication/three-degrees-of-active-listening.webp"
   ]
 }

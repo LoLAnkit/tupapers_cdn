@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:23.803Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/third-year/development-practices/u1-introduction-to-development-approaches",
+  "totalAssets": 7,
+  "assets": {
+    "basic-needs-approach.webp": {
+      "key": "course/bsw/third-year/development-practices/u1-introduction-to-development-approaches/basic-needs-approach.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u1-introduction-to-development-approaches/basic-needs-approach.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 79274,
+      "contentHashed": false
+    },
+    "community-development-process.webp": {
+      "key": "course/bsw/third-year/development-practices/u1-introduction-to-development-approaches/community-development-process.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u1-introduction-to-development-approaches/community-development-process.webp",
+      "contentType": "image/webp",
+      "width": 1312,
+      "height": 1199,
+      "bytes": 78708,
+      "contentHashed": false
+    },
+    "doubly-green-revolution.webp": {
+      "key": "course/bsw/third-year/development-practices/u1-introduction-to-development-approaches/doubly-green-revolution.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u1-introduction-to-development-approaches/doubly-green-revolution.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 114632,
+      "contentHashed": false
+    },
+    "human-development-approach.webp": {
+      "key": "course/bsw/third-year/development-practices/u1-introduction-to-development-approaches/human-development-approach.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u1-introduction-to-development-approaches/human-development-approach.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 104952,
+      "contentHashed": false
+    },
+    "integrated-rural-development-approach.webp": {
+      "key": "course/bsw/third-year/development-practices/u1-introduction-to-development-approaches/integrated-rural-development-approach.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u1-introduction-to-development-approaches/integrated-rural-development-approach.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 72726,
+      "contentHashed": false
+    },
+    "rights-based-approach.webp": {
+      "key": "course/bsw/third-year/development-practices/u1-introduction-to-development-approaches/rights-based-approach.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u1-introduction-to-development-approaches/rights-based-approach.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 70592,
+      "contentHashed": false
+    },
+    "rural-livelihood-framework.webp": {
+      "key": "course/bsw/third-year/development-practices/u1-introduction-to-development-approaches/rural-livelihood-framework.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u1-introduction-to-development-approaches/rural-livelihood-framework.webp",
+      "contentType": "image/webp",
+      "width": 1839,
+      "height": 855,
+      "bytes": 115158,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u1-introduction-to-development-approaches/basic-needs-approach.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u1-introduction-to-development-approaches/community-development-process.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u1-introduction-to-development-approaches/doubly-green-revolution.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u1-introduction-to-development-approaches/human-development-approach.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u1-introduction-to-development-approaches/integrated-rural-development-approach.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u1-introduction-to-development-approaches/rights-based-approach.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u1-introduction-to-development-approaches/rural-livelihood-framework.webp"
+  ]
+}

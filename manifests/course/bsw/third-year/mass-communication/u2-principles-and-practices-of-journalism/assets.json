@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:23.830Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/third-year/mass-communication/u2-principles-and-practices-of-journalism",
+  "totalAssets": 7,
+  "assets": {
+    "headline-deadline-dateline-and-lead.webp": {
+      "key": "course/bsw/third-year/mass-communication/u2-principles-and-practices-of-journalism/headline-deadline-dateline-and-lead.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/mass-communication/u2-principles-and-practices-of-journalism/headline-deadline-dateline-and-lead.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 183046,
+      "contentHashed": false
+    },
+    "news-sources-to-story-flow.webp": {
+      "key": "course/bsw/third-year/mass-communication/u2-principles-and-practices-of-journalism/news-sources-to-story-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/mass-communication/u2-principles-and-practices-of-journalism/news-sources-to-story-flow.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 101480,
+      "contentHashed": false
+    },
+    "news-story-anatomy.webp": {
+      "key": "course/bsw/third-year/mass-communication/u2-principles-and-practices-of-journalism/news-story-anatomy.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/mass-communication/u2-principles-and-practices-of-journalism/news-story-anatomy.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 178438,
+      "contentHashed": false
+    },
+    "news-values-decision-map.webp": {
+      "key": "course/bsw/third-year/mass-communication/u2-principles-and-practices-of-journalism/news-values-decision-map.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/mass-communication/u2-principles-and-practices-of-journalism/news-values-decision-map.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 124898,
+      "contentHashed": false
+    },
+    "page-making-and-visual-elements.webp": {
+      "key": "course/bsw/third-year/mass-communication/u2-principles-and-practices-of-journalism/page-making-and-visual-elements.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/mass-communication/u2-principles-and-practices-of-journalism/page-making-and-visual-elements.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 208336,
+      "contentHashed": false
+    },
+    "proofreading-and-copy-editing-flow.webp": {
+      "key": "course/bsw/third-year/mass-communication/u2-principles-and-practices-of-journalism/proofreading-and-copy-editing-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/mass-communication/u2-principles-and-practices-of-journalism/proofreading-and-copy-editing-flow.webp",
+      "contentType": "image/webp",
+      "width": 2001,
+      "height": 786,
+      "bytes": 143866,
+      "contentHashed": false
+    },
+    "reporter-and-editor-workflow.webp": {
+      "key": "course/bsw/third-year/mass-communication/u2-principles-and-practices-of-journalism/reporter-and-editor-workflow.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/mass-communication/u2-principles-and-practices-of-journalism/reporter-and-editor-workflow.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 154098,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/third-year/mass-communication/u2-principles-and-practices-of-journalism/headline-deadline-dateline-and-lead.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/mass-communication/u2-principles-and-practices-of-journalism/news-sources-to-story-flow.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/mass-communication/u2-principles-and-practices-of-journalism/news-story-anatomy.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/mass-communication/u2-principles-and-practices-of-journalism/news-values-decision-map.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/mass-communication/u2-principles-and-practices-of-journalism/page-making-and-visual-elements.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/mass-communication/u2-principles-and-practices-of-journalism/proofreading-and-copy-editing-flow.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/mass-communication/u2-principles-and-practices-of-journalism/reporter-and-editor-workflow.webp"
+  ]
+}

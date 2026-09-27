@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:22.080Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/first-semester/it-application/u7-multimedia-and-the-web",
+  "totalAssets": 4,
+  "assets": {
+    "digital-sound-representation.webp": {
+      "key": "course/bba/first-semester/it-application/u7-multimedia-and-the-web/digital-sound-representation.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u7-multimedia-and-the-web/digital-sound-representation.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 57794,
+      "contentHashed": false
+    },
+    "elements-of-multimedia.webp": {
+      "key": "course/bba/first-semester/it-application/u7-multimedia-and-the-web/elements-of-multimedia.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u7-multimedia-and-the-web/elements-of-multimedia.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 141550,
+      "contentHashed": false
+    },
+    "multimedia-in-business-and-applications.webp": {
+      "key": "course/bba/first-semester/it-application/u7-multimedia-and-the-web/multimedia-in-business-and-applications.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u7-multimedia-and-the-web/multimedia-in-business-and-applications.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 244358,
+      "contentHashed": false
+    },
+    "web-based-multimedia-delivery.webp": {
+      "key": "course/bba/first-semester/it-application/u7-multimedia-and-the-web/web-based-multimedia-delivery.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u7-multimedia-and-the-web/web-based-multimedia-delivery.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 134604,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u7-multimedia-and-the-web/digital-sound-representation.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u7-multimedia-and-the-web/elements-of-multimedia.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u7-multimedia-and-the-web/multimedia-in-business-and-applications.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u7-multimedia-and-the-web/web-based-multimedia-delivery.webp"
+  ]
+}

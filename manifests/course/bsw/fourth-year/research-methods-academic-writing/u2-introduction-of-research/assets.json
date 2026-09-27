@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:23.622Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/fourth-year/research-methods-academic-writing/u2-introduction-of-research",
+  "totalAssets": 3,
+  "assets": {
+    "characteristics-of-good-research-checkpoint-path.webp": {
+      "key": "course/bsw/fourth-year/research-methods-academic-writing/u2-introduction-of-research/characteristics-of-good-research-checkpoint-path.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/fourth-year/research-methods-academic-writing/u2-introduction-of-research/characteristics-of-good-research-checkpoint-path.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 64768,
+      "contentHashed": false
+    },
+    "nature-and-scope-of-research-map.webp": {
+      "key": "course/bsw/fourth-year/research-methods-academic-writing/u2-introduction-of-research/nature-and-scope-of-research-map.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/fourth-year/research-methods-academic-writing/u2-introduction-of-research/nature-and-scope-of-research-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 124228,
+      "contentHashed": false
+    },
+    "steps-in-social-research-flow.webp": {
+      "key": "course/bsw/fourth-year/research-methods-academic-writing/u2-introduction-of-research/steps-in-social-research-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/fourth-year/research-methods-academic-writing/u2-introduction-of-research/steps-in-social-research-flow.webp",
+      "contentType": "image/webp",
+      "width": 1225,
+      "height": 1284,
+      "bytes": 103900,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/fourth-year/research-methods-academic-writing/u2-introduction-of-research/characteristics-of-good-research-checkpoint-path.webp",
+    "https://cdn.tupapers.com/course/bsw/fourth-year/research-methods-academic-writing/u2-introduction-of-research/nature-and-scope-of-research-map.webp",
+    "https://cdn.tupapers.com/course/bsw/fourth-year/research-methods-academic-writing/u2-introduction-of-research/steps-in-social-research-flow.webp"
+  ]
+}

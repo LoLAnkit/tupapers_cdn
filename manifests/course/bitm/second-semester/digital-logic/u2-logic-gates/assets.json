@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:23.436Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bitm/second-semester/digital-logic/u2-logic-gates",
+  "totalAssets": 5,
+  "assets": {
+    "basic-and-derived-logic-gates.webp": {
+      "key": "course/bitm/second-semester/digital-logic/u2-logic-gates/basic-and-derived-logic-gates.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u2-logic-gates/basic-and-derived-logic-gates.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 83130,
+      "contentHashed": false
+    },
+    "equivalent-gate-realizations.webp": {
+      "key": "course/bitm/second-semester/digital-logic/u2-logic-gates/equivalent-gate-realizations.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u2-logic-gates/equivalent-gate-realizations.webp",
+      "contentType": "image/webp",
+      "width": 1223,
+      "height": 1286,
+      "bytes": 77706,
+      "contentHashed": false
+    },
+    "logic-gate-application-network.webp": {
+      "key": "course/bitm/second-semester/digital-logic/u2-logic-gates/logic-gate-application-network.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u2-logic-gates/logic-gate-application-network.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 51556,
+      "contentHashed": false
+    },
+    "nand-as-a-universal-gate.webp": {
+      "key": "course/bitm/second-semester/digital-logic/u2-logic-gates/nand-as-a-universal-gate.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u2-logic-gates/nand-as-a-universal-gate.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 74378,
+      "contentHashed": false
+    },
+    "nor-as-a-universal-gate.webp": {
+      "key": "course/bitm/second-semester/digital-logic/u2-logic-gates/nor-as-a-universal-gate.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u2-logic-gates/nor-as-a-universal-gate.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 62308,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u2-logic-gates/basic-and-derived-logic-gates.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u2-logic-gates/equivalent-gate-realizations.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u2-logic-gates/logic-gate-application-network.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u2-logic-gates/nand-as-a-universal-gate.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u2-logic-gates/nor-as-a-universal-gate.webp"
+  ]
+}

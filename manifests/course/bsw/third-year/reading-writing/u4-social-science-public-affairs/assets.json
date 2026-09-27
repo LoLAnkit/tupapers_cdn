@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:23.886Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/third-year/reading-writing/u4-social-science-public-affairs",
+  "totalAssets": 7,
+  "assets": {
+    "affective-forecasting-gap-gertner.webp": {
+      "key": "course/bsw/third-year/reading-writing/u4-social-science-public-affairs/affective-forecasting-gap-gertner.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u4-social-science-public-affairs/affective-forecasting-gap-gertner.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 59826,
+      "contentHashed": false
+    },
+    "facs-facial-action-units.webp": {
+      "key": "course/bsw/third-year/reading-writing/u4-social-science-public-affairs/facs-facial-action-units.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u4-social-science-public-affairs/facs-facial-action-units.webp",
+      "contentType": "image/webp",
+      "width": 1227,
+      "height": 1282,
+      "bytes": 154008,
+      "contentHashed": false
+    },
+    "kings-intellectual-journey-timeline.webp": {
+      "key": "course/bsw/third-year/reading-writing/u4-social-science-public-affairs/kings-intellectual-journey-timeline.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u4-social-science-public-affairs/kings-intellectual-journey-timeline.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 135176,
+      "contentHashed": false
+    },
+    "moores-courtship-signal-taxonomy.webp": {
+      "key": "course/bsw/third-year/reading-writing/u4-social-science-public-affairs/moores-courtship-signal-taxonomy.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u4-social-science-public-affairs/moores-courtship-signal-taxonomy.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 70258,
+      "contentHashed": false
+    },
+    "nagasaki-bombing-context-map-timeline.webp": {
+      "key": "course/bsw/third-year/reading-writing/u4-social-science-public-affairs/nagasaki-bombing-context-map-timeline.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u4-social-science-public-affairs/nagasaki-bombing-context-map-timeline.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 65468,
+      "contentHashed": false
+    },
+    "nonverbal-communication-channels-gladwell.webp": {
+      "key": "course/bsw/third-year/reading-writing/u4-social-science-public-affairs/nonverbal-communication-channels-gladwell.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u4-social-science-public-affairs/nonverbal-communication-channels-gladwell.webp",
+      "contentType": "image/webp",
+      "width": 1374,
+      "height": 1145,
+      "bytes": 93918,
+      "contentHashed": false
+    },
+    "pillars-of-nonviolent-resistance-mlk.webp": {
+      "key": "course/bsw/third-year/reading-writing/u4-social-science-public-affairs/pillars-of-nonviolent-resistance-mlk.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u4-social-science-public-affairs/pillars-of-nonviolent-resistance-mlk.webp",
+      "contentType": "image/webp",
+      "width": 1470,
+      "height": 1070,
+      "bytes": 217546,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u4-social-science-public-affairs/affective-forecasting-gap-gertner.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u4-social-science-public-affairs/facs-facial-action-units.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u4-social-science-public-affairs/kings-intellectual-journey-timeline.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u4-social-science-public-affairs/moores-courtship-signal-taxonomy.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u4-social-science-public-affairs/nagasaki-bombing-context-map-timeline.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u4-social-science-public-affairs/nonverbal-communication-channels-gladwell.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u4-social-science-public-affairs/pillars-of-nonviolent-resistance-mlk.webp"
+  ]
+}

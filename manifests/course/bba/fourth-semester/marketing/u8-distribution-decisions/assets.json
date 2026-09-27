@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:22.156Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/fourth-semester/marketing/u8-distribution-decisions",
+  "totalAssets": 7,
+  "assets": {
+    "channel-conflict-resolution.webp": {
+      "key": "course/bba/fourth-semester/marketing/u8-distribution-decisions/channel-conflict-resolution.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u8-distribution-decisions/channel-conflict-resolution.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 89002,
+      "contentHashed": false
+    },
+    "channel-selection-decision.webp": {
+      "key": "course/bba/fourth-semester/marketing/u8-distribution-decisions/channel-selection-decision.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u8-distribution-decisions/channel-selection-decision.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 84682,
+      "contentHashed": false
+    },
+    "consumer-distribution-channel-design.webp": {
+      "key": "course/bba/fourth-semester/marketing/u8-distribution-decisions/consumer-distribution-channel-design.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u8-distribution-decisions/consumer-distribution-channel-design.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 99126,
+      "contentHashed": false
+    },
+    "industrial-distribution-channel-design.webp": {
+      "key": "course/bba/fourth-semester/marketing/u8-distribution-decisions/industrial-distribution-channel-design.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u8-distribution-decisions/industrial-distribution-channel-design.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 124272,
+      "contentHashed": false
+    },
+    "marketing-logistics-system.webp": {
+      "key": "course/bba/fourth-semester/marketing/u8-distribution-decisions/marketing-logistics-system.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u8-distribution-decisions/marketing-logistics-system.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 139850,
+      "contentHashed": false
+    },
+    "order-processing-and-customer-service.webp": {
+      "key": "course/bba/fourth-semester/marketing/u8-distribution-decisions/order-processing-and-customer-service.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u8-distribution-decisions/order-processing-and-customer-service.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 132674,
+      "contentHashed": false
+    },
+    "physical-distribution-flow.webp": {
+      "key": "course/bba/fourth-semester/marketing/u8-distribution-decisions/physical-distribution-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u8-distribution-decisions/physical-distribution-flow.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 97810,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u8-distribution-decisions/channel-conflict-resolution.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u8-distribution-decisions/channel-selection-decision.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u8-distribution-decisions/consumer-distribution-channel-design.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u8-distribution-decisions/industrial-distribution-channel-design.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u8-distribution-decisions/marketing-logistics-system.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u8-distribution-decisions/order-processing-and-customer-service.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u8-distribution-decisions/physical-distribution-flow.webp"
+  ]
+}

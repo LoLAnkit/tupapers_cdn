@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:22.057Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/first-semester/it-application/u1-introduction-to-computers",
+  "totalAssets": 6,
+  "assets": {
+    "computer-applications.webp": {
+      "key": "course/bba/first-semester/it-application/u1-introduction-to-computers/computer-applications.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u1-introduction-to-computers/computer-applications.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 151284,
+      "contentHashed": false
+    },
+    "computer-characteristics-in-action.webp": {
+      "key": "course/bba/first-semester/it-application/u1-introduction-to-computers/computer-characteristics-in-action.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u1-introduction-to-computers/computer-characteristics-in-action.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 178814,
+      "contentHashed": false
+    },
+    "computer-classification.webp": {
+      "key": "course/bba/first-semester/it-application/u1-introduction-to-computers/computer-classification.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u1-introduction-to-computers/computer-classification.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 123488,
+      "contentHashed": false
+    },
+    "computer-system-overview.webp": {
+      "key": "course/bba/first-semester/it-application/u1-introduction-to-computers/computer-system-overview.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u1-introduction-to-computers/computer-system-overview.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 58528,
+      "contentHashed": false
+    },
+    "data-representation-in-a-computer.webp": {
+      "key": "course/bba/first-semester/it-application/u1-introduction-to-computers/data-representation-in-a-computer.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u1-introduction-to-computers/data-representation-in-a-computer.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 130484,
+      "contentHashed": false
+    },
+    "digital-vs-analog-computers.webp": {
+      "key": "course/bba/first-semester/it-application/u1-introduction-to-computers/digital-vs-analog-computers.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u1-introduction-to-computers/digital-vs-analog-computers.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 106818,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u1-introduction-to-computers/computer-applications.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u1-introduction-to-computers/computer-characteristics-in-action.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u1-introduction-to-computers/computer-classification.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u1-introduction-to-computers/computer-system-overview.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u1-introduction-to-computers/data-representation-in-a-computer.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u1-introduction-to-computers/digital-vs-analog-computers.webp"
+  ]
+}

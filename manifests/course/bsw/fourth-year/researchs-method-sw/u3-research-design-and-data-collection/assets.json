@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:23.657Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/fourth-year/researchs-method-sw/u3-research-design-and-data-collection",
+  "totalAssets": 6,
+  "assets": {
+    "u3-census-and-survey-coverage.webp": {
+      "key": "course/bsw/fourth-year/researchs-method-sw/u3-research-design-and-data-collection/u3-census-and-survey-coverage.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/fourth-year/researchs-method-sw/u3-research-design-and-data-collection/u3-census-and-survey-coverage.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 150614,
+      "contentHashed": false
+    },
+    "u3-historical-narrative-ethnographic-design-comparison.webp": {
+      "key": "course/bsw/fourth-year/researchs-method-sw/u3-research-design-and-data-collection/u3-historical-narrative-ethnographic-design-comparison.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/fourth-year/researchs-method-sw/u3-research-design-and-data-collection/u3-historical-narrative-ethnographic-design-comparison.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 291610,
+      "contentHashed": false
+    },
+    "u3-major-research-design-families.webp": {
+      "key": "course/bsw/fourth-year/researchs-method-sw/u3-research-design-and-data-collection/u3-major-research-design-families.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/fourth-year/researchs-method-sw/u3-research-design-and-data-collection/u3-major-research-design-families.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 146340,
+      "contentHashed": false
+    },
+    "u3-research-design-selection-map.webp": {
+      "key": "course/bsw/fourth-year/researchs-method-sw/u3-research-design-and-data-collection/u3-research-design-selection-map.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/fourth-year/researchs-method-sw/u3-research-design-and-data-collection/u3-research-design-selection-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 103128,
+      "contentHashed": false
+    },
+    "u3-sequential-concurrent-transformative-design-flows.webp": {
+      "key": "course/bsw/fourth-year/researchs-method-sw/u3-research-design-and-data-collection/u3-sequential-concurrent-transformative-design-flows.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/fourth-year/researchs-method-sw/u3-research-design-and-data-collection/u3-sequential-concurrent-transformative-design-flows.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 145696,
+      "contentHashed": false
+    },
+    "u3-universe-to-sample-funnel.webp": {
+      "key": "course/bsw/fourth-year/researchs-method-sw/u3-research-design-and-data-collection/u3-universe-to-sample-funnel.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/fourth-year/researchs-method-sw/u3-research-design-and-data-collection/u3-universe-to-sample-funnel.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 137456,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/fourth-year/researchs-method-sw/u3-research-design-and-data-collection/u3-census-and-survey-coverage.webp",
+    "https://cdn.tupapers.com/course/bsw/fourth-year/researchs-method-sw/u3-research-design-and-data-collection/u3-historical-narrative-ethnographic-design-comparison.webp",
+    "https://cdn.tupapers.com/course/bsw/fourth-year/researchs-method-sw/u3-research-design-and-data-collection/u3-major-research-design-families.webp",
+    "https://cdn.tupapers.com/course/bsw/fourth-year/researchs-method-sw/u3-research-design-and-data-collection/u3-research-design-selection-map.webp",
+    "https://cdn.tupapers.com/course/bsw/fourth-year/researchs-method-sw/u3-research-design-and-data-collection/u3-sequential-concurrent-transformative-design-flows.webp",
+    "https://cdn.tupapers.com/course/bsw/fourth-year/researchs-method-sw/u3-research-design-and-data-collection/u3-universe-to-sample-funnel.webp"
+  ]
+}

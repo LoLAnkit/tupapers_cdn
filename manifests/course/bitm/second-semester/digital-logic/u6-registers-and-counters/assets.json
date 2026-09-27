@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:23.450Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bitm/second-semester/digital-logic/u6-registers-and-counters",
+  "totalAssets": 7,
+  "assets": {
+    "asynchronous-ripple-counter.webp": {
+      "key": "course/bitm/second-semester/digital-logic/u6-registers-and-counters/asynchronous-ripple-counter.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u6-registers-and-counters/asynchronous-ripple-counter.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 57074,
+      "contentHashed": false
+    },
+    "bidirectional-shift-register.webp": {
+      "key": "course/bitm/second-semester/digital-logic/u6-registers-and-counters/bidirectional-shift-register.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u6-registers-and-counters/bidirectional-shift-register.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 73190,
+      "contentHashed": false
+    },
+    "mod-n-counter-design.webp": {
+      "key": "course/bitm/second-semester/digital-logic/u6-registers-and-counters/mod-n-counter-design.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u6-registers-and-counters/mod-n-counter-design.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 94922,
+      "contentHashed": false
+    },
+    "shift-register-timing.webp": {
+      "key": "course/bitm/second-semester/digital-logic/u6-registers-and-counters/shift-register-timing.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u6-registers-and-counters/shift-register-timing.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 61286,
+      "contentHashed": false
+    },
+    "shift-register-transfer-modes.webp": {
+      "key": "course/bitm/second-semester/digital-logic/u6-registers-and-counters/shift-register-transfer-modes.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u6-registers-and-counters/shift-register-transfer-modes.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 77194,
+      "contentHashed": false
+    },
+    "synchronous-counter.webp": {
+      "key": "course/bitm/second-semester/digital-logic/u6-registers-and-counters/synchronous-counter.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u6-registers-and-counters/synchronous-counter.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 77696,
+      "contentHashed": false
+    },
+    "synchronous-up-down-counter.webp": {
+      "key": "course/bitm/second-semester/digital-logic/u6-registers-and-counters/synchronous-up-down-counter.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u6-registers-and-counters/synchronous-up-down-counter.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 81258,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u6-registers-and-counters/asynchronous-ripple-counter.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u6-registers-and-counters/bidirectional-shift-register.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u6-registers-and-counters/mod-n-counter-design.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u6-registers-and-counters/shift-register-timing.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u6-registers-and-counters/shift-register-transfer-modes.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u6-registers-and-counters/synchronous-counter.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u6-registers-and-counters/synchronous-up-down-counter.webp"
+  ]
+}

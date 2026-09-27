@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:22.061Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/first-semester/it-application/u2-information-technology-and-business",
+  "totalAssets": 5,
+  "assets": {
+    "business-in-the-information-age.webp": {
+      "key": "course/bba/first-semester/it-application/u2-information-technology-and-business/business-in-the-information-age.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u2-information-technology-and-business/business-in-the-information-age.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 99336,
+      "contentHashed": false
+    },
+    "business-information-systems.webp": {
+      "key": "course/bba/first-semester/it-application/u2-information-technology-and-business/business-information-systems.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u2-information-technology-and-business/business-information-systems.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 161818,
+      "contentHashed": false
+    },
+    "it-supported-business-process.webp": {
+      "key": "course/bba/first-semester/it-application/u2-information-technology-and-business/it-supported-business-process.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u2-information-technology-and-business/it-supported-business-process.webp",
+      "contentType": "image/webp",
+      "width": 2094,
+      "height": 751,
+      "bytes": 111412,
+      "contentHashed": false
+    },
+    "organizational-levels-and-it-support.webp": {
+      "key": "course/bba/first-semester/it-application/u2-information-technology-and-business/organizational-levels-and-it-support.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u2-information-technology-and-business/organizational-levels-and-it-support.webp",
+      "contentType": "image/webp",
+      "width": 1351,
+      "height": 1164,
+      "bytes": 103618,
+      "contentHashed": false
+    },
+    "tps-to-mis-information-flow.webp": {
+      "key": "course/bba/first-semester/it-application/u2-information-technology-and-business/tps-to-mis-information-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u2-information-technology-and-business/tps-to-mis-information-flow.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 100048,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u2-information-technology-and-business/business-in-the-information-age.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u2-information-technology-and-business/business-information-systems.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u2-information-technology-and-business/it-supported-business-process.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u2-information-technology-and-business/organizational-levels-and-it-support.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u2-information-technology-and-business/tps-to-mis-information-flow.webp"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:22.456Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbm/fourth-semester/taxation/u3-income-from-employment",
+  "totalAssets": 5,
+  "assets": {
+    "chargeable-vs-non-chargeable-employment-amounts.webp": {
+      "key": "course/bbm/fourth-semester/taxation/u3-income-from-employment/chargeable-vs-non-chargeable-employment-amounts.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u3-income-from-employment/chargeable-vs-non-chargeable-employment-amounts.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 74938,
+      "contentHashed": false
+    },
+    "components-of-employment-income.webp": {
+      "key": "course/bbm/fourth-semester/taxation/u3-income-from-employment/components-of-employment-income.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u3-income-from-employment/components-of-employment-income.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 82598,
+      "contentHashed": false
+    },
+    "employment-income-computation.webp": {
+      "key": "course/bbm/fourth-semester/taxation/u3-income-from-employment/employment-income-computation.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u3-income-from-employment/employment-income-computation.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 100198,
+      "contentHashed": false
+    },
+    "employment-tax-liability-flow.webp": {
+      "key": "course/bbm/fourth-semester/taxation/u3-income-from-employment/employment-tax-liability-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u3-income-from-employment/employment-tax-liability-flow.webp",
+      "contentType": "image/webp",
+      "width": 2103,
+      "height": 748,
+      "bytes": 61770,
+      "contentHashed": false
+    },
+    "perquisite-valuation.webp": {
+      "key": "course/bbm/fourth-semester/taxation/u3-income-from-employment/perquisite-valuation.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u3-income-from-employment/perquisite-valuation.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 60450,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u3-income-from-employment/chargeable-vs-non-chargeable-employment-amounts.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u3-income-from-employment/components-of-employment-income.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u3-income-from-employment/employment-income-computation.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u3-income-from-employment/employment-tax-liability-flow.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u3-income-from-employment/perquisite-valuation.webp"
+  ]
+}

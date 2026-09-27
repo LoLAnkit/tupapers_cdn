@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:23.439Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bitm/second-semester/digital-logic/u3-boolean-algebra-and-logic-simplification",
+  "totalAssets": 6,
+  "assets": {
+    "boolean-laws-as-signal-transformations.webp": {
+      "key": "course/bitm/second-semester/digital-logic/u3-boolean-algebra-and-logic-simplification/boolean-laws-as-signal-transformations.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u3-boolean-algebra-and-logic-simplification/boolean-laws-as-signal-transformations.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 123028,
+      "contentHashed": false
+    },
+    "four-variable-karnaugh-map.webp": {
+      "key": "course/bitm/second-semester/digital-logic/u3-boolean-algebra-and-logic-simplification/four-variable-karnaugh-map.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u3-boolean-algebra-and-logic-simplification/four-variable-karnaugh-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 114088,
+      "contentHashed": false
+    },
+    "minterms-and-maxterms.webp": {
+      "key": "course/bitm/second-semester/digital-logic/u3-boolean-algebra-and-logic-simplification/minterms-and-maxterms.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u3-boolean-algebra-and-logic-simplification/minterms-and-maxterms.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 121138,
+      "contentHashed": false
+    },
+    "quine-mccluskey-tabulation.webp": {
+      "key": "course/bitm/second-semester/digital-logic/u3-boolean-algebra-and-logic-simplification/quine-mccluskey-tabulation.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u3-boolean-algebra-and-logic-simplification/quine-mccluskey-tabulation.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 104740,
+      "contentHashed": false
+    },
+    "sop-and-pos-canonical-forms.webp": {
+      "key": "course/bitm/second-semester/digital-logic/u3-boolean-algebra-and-logic-simplification/sop-and-pos-canonical-forms.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u3-boolean-algebra-and-logic-simplification/sop-and-pos-canonical-forms.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 97848,
+      "contentHashed": false
+    },
+    "using-dont-care-conditions.webp": {
+      "key": "course/bitm/second-semester/digital-logic/u3-boolean-algebra-and-logic-simplification/using-dont-care-conditions.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u3-boolean-algebra-and-logic-simplification/using-dont-care-conditions.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 89442,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u3-boolean-algebra-and-logic-simplification/boolean-laws-as-signal-transformations.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u3-boolean-algebra-and-logic-simplification/four-variable-karnaugh-map.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u3-boolean-algebra-and-logic-simplification/minterms-and-maxterms.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u3-boolean-algebra-and-logic-simplification/quine-mccluskey-tabulation.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u3-boolean-algebra-and-logic-simplification/sop-and-pos-canonical-forms.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u3-boolean-algebra-and-logic-simplification/using-dont-care-conditions.webp"
+  ]
+}

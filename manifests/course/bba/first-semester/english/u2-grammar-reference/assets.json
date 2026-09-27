@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-25T16:46:33.110Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/first-semester/english/u2-grammar-reference",
+  "totalAssets": 1,
+  "assets": {
+    "grammar-reference-word-building.webp": {
+      "key": "course/bba/first-semester/english/u2-grammar-reference/grammar-reference-word-building.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/english/u2-grammar-reference/grammar-reference-word-building.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 93512,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/first-semester/english/u2-grammar-reference/grammar-reference-word-building.webp"
+  ]
+}

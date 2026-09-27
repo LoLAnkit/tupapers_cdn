@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:22.039Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/first-semester/foundation-of-bm/u5-organizational-architecture",
+  "totalAssets": 7,
+  "assets": {
+    "authority-responsibility-and-accountability.webp": {
+      "key": "course/bba/first-semester/foundation-of-bm/u5-organizational-architecture/authority-responsibility-and-accountability.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u5-organizational-architecture/authority-responsibility-and-accountability.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 92632,
+      "contentHashed": false
+    },
+    "centralization-versus-decentralization.webp": {
+      "key": "course/bba/first-semester/foundation-of-bm/u5-organizational-architecture/centralization-versus-decentralization.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u5-organizational-architecture/centralization-versus-decentralization.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 112806,
+      "contentHashed": false
+    },
+    "emerging-organization-design-issues.webp": {
+      "key": "course/bba/first-semester/foundation-of-bm/u5-organizational-architecture/emerging-organization-design-issues.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u5-organizational-architecture/emerging-organization-design-issues.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 111948,
+      "contentHashed": false
+    },
+    "horizontal-differentiation-structures.webp": {
+      "key": "course/bba/first-semester/foundation-of-bm/u5-organizational-architecture/horizontal-differentiation-structures.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u5-organizational-architecture/horizontal-differentiation-structures.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 126840,
+      "contentHashed": false
+    },
+    "integrating-mechanisms.webp": {
+      "key": "course/bba/first-semester/foundation-of-bm/u5-organizational-architecture/integrating-mechanisms.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u5-organizational-architecture/integrating-mechanisms.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 216238,
+      "contentHashed": false
+    },
+    "organizational-architecture-elements.webp": {
+      "key": "course/bba/first-semester/foundation-of-bm/u5-organizational-architecture/organizational-architecture-elements.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u5-organizational-architecture/organizational-architecture-elements.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 103620,
+      "contentHashed": false
+    },
+    "tall-versus-flat-structure.webp": {
+      "key": "course/bba/first-semester/foundation-of-bm/u5-organizational-architecture/tall-versus-flat-structure.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u5-organizational-architecture/tall-versus-flat-structure.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 74672,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u5-organizational-architecture/authority-responsibility-and-accountability.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u5-organizational-architecture/centralization-versus-decentralization.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u5-organizational-architecture/emerging-organization-design-issues.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u5-organizational-architecture/horizontal-differentiation-structures.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u5-organizational-architecture/integrating-mechanisms.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u5-organizational-architecture/organizational-architecture-elements.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u5-organizational-architecture/tall-versus-flat-structure.webp"
+  ]
+}

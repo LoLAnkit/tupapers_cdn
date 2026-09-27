@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:22.131Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/fourth-semester/marketing/u3-marketing-information-system",
+  "totalAssets": 4,
+  "assets": {
+    "areas-of-marketing-research.webp": {
+      "key": "course/bba/fourth-semester/marketing/u3-marketing-information-system/areas-of-marketing-research.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u3-marketing-information-system/areas-of-marketing-research.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 120246,
+      "contentHashed": false
+    },
+    "marketing-information-system-components.webp": {
+      "key": "course/bba/fourth-semester/marketing/u3-marketing-information-system/marketing-information-system-components.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u3-marketing-information-system/marketing-information-system-components.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 135284,
+      "contentHashed": false
+    },
+    "marketing-information-system-concept.webp": {
+      "key": "course/bba/fourth-semester/marketing/u3-marketing-information-system/marketing-information-system-concept.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u3-marketing-information-system/marketing-information-system-concept.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 96028,
+      "contentHashed": false
+    },
+    "marketing-research-process.webp": {
+      "key": "course/bba/fourth-semester/marketing/u3-marketing-information-system/marketing-research-process.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u3-marketing-information-system/marketing-research-process.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 76778,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u3-marketing-information-system/areas-of-marketing-research.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u3-marketing-information-system/marketing-information-system-components.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u3-marketing-information-system/marketing-information-system-concept.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u3-marketing-information-system/marketing-research-process.webp"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:23.640Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/fourth-year/research-methods-academic-writing/u7-data-collection",
+  "totalAssets": 4,
+  "assets": {
+    "data-collection-tool-quality-workflow.webp": {
+      "key": "course/bsw/fourth-year/research-methods-academic-writing/u7-data-collection/data-collection-tool-quality-workflow.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/fourth-year/research-methods-academic-writing/u7-data-collection/data-collection-tool-quality-workflow.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 86744,
+      "contentHashed": false
+    },
+    "experimental-method-process.webp": {
+      "key": "course/bsw/fourth-year/research-methods-academic-writing/u7-data-collection/experimental-method-process.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/fourth-year/research-methods-academic-writing/u7-data-collection/experimental-method-process.webp",
+      "contentType": "image/webp",
+      "width": 1916,
+      "height": 821,
+      "bytes": 80616,
+      "contentHashed": false
+    },
+    "observation-method-process.webp": {
+      "key": "course/bsw/fourth-year/research-methods-academic-writing/u7-data-collection/observation-method-process.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/fourth-year/research-methods-academic-writing/u7-data-collection/observation-method-process.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 87000,
+      "contentHashed": false
+    },
+    "survey-and-interview-path.webp": {
+      "key": "course/bsw/fourth-year/research-methods-academic-writing/u7-data-collection/survey-and-interview-path.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/fourth-year/research-methods-academic-writing/u7-data-collection/survey-and-interview-path.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 56346,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/fourth-year/research-methods-academic-writing/u7-data-collection/data-collection-tool-quality-workflow.webp",
+    "https://cdn.tupapers.com/course/bsw/fourth-year/research-methods-academic-writing/u7-data-collection/experimental-method-process.webp",
+    "https://cdn.tupapers.com/course/bsw/fourth-year/research-methods-academic-writing/u7-data-collection/observation-method-process.webp",
+    "https://cdn.tupapers.com/course/bsw/fourth-year/research-methods-academic-writing/u7-data-collection/survey-and-interview-path.webp"
+  ]
+}

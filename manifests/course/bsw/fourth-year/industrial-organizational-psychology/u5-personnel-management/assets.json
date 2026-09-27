@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:23.597Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/fourth-year/industrial-organizational-psychology/u5-personnel-management",
+  "totalAssets": 7,
+  "assets": {
+    "ability-and-personality-assessment-map.webp": {
+      "key": "course/bsw/fourth-year/industrial-organizational-psychology/u5-personnel-management/ability-and-personality-assessment-map.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/fourth-year/industrial-organizational-psychology/u5-personnel-management/ability-and-personality-assessment-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 132428,
+      "contentHashed": false
+    },
+    "aptitude-test-domains.webp": {
+      "key": "course/bsw/fourth-year/industrial-organizational-psychology/u5-personnel-management/aptitude-test-domains.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/fourth-year/industrial-organizational-psychology/u5-personnel-management/aptitude-test-domains.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 158016,
+      "contentHashed": false
+    },
+    "biographical-test-structure.webp": {
+      "key": "course/bsw/fourth-year/industrial-organizational-psychology/u5-personnel-management/biographical-test-structure.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/fourth-year/industrial-organizational-psychology/u5-personnel-management/biographical-test-structure.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 107696,
+      "contentHashed": false
+    },
+    "job-analysis-and-job-evaluation.webp": {
+      "key": "course/bsw/fourth-year/industrial-organizational-psychology/u5-personnel-management/job-analysis-and-job-evaluation.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/fourth-year/industrial-organizational-psychology/u5-personnel-management/job-analysis-and-job-evaluation.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 93098,
+      "contentHashed": false
+    },
+    "performance-appraisal-cycle.webp": {
+      "key": "course/bsw/fourth-year/industrial-organizational-psychology/u5-personnel-management/performance-appraisal-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/fourth-year/industrial-organizational-psychology/u5-personnel-management/performance-appraisal-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 131338,
+      "contentHashed": false
+    },
+    "personnel-selection-funnel.webp": {
+      "key": "course/bsw/fourth-year/industrial-organizational-psychology/u5-personnel-management/personnel-selection-funnel.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/fourth-year/industrial-organizational-psychology/u5-personnel-management/personnel-selection-funnel.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 71078,
+      "contentHashed": false
+    },
+    "selection-test-family.webp": {
+      "key": "course/bsw/fourth-year/industrial-organizational-psychology/u5-personnel-management/selection-test-family.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/fourth-year/industrial-organizational-psychology/u5-personnel-management/selection-test-family.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 120584,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/fourth-year/industrial-organizational-psychology/u5-personnel-management/ability-and-personality-assessment-map.webp",
+    "https://cdn.tupapers.com/course/bsw/fourth-year/industrial-organizational-psychology/u5-personnel-management/aptitude-test-domains.webp",
+    "https://cdn.tupapers.com/course/bsw/fourth-year/industrial-organizational-psychology/u5-personnel-management/biographical-test-structure.webp",
+    "https://cdn.tupapers.com/course/bsw/fourth-year/industrial-organizational-psychology/u5-personnel-management/job-analysis-and-job-evaluation.webp",
+    "https://cdn.tupapers.com/course/bsw/fourth-year/industrial-organizational-psychology/u5-personnel-management/performance-appraisal-cycle.webp",
+    "https://cdn.tupapers.com/course/bsw/fourth-year/industrial-organizational-psychology/u5-personnel-management/personnel-selection-funnel.webp",
+    "https://cdn.tupapers.com/course/bsw/fourth-year/industrial-organizational-psychology/u5-personnel-management/selection-test-family.webp"
+  ]
+}

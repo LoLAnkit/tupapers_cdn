@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:22.473Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbm/fourth-semester/taxation/u9-value-added-tax",
+  "totalAssets": 6,
+  "assets": {
+    "input-vat-vs-output-vat.webp": {
+      "key": "course/bbm/fourth-semester/taxation/u9-value-added-tax/input-vat-vs-output-vat.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u9-value-added-tax/input-vat-vs-output-vat.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 107782,
+      "contentHashed": false
+    },
+    "pan-vat-number-and-vat-invoice.webp": {
+      "key": "course/bbm/fourth-semester/taxation/u9-value-added-tax/pan-vat-number-and-vat-invoice.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u9-value-added-tax/pan-vat-number-and-vat-invoice.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 98044,
+      "contentHashed": false
+    },
+    "vat-collection-and-refund-cycle.webp": {
+      "key": "course/bbm/fourth-semester/taxation/u9-value-added-tax/vat-collection-and-refund-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u9-value-added-tax/vat-collection-and-refund-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1312,
+      "height": 1199,
+      "bytes": 73582,
+      "contentHashed": false
+    },
+    "vat-computation-at-each-stage.webp": {
+      "key": "course/bbm/fourth-semester/taxation/u9-value-added-tax/vat-computation-at-each-stage.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u9-value-added-tax/vat-computation-at-each-stage.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 74988,
+      "contentHashed": false
+    },
+    "vat-registration-threshold-and-rate.webp": {
+      "key": "course/bbm/fourth-semester/taxation/u9-value-added-tax/vat-registration-threshold-and-rate.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u9-value-added-tax/vat-registration-threshold-and-rate.webp",
+      "contentType": "image/webp",
+      "width": 1224,
+      "height": 1285,
+      "bytes": 62312,
+      "contentHashed": false
+    },
+    "vat-value-addition-chain.webp": {
+      "key": "course/bbm/fourth-semester/taxation/u9-value-added-tax/vat-value-addition-chain.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u9-value-added-tax/vat-value-addition-chain.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 111810,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u9-value-added-tax/input-vat-vs-output-vat.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u9-value-added-tax/pan-vat-number-and-vat-invoice.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u9-value-added-tax/vat-collection-and-refund-cycle.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u9-value-added-tax/vat-computation-at-each-stage.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u9-value-added-tax/vat-registration-threshold-and-rate.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u9-value-added-tax/vat-value-addition-chain.webp"
+  ]
+}

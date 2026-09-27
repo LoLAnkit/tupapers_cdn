@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:22.083Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/first-semester/it-application/u8-database-and-database-management-system",
+  "totalAssets": 6,
+  "assets": {
+    "cloud-database.webp": {
+      "key": "course/bba/first-semester/it-application/u8-database-and-database-management-system/cloud-database.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u8-database-and-database-management-system/cloud-database.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 110024,
+      "contentHashed": false
+    },
+    "data-organization.webp": {
+      "key": "course/bba/first-semester/it-application/u8-database-and-database-management-system/data-organization.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u8-database-and-database-management-system/data-organization.webp",
+      "contentType": "image/webp",
+      "width": 2038,
+      "height": 771,
+      "bytes": 165096,
+      "contentHashed": false
+    },
+    "database-applications.webp": {
+      "key": "course/bba/first-semester/it-application/u8-database-and-database-management-system/database-applications.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u8-database-and-database-management-system/database-applications.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 129364,
+      "contentHashed": false
+    },
+    "database-models.webp": {
+      "key": "course/bba/first-semester/it-application/u8-database-and-database-management-system/database-models.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u8-database-and-database-management-system/database-models.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 123832,
+      "contentHashed": false
+    },
+    "database-system-architectures.webp": {
+      "key": "course/bba/first-semester/it-application/u8-database-and-database-management-system/database-system-architectures.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u8-database-and-database-management-system/database-system-architectures.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 160240,
+      "contentHashed": false
+    },
+    "database-system-overview.webp": {
+      "key": "course/bba/first-semester/it-application/u8-database-and-database-management-system/database-system-overview.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u8-database-and-database-management-system/database-system-overview.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 126148,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u8-database-and-database-management-system/cloud-database.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u8-database-and-database-management-system/data-organization.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u8-database-and-database-management-system/database-applications.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u8-database-and-database-management-system/database-models.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u8-database-and-database-management-system/database-system-architectures.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u8-database-and-database-management-system/database-system-overview.webp"
+  ]
+}

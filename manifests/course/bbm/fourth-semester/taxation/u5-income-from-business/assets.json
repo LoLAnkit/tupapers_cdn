@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:22.460Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbm/fourth-semester/taxation/u5-income-from-business",
+  "totalAssets": 6,
+  "assets": {
+    "business-income-computation.webp": {
+      "key": "course/bbm/fourth-semester/taxation/u5-income-from-business/business-income-computation.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u5-income-from-business/business-income-computation.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 118414,
+      "contentHashed": false
+    },
+    "business-loss-set-off-and-carry-forward.webp": {
+      "key": "course/bbm/fourth-semester/taxation/u5-income-from-business/business-loss-set-off-and-carry-forward.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u5-income-from-business/business-loss-set-off-and-carry-forward.webp",
+      "contentType": "image/webp",
+      "width": 2081,
+      "height": 755,
+      "bytes": 75226,
+      "contentHashed": false
+    },
+    "capital-vs-revenue-items.webp": {
+      "key": "course/bbm/fourth-semester/taxation/u5-income-from-business/capital-vs-revenue-items.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u5-income-from-business/capital-vs-revenue-items.webp",
+      "contentType": "image/webp",
+      "width": 1145,
+      "height": 1374,
+      "bytes": 70048,
+      "contentHashed": false
+    },
+    "deductible-vs-non-deductible-expenses.webp": {
+      "key": "course/bbm/fourth-semester/taxation/u5-income-from-business/deductible-vs-non-deductible-expenses.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u5-income-from-business/deductible-vs-non-deductible-expenses.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 71568,
+      "contentHashed": false
+    },
+    "professional-income-assessment.webp": {
+      "key": "course/bbm/fourth-semester/taxation/u5-income-from-business/professional-income-assessment.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u5-income-from-business/professional-income-assessment.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 73340,
+      "contentHashed": false
+    },
+    "sole-proprietorship-tax-computation.webp": {
+      "key": "course/bbm/fourth-semester/taxation/u5-income-from-business/sole-proprietorship-tax-computation.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u5-income-from-business/sole-proprietorship-tax-computation.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 88036,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u5-income-from-business/business-income-computation.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u5-income-from-business/business-loss-set-off-and-carry-forward.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u5-income-from-business/capital-vs-revenue-items.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u5-income-from-business/deductible-vs-non-deductible-expenses.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u5-income-from-business/professional-income-assessment.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u5-income-from-business/sole-proprietorship-tax-computation.webp"
+  ]
+}

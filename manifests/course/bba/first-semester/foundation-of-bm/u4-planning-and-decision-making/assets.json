@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:22.035Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/first-semester/foundation-of-bm/u4-planning-and-decision-making",
+  "totalAssets": 6,
+  "assets": {
+    "decision-problems-conditions-and-styles.webp": {
+      "key": "course/bba/first-semester/foundation-of-bm/u4-planning-and-decision-making/decision-problems-conditions-and-styles.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u4-planning-and-decision-making/decision-problems-conditions-and-styles.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 389226,
+      "contentHashed": false
+    },
+    "planning-levels-and-horizons.webp": {
+      "key": "course/bba/first-semester/foundation-of-bm/u4-planning-and-decision-making/planning-levels-and-horizons.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u4-planning-and-decision-making/planning-levels-and-horizons.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 112114,
+      "contentHashed": false
+    },
+    "planning-pitfalls-and-improvement-loop.webp": {
+      "key": "course/bba/first-semester/foundation-of-bm/u4-planning-and-decision-making/planning-pitfalls-and-improvement-loop.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u4-planning-and-decision-making/planning-pitfalls-and-improvement-loop.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 98934,
+      "contentHashed": false
+    },
+    "planning-process-flow.webp": {
+      "key": "course/bba/first-semester/foundation-of-bm/u4-planning-and-decision-making/planning-process-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u4-planning-and-decision-making/planning-process-flow.webp",
+      "contentType": "image/webp",
+      "width": 2115,
+      "height": 743,
+      "bytes": 112492,
+      "contentHashed": false
+    },
+    "rational-decision-making-process.webp": {
+      "key": "course/bba/first-semester/foundation-of-bm/u4-planning-and-decision-making/rational-decision-making-process.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u4-planning-and-decision-making/rational-decision-making-process.webp",
+      "contentType": "image/webp",
+      "width": 2191,
+      "height": 718,
+      "bytes": 73162,
+      "contentHashed": false
+    },
+    "types-of-plans.webp": {
+      "key": "course/bba/first-semester/foundation-of-bm/u4-planning-and-decision-making/types-of-plans.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u4-planning-and-decision-making/types-of-plans.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 88302,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u4-planning-and-decision-making/decision-problems-conditions-and-styles.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u4-planning-and-decision-making/planning-levels-and-horizons.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u4-planning-and-decision-making/planning-pitfalls-and-improvement-loop.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u4-planning-and-decision-making/planning-process-flow.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u4-planning-and-decision-making/rational-decision-making-process.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/foundation-of-bm/u4-planning-and-decision-making/types-of-plans.webp"
+  ]
+}

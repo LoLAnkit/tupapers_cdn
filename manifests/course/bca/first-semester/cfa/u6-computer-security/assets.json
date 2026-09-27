@@ -1,51 +1,81 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-23T15:12:21.979Z",
+  "generatedAt": "2026-09-27T06:14:22.948Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/first-semester/cfa/u6-computer-security",
-  "totalAssets": 4,
+  "totalAssets": 7,
   "assets": {
-    "cryptography-and-digital-signature.webp": {
-      "key": "course/bca/first-semester/cfa/u6-computer-security/cryptography-and-digital-signature.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u6-computer-security/cryptography-and-digital-signature.webp",
+    "digital-signature-process.webp": {
+      "key": "course/bca/first-semester/cfa/u6-computer-security/digital-signature-process.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u6-computer-security/digital-signature-process.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 99276,
+      "bytes": 79562,
       "contentHashed": false
     },
-    "firewall-authentication-and-ids.webp": {
-      "key": "course/bca/first-semester/cfa/u6-computer-security/firewall-authentication-and-ids.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u6-computer-security/firewall-authentication-and-ids.webp",
+    "firewall-ids-placement.webp": {
+      "key": "course/bca/first-semester/cfa/u6-computer-security/firewall-ids-placement.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u6-computer-security/firewall-ids-placement.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 96396,
+      "bytes": 107390,
       "contentHashed": false
     },
-    "security-awareness-and-policy-cycle.webp": {
-      "key": "course/bca/first-semester/cfa/u6-computer-security/security-awareness-and-policy-cycle.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u6-computer-security/security-awareness-and-policy-cycle.webp",
+    "malware-family-map.webp": {
+      "key": "course/bca/first-semester/cfa/u6-computer-security/malware-family-map.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u6-computer-security/malware-family-map.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 64632,
+      "bytes": 176454,
       "contentHashed": false
     },
-    "security-threat-and-attack-path.webp": {
-      "key": "course/bca/first-semester/cfa/u6-computer-security/security-threat-and-attack-path.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u6-computer-security/security-threat-and-attack-path.webp",
+    "security-policy-awareness-cycle.webp": {
+      "key": "course/bca/first-semester/cfa/u6-computer-security/security-policy-awareness-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u6-computer-security/security-policy-awareness-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 89328,
+      "contentHashed": false
+    },
+    "security-threat-attack-path.webp": {
+      "key": "course/bca/first-semester/cfa/u6-computer-security/security-threat-attack-path.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u6-computer-security/security-threat-attack-path.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 102606,
+      "bytes": 155184,
+      "contentHashed": false
+    },
+    "symmetric-asymmetric-cryptography-flow.webp": {
+      "key": "course/bca/first-semester/cfa/u6-computer-security/symmetric-asymmetric-cryptography-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u6-computer-security/symmetric-asymmetric-cryptography-flow.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 130126,
+      "contentHashed": false
+    },
+    "user-authentication-factors.webp": {
+      "key": "course/bca/first-semester/cfa/u6-computer-security/user-authentication-factors.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u6-computer-security/user-authentication-factors.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 146970,
       "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u6-computer-security/cryptography-and-digital-signature.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u6-computer-security/firewall-authentication-and-ids.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u6-computer-security/security-awareness-and-policy-cycle.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u6-computer-security/security-threat-and-attack-path.webp"
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u6-computer-security/digital-signature-process.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u6-computer-security/firewall-ids-placement.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u6-computer-security/malware-family-map.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u6-computer-security/security-policy-awareness-cycle.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u6-computer-security/security-threat-attack-path.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u6-computer-security/symmetric-asymmetric-cryptography-flow.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u6-computer-security/user-authentication-factors.webp"
   ]
 }

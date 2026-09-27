@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:22.114Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/first-semester/microeconomics/u6-markets-for-resources",
+  "totalAssets": 5,
+  "assets": {
+    "labor-demand-from-vmp.webp": {
+      "key": "course/bba/first-semester/microeconomics/u6-markets-for-resources/labor-demand-from-vmp.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u6-markets-for-resources/labor-demand-from-vmp.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 65818,
+      "contentHashed": false
+    },
+    "labor-market-equilibrium.webp": {
+      "key": "course/bba/first-semester/microeconomics/u6-markets-for-resources/labor-market-equilibrium.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u6-markets-for-resources/labor-market-equilibrium.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 58508,
+      "contentHashed": false
+    },
+    "labor-supply-and-its-shifts.webp": {
+      "key": "course/bba/first-semester/microeconomics/u6-markets-for-resources/labor-supply-and-its-shifts.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u6-markets-for-resources/labor-supply-and-its-shifts.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 107474,
+      "contentHashed": false
+    },
+    "land-and-capital-as-factor-markets.webp": {
+      "key": "course/bba/first-semester/microeconomics/u6-markets-for-resources/land-and-capital-as-factor-markets.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u6-markets-for-resources/land-and-capital-as-factor-markets.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 87198,
+      "contentHashed": false
+    },
+    "wage-differentials.webp": {
+      "key": "course/bba/first-semester/microeconomics/u6-markets-for-resources/wage-differentials.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u6-markets-for-resources/wage-differentials.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 133908,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u6-markets-for-resources/labor-demand-from-vmp.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u6-markets-for-resources/labor-market-equilibrium.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u6-markets-for-resources/labor-supply-and-its-shifts.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u6-markets-for-resources/land-and-capital-as-factor-markets.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u6-markets-for-resources/wage-differentials.webp"
+  ]
+}

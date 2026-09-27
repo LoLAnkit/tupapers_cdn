@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:23.820Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/third-year/development-practices/u6-technology-and-energy",
+  "totalAssets": 4,
+  "assets": {
+    "aepc-renewable-energy-development-practices.webp": {
+      "key": "course/bsw/third-year/development-practices/u6-technology-and-energy/aepc-renewable-energy-development-practices.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u6-technology-and-energy/aepc-renewable-energy-development-practices.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 152446,
+      "contentHashed": false
+    },
+    "energy-and-development-linkages.webp": {
+      "key": "course/bsw/third-year/development-practices/u6-technology-and-energy/energy-and-development-linkages.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u6-technology-and-energy/energy-and-development-linkages.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 142328,
+      "contentHashed": false
+    },
+    "renewable-energy-in-nepal.webp": {
+      "key": "course/bsw/third-year/development-practices/u6-technology-and-energy/renewable-energy-in-nepal.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u6-technology-and-energy/renewable-energy-in-nepal.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 213036,
+      "contentHashed": false
+    },
+    "technology-and-rural-development.webp": {
+      "key": "course/bsw/third-year/development-practices/u6-technology-and-energy/technology-and-rural-development.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u6-technology-and-energy/technology-and-rural-development.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 141314,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u6-technology-and-energy/aepc-renewable-energy-development-practices.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u6-technology-and-energy/energy-and-development-linkages.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u6-technology-and-energy/renewable-energy-in-nepal.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/development-practices/u6-technology-and-energy/technology-and-rural-development.webp"
+  ]
+}

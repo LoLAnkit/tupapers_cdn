@@ -1,51 +1,81 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-23T15:12:21.996Z",
+  "generatedAt": "2026-09-27T06:14:22.978Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/first-semester/professional-ethics/u2-oral-communication",
-  "totalAssets": 4,
+  "totalAssets": 7,
   "assets": {
-    "effective-presentation-setup.webp": {
-      "key": "course/bca/first-semester/professional-ethics/u2-oral-communication/effective-presentation-setup.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u2-oral-communication/effective-presentation-setup.webp",
+    "avoiding-death-by-powerpoint.webp": {
+      "key": "course/bca/first-semester/professional-ethics/u2-oral-communication/avoiding-death-by-powerpoint.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u2-oral-communication/avoiding-death-by-powerpoint.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 387776,
+      "bytes": 231932,
       "contentHashed": false
     },
-    "interviewing-and-professional-dialogue.webp": {
-      "key": "course/bca/first-semester/professional-ethics/u2-oral-communication/interviewing-and-professional-dialogue.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u2-oral-communication/interviewing-and-professional-dialogue.webp",
+    "elevator-pitch-30-60-seconds.webp": {
+      "key": "course/bca/first-semester/professional-ethics/u2-oral-communication/elevator-pitch-30-60-seconds.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u2-oral-communication/elevator-pitch-30-60-seconds.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 288024,
+      "bytes": 145132,
       "contentHashed": false
     },
-    "meeting-agenda-to-minutes-cycle.webp": {
-      "key": "course/bca/first-semester/professional-ethics/u2-oral-communication/meeting-agenda-to-minutes-cycle.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u2-oral-communication/meeting-agenda-to-minutes-cycle.webp",
+    "meeting-to-minutes-workflow.webp": {
+      "key": "course/bca/first-semester/professional-ethics/u2-oral-communication/meeting-to-minutes-workflow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u2-oral-communication/meeting-to-minutes-workflow.webp",
       "contentType": "image/webp",
-      "width": 1254,
-      "height": 1254,
-      "bytes": 82704,
+      "width": 1942,
+      "height": 809,
+      "bytes": 126278,
+      "contentHashed": false
+    },
+    "professional-interview-dialogue.webp": {
+      "key": "course/bca/first-semester/professional-ethics/u2-oral-communication/professional-interview-dialogue.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u2-oral-communication/professional-interview-dialogue.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 209364,
+      "contentHashed": false
+    },
+    "public-speaking-structure.webp": {
+      "key": "course/bca/first-semester/professional-ethics/u2-oral-communication/public-speaking-structure.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u2-oral-communication/public-speaking-structure.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 140418,
+      "contentHashed": false
+    },
+    "reported-speech-transformation.webp": {
+      "key": "course/bca/first-semester/professional-ethics/u2-oral-communication/reported-speech-transformation.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u2-oral-communication/reported-speech-transformation.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 115070,
       "contentHashed": false
     },
     "telephone-conversation-flow.webp": {
       "key": "course/bca/first-semester/professional-ethics/u2-oral-communication/telephone-conversation-flow.webp",
       "url": "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u2-oral-communication/telephone-conversation-flow.webp",
       "contentType": "image/webp",
-      "width": 1774,
-      "height": 887,
-      "bytes": 92576,
+      "width": 1536,
+      "height": 1024,
+      "bytes": 170580,
       "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u2-oral-communication/effective-presentation-setup.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u2-oral-communication/interviewing-and-professional-dialogue.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u2-oral-communication/meeting-agenda-to-minutes-cycle.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u2-oral-communication/avoiding-death-by-powerpoint.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u2-oral-communication/elevator-pitch-30-60-seconds.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u2-oral-communication/meeting-to-minutes-workflow.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u2-oral-communication/professional-interview-dialogue.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u2-oral-communication/public-speaking-structure.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u2-oral-communication/reported-speech-transformation.webp",
     "https://cdn.tupapers.com/course/bca/first-semester/professional-ethics/u2-oral-communication/telephone-conversation-flow.webp"
   ]
 }

@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-25T16:46:33.182Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/first-semester/english/u1-customs-and-traditions",
+  "totalAssets": 1,
+  "assets": {
+    "customs-and-traditions-comparison-scene.webp": {
+      "key": "course/bba/first-semester/english/u1-customs-and-traditions/customs-and-traditions-comparison-scene.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/english/u1-customs-and-traditions/customs-and-traditions-comparison-scene.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 652772,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/first-semester/english/u1-customs-and-traditions/customs-and-traditions-comparison-scene.webp"
+  ]
+}

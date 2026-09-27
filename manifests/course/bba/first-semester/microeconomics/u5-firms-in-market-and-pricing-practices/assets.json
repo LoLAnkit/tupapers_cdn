@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:22.110Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/first-semester/microeconomics/u5-firms-in-market-and-pricing-practices",
+  "totalAssets": 7,
+  "assets": {
+    "cartel-joint-profit-decision.webp": {
+      "key": "course/bba/first-semester/microeconomics/u5-firms-in-market-and-pricing-practices/cartel-joint-profit-decision.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u5-firms-in-market-and-pricing-practices/cartel-joint-profit-decision.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 108382,
+      "contentHashed": false
+    },
+    "game-theory-dominant-strategy-nash-equilibrium.webp": {
+      "key": "course/bba/first-semester/microeconomics/u5-firms-in-market-and-pricing-practices/game-theory-dominant-strategy-nash-equilibrium.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u5-firms-in-market-and-pricing-practices/game-theory-dominant-strategy-nash-equilibrium.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 311988,
+      "contentHashed": false
+    },
+    "market-structure-spectrum.webp": {
+      "key": "course/bba/first-semester/microeconomics/u5-firms-in-market-and-pricing-practices/market-structure-spectrum.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u5-firms-in-market-and-pricing-practices/market-structure-spectrum.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 141542,
+      "contentHashed": false
+    },
+    "monopolistic-competition-long-run-equilibrium.webp": {
+      "key": "course/bba/first-semester/microeconomics/u5-firms-in-market-and-pricing-practices/monopolistic-competition-long-run-equilibrium.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u5-firms-in-market-and-pricing-practices/monopolistic-competition-long-run-equilibrium.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 49778,
+      "contentHashed": false
+    },
+    "monopoly-profit-maximization.webp": {
+      "key": "course/bba/first-semester/microeconomics/u5-firms-in-market-and-pricing-practices/monopoly-profit-maximization.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u5-firms-in-market-and-pricing-practices/monopoly-profit-maximization.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 79944,
+      "contentHashed": false
+    },
+    "perfect-competition-equilibrium.webp": {
+      "key": "course/bba/first-semester/microeconomics/u5-firms-in-market-and-pricing-practices/perfect-competition-equilibrium.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u5-firms-in-market-and-pricing-practices/perfect-competition-equilibrium.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 67476,
+      "contentHashed": false
+    },
+    "pricing-practices-map.webp": {
+      "key": "course/bba/first-semester/microeconomics/u5-firms-in-market-and-pricing-practices/pricing-practices-map.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u5-firms-in-market-and-pricing-practices/pricing-practices-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 141962,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u5-firms-in-market-and-pricing-practices/cartel-joint-profit-decision.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u5-firms-in-market-and-pricing-practices/game-theory-dominant-strategy-nash-equilibrium.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u5-firms-in-market-and-pricing-practices/market-structure-spectrum.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u5-firms-in-market-and-pricing-practices/monopolistic-competition-long-run-equilibrium.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u5-firms-in-market-and-pricing-practices/monopoly-profit-maximization.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u5-firms-in-market-and-pricing-practices/perfect-competition-equilibrium.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/microeconomics/u5-firms-in-market-and-pricing-practices/pricing-practices-map.webp"
+  ]
+}

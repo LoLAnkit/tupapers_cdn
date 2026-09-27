@@ -1,51 +1,81 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-23T15:12:21.972Z",
+  "generatedAt": "2026-09-27T06:14:22.945Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/first-semester/cfa/u5-computer-network-and-internet",
-  "totalAssets": 4,
+  "totalAssets": 7,
   "assets": {
-    "network-types-and-lan-topologies.webp": {
-      "key": "course/bca/first-semester/cfa/u5-computer-network-and-internet/network-types-and-lan-topologies.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u5-computer-network-and-internet/network-types-and-lan-topologies.webp",
+    "lan-topologies.webp": {
+      "key": "course/bca/first-semester/cfa/u5-computer-network-and-internet/lan-topologies.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u5-computer-network-and-internet/lan-topologies.webp",
       "contentType": "image/webp",
-      "width": 1536,
-      "height": 1024,
-      "bytes": 136566,
+      "width": 2112,
+      "height": 744,
+      "bytes": 53106,
       "contentHashed": false
     },
-    "osi-reference-model.webp": {
-      "key": "course/bca/first-semester/cfa/u5-computer-network-and-internet/osi-reference-model.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u5-computer-network-and-internet/osi-reference-model.webp",
+    "network-devices-small-network.webp": {
+      "key": "course/bca/first-semester/cfa/u5-computer-network-and-internet/network-devices-small-network.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u5-computer-network-and-internet/network-devices-small-network.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 136222,
+      "bytes": 94786,
       "contentHashed": false
     },
-    "transmission-media-and-network-devices.webp": {
-      "key": "course/bca/first-semester/cfa/u5-computer-network-and-internet/transmission-media-and-network-devices.webp",
-      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u5-computer-network-and-internet/transmission-media-and-network-devices.webp",
+    "network-types-by-coverage.webp": {
+      "key": "course/bca/first-semester/cfa/u5-computer-network-and-internet/network-types-by-coverage.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u5-computer-network-and-internet/network-types-by-coverage.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 101886,
+      "bytes": 196052,
+      "contentHashed": false
+    },
+    "osi-seven-layer-model.webp": {
+      "key": "course/bca/first-semester/cfa/u5-computer-network-and-internet/osi-seven-layer-model.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u5-computer-network-and-internet/osi-seven-layer-model.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 121476,
+      "contentHashed": false
+    },
+    "transmission-media.webp": {
+      "key": "course/bca/first-semester/cfa/u5-computer-network-and-internet/transmission-media.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u5-computer-network-and-internet/transmission-media.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 161638,
       "contentHashed": false
     },
     "transmission-modes.webp": {
       "key": "course/bca/first-semester/cfa/u5-computer-network-and-internet/transmission-modes.webp",
       "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u5-computer-network-and-internet/transmission-modes.webp",
       "contentType": "image/webp",
-      "width": 1774,
-      "height": 887,
-      "bytes": 66084,
+      "width": 1536,
+      "height": 1024,
+      "bytes": 90518,
+      "contentHashed": false
+    },
+    "web-dns-client-server-flow.webp": {
+      "key": "course/bca/first-semester/cfa/u5-computer-network-and-internet/web-dns-client-server-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/cfa/u5-computer-network-and-internet/web-dns-client-server-flow.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 138030,
       "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u5-computer-network-and-internet/network-types-and-lan-topologies.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u5-computer-network-and-internet/osi-reference-model.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u5-computer-network-and-internet/transmission-media-and-network-devices.webp",
-    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u5-computer-network-and-internet/transmission-modes.webp"
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u5-computer-network-and-internet/lan-topologies.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u5-computer-network-and-internet/network-devices-small-network.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u5-computer-network-and-internet/network-types-by-coverage.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u5-computer-network-and-internet/osi-seven-layer-model.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u5-computer-network-and-internet/transmission-media.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u5-computer-network-and-internet/transmission-modes.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/cfa/u5-computer-network-and-internet/web-dns-client-server-flow.webp"
   ]
 }

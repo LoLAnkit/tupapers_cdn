@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:22.009Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/first-semester/english/u-2",
+  "totalAssets": 7,
+  "assets": {
+    "a-changing-world-conditional-cause-and-effect.webp": {
+      "key": "course/bba/first-semester/english/u-2/a-changing-world-conditional-cause-and-effect.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/english/u-2/a-changing-world-conditional-cause-and-effect.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 93284,
+      "contentHashed": false
+    },
+    "buying-and-selling-transaction-flow.webp": {
+      "key": "course/bba/first-semester/english/u-2/buying-and-selling-transaction-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/english/u-2/buying-and-selling-transaction-flow.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 108062,
+      "contentHashed": false
+    },
+    "entertainment-or-art-audience-roles.webp": {
+      "key": "course/bba/first-semester/english/u-2/entertainment-or-art-audience-roles.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/english/u-2/entertainment-or-art-audience-roles.webp",
+      "contentType": "image/webp",
+      "width": 1312,
+      "height": 1199,
+      "bytes": 188816,
+      "contentHashed": false
+    },
+    "grammar-reference-word-building.webp": {
+      "key": "course/bba/first-semester/english/u-2/grammar-reference-word-building.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/english/u-2/grammar-reference-word-building.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 93512,
+      "contentHashed": false
+    },
+    "its-a-crime-event-sequence.webp": {
+      "key": "course/bba/first-semester/english/u-2/its-a-crime-event-sequence.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/english/u-2/its-a-crime-event-sequence.webp",
+      "contentType": "image/webp",
+      "width": 2014,
+      "height": 781,
+      "bytes": 132414,
+      "contentHashed": false
+    },
+    "the-big-issues-cause-and-response-map.webp": {
+      "key": "course/bba/first-semester/english/u-2/the-big-issues-cause-and-response-map.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/english/u-2/the-big-issues-cause-and-response-map.webp",
+      "contentType": "image/webp",
+      "width": 2048,
+      "height": 768,
+      "bytes": 157444,
+      "contentHashed": false
+    },
+    "writing-guide-composition-process.webp": {
+      "key": "course/bba/first-semester/english/u-2/writing-guide-composition-process.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/english/u-2/writing-guide-composition-process.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 88326,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/first-semester/english/u-2/a-changing-world-conditional-cause-and-effect.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/english/u-2/buying-and-selling-transaction-flow.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/english/u-2/entertainment-or-art-audience-roles.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/english/u-2/grammar-reference-word-building.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/english/u-2/its-a-crime-event-sequence.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/english/u-2/the-big-issues-cause-and-response-map.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/english/u-2/writing-guide-composition-process.webp"
+  ]
+}

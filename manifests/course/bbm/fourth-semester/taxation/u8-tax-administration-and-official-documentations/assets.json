@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:22.470Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbm/fourth-semester/taxation/u8-tax-administration-and-official-documentations",
+  "totalAssets": 6,
+  "assets": {
+    "administrative-review-and-appeal.webp": {
+      "key": "course/bbm/fourth-semester/taxation/u8-tax-administration-and-official-documentations/administrative-review-and-appeal.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u8-tax-administration-and-official-documentations/administrative-review-and-appeal.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 72118,
+      "contentHashed": false
+    },
+    "fees-interest-and-penalties.webp": {
+      "key": "course/bbm/fourth-semester/taxation/u8-tax-administration-and-official-documentations/fees-interest-and-penalties.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u8-tax-administration-and-official-documentations/fees-interest-and-penalties.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 92178,
+      "contentHashed": false
+    },
+    "income-return-and-assessment-lifecycle.webp": {
+      "key": "course/bbm/fourth-semester/taxation/u8-tax-administration-and-official-documentations/income-return-and-assessment-lifecycle.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u8-tax-administration-and-official-documentations/income-return-and-assessment-lifecycle.webp",
+      "contentType": "image/webp",
+      "width": 1312,
+      "height": 1199,
+      "bytes": 90590,
+      "contentHashed": false
+    },
+    "self-assessment-and-jeopardy-assessment.webp": {
+      "key": "course/bbm/fourth-semester/taxation/u8-tax-administration-and-official-documentations/self-assessment-and-jeopardy-assessment.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u8-tax-administration-and-official-documentations/self-assessment-and-jeopardy-assessment.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 121492,
+      "contentHashed": false
+    },
+    "tax-administration-structure.webp": {
+      "key": "course/bbm/fourth-semester/taxation/u8-tax-administration-and-official-documentations/tax-administration-structure.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u8-tax-administration-and-official-documentations/tax-administration-structure.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 64662,
+      "contentHashed": false
+    },
+    "tax-collection-recovery-and-refund.webp": {
+      "key": "course/bbm/fourth-semester/taxation/u8-tax-administration-and-official-documentations/tax-collection-recovery-and-refund.webp",
+      "url": "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u8-tax-administration-and-official-documentations/tax-collection-recovery-and-refund.webp",
+      "contentType": "image/webp",
+      "width": 1225,
+      "height": 1284,
+      "bytes": 71636,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u8-tax-administration-and-official-documentations/administrative-review-and-appeal.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u8-tax-administration-and-official-documentations/fees-interest-and-penalties.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u8-tax-administration-and-official-documentations/income-return-and-assessment-lifecycle.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u8-tax-administration-and-official-documentations/self-assessment-and-jeopardy-assessment.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u8-tax-administration-and-official-documentations/tax-administration-structure.webp",
+    "https://cdn.tupapers.com/course/bbm/fourth-semester/taxation/u8-tax-administration-and-official-documentations/tax-collection-recovery-and-refund.webp"
+  ]
+}

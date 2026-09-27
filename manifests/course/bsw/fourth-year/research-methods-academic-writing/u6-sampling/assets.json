@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:23.636Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/fourth-year/research-methods-academic-writing/u6-sampling",
+  "totalAssets": 2,
+  "assets": {
+    "population-to-sample-relationship.webp": {
+      "key": "course/bsw/fourth-year/research-methods-academic-writing/u6-sampling/population-to-sample-relationship.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/fourth-year/research-methods-academic-writing/u6-sampling/population-to-sample-relationship.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 94356,
+      "contentHashed": false
+    },
+    "sampling-designs-decision-tree.webp": {
+      "key": "course/bsw/fourth-year/research-methods-academic-writing/u6-sampling/sampling-designs-decision-tree.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/fourth-year/research-methods-academic-writing/u6-sampling/sampling-designs-decision-tree.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 80974,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/fourth-year/research-methods-academic-writing/u6-sampling/population-to-sample-relationship.webp",
+    "https://cdn.tupapers.com/course/bsw/fourth-year/research-methods-academic-writing/u6-sampling/sampling-designs-decision-tree.webp"
+  ]
+}

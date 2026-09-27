@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:23.880Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/third-year/reading-writing/u2-syntheses-and-analyses",
+  "totalAssets": 6,
+  "assets": {
+    "analysis-framework-cycle.webp": {
+      "key": "course/bsw/third-year/reading-writing/u2-syntheses-and-analyses/analysis-framework-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u2-syntheses-and-analyses/analysis-framework-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 123166,
+      "contentHashed": false
+    },
+    "analytical-thesis-components.webp": {
+      "key": "course/bsw/third-year/reading-writing/u2-syntheses-and-analyses/analytical-thesis-components.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u2-syntheses-and-analyses/analytical-thesis-components.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 170730,
+      "contentHashed": false
+    },
+    "argument-synthesis-essay-structure.webp": {
+      "key": "course/bsw/third-year/reading-writing/u2-syntheses-and-analyses/argument-synthesis-essay-structure.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u2-syntheses-and-analyses/argument-synthesis-essay-structure.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 78668,
+      "contentHashed": false
+    },
+    "comparison-and-contrast-methods.webp": {
+      "key": "course/bsw/third-year/reading-writing/u2-syntheses-and-analyses/comparison-and-contrast-methods.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u2-syntheses-and-analyses/comparison-and-contrast-methods.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 152166,
+      "contentHashed": false
+    },
+    "multiple-sources-to-synthesis.webp": {
+      "key": "course/bsw/third-year/reading-writing/u2-syntheses-and-analyses/multiple-sources-to-synthesis.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u2-syntheses-and-analyses/multiple-sources-to-synthesis.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 143718,
+      "contentHashed": false
+    },
+    "synthesis-types-tree.webp": {
+      "key": "course/bsw/third-year/reading-writing/u2-syntheses-and-analyses/synthesis-types-tree.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u2-syntheses-and-analyses/synthesis-types-tree.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 179838,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u2-syntheses-and-analyses/analysis-framework-cycle.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u2-syntheses-and-analyses/analytical-thesis-components.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u2-syntheses-and-analyses/argument-synthesis-essay-structure.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u2-syntheses-and-analyses/comparison-and-contrast-methods.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u2-syntheses-and-analyses/multiple-sources-to-synthesis.webp",
+    "https://cdn.tupapers.com/course/bsw/third-year/reading-writing/u2-syntheses-and-analyses/synthesis-types-tree.webp"
+  ]
+}

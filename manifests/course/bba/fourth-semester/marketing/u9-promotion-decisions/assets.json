@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:22.161Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/fourth-semester/marketing/u9-promotion-decisions",
+  "totalAssets": 7,
+  "assets": {
+    "advertising-communication-path.webp": {
+      "key": "course/bba/fourth-semester/marketing/u9-promotion-decisions/advertising-communication-path.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u9-promotion-decisions/advertising-communication-path.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 116320,
+      "contentHashed": false
+    },
+    "direct-marketing-methods.webp": {
+      "key": "course/bba/fourth-semester/marketing/u9-promotion-decisions/direct-marketing-methods.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u9-promotion-decisions/direct-marketing-methods.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 108320,
+      "contentHashed": false
+    },
+    "personal-selling-process.webp": {
+      "key": "course/bba/fourth-semester/marketing/u9-promotion-decisions/personal-selling-process.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u9-promotion-decisions/personal-selling-process.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 86226,
+      "contentHashed": false
+    },
+    "promotion-mix-determination.webp": {
+      "key": "course/bba/fourth-semester/marketing/u9-promotion-decisions/promotion-mix-determination.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u9-promotion-decisions/promotion-mix-determination.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 146654,
+      "contentHashed": false
+    },
+    "promotion-mix-framework.webp": {
+      "key": "course/bba/fourth-semester/marketing/u9-promotion-decisions/promotion-mix-framework.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u9-promotion-decisions/promotion-mix-framework.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 123294,
+      "contentHashed": false
+    },
+    "public-relations-tools.webp": {
+      "key": "course/bba/fourth-semester/marketing/u9-promotion-decisions/public-relations-tools.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u9-promotion-decisions/public-relations-tools.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 142630,
+      "contentHashed": false
+    },
+    "sales-promotion-tools-and-techniques.webp": {
+      "key": "course/bba/fourth-semester/marketing/u9-promotion-decisions/sales-promotion-tools-and-techniques.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u9-promotion-decisions/sales-promotion-tools-and-techniques.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 152274,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u9-promotion-decisions/advertising-communication-path.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u9-promotion-decisions/direct-marketing-methods.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u9-promotion-decisions/personal-selling-process.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u9-promotion-decisions/promotion-mix-determination.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u9-promotion-decisions/promotion-mix-framework.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u9-promotion-decisions/public-relations-tools.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u9-promotion-decisions/sales-promotion-tools-and-techniques.webp"
+  ]
+}

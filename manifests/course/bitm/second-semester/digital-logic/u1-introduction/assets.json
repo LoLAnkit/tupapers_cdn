@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:23.431Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bitm/second-semester/digital-logic/u1-introduction",
+  "totalAssets": 7,
+  "assets": {
+    "binary-arithmetic-and-complements.webp": {
+      "key": "course/bitm/second-semester/digital-logic/u1-introduction/binary-arithmetic-and-complements.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u1-introduction/binary-arithmetic-and-complements.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 95320,
+      "contentHashed": false
+    },
+    "digital-code-relationships.webp": {
+      "key": "course/bitm/second-semester/digital-logic/u1-introduction/digital-code-relationships.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u1-introduction/digital-code-relationships.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 128888,
+      "contentHashed": false
+    },
+    "digital-ic-integration-levels.webp": {
+      "key": "course/bitm/second-semester/digital-logic/u1-introduction/digital-ic-integration-levels.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u1-introduction/digital-ic-integration-levels.webp",
+      "contentType": "image/webp",
+      "width": 1903,
+      "height": 826,
+      "bytes": 137098,
+      "contentHashed": false
+    },
+    "digital-vs-analog-signals.webp": {
+      "key": "course/bitm/second-semester/digital-logic/u1-introduction/digital-vs-analog-signals.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u1-introduction/digital-vs-analog-signals.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 53194,
+      "contentHashed": false
+    },
+    "gray-code-conversion-path.webp": {
+      "key": "course/bitm/second-semester/digital-logic/u1-introduction/gray-code-conversion-path.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u1-introduction/gray-code-conversion-path.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 91800,
+      "contentHashed": false
+    },
+    "number-system-conversion-map.webp": {
+      "key": "course/bitm/second-semester/digital-logic/u1-introduction/number-system-conversion-map.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u1-introduction/number-system-conversion-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 107116,
+      "contentHashed": false
+    },
+    "signed-number-representation.webp": {
+      "key": "course/bitm/second-semester/digital-logic/u1-introduction/signed-number-representation.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u1-introduction/signed-number-representation.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 114874,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u1-introduction/binary-arithmetic-and-complements.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u1-introduction/digital-code-relationships.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u1-introduction/digital-ic-integration-levels.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u1-introduction/digital-vs-analog-signals.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u1-introduction/gray-code-conversion-path.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u1-introduction/number-system-conversion-map.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/digital-logic/u1-introduction/signed-number-representation.webp"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:22.117Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/fourth-semester/marketing/u1-introduction",
+  "totalAssets": 7,
+  "assets": {
+    "core-marketing-concepts-map.webp": {
+      "key": "course/bba/fourth-semester/marketing/u1-introduction/core-marketing-concepts-map.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u1-introduction/core-marketing-concepts-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 110280,
+      "contentHashed": false
+    },
+    "marketing-management-orientations.webp": {
+      "key": "course/bba/fourth-semester/marketing/u1-introduction/marketing-management-orientations.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u1-introduction/marketing-management-orientations.webp",
+      "contentType": "image/webp",
+      "width": 2056,
+      "height": 765,
+      "bytes": 129238,
+      "contentHashed": false
+    },
+    "marketing-mix-integration.webp": {
+      "key": "course/bba/fourth-semester/marketing/u1-introduction/marketing-mix-integration.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u1-introduction/marketing-mix-integration.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 124644,
+      "contentHashed": false
+    },
+    "marketing-process-flow.webp": {
+      "key": "course/bba/fourth-semester/marketing/u1-introduction/marketing-process-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u1-introduction/marketing-process-flow.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 112754,
+      "contentHashed": false
+    },
+    "marketing-vs-selling-flow.webp": {
+      "key": "course/bba/fourth-semester/marketing/u1-introduction/marketing-vs-selling-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u1-introduction/marketing-vs-selling-flow.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 133114,
+      "contentHashed": false
+    },
+    "product-marketing-mix-map.webp": {
+      "key": "course/bba/fourth-semester/marketing/u1-introduction/product-marketing-mix-map.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u1-introduction/product-marketing-mix-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 92448,
+      "contentHashed": false
+    },
+    "service-marketing-mix-map.webp": {
+      "key": "course/bba/fourth-semester/marketing/u1-introduction/service-marketing-mix-map.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u1-introduction/service-marketing-mix-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 112008,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u1-introduction/core-marketing-concepts-map.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u1-introduction/marketing-management-orientations.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u1-introduction/marketing-mix-integration.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u1-introduction/marketing-process-flow.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u1-introduction/marketing-vs-selling-flow.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u1-introduction/product-marketing-mix-map.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/marketing/u1-introduction/service-marketing-mix-map.webp"
+  ]
+}

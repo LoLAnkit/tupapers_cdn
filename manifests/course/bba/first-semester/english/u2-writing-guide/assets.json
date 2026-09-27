@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-25T16:46:33.231Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/first-semester/english/u2-writing-guide",
+  "totalAssets": 1,
+  "assets": {
+    "writing-guide-composition-process.webp": {
+      "key": "course/bba/first-semester/english/u2-writing-guide/writing-guide-composition-process.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/english/u2-writing-guide/writing-guide-composition-process.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 88326,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/first-semester/english/u2-writing-guide/writing-guide-composition-process.webp"
+  ]
+}

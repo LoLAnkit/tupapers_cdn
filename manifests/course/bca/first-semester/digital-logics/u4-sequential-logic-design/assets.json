@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:22.966Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/first-semester/digital-logics/u4-sequential-logic-design",
+  "totalAssets": 7,
+  "assets": {
+    "d-flip-flop-operation.webp": {
+      "key": "course/bca/first-semester/digital-logics/u4-sequential-logic-design/d-flip-flop-operation.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u4-sequential-logic-design/d-flip-flop-operation.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 48780,
+      "contentHashed": false
+    },
+    "jk-flip-flop-race-around-condition.webp": {
+      "key": "course/bca/first-semester/digital-logics/u4-sequential-logic-design/jk-flip-flop-race-around-condition.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u4-sequential-logic-design/jk-flip-flop-race-around-condition.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 57284,
+      "contentHashed": false
+    },
+    "master-slave-jk-flip-flop.webp": {
+      "key": "course/bca/first-semester/digital-logics/u4-sequential-logic-design/master-slave-jk-flip-flop.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u4-sequential-logic-design/master-slave-jk-flip-flop.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 80362,
+      "contentHashed": false
+    },
+    "sr-latch-and-clocked-sr-flip-flop.webp": {
+      "key": "course/bca/first-semester/digital-logics/u4-sequential-logic-design/sr-latch-and-clocked-sr-flip-flop.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u4-sequential-logic-design/sr-latch-and-clocked-sr-flip-flop.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 80096,
+      "contentHashed": false
+    },
+    "state-diagram-and-state-table-relationship.webp": {
+      "key": "course/bca/first-semester/digital-logics/u4-sequential-logic-design/state-diagram-and-state-table-relationship.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u4-sequential-logic-design/state-diagram-and-state-table-relationship.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 58710,
+      "contentHashed": false
+    },
+    "state-reduction-process.webp": {
+      "key": "course/bca/first-semester/digital-logics/u4-sequential-logic-design/state-reduction-process.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u4-sequential-logic-design/state-reduction-process.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 92664,
+      "contentHashed": false
+    },
+    "synchronous-sequential-circuit-design-flow.webp": {
+      "key": "course/bca/first-semester/digital-logics/u4-sequential-logic-design/synchronous-sequential-circuit-design-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u4-sequential-logic-design/synchronous-sequential-circuit-design-flow.webp",
+      "contentType": "image/webp",
+      "width": 1916,
+      "height": 821,
+      "bytes": 64394,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u4-sequential-logic-design/d-flip-flop-operation.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u4-sequential-logic-design/jk-flip-flop-race-around-condition.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u4-sequential-logic-design/master-slave-jk-flip-flop.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u4-sequential-logic-design/sr-latch-and-clocked-sr-flip-flop.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u4-sequential-logic-design/state-diagram-and-state-table-relationship.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u4-sequential-logic-design/state-reduction-process.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/digital-logics/u4-sequential-logic-design/synchronous-sequential-circuit-design-flow.webp"
+  ]
+}

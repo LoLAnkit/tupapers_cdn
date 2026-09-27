@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-27T06:14:22.068Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/first-semester/it-application/u4-computer-software",
+  "totalAssets": 6,
+  "assets": {
+    "memory-file-device-management.webp": {
+      "key": "course/bba/first-semester/it-application/u4-computer-software/memory-file-device-management.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u4-computer-software/memory-file-device-management.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 133472,
+      "contentHashed": false
+    },
+    "operating-system-functional-view.webp": {
+      "key": "course/bba/first-semester/it-application/u4-computer-software/operating-system-functional-view.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u4-computer-software/operating-system-functional-view.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 127506,
+      "contentHashed": false
+    },
+    "process-management-lifecycle.webp": {
+      "key": "course/bba/first-semester/it-application/u4-computer-software/process-management-lifecycle.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u4-computer-software/process-management-lifecycle.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 92348,
+      "contentHashed": false
+    },
+    "programming-language-levels.webp": {
+      "key": "course/bba/first-semester/it-application/u4-computer-software/programming-language-levels.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u4-computer-software/programming-language-levels.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 118568,
+      "contentHashed": false
+    },
+    "software-acquisition-flow.webp": {
+      "key": "course/bba/first-semester/it-application/u4-computer-software/software-acquisition-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u4-computer-software/software-acquisition-flow.webp",
+      "contentType": "image/webp",
+      "width": 2045,
+      "height": 769,
+      "bytes": 55458,
+      "contentHashed": false
+    },
+    "software-classification.webp": {
+      "key": "course/bba/first-semester/it-application/u4-computer-software/software-classification.webp",
+      "url": "https://cdn.tupapers.com/course/bba/first-semester/it-application/u4-computer-software/software-classification.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 54112,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u4-computer-software/memory-file-device-management.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u4-computer-software/operating-system-functional-view.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u4-computer-software/process-management-lifecycle.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u4-computer-software/programming-language-levels.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u4-computer-software/software-acquisition-flow.webp",
+    "https://cdn.tupapers.com/course/bba/first-semester/it-application/u4-computer-software/software-classification.webp"
+  ]
+}
