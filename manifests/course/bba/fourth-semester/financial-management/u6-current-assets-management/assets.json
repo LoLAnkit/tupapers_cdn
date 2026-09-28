@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T17:28:27.016Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/fourth-semester/financial-management/u6-current-assets-management",
+  "totalAssets": 7,
+  "assets": {
+    "cash-management-flow.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u6-current-assets-management/cash-management-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u6-current-assets-management/cash-management-flow.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 139820,
+      "contentHashed": false
+    },
+    "credit-policy-change-evaluation.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u6-current-assets-management/credit-policy-change-evaluation.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u6-current-assets-management/credit-policy-change-evaluation.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 93654,
+      "contentHashed": false
+    },
+    "current-assets-management-cycle.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u6-current-assets-management/current-assets-management-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u6-current-assets-management/current-assets-management-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 103380,
+      "contentHashed": false
+    },
+    "eoq-cost-trade-off.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u6-current-assets-management/eoq-cost-trade-off.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u6-current-assets-management/eoq-cost-trade-off.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 67150,
+      "contentHashed": false
+    },
+    "inventory-control-flow.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u6-current-assets-management/inventory-control-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u6-current-assets-management/inventory-control-flow.webp",
+      "contentType": "image/webp",
+      "width": 2048,
+      "height": 768,
+      "bytes": 119818,
+      "contentHashed": false
+    },
+    "inventory-level-cycle.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u6-current-assets-management/inventory-level-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u6-current-assets-management/inventory-level-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 58092,
+      "contentHashed": false
+    },
+    "receivables-management-cycle.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u6-current-assets-management/receivables-management-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u6-current-assets-management/receivables-management-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 109914,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u6-current-assets-management/cash-management-flow.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u6-current-assets-management/credit-policy-change-evaluation.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u6-current-assets-management/current-assets-management-cycle.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u6-current-assets-management/eoq-cost-trade-off.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u6-current-assets-management/inventory-control-flow.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u6-current-assets-management/inventory-level-cycle.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u6-current-assets-management/receivables-management-cycle.webp"
+  ]
+}

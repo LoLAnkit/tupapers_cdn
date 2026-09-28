@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T17:28:27.557Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/second-semester/english-ii/u6-risk-manufacturing-environment",
+  "totalAssets": 4,
+  "assets": {
+    "environment-disaster-preparedness-cycle.webp": {
+      "key": "course/bba/second-semester/english-ii/u6-risk-manufacturing-environment/environment-disaster-preparedness-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u6-risk-manufacturing-environment/environment-disaster-preparedness-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 137354,
+      "contentHashed": false
+    },
+    "environment-green-practices-and-outcomes.webp": {
+      "key": "course/bba/second-semester/english-ii/u6-risk-manufacturing-environment/environment-green-practices-and-outcomes.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u6-risk-manufacturing-environment/environment-green-practices-and-outcomes.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 175306,
+      "contentHashed": false
+    },
+    "manufacturing-process-and-passive-voice.webp": {
+      "key": "course/bba/second-semester/english-ii/u6-risk-manufacturing-environment/manufacturing-process-and-passive-voice.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u6-risk-manufacturing-environment/manufacturing-process-and-passive-voice.webp",
+      "contentType": "image/webp",
+      "width": 2089,
+      "height": 753,
+      "bytes": 154982,
+      "contentHashed": false
+    },
+    "risk-reward-and-precaution-balance.webp": {
+      "key": "course/bba/second-semester/english-ii/u6-risk-manufacturing-environment/risk-reward-and-precaution-balance.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u6-risk-manufacturing-environment/risk-reward-and-precaution-balance.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 110644,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u6-risk-manufacturing-environment/environment-disaster-preparedness-cycle.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u6-risk-manufacturing-environment/environment-green-practices-and-outcomes.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u6-risk-manufacturing-environment/manufacturing-process-and-passive-voice.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u6-risk-manufacturing-environment/risk-reward-and-precaution-balance.webp"
+  ]
+}

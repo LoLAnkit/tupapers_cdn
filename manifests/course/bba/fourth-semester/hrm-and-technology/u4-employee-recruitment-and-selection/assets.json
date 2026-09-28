@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T17:28:27.067Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/fourth-semester/hrm-and-technology/u4-employee-recruitment-and-selection",
+  "totalAssets": 5,
+  "assets": {
+    "e-recruitment-workflow.webp": {
+      "key": "course/bba/fourth-semester/hrm-and-technology/u4-employee-recruitment-and-selection/e-recruitment-workflow.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u4-employee-recruitment-and-selection/e-recruitment-workflow.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 126960,
+      "contentHashed": false
+    },
+    "employee-selection-process.webp": {
+      "key": "course/bba/fourth-semester/hrm-and-technology/u4-employee-recruitment-and-selection/employee-selection-process.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u4-employee-recruitment-and-selection/employee-selection-process.webp",
+      "contentType": "image/webp",
+      "width": 2056,
+      "height": 765,
+      "bytes": 148550,
+      "contentHashed": false
+    },
+    "interview-types.webp": {
+      "key": "course/bba/fourth-semester/hrm-and-technology/u4-employee-recruitment-and-selection/interview-types.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u4-employee-recruitment-and-selection/interview-types.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 122854,
+      "contentHashed": false
+    },
+    "recruitment-and-selection-funnel.webp": {
+      "key": "course/bba/fourth-semester/hrm-and-technology/u4-employee-recruitment-and-selection/recruitment-and-selection-funnel.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u4-employee-recruitment-and-selection/recruitment-and-selection-funnel.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 100184,
+      "contentHashed": false
+    },
+    "selection-test-map.webp": {
+      "key": "course/bba/fourth-semester/hrm-and-technology/u4-employee-recruitment-and-selection/selection-test-map.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u4-employee-recruitment-and-selection/selection-test-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 124124,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u4-employee-recruitment-and-selection/e-recruitment-workflow.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u4-employee-recruitment-and-selection/employee-selection-process.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u4-employee-recruitment-and-selection/interview-types.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u4-employee-recruitment-and-selection/recruitment-and-selection-funnel.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u4-employee-recruitment-and-selection/selection-test-map.webp"
+  ]
+}

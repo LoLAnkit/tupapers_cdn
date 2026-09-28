@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T17:28:28.818Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/second-semester/english-ii/u8-writing-guide-grammar-reference",
+  "totalAssets": 2,
+  "assets": {
+    "academic-writing-process.webp": {
+      "key": "course/bba/second-semester/english-ii/u8-writing-guide-grammar-reference/academic-writing-process.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u8-writing-guide-grammar-reference/academic-writing-process.webp",
+      "contentType": "image/webp",
+      "width": 2079,
+      "height": 756,
+      "bytes": 92412,
+      "contentHashed": false
+    },
+    "sentence-structure-check.webp": {
+      "key": "course/bba/second-semester/english-ii/u8-writing-guide-grammar-reference/sentence-structure-check.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u8-writing-guide-grammar-reference/sentence-structure-check.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 100872,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u8-writing-guide-grammar-reference/academic-writing-process.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u8-writing-guide-grammar-reference/sentence-structure-check.webp"
+  ]
+}

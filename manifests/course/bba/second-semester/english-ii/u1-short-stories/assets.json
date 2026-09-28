@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T17:28:27.513Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/second-semester/english-ii/u1-short-stories",
+  "totalAssets": 5,
+  "assets": {
+    "a-tale-gods-and-human-expectations.webp": {
+      "key": "course/bba/second-semester/english-ii/u1-short-stories/a-tale-gods-and-human-expectations.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u1-short-stories/a-tale-gods-and-human-expectations.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 241030,
+      "contentHashed": false
+    },
+    "amina-patriarchal-pressure-map.webp": {
+      "key": "course/bba/second-semester/english-ii/u1-short-stories/amina-patriarchal-pressure-map.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u1-short-stories/amina-patriarchal-pressure-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 136240,
+      "contentHashed": false
+    },
+    "the-andhi-khola-anonymous-protagonist.webp": {
+      "key": "course/bba/second-semester/english-ii/u1-short-stories/the-andhi-khola-anonymous-protagonist.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u1-short-stories/the-andhi-khola-anonymous-protagonist.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 183256,
+      "contentHashed": false
+    },
+    "the-dog-of-titwal-mirrored-battle-lines.webp": {
+      "key": "course/bba/second-semester/english-ii/u1-short-stories/the-dog-of-titwal-mirrored-battle-lines.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u1-short-stories/the-dog-of-titwal-mirrored-battle-lines.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 241020,
+      "contentHashed": false
+    },
+    "the-empty-drum-reversal-of-power.webp": {
+      "key": "course/bba/second-semester/english-ii/u1-short-stories/the-empty-drum-reversal-of-power.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u1-short-stories/the-empty-drum-reversal-of-power.webp",
+      "contentType": "image/webp",
+      "width": 2033,
+      "height": 773,
+      "bytes": 224524,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u1-short-stories/a-tale-gods-and-human-expectations.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u1-short-stories/amina-patriarchal-pressure-map.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u1-short-stories/the-andhi-khola-anonymous-protagonist.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u1-short-stories/the-dog-of-titwal-mirrored-battle-lines.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u1-short-stories/the-empty-drum-reversal-of-power.webp"
+  ]
+}

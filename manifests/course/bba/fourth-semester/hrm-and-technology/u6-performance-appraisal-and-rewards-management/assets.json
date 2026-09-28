@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T17:28:27.080Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/fourth-semester/hrm-and-technology/u6-performance-appraisal-and-rewards-management",
+  "totalAssets": 7,
+  "assets": {
+    "360-degree-appraisal.webp": {
+      "key": "course/bba/fourth-semester/hrm-and-technology/u6-performance-appraisal-and-rewards-management/360-degree-appraisal.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u6-performance-appraisal-and-rewards-management/360-degree-appraisal.webp",
+      "contentType": "image/webp",
+      "width": 1374,
+      "height": 1145,
+      "bytes": 144862,
+      "contentHashed": false
+    },
+    "bars-scale.webp": {
+      "key": "course/bba/fourth-semester/hrm-and-technology/u6-performance-appraisal-and-rewards-management/bars-scale.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u6-performance-appraisal-and-rewards-management/bars-scale.webp",
+      "contentType": "image/webp",
+      "width": 1223,
+      "height": 1286,
+      "bytes": 96218,
+      "contentHashed": false
+    },
+    "paired-comparison-matrix.webp": {
+      "key": "course/bba/fourth-semester/hrm-and-technology/u6-performance-appraisal-and-rewards-management/paired-comparison-matrix.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u6-performance-appraisal-and-rewards-management/paired-comparison-matrix.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 147654,
+      "contentHashed": false
+    },
+    "performance-appraisal-methods.webp": {
+      "key": "course/bba/fourth-semester/hrm-and-technology/u6-performance-appraisal-and-rewards-management/performance-appraisal-methods.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u6-performance-appraisal-and-rewards-management/performance-appraisal-methods.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 215450,
+      "contentHashed": false
+    },
+    "performance-management-cycle.webp": {
+      "key": "course/bba/fourth-semester/hrm-and-technology/u6-performance-appraisal-and-rewards-management/performance-management-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u6-performance-appraisal-and-rewards-management/performance-management-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 133660,
+      "contentHashed": false
+    },
+    "rewards-framework.webp": {
+      "key": "course/bba/fourth-semester/hrm-and-technology/u6-performance-appraisal-and-rewards-management/rewards-framework.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u6-performance-appraisal-and-rewards-management/rewards-framework.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 118532,
+      "contentHashed": false
+    },
+    "technology-enabled-performance-appraisal.webp": {
+      "key": "course/bba/fourth-semester/hrm-and-technology/u6-performance-appraisal-and-rewards-management/technology-enabled-performance-appraisal.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u6-performance-appraisal-and-rewards-management/technology-enabled-performance-appraisal.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 128250,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u6-performance-appraisal-and-rewards-management/360-degree-appraisal.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u6-performance-appraisal-and-rewards-management/bars-scale.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u6-performance-appraisal-and-rewards-management/paired-comparison-matrix.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u6-performance-appraisal-and-rewards-management/performance-appraisal-methods.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u6-performance-appraisal-and-rewards-management/performance-management-cycle.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u6-performance-appraisal-and-rewards-management/rewards-framework.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u6-performance-appraisal-and-rewards-management/technology-enabled-performance-appraisal.webp"
+  ]
+}

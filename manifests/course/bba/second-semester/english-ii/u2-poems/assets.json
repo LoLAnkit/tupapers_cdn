@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T17:28:27.523Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/second-semester/english-ii/u2-poems",
+  "totalAssets": 4,
+  "assets": {
+    "dream-variations-repeated-dream-structure.webp": {
+      "key": "course/bba/second-semester/english-ii/u2-poems/dream-variations-repeated-dream-structure.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u2-poems/dream-variations-repeated-dream-structure.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 118616,
+      "contentHashed": false
+    },
+    "in-just-childhood-and-manhood-contrast.webp": {
+      "key": "course/bba/second-semester/english-ii/u2-poems/in-just-childhood-and-manhood-contrast.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u2-poems/in-just-childhood-and-manhood-contrast.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 245090,
+      "contentHashed": false
+    },
+    "new-year-expectation-reversal.webp": {
+      "key": "course/bba/second-semester/english-ii/u2-poems/new-year-expectation-reversal.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u2-poems/new-year-expectation-reversal.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 169002,
+      "contentHashed": false
+    },
+    "the-brook-continuous-journey.webp": {
+      "key": "course/bba/second-semester/english-ii/u2-poems/the-brook-continuous-journey.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u2-poems/the-brook-continuous-journey.webp",
+      "contentType": "image/webp",
+      "width": 1916,
+      "height": 821,
+      "bytes": 225244,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u2-poems/dream-variations-repeated-dream-structure.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u2-poems/in-just-childhood-and-manhood-contrast.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u2-poems/new-year-expectation-reversal.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u2-poems/the-brook-continuous-journey.webp"
+  ]
+}

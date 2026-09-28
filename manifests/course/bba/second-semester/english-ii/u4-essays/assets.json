@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T17:28:27.544Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/second-semester/english-ii/u4-essays",
+  "totalAssets": 8,
+  "assets": {
+    "a-change-of-worlds-two-worldviews.webp": {
+      "key": "course/bba/second-semester/english-ii/u4-essays/a-change-of-worlds-two-worldviews.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u4-essays/a-change-of-worlds-two-worldviews.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 247300,
+      "contentHashed": false
+    },
+    "fundamentals-of-scientific-management-four-principles.webp": {
+      "key": "course/bba/second-semester/english-ii/u4-essays/fundamentals-of-scientific-management-four-principles.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u4-essays/fundamentals-of-scientific-management-four-principles.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 126258,
+      "contentHashed": false
+    },
+    "hearts-of-sorrow-challenge-journey.webp": {
+      "key": "course/bba/second-semester/english-ii/u4-essays/hearts-of-sorrow-challenge-journey.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u4-essays/hearts-of-sorrow-challenge-journey.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 169050,
+      "contentHashed": false
+    },
+    "on-natural-death-views-of-death.webp": {
+      "key": "course/bba/second-semester/english-ii/u4-essays/on-natural-death-views-of-death.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u4-essays/on-natural-death-views-of-death.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 123452,
+      "contentHashed": false
+    },
+    "right-to-control-ones-learning-control-spectrum.webp": {
+      "key": "course/bba/second-semester/english-ii/u4-essays/right-to-control-ones-learning-control-spectrum.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u4-essays/right-to-control-ones-learning-control-spectrum.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 94258,
+      "contentHashed": false
+    },
+    "the-enlightened-mind-raft-metaphor.webp": {
+      "key": "course/bba/second-semester/english-ii/u4-essays/the-enlightened-mind-raft-metaphor.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u4-essays/the-enlightened-mind-raft-metaphor.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 260176,
+      "contentHashed": false
+    },
+    "the-green-frog-skin-money-metaphor.webp": {
+      "key": "course/bba/second-semester/english-ii/u4-essays/the-green-frog-skin-money-metaphor.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u4-essays/the-green-frog-skin-money-metaphor.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 147582,
+      "contentHashed": false
+    },
+    "the-myth-of-sisyphus-endless-cycle.webp": {
+      "key": "course/bba/second-semester/english-ii/u4-essays/the-myth-of-sisyphus-endless-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u4-essays/the-myth-of-sisyphus-endless-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 213108,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u4-essays/a-change-of-worlds-two-worldviews.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u4-essays/fundamentals-of-scientific-management-four-principles.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u4-essays/hearts-of-sorrow-challenge-journey.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u4-essays/on-natural-death-views-of-death.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u4-essays/right-to-control-ones-learning-control-spectrum.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u4-essays/the-enlightened-mind-raft-metaphor.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u4-essays/the-green-frog-skin-money-metaphor.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u4-essays/the-myth-of-sisyphus-endless-cycle.webp"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T17:28:27.143Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/fourth-semester/legal-environment-business/u4-law-of-company-and-insolvency",
+  "totalAssets": 6,
+  "assets": {
+    "company-incorporation-pathway.webp": {
+      "key": "course/bba/fourth-semester/legal-environment-business/u4-law-of-company-and-insolvency/company-incorporation-pathway.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/legal-environment-business/u4-law-of-company-and-insolvency/company-incorporation-pathway.webp",
+      "contentType": "image/webp",
+      "width": 1974,
+      "height": 797,
+      "bytes": 78604,
+      "contentHashed": false
+    },
+    "company-relationship-map.webp": {
+      "key": "course/bba/fourth-semester/legal-environment-business/u4-law-of-company-and-insolvency/company-relationship-map.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/legal-environment-business/u4-law-of-company-and-insolvency/company-relationship-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 75252,
+      "contentHashed": false
+    },
+    "insolvency-procedure-flow.webp": {
+      "key": "course/bba/fourth-semester/legal-environment-business/u4-law-of-company-and-insolvency/insolvency-procedure-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/legal-environment-business/u4-law-of-company-and-insolvency/insolvency-procedure-flow.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 90428,
+      "contentHashed": false
+    },
+    "liquidation-lifecycle.webp": {
+      "key": "course/bba/fourth-semester/legal-environment-business/u4-law-of-company-and-insolvency/liquidation-lifecycle.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/legal-environment-business/u4-law-of-company-and-insolvency/liquidation-lifecycle.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 93612,
+      "contentHashed": false
+    },
+    "liquidator-role-map.webp": {
+      "key": "course/bba/fourth-semester/legal-environment-business/u4-law-of-company-and-insolvency/liquidator-role-map.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/legal-environment-business/u4-law-of-company-and-insolvency/liquidator-role-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 80246,
+      "contentHashed": false
+    },
+    "prospectus-position-map.webp": {
+      "key": "course/bba/fourth-semester/legal-environment-business/u4-law-of-company-and-insolvency/prospectus-position-map.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/legal-environment-business/u4-law-of-company-and-insolvency/prospectus-position-map.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 91324,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/fourth-semester/legal-environment-business/u4-law-of-company-and-insolvency/company-incorporation-pathway.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/legal-environment-business/u4-law-of-company-and-insolvency/company-relationship-map.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/legal-environment-business/u4-law-of-company-and-insolvency/insolvency-procedure-flow.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/legal-environment-business/u4-law-of-company-and-insolvency/liquidation-lifecycle.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/legal-environment-business/u4-law-of-company-and-insolvency/liquidator-role-map.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/legal-environment-business/u4-law-of-company-and-insolvency/prospectus-position-map.webp"
+  ]
+}

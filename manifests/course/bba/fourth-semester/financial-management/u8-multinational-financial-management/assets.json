@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T17:28:27.033Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/fourth-semester/financial-management/u8-multinational-financial-management",
+  "totalAssets": 9,
+  "assets": {
+    "cross-rate-triangle.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u8-multinational-financial-management/cross-rate-triangle.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u8-multinational-financial-management/cross-rate-triangle.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 67892,
+      "contentHashed": false
+    },
+    "domestic-vs-multinational-finance.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u8-multinational-financial-management/domestic-vs-multinational-finance.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u8-multinational-financial-management/domestic-vs-multinational-finance.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 110074,
+      "contentHashed": false
+    },
+    "exchange-rate-quotation-anatomy.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u8-multinational-financial-management/exchange-rate-quotation-anatomy.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u8-multinational-financial-management/exchange-rate-quotation-anatomy.webp",
+      "contentType": "image/webp",
+      "width": 1775,
+      "height": 886,
+      "bytes": 87134,
+      "contentHashed": false
+    },
+    "going-global-pathway.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u8-multinational-financial-management/going-global-pathway.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u8-multinational-financial-management/going-global-pathway.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 68872,
+      "contentHashed": false
+    },
+    "interbank-foreign-currency-quotations.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u8-multinational-financial-management/interbank-foreign-currency-quotations.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u8-multinational-financial-management/interbank-foreign-currency-quotations.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 75344,
+      "contentHashed": false
+    },
+    "interest-rate-parity.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u8-multinational-financial-management/interest-rate-parity.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u8-multinational-financial-management/interest-rate-parity.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 60732,
+      "contentHashed": false
+    },
+    "multinational-operations-structure.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u8-multinational-financial-management/multinational-operations-structure.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u8-multinational-financial-management/multinational-operations-structure.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 120500,
+      "contentHashed": false
+    },
+    "purchasing-power-parity.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u8-multinational-financial-management/purchasing-power-parity.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u8-multinational-financial-management/purchasing-power-parity.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 104940,
+      "contentHashed": false
+    },
+    "spot-and-forward-rate-timeline.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u8-multinational-financial-management/spot-and-forward-rate-timeline.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u8-multinational-financial-management/spot-and-forward-rate-timeline.webp",
+      "contentType": "image/webp",
+      "width": 2056,
+      "height": 765,
+      "bytes": 51586,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u8-multinational-financial-management/cross-rate-triangle.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u8-multinational-financial-management/domestic-vs-multinational-finance.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u8-multinational-financial-management/exchange-rate-quotation-anatomy.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u8-multinational-financial-management/going-global-pathway.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u8-multinational-financial-management/interbank-foreign-currency-quotations.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u8-multinational-financial-management/interest-rate-parity.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u8-multinational-financial-management/multinational-operations-structure.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u8-multinational-financial-management/purchasing-power-parity.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u8-multinational-financial-management/spot-and-forward-rate-timeline.webp"
+  ]
+}

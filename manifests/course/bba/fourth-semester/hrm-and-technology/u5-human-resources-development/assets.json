@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T17:28:27.074Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/fourth-semester/hrm-and-technology/u5-human-resources-development",
+  "totalAssets": 7,
+  "assets": {
+    "career-planning-and-development.webp": {
+      "key": "course/bba/fourth-semester/hrm-and-technology/u5-human-resources-development/career-planning-and-development.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u5-human-resources-development/career-planning-and-development.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 142834,
+      "contentHashed": false
+    },
+    "management-development-methods.webp": {
+      "key": "course/bba/fourth-semester/hrm-and-technology/u5-human-resources-development/management-development-methods.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u5-human-resources-development/management-development-methods.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 213218,
+      "contentHashed": false
+    },
+    "mentoring-and-counseling-relationship.webp": {
+      "key": "course/bba/fourth-semester/hrm-and-technology/u5-human-resources-development/mentoring-and-counseling-relationship.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u5-human-resources-development/mentoring-and-counseling-relationship.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 153550,
+      "contentHashed": false
+    },
+    "on-the-job-vs-off-the-job-training.webp": {
+      "key": "course/bba/fourth-semester/hrm-and-technology/u5-human-resources-development/on-the-job-vs-off-the-job-training.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u5-human-resources-development/on-the-job-vs-off-the-job-training.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 206404,
+      "contentHashed": false
+    },
+    "technology-in-hrd.webp": {
+      "key": "course/bba/fourth-semester/hrm-and-technology/u5-human-resources-development/technology-in-hrd.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u5-human-resources-development/technology-in-hrd.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 122864,
+      "contentHashed": false
+    },
+    "training-evaluation-cycle.webp": {
+      "key": "course/bba/fourth-semester/hrm-and-technology/u5-human-resources-development/training-evaluation-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u5-human-resources-development/training-evaluation-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 139460,
+      "contentHashed": false
+    },
+    "training-needs-assessment.webp": {
+      "key": "course/bba/fourth-semester/hrm-and-technology/u5-human-resources-development/training-needs-assessment.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u5-human-resources-development/training-needs-assessment.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 107792,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u5-human-resources-development/career-planning-and-development.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u5-human-resources-development/management-development-methods.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u5-human-resources-development/mentoring-and-counseling-relationship.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u5-human-resources-development/on-the-job-vs-off-the-job-training.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u5-human-resources-development/technology-in-hrd.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u5-human-resources-development/training-evaluation-cycle.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u5-human-resources-development/training-needs-assessment.webp"
+  ]
+}

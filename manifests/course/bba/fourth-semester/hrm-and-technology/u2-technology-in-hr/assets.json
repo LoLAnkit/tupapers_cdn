@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T17:28:27.049Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/fourth-semester/hrm-and-technology/u2-technology-in-hr",
+  "totalAssets": 5,
+  "assets": {
+    "e-hr-and-hris-architecture.webp": {
+      "key": "course/bba/fourth-semester/hrm-and-technology/u2-technology-in-hr/e-hr-and-hris-architecture.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u2-technology-in-hr/e-hr-and-hris-architecture.webp",
+      "contentType": "image/webp",
+      "width": 1919,
+      "height": 820,
+      "bytes": 74852,
+      "contentHashed": false
+    },
+    "future-of-hr-technology.webp": {
+      "key": "course/bba/fourth-semester/hrm-and-technology/u2-technology-in-hr/future-of-hr-technology.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u2-technology-in-hr/future-of-hr-technology.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 110832,
+      "contentHashed": false
+    },
+    "hr-database-access-paths.webp": {
+      "key": "course/bba/fourth-semester/hrm-and-technology/u2-technology-in-hr/hr-database-access-paths.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u2-technology-in-hr/hr-database-access-paths.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 109616,
+      "contentHashed": false
+    },
+    "hris-implementation-flow.webp": {
+      "key": "course/bba/fourth-semester/hrm-and-technology/u2-technology-in-hr/hris-implementation-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u2-technology-in-hr/hris-implementation-flow.webp",
+      "contentType": "image/webp",
+      "width": 2079,
+      "height": 756,
+      "bytes": 54764,
+      "contentHashed": false
+    },
+    "technology-influence-on-hr-managers.webp": {
+      "key": "course/bba/fourth-semester/hrm-and-technology/u2-technology-in-hr/technology-influence-on-hr-managers.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u2-technology-in-hr/technology-influence-on-hr-managers.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 86386,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u2-technology-in-hr/e-hr-and-hris-architecture.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u2-technology-in-hr/future-of-hr-technology.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u2-technology-in-hr/hr-database-access-paths.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u2-technology-in-hr/hris-implementation-flow.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u2-technology-in-hr/technology-influence-on-hr-managers.webp"
+  ]
+}

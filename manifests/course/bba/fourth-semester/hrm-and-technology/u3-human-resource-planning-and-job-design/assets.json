@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T17:28:27.058Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/fourth-semester/hrm-and-technology/u3-human-resource-planning-and-job-design",
+  "totalAssets": 5,
+  "assets": {
+    "hr-demand-and-supply-forecasting.webp": {
+      "key": "course/bba/fourth-semester/hrm-and-technology/u3-human-resource-planning-and-job-design/hr-demand-and-supply-forecasting.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u3-human-resource-planning-and-job-design/hr-demand-and-supply-forecasting.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 110366,
+      "contentHashed": false
+    },
+    "hr-planning-process.webp": {
+      "key": "course/bba/fourth-semester/hrm-and-technology/u3-human-resource-planning-and-job-design/hr-planning-process.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u3-human-resource-planning-and-job-design/hr-planning-process.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 80586,
+      "contentHashed": false
+    },
+    "job-analysis-outputs.webp": {
+      "key": "course/bba/fourth-semester/hrm-and-technology/u3-human-resource-planning-and-job-design/job-analysis-outputs.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u3-human-resource-planning-and-job-design/job-analysis-outputs.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 83756,
+      "contentHashed": false
+    },
+    "job-design-techniques.webp": {
+      "key": "course/bba/fourth-semester/hrm-and-technology/u3-human-resource-planning-and-job-design/job-design-techniques.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u3-human-resource-planning-and-job-design/job-design-techniques.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 160678,
+      "contentHashed": false
+    },
+    "technology-in-hr-planning.webp": {
+      "key": "course/bba/fourth-semester/hrm-and-technology/u3-human-resource-planning-and-job-design/technology-in-hr-planning.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u3-human-resource-planning-and-job-design/technology-in-hr-planning.webp",
+      "contentType": "image/webp",
+      "width": 1916,
+      "height": 821,
+      "bytes": 95438,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u3-human-resource-planning-and-job-design/hr-demand-and-supply-forecasting.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u3-human-resource-planning-and-job-design/hr-planning-process.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u3-human-resource-planning-and-job-design/job-analysis-outputs.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u3-human-resource-planning-and-job-design/job-design-techniques.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u3-human-resource-planning-and-job-design/technology-in-hr-planning.webp"
+  ]
+}

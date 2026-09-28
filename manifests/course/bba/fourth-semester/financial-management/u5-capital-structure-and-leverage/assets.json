@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T17:28:27.003Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/fourth-semester/financial-management/u5-capital-structure-and-leverage",
+  "totalAssets": 8,
+  "assets": {
+    "breakeven-levels.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u5-capital-structure-and-leverage/breakeven-levels.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u5-capital-structure-and-leverage/breakeven-levels.webp",
+      "contentType": "image/webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 96104,
+      "contentHashed": false
+    },
+    "business-risk-and-financial-risk-chain.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u5-capital-structure-and-leverage/business-risk-and-financial-risk-chain.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u5-capital-structure-and-leverage/business-risk-and-financial-risk-chain.webp",
+      "contentType": "image/webp",
+      "width": 2097,
+      "height": 750,
+      "bytes": 87294,
+      "contentHashed": false
+    },
+    "capital-structure-mix.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u5-capital-structure-and-leverage/capital-structure-mix.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u5-capital-structure-and-leverage/capital-structure-mix.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 104258,
+      "contentHashed": false
+    },
+    "combined-leverage.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u5-capital-structure-and-leverage/combined-leverage.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u5-capital-structure-and-leverage/combined-leverage.webp",
+      "contentType": "image/webp",
+      "width": 2043,
+      "height": 770,
+      "bytes": 80316,
+      "contentHashed": false
+    },
+    "ebit-eps-indifference-chart.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u5-capital-structure-and-leverage/ebit-eps-indifference-chart.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u5-capital-structure-and-leverage/ebit-eps-indifference-chart.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 55682,
+      "contentHashed": false
+    },
+    "financial-leverage.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u5-capital-structure-and-leverage/financial-leverage.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u5-capital-structure-and-leverage/financial-leverage.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 90758,
+      "contentHashed": false
+    },
+    "operating-leverage.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u5-capital-structure-and-leverage/operating-leverage.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u5-capital-structure-and-leverage/operating-leverage.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 73600,
+      "contentHashed": false
+    },
+    "optimal-capital-structure.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u5-capital-structure-and-leverage/optimal-capital-structure.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u5-capital-structure-and-leverage/optimal-capital-structure.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 72258,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u5-capital-structure-and-leverage/breakeven-levels.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u5-capital-structure-and-leverage/business-risk-and-financial-risk-chain.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u5-capital-structure-and-leverage/capital-structure-mix.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u5-capital-structure-and-leverage/combined-leverage.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u5-capital-structure-and-leverage/ebit-eps-indifference-chart.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u5-capital-structure-and-leverage/financial-leverage.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u5-capital-structure-and-leverage/operating-leverage.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u5-capital-structure-and-leverage/optimal-capital-structure.webp"
+  ]
+}

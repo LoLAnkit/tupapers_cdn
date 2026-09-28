@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T17:28:26.979Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/fourth-semester/financial-management/u3-capital-budgeting",
+  "totalAssets": 6,
+  "assets": {
+    "capital-budgeting-decision-process.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u3-capital-budgeting/capital-budgeting-decision-process.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u3-capital-budgeting/capital-budgeting-decision-process.webp",
+      "contentType": "image/webp",
+      "width": 2059,
+      "height": 764,
+      "bytes": 60850,
+      "contentHashed": false
+    },
+    "capital-budgeting-techniques-map.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u3-capital-budgeting/capital-budgeting-techniques-map.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u3-capital-budgeting/capital-budgeting-techniques-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 85994,
+      "contentHashed": false
+    },
+    "npv-and-irr-relationship.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u3-capital-budgeting/npv-and-irr-relationship.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u3-capital-budgeting/npv-and-irr-relationship.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 40032,
+      "contentHashed": false
+    },
+    "project-cash-flow-timeline.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u3-capital-budgeting/project-cash-flow-timeline.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u3-capital-budgeting/project-cash-flow-timeline.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 57366,
+      "contentHashed": false
+    },
+    "replacement-decision-incremental-flow.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u3-capital-budgeting/replacement-decision-incremental-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u3-capital-budgeting/replacement-decision-incremental-flow.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 125678,
+      "contentHashed": false
+    },
+    "unequal-life-project-timelines.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u3-capital-budgeting/unequal-life-project-timelines.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u3-capital-budgeting/unequal-life-project-timelines.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 57358,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u3-capital-budgeting/capital-budgeting-decision-process.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u3-capital-budgeting/capital-budgeting-techniques-map.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u3-capital-budgeting/npv-and-irr-relationship.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u3-capital-budgeting/project-cash-flow-timeline.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u3-capital-budgeting/replacement-decision-incremental-flow.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u3-capital-budgeting/unequal-life-project-timelines.webp"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T17:28:27.537Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/second-semester/english-ii/u3-plays",
+  "totalAssets": 1,
+  "assets": {
+    "the-sandbox-symbolic-stage-layout.webp": {
+      "key": "course/bba/second-semester/english-ii/u3-plays/the-sandbox-symbolic-stage-layout.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u3-plays/the-sandbox-symbolic-stage-layout.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 162490,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u3-plays/the-sandbox-symbolic-stage-layout.webp"
+  ]
+}

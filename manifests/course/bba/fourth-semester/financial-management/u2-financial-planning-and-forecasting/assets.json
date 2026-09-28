@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T17:28:26.973Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/fourth-semester/financial-management/u2-financial-planning-and-forecasting",
+  "totalAssets": 6,
+  "assets": {
+    "additional-funds-needed-logic.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u2-financial-planning-and-forecasting/additional-funds-needed-logic.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u2-financial-planning-and-forecasting/additional-funds-needed-logic.webp",
+      "contentType": "image/webp",
+      "width": 1956,
+      "height": 804,
+      "bytes": 76704,
+      "contentHashed": false
+    },
+    "excess-capacity-adjustment.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u2-financial-planning-and-forecasting/excess-capacity-adjustment.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u2-financial-planning-and-forecasting/excess-capacity-adjustment.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 53558,
+      "contentHashed": false
+    },
+    "financial-planning-hierarchy.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u2-financial-planning-and-forecasting/financial-planning-hierarchy.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u2-financial-planning-and-forecasting/financial-planning-hierarchy.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 98124,
+      "contentHashed": false
+    },
+    "forecasted-financial-statements-link.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u2-financial-planning-and-forecasting/forecasted-financial-statements-link.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u2-financial-planning-and-forecasting/forecasted-financial-statements-link.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 92342,
+      "contentHashed": false
+    },
+    "regression-forecast.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u2-financial-planning-and-forecasting/regression-forecast.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u2-financial-planning-and-forecasting/regression-forecast.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 43944,
+      "contentHashed": false
+    },
+    "sales-forecast-to-financial-forecast.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u2-financial-planning-and-forecasting/sales-forecast-to-financial-forecast.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u2-financial-planning-and-forecasting/sales-forecast-to-financial-forecast.webp",
+      "contentType": "image/webp",
+      "width": 2129,
+      "height": 739,
+      "bytes": 104430,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u2-financial-planning-and-forecasting/additional-funds-needed-logic.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u2-financial-planning-and-forecasting/excess-capacity-adjustment.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u2-financial-planning-and-forecasting/financial-planning-hierarchy.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u2-financial-planning-and-forecasting/forecasted-financial-statements-link.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u2-financial-planning-and-forecasting/regression-forecast.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u2-financial-planning-and-forecasting/sales-forecast-to-financial-forecast.webp"
+  ]
+}

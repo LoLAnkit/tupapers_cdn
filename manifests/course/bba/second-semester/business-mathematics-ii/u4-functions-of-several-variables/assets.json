@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T17:28:27.423Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/second-semester/business-mathematics-ii/u4-functions-of-several-variables",
+  "totalAssets": 6,
+  "assets": {
+    "contour-map-and-local-slopes.webp": {
+      "key": "course/bba/second-semester/business-mathematics-ii/u4-functions-of-several-variables/contour-map-and-local-slopes.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u4-functions-of-several-variables/contour-map-and-local-slopes.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 61598,
+      "contentHashed": false
+    },
+    "lagrange-tangency-condition.webp": {
+      "key": "course/bba/second-semester/business-mathematics-ii/u4-functions-of-several-variables/lagrange-tangency-condition.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u4-functions-of-several-variables/lagrange-tangency-condition.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 56982,
+      "contentHashed": false
+    },
+    "maximum-minimum-and-saddle-shapes.webp": {
+      "key": "course/bba/second-semester/business-mathematics-ii/u4-functions-of-several-variables/maximum-minimum-and-saddle-shapes.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u4-functions-of-several-variables/maximum-minimum-and-saddle-shapes.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 149680,
+      "contentHashed": false
+    },
+    "partial-derivatives-as-surface-slices.webp": {
+      "key": "course/bba/second-semester/business-mathematics-ii/u4-functions-of-several-variables/partial-derivatives-as-surface-slices.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u4-functions-of-several-variables/partial-derivatives-as-surface-slices.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 101214,
+      "contentHashed": false
+    },
+    "production-surface-and-marginal-products.webp": {
+      "key": "course/bba/second-semester/business-mathematics-ii/u4-functions-of-several-variables/production-surface-and-marginal-products.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u4-functions-of-several-variables/production-surface-and-marginal-products.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 142896,
+      "contentHashed": false
+    },
+    "utility-and-production-contours.webp": {
+      "key": "course/bba/second-semester/business-mathematics-ii/u4-functions-of-several-variables/utility-and-production-contours.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u4-functions-of-several-variables/utility-and-production-contours.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 65828,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u4-functions-of-several-variables/contour-map-and-local-slopes.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u4-functions-of-several-variables/lagrange-tangency-condition.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u4-functions-of-several-variables/maximum-minimum-and-saddle-shapes.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u4-functions-of-several-variables/partial-derivatives-as-surface-slices.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u4-functions-of-several-variables/production-surface-and-marginal-products.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u4-functions-of-several-variables/utility-and-production-contours.webp"
+  ]
+}

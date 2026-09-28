@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T17:28:27.453Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/second-semester/business-mathematics-ii/u6-dynamic-economic-analysis-and-difference-equations",
+  "totalAssets": 4,
+  "assets": {
+    "cobweb-model-adjustment.webp": {
+      "key": "course/bba/second-semester/business-mathematics-ii/u6-dynamic-economic-analysis-and-difference-equations/cobweb-model-adjustment.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u6-dynamic-economic-analysis-and-difference-equations/cobweb-model-adjustment.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 48904,
+      "contentHashed": false
+    },
+    "difference-equation-time-path.webp": {
+      "key": "course/bba/second-semester/business-mathematics-ii/u6-dynamic-economic-analysis-and-difference-equations/difference-equation-time-path.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u6-dynamic-economic-analysis-and-difference-equations/difference-equation-time-path.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 49368,
+      "contentHashed": false
+    },
+    "duopoly-price-reaction-cycle.webp": {
+      "key": "course/bba/second-semester/business-mathematics-ii/u6-dynamic-economic-analysis-and-difference-equations/duopoly-price-reaction-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u6-dynamic-economic-analysis-and-difference-equations/duopoly-price-reaction-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 97886,
+      "contentHashed": false
+    },
+    "lagged-keynesian-income-cycle.webp": {
+      "key": "course/bba/second-semester/business-mathematics-ii/u6-dynamic-economic-analysis-and-difference-equations/lagged-keynesian-income-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u6-dynamic-economic-analysis-and-difference-equations/lagged-keynesian-income-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 86904,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u6-dynamic-economic-analysis-and-difference-equations/cobweb-model-adjustment.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u6-dynamic-economic-analysis-and-difference-equations/difference-equation-time-path.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u6-dynamic-economic-analysis-and-difference-equations/duopoly-price-reaction-cycle.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u6-dynamic-economic-analysis-and-difference-equations/lagged-keynesian-income-cycle.webp"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T17:28:27.563Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/second-semester/english-ii/u7-architecture-energy-art-and-design-ageing",
+  "totalAssets": 4,
+  "assets": {
+    "ageing-population-change-and-effects.webp": {
+      "key": "course/bba/second-semester/english-ii/u7-architecture-energy-art-and-design-ageing/ageing-population-change-and-effects.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u7-architecture-energy-art-and-design-ageing/ageing-population-change-and-effects.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 127006,
+      "contentHashed": false
+    },
+    "architecture-islamic-building-vocabulary.webp": {
+      "key": "course/bba/second-semester/english-ii/u7-architecture-energy-art-and-design-ageing/architecture-islamic-building-vocabulary.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u7-architecture-energy-art-and-design-ageing/architecture-islamic-building-vocabulary.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 247168,
+      "contentHashed": false
+    },
+    "art-and-design-purpose-and-economic-links.webp": {
+      "key": "course/bba/second-semester/english-ii/u7-architecture-energy-art-and-design-ageing/art-and-design-purpose-and-economic-links.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u7-architecture-energy-art-and-design-ageing/art-and-design-purpose-and-economic-links.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 115602,
+      "contentHashed": false
+    },
+    "energy-renewable-and-fossil-sources.webp": {
+      "key": "course/bba/second-semester/english-ii/u7-architecture-energy-art-and-design-ageing/energy-renewable-and-fossil-sources.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u7-architecture-energy-art-and-design-ageing/energy-renewable-and-fossil-sources.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 118976,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u7-architecture-energy-art-and-design-ageing/ageing-population-change-and-effects.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u7-architecture-energy-art-and-design-ageing/architecture-islamic-building-vocabulary.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u7-architecture-energy-art-and-design-ageing/art-and-design-purpose-and-economic-links.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u7-architecture-energy-art-and-design-ageing/energy-renewable-and-fossil-sources.webp"
+  ]
+}

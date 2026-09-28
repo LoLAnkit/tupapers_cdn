@@ -4,7 +4,7 @@ Generate textbook-style educational images generation for below source folder.
 
 Source subject folder:
 
-`source/course/bba/fourth-semester/financial-management`
+`source/course/bba/second-semester/business-mathematics-ii`
 
 I will paste one or more units below. For each unit:
 
@@ -48,22 +48,20 @@ Example:
 
 **# Generate images only for the following units and figures.**
 
-
-Unit 7: Dividend policy
-1.Dividend Allocation Flow — Earnings-allocation diagram showing profit available for distribution, retained earnings, and dividends as competing uses of earnings. Style: Handwritten image, white background
-2.Dividend Policy Theories — Three-branch concept map for dividend irrelevance theory, bird-in-the-hand theory, and tax preference theory, each linked to its predicted view of dividend versus capital gain. Style: Handwritten image, white background
-3.Factors Affecting Dividend Policy — Influence map connecting firm conditions such as profit, liquidity, and investment opportunities mentioned in the exam questions to the dividend-policy decision. Style: Handwritten image, white background
-4.Residual Dividend Decision Flow — Flowchart showing investment requirement, target financing mix, equity need, retained earnings allocation, and residual dividend. Style: Handwritten image, white background
-5.Stock Dividend Mechanics — Before-and-after share diagram showing an unchanged proportional ownership base with increased shares and adjusted per-share values after a stock dividend. Style: Handwritten image, white background
-6.Stock Split Mechanics — Before-and-after share-count and price-per-share visual showing the mechanical effect of a stock split while total shareholder value is held constant absent other effects. Style: Handwritten image, white background
-7.Stock Repurchase Flow — Transaction flow showing company cash moving to selling shareholders and repurchased shares reducing shares outstanding. Style: Handwritten image, white background
-Unit 8: Multinational Financial Management
-1.Multinational Operations Structure — Network diagram showing a home-country firm connected to foreign operations and cross-border financial flows. Style: Handwritten image, white background
-2.Going-Global Pathway — Flow diagram linking the reasons for going global to the decision to establish or expand multinational operations. Style: Handwritten image, white background
-3.Domestic vs Multinational Finance — Side-by-side process diagram contrasting a single-currency domestic setting with cross-border currencies, markets, and exchange-rate exposure in multinational financial management. Style: Handwritten image, white background
-4.Exchange Rate Quotation Anatomy — Two-currency quotation visual labeling the currencies, quoted rate, and direction of conversion. Style: Handwritten image, white background
-5.Cross-Rate Triangle — Three-currency triangle showing how two known exchange rates combine to derive a third cross rate. Style: Handwritten image, white background
-6.Interbank Foreign Currency Quotations — Dealer-to-dealer quotation flow showing currencies moving through interbank counterparties and quoted exchange rates between them. Style: Handwritten image, white background
-7.Spot and Forward Rate Timeline — Timeline with a spot transaction at the present date and a forward exchange commitment at a future date. Style: Handwritten image, white background
-8.Interest Rate Parity — Two-path investment loop comparing domestic investment with currency conversion, foreign investment, and forward conversion back to the home currency. Style: Handwritten image, white background
-9.Purchasing Power Parity — Two-country price comparison showing the same representative good or basket in two currencies and the exchange rate implied by their price ratio. Style: Handwritten image, white background
+Unit 4: Functions of several variables
+1. Partial Derivatives as Surface Slices — Show a surface \(z=f(x,y)\) with one slice holding \(y\) constant for \(\partial z/\partial x\) and another holding \(x\) constant for \(\partial z/\partial y\). Style: Handwritten image, white background
+2. Contour Map and Local Slopes — Show contour lines of \(f(x,y)\) with horizontal and vertical directions marked to connect changes in \(x\) and \(y\) to partial derivatives. Style: Handwritten image, white background
+3. Production Surface and Marginal Products — Show a production surface \(Q(L,K)\) with separate arrows for increasing labor and capital, labeling the local changes as MPL and MPK. Style: Handwritten image, white background
+4. Maximum, Minimum, and Saddle Shapes — Show three small three-dimensional surfaces side by side: a bowl for a minimum, an inverted bowl for a maximum, and a saddle surface, each with its stationary point labeled. Style: Handwritten image, white background
+5. Lagrange Tangency Condition — Show objective-function contours tangent to a constraint curve at the constrained optimum, with the two gradient vectors drawn parallel. Style: Handwritten image, white background
+6. Utility and Production Contours — Show indifference curves and isoquants as two related contour-map examples, labeling higher utility and higher output directions. Style: Handwritten image, white background
+Unit 5: First-order differential equations and applications
+1. Slope Field and Solution Curve — Show short slope segments for a first-order differential equation with one solution curve following the field from an initial point. Style: Handwritten image, white background
+2. Limited and Unlimited Growth Paths — Plot an exponential-style unlimited growth curve beside a bounded growth curve approaching a horizontal carrying-capacity line. Style: Handwritten image, white background
+3. Dynamic Market Price Adjustment — Show demand and supply determining equilibrium price, then a time-path \(P(t)\) moving from an initial price toward the equilibrium level. Style: Handwritten image, white background
+4. Exact Differential Equation Potential Map — Show level curves of a potential function with a small vector field indicating that an exact differential follows constant-potential solution curves. Style: Handwritten image, white background
+Unit 6: Dynamic economic analysis and Difference equations
+1. Difference-Equation Time Path — Plot discrete points \(y_0,y_1,y_2,\ldots\) over time with examples of convergence, divergence, and oscillation around an equilibrium level. Style: Handwritten image, white background
+2. Cobweb Model Adjustment — Draw demand and supply curves with the period-by-period horizontal and vertical cobweb path showing price and quantity adjustment toward or away from equilibrium. Style: Handwritten image, white background
+3. Lagged Keynesian Income Cycle — Show \(y_{t-1}\) feeding consumption \(C_t\), investment \(I_t\), and then current income \(y_t\), with the lag clearly labeled. Style: Handwritten image, white background
+4. Duopoly Price Reaction Cycle — Show firm X's price feeding firm Y's next-period reaction and firm Y's price feeding firm X's next-period reaction in an alternating time loop. Style: Handwritten image, white background

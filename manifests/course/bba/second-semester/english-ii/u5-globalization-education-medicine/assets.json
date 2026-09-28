@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T17:28:27.550Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/second-semester/english-ii/u5-globalization-education-medicine",
+  "totalAssets": 3,
+  "assets": {
+    "education-online-interaction.webp": {
+      "key": "course/bba/second-semester/english-ii/u5-globalization-education-medicine/education-online-interaction.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u5-globalization-education-medicine/education-online-interaction.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 143906,
+      "contentHashed": false
+    },
+    "globalization-food-and-culture-flows.webp": {
+      "key": "course/bba/second-semester/english-ii/u5-globalization-education-medicine/globalization-food-and-culture-flows.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u5-globalization-education-medicine/globalization-food-and-culture-flows.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 238178,
+      "contentHashed": false
+    },
+    "medicine-health-vocabulary-relationships.webp": {
+      "key": "course/bba/second-semester/english-ii/u5-globalization-education-medicine/medicine-health-vocabulary-relationships.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u5-globalization-education-medicine/medicine-health-vocabulary-relationships.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 117300,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u5-globalization-education-medicine/education-online-interaction.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u5-globalization-education-medicine/globalization-food-and-culture-flows.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/english-ii/u5-globalization-education-medicine/medicine-health-vocabulary-relationships.webp"
+  ]
+}

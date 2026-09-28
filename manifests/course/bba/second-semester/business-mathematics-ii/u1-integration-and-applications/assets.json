@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T17:28:27.392Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/second-semester/business-mathematics-ii/u1-integration-and-applications",
+  "totalAssets": 7,
+  "assets": {
+    "accumulation-and-antiderivative-link.webp": {
+      "key": "course/bba/second-semester/business-mathematics-ii/u1-integration-and-applications/accumulation-and-antiderivative-link.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u1-integration-and-applications/accumulation-and-antiderivative-link.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 76816,
+      "contentHashed": false
+    },
+    "area-bounded-by-curve-and-ordinates.webp": {
+      "key": "course/bba/second-semester/business-mathematics-ii/u1-integration-and-applications/area-bounded-by-curve-and-ordinates.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u1-integration-and-applications/area-bounded-by-curve-and-ordinates.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 60198,
+      "contentHashed": false
+    },
+    "consumer-and-producer-surplus.webp": {
+      "key": "course/bba/second-semester/business-mathematics-ii/u1-integration-and-applications/consumer-and-producer-surplus.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u1-integration-and-applications/consumer-and-producer-surplus.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 81956,
+      "contentHashed": false
+    },
+    "definite-integral-as-signed-area.webp": {
+      "key": "course/bba/second-semester/business-mathematics-ii/u1-integration-and-applications/definite-integral-as-signed-area.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u1-integration-and-applications/definite-integral-as-signed-area.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 88090,
+      "contentHashed": false
+    },
+    "integration-by-parts-relationship.webp": {
+      "key": "course/bba/second-semester/business-mathematics-ii/u1-integration-and-applications/integration-by-parts-relationship.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u1-integration-and-applications/integration-by-parts-relationship.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 65680,
+      "contentHashed": false
+    },
+    "marginal-to-total-economic-functions.webp": {
+      "key": "course/bba/second-semester/business-mathematics-ii/u1-integration-and-applications/marginal-to-total-economic-functions.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u1-integration-and-applications/marginal-to-total-economic-functions.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 61526,
+      "contentHashed": false
+    },
+    "substitution-method-flow.webp": {
+      "key": "course/bba/second-semester/business-mathematics-ii/u1-integration-and-applications/substitution-method-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u1-integration-and-applications/substitution-method-flow.webp",
+      "contentType": "image/webp",
+      "width": 2056,
+      "height": 765,
+      "bytes": 57842,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u1-integration-and-applications/accumulation-and-antiderivative-link.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u1-integration-and-applications/area-bounded-by-curve-and-ordinates.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u1-integration-and-applications/consumer-and-producer-surplus.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u1-integration-and-applications/definite-integral-as-signed-area.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u1-integration-and-applications/integration-by-parts-relationship.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u1-integration-and-applications/marginal-to-total-economic-functions.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u1-integration-and-applications/substitution-method-flow.webp"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T17:28:26.964Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/fourth-semester/financial-management/u1-introduction",
+  "totalAssets": 7,
+  "assets": {
+    "agency-problem-relationship.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u1-introduction/agency-problem-relationship.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u1-introduction/agency-problem-relationship.webp",
+      "contentType": "image/webp",
+      "width": 1646,
+      "height": 956,
+      "bytes": 96286,
+      "contentHashed": false
+    },
+    "business-ethics-and-social-responsibility.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u1-introduction/business-ethics-and-social-responsibility.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u1-introduction/business-ethics-and-social-responsibility.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 115424,
+      "contentHashed": false
+    },
+    "financial-innovations-pathway.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u1-introduction/financial-innovations-pathway.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u1-introduction/financial-innovations-pathway.webp",
+      "contentType": "image/webp",
+      "width": 2079,
+      "height": 756,
+      "bytes": 99008,
+      "contentHashed": false
+    },
+    "financial-management-decisions.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u1-introduction/financial-management-decisions.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u1-introduction/financial-management-decisions.webp",
+      "contentType": "image/webp",
+      "width": 1916,
+      "height": 821,
+      "bytes": 77608,
+      "contentHashed": false
+    },
+    "financial-manager-responsibility-cycle.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u1-introduction/financial-manager-responsibility-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u1-introduction/financial-manager-responsibility-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 90572,
+      "contentHashed": false
+    },
+    "forms-of-business-organization.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u1-introduction/forms-of-business-organization.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u1-introduction/forms-of-business-organization.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 91958,
+      "contentHashed": false
+    },
+    "scope-of-financial-management.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u1-introduction/scope-of-financial-management.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u1-introduction/scope-of-financial-management.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 81518,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u1-introduction/agency-problem-relationship.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u1-introduction/business-ethics-and-social-responsibility.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u1-introduction/financial-innovations-pathway.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u1-introduction/financial-management-decisions.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u1-introduction/financial-manager-responsibility-cycle.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u1-introduction/forms-of-business-organization.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u1-introduction/scope-of-financial-management.webp"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T17:28:27.164Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/fourth-semester/legal-environment-business/u6-dispute-settlement-systems",
+  "totalAssets": 6,
+  "assets": {
+    "arbitration-lifecycle.webp": {
+      "key": "course/bba/fourth-semester/legal-environment-business/u6-dispute-settlement-systems/arbitration-lifecycle.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/legal-environment-business/u6-dispute-settlement-systems/arbitration-lifecycle.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 77356,
+      "contentHashed": false
+    },
+    "arbitrator-powers-and-duties-map.webp": {
+      "key": "course/bba/fourth-semester/legal-environment-business/u6-dispute-settlement-systems/arbitrator-powers-and-duties-map.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/legal-environment-business/u6-dispute-settlement-systems/arbitrator-powers-and-duties-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 90526,
+      "contentHashed": false
+    },
+    "civil-procedure-flow.webp": {
+      "key": "course/bba/fourth-semester/legal-environment-business/u6-dispute-settlement-systems/civil-procedure-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/legal-environment-business/u6-dispute-settlement-systems/civil-procedure-flow.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 112790,
+      "contentHashed": false
+    },
+    "court-structure-and-jurisdiction-map.webp": {
+      "key": "course/bba/fourth-semester/legal-environment-business/u6-dispute-settlement-systems/court-structure-and-jurisdiction-map.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/legal-environment-business/u6-dispute-settlement-systems/court-structure-and-jurisdiction-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 85136,
+      "contentHashed": false
+    },
+    "dispute-settlement-choice-path.webp": {
+      "key": "course/bba/fourth-semester/legal-environment-business/u6-dispute-settlement-systems/dispute-settlement-choice-path.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/legal-environment-business/u6-dispute-settlement-systems/dispute-settlement-choice-path.webp",
+      "contentType": "image/webp",
+      "width": 1223,
+      "height": 1286,
+      "bytes": 85278,
+      "contentHashed": false
+    },
+    "revocation-of-arbitrator-authority-flow.webp": {
+      "key": "course/bba/fourth-semester/legal-environment-business/u6-dispute-settlement-systems/revocation-of-arbitrator-authority-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/legal-environment-business/u6-dispute-settlement-systems/revocation-of-arbitrator-authority-flow.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 65048,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/fourth-semester/legal-environment-business/u6-dispute-settlement-systems/arbitration-lifecycle.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/legal-environment-business/u6-dispute-settlement-systems/arbitrator-powers-and-duties-map.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/legal-environment-business/u6-dispute-settlement-systems/civil-procedure-flow.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/legal-environment-business/u6-dispute-settlement-systems/court-structure-and-jurisdiction-map.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/legal-environment-business/u6-dispute-settlement-systems/dispute-settlement-choice-path.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/legal-environment-business/u6-dispute-settlement-systems/revocation-of-arbitrator-authority-flow.webp"
+  ]
+}

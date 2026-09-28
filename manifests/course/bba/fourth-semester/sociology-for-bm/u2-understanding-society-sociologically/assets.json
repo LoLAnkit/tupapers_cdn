@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T17:28:27.256Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/fourth-semester/sociology-for-bm/u2-understanding-society-sociologically",
+  "totalAssets": 5,
+  "assets": {
+    "building-blocks-of-society.webp": {
+      "key": "course/bba/fourth-semester/sociology-for-bm/u2-understanding-society-sociologically/building-blocks-of-society.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-bm/u2-understanding-society-sociologically/building-blocks-of-society.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 81066,
+      "contentHashed": false
+    },
+    "culture-and-consumer-decisions.webp": {
+      "key": "course/bba/fourth-semester/sociology-for-bm/u2-understanding-society-sociologically/culture-and-consumer-decisions.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-bm/u2-understanding-society-sociologically/culture-and-consumer-decisions.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 103264,
+      "contentHashed": false
+    },
+    "organizational-culture-layers.webp": {
+      "key": "course/bba/fourth-semester/sociology-for-bm/u2-understanding-society-sociologically/organizational-culture-layers.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-bm/u2-understanding-society-sociologically/organizational-culture-layers.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 138718,
+      "contentHashed": false
+    },
+    "socialization-pathway.webp": {
+      "key": "course/bba/fourth-semester/sociology-for-bm/u2-understanding-society-sociologically/socialization-pathway.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-bm/u2-understanding-society-sociologically/socialization-pathway.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 87648,
+      "contentHashed": false
+    },
+    "status-and-role-connection.webp": {
+      "key": "course/bba/fourth-semester/sociology-for-bm/u2-understanding-society-sociologically/status-and-role-connection.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-bm/u2-understanding-society-sociologically/status-and-role-connection.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 89798,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-bm/u2-understanding-society-sociologically/building-blocks-of-society.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-bm/u2-understanding-society-sociologically/culture-and-consumer-decisions.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-bm/u2-understanding-society-sociologically/organizational-culture-layers.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-bm/u2-understanding-society-sociologically/socialization-pathway.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-bm/u2-understanding-society-sociologically/status-and-role-connection.webp"
+  ]
+}

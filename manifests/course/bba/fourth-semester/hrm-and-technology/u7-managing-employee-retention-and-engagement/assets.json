@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T17:28:27.086Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/fourth-semester/hrm-and-technology/u7-managing-employee-retention-and-engagement",
+  "totalAssets": 4,
+  "assets": {
+    "causes-of-employee-turnover.webp": {
+      "key": "course/bba/fourth-semester/hrm-and-technology/u7-managing-employee-retention-and-engagement/causes-of-employee-turnover.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u7-managing-employee-retention-and-engagement/causes-of-employee-turnover.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 58826,
+      "contentHashed": false
+    },
+    "employee-engagement-performance-chain.webp": {
+      "key": "course/bba/fourth-semester/hrm-and-technology/u7-managing-employee-retention-and-engagement/employee-engagement-performance-chain.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u7-managing-employee-retention-and-engagement/employee-engagement-performance-chain.webp",
+      "contentType": "image/webp",
+      "width": 2073,
+      "height": 758,
+      "bytes": 70812,
+      "contentHashed": false
+    },
+    "employee-retention-strategies.webp": {
+      "key": "course/bba/fourth-semester/hrm-and-technology/u7-managing-employee-retention-and-engagement/employee-retention-strategies.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u7-managing-employee-retention-and-engagement/employee-retention-strategies.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 95836,
+      "contentHashed": false
+    },
+    "voluntary-vs-involuntary-turnover.webp": {
+      "key": "course/bba/fourth-semester/hrm-and-technology/u7-managing-employee-retention-and-engagement/voluntary-vs-involuntary-turnover.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u7-managing-employee-retention-and-engagement/voluntary-vs-involuntary-turnover.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 75042,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u7-managing-employee-retention-and-engagement/causes-of-employee-turnover.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u7-managing-employee-retention-and-engagement/employee-engagement-performance-chain.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u7-managing-employee-retention-and-engagement/employee-retention-strategies.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/hrm-and-technology/u7-managing-employee-retention-and-engagement/voluntary-vs-involuntary-turnover.webp"
+  ]
+}

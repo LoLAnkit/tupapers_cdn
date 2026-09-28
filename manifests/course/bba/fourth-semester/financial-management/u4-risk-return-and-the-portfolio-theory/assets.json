@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T17:28:26.986Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/fourth-semester/financial-management/u4-risk-return-and-the-portfolio-theory",
+  "totalAssets": 6,
+  "assets": {
+    "capm-security-market-line.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u4-risk-return-and-the-portfolio-theory/capm-security-market-line.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u4-risk-return-and-the-portfolio-theory/capm-security-market-line.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 53258,
+      "contentHashed": false
+    },
+    "diversification-effect.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u4-risk-return-and-the-portfolio-theory/diversification-effect.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u4-risk-return-and-the-portfolio-theory/diversification-effect.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 57104,
+      "contentHashed": false
+    },
+    "efficient-frontier-mvp-and-optimal-portfolio.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u4-risk-return-and-the-portfolio-theory/efficient-frontier-mvp-and-optimal-portfolio.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u4-risk-return-and-the-portfolio-theory/efficient-frontier-mvp-and-optimal-portfolio.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 55990,
+      "contentHashed": false
+    },
+    "portfolio-risk-and-return-map.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u4-risk-return-and-the-portfolio-theory/portfolio-risk-and-return-map.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u4-risk-return-and-the-portfolio-theory/portfolio-risk-and-return-map.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 102256,
+      "contentHashed": false
+    },
+    "return-measurement-flow.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u4-risk-return-and-the-portfolio-theory/return-measurement-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u4-risk-return-and-the-portfolio-theory/return-measurement-flow.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 102528,
+      "contentHashed": false
+    },
+    "risk-dispersion-measures.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u4-risk-return-and-the-portfolio-theory/risk-dispersion-measures.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u4-risk-return-and-the-portfolio-theory/risk-dispersion-measures.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 151446,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u4-risk-return-and-the-portfolio-theory/capm-security-market-line.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u4-risk-return-and-the-portfolio-theory/diversification-effect.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u4-risk-return-and-the-portfolio-theory/efficient-frontier-mvp-and-optimal-portfolio.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u4-risk-return-and-the-portfolio-theory/portfolio-risk-and-return-map.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u4-risk-return-and-the-portfolio-theory/return-measurement-flow.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u4-risk-return-and-the-portfolio-theory/risk-dispersion-measures.webp"
+  ]
+}

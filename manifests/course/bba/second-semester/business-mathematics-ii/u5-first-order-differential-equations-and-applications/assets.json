@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T17:28:27.437Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/second-semester/business-mathematics-ii/u5-first-order-differential-equations-and-applications",
+  "totalAssets": 4,
+  "assets": {
+    "dynamic-market-price-adjustment.webp": {
+      "key": "course/bba/second-semester/business-mathematics-ii/u5-first-order-differential-equations-and-applications/dynamic-market-price-adjustment.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u5-first-order-differential-equations-and-applications/dynamic-market-price-adjustment.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 50526,
+      "contentHashed": false
+    },
+    "exact-differential-equation-potential-map.webp": {
+      "key": "course/bba/second-semester/business-mathematics-ii/u5-first-order-differential-equations-and-applications/exact-differential-equation-potential-map.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u5-first-order-differential-equations-and-applications/exact-differential-equation-potential-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 85426,
+      "contentHashed": false
+    },
+    "limited-and-unlimited-growth-paths.webp": {
+      "key": "course/bba/second-semester/business-mathematics-ii/u5-first-order-differential-equations-and-applications/limited-and-unlimited-growth-paths.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u5-first-order-differential-equations-and-applications/limited-and-unlimited-growth-paths.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 56634,
+      "contentHashed": false
+    },
+    "slope-field-and-solution-curve.webp": {
+      "key": "course/bba/second-semester/business-mathematics-ii/u5-first-order-differential-equations-and-applications/slope-field-and-solution-curve.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u5-first-order-differential-equations-and-applications/slope-field-and-solution-curve.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 59056,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u5-first-order-differential-equations-and-applications/dynamic-market-price-adjustment.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u5-first-order-differential-equations-and-applications/exact-differential-equation-potential-map.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u5-first-order-differential-equations-and-applications/limited-and-unlimited-growth-paths.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u5-first-order-differential-equations-and-applications/slope-field-and-solution-curve.webp"
+  ]
+}

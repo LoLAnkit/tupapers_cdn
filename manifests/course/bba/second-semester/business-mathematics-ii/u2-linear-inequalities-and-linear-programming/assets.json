@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T17:28:27.405Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/second-semester/business-mathematics-ii/u2-linear-inequalities-and-linear-programming",
+  "totalAssets": 4,
+  "assets": {
+    "feasible-region-and-corner-points.webp": {
+      "key": "course/bba/second-semester/business-mathematics-ii/u2-linear-inequalities-and-linear-programming/feasible-region-and-corner-points.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u2-linear-inequalities-and-linear-programming/feasible-region-and-corner-points.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 40474,
+      "contentHashed": false
+    },
+    "linear-inequality-half-planes.webp": {
+      "key": "course/bba/second-semester/business-mathematics-ii/u2-linear-inequalities-and-linear-programming/linear-inequality-half-planes.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u2-linear-inequalities-and-linear-programming/linear-inequality-half-planes.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 73980,
+      "contentHashed": false
+    },
+    "objective-function-movement.webp": {
+      "key": "course/bba/second-semester/business-mathematics-ii/u2-linear-inequalities-and-linear-programming/objective-function-movement.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u2-linear-inequalities-and-linear-programming/objective-function-movement.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 71276,
+      "contentHashed": false
+    },
+    "primal-dual-relationship.webp": {
+      "key": "course/bba/second-semester/business-mathematics-ii/u2-linear-inequalities-and-linear-programming/primal-dual-relationship.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u2-linear-inequalities-and-linear-programming/primal-dual-relationship.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 126616,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u2-linear-inequalities-and-linear-programming/feasible-region-and-corner-points.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u2-linear-inequalities-and-linear-programming/linear-inequality-half-planes.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u2-linear-inequalities-and-linear-programming/objective-function-movement.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u2-linear-inequalities-and-linear-programming/primal-dual-relationship.webp"
+  ]
+}

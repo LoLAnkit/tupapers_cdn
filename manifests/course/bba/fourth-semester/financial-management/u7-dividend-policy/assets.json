@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T17:28:27.024Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/fourth-semester/financial-management/u7-dividend-policy",
+  "totalAssets": 7,
+  "assets": {
+    "dividend-allocation-flow.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u7-dividend-policy/dividend-allocation-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u7-dividend-policy/dividend-allocation-flow.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 93132,
+      "contentHashed": false
+    },
+    "dividend-policy-theories.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u7-dividend-policy/dividend-policy-theories.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u7-dividend-policy/dividend-policy-theories.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 124098,
+      "contentHashed": false
+    },
+    "factors-affecting-dividend-policy.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u7-dividend-policy/factors-affecting-dividend-policy.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u7-dividend-policy/factors-affecting-dividend-policy.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 123796,
+      "contentHashed": false
+    },
+    "residual-dividend-decision-flow.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u7-dividend-policy/residual-dividend-decision-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u7-dividend-policy/residual-dividend-decision-flow.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 76936,
+      "contentHashed": false
+    },
+    "stock-dividend-mechanics.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u7-dividend-policy/stock-dividend-mechanics.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u7-dividend-policy/stock-dividend-mechanics.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 110468,
+      "contentHashed": false
+    },
+    "stock-repurchase-flow.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u7-dividend-policy/stock-repurchase-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u7-dividend-policy/stock-repurchase-flow.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 79124,
+      "contentHashed": false
+    },
+    "stock-split-mechanics.webp": {
+      "key": "course/bba/fourth-semester/financial-management/u7-dividend-policy/stock-split-mechanics.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u7-dividend-policy/stock-split-mechanics.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 86310,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u7-dividend-policy/dividend-allocation-flow.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u7-dividend-policy/dividend-policy-theories.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u7-dividend-policy/factors-affecting-dividend-policy.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u7-dividend-policy/residual-dividend-decision-flow.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u7-dividend-policy/stock-dividend-mechanics.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u7-dividend-policy/stock-repurchase-flow.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/financial-management/u7-dividend-policy/stock-split-mechanics.webp"
+  ]
+}

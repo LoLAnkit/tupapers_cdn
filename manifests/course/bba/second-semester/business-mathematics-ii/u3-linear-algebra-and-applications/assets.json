@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T17:28:27.413Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/second-semester/business-mathematics-ii/u3-linear-algebra-and-applications",
+  "totalAssets": 5,
+  "assets": {
+    "elementary-row-operation-path.webp": {
+      "key": "course/bba/second-semester/business-mathematics-ii/u3-linear-algebra-and-applications/elementary-row-operation-path.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u3-linear-algebra-and-applications/elementary-row-operation-path.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 56430,
+      "contentHashed": false
+    },
+    "hawkins-simon-viability-check.webp": {
+      "key": "course/bba/second-semester/business-mathematics-ii/u3-linear-algebra-and-applications/hawkins-simon-viability-check.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u3-linear-algebra-and-applications/hawkins-simon-viability-check.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 65296,
+      "contentHashed": false
+    },
+    "minor-and-cofactor-selection.webp": {
+      "key": "course/bba/second-semester/business-mathematics-ii/u3-linear-algebra-and-applications/minor-and-cofactor-selection.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u3-linear-algebra-and-applications/minor-and-cofactor-selection.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 57962,
+      "contentHashed": false
+    },
+    "three-equation-geometric-interpretation.webp": {
+      "key": "course/bba/second-semester/business-mathematics-ii/u3-linear-algebra-and-applications/three-equation-geometric-interpretation.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u3-linear-algebra-and-applications/three-equation-geometric-interpretation.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 77666,
+      "contentHashed": false
+    },
+    "two-industry-input-output-flow.webp": {
+      "key": "course/bba/second-semester/business-mathematics-ii/u3-linear-algebra-and-applications/two-industry-input-output-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u3-linear-algebra-and-applications/two-industry-input-output-flow.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 92124,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u3-linear-algebra-and-applications/elementary-row-operation-path.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u3-linear-algebra-and-applications/hawkins-simon-viability-check.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u3-linear-algebra-and-applications/minor-and-cofactor-selection.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u3-linear-algebra-and-applications/three-equation-geometric-interpretation.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/business-mathematics-ii/u3-linear-algebra-and-applications/two-industry-input-output-flow.webp"
+  ]
+}

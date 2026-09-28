@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T17:28:27.263Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/fourth-semester/sociology-for-bm/u3-social-institutions-and-business-acumen",
+  "totalAssets": 5,
+  "assets": {
+    "business-acumen-wheel.webp": {
+      "key": "course/bba/fourth-semester/sociology-for-bm/u3-social-institutions-and-business-acumen/business-acumen-wheel.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-bm/u3-social-institutions-and-business-acumen/business-acumen-wheel.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 83634,
+      "contentHashed": false
+    },
+    "economy-work-relationship.webp": {
+      "key": "course/bba/fourth-semester/sociology-for-bm/u3-social-institutions-and-business-acumen/economy-work-relationship.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-bm/u3-social-institutions-and-business-acumen/economy-work-relationship.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 83542,
+      "contentHashed": false
+    },
+    "family-as-a-social-system.webp": {
+      "key": "course/bba/fourth-semester/sociology-for-bm/u3-social-institutions-and-business-acumen/family-as-a-social-system.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-bm/u3-social-institutions-and-business-acumen/family-as-a-social-system.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 106662,
+      "contentHashed": false
+    },
+    "power-to-authority.webp": {
+      "key": "course/bba/fourth-semester/sociology-for-bm/u3-social-institutions-and-business-acumen/power-to-authority.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-bm/u3-social-institutions-and-business-acumen/power-to-authority.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 91110,
+      "contentHashed": false
+    },
+    "religion-values-and-work-ethics.webp": {
+      "key": "course/bba/fourth-semester/sociology-for-bm/u3-social-institutions-and-business-acumen/religion-values-and-work-ethics.webp",
+      "url": "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-bm/u3-social-institutions-and-business-acumen/religion-values-and-work-ethics.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 87730,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-bm/u3-social-institutions-and-business-acumen/business-acumen-wheel.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-bm/u3-social-institutions-and-business-acumen/economy-work-relationship.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-bm/u3-social-institutions-and-business-acumen/family-as-a-social-system.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-bm/u3-social-institutions-and-business-acumen/power-to-authority.webp",
+    "https://cdn.tupapers.com/course/bba/fourth-semester/sociology-for-bm/u3-social-institutions-and-business-acumen/religion-values-and-work-ethics.webp"
+  ]
+}
