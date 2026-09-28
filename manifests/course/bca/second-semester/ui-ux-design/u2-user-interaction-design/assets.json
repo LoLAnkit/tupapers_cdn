@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T08:07:57.150Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/second-semester/ui-ux-design/u2-user-interaction-design",
+  "totalAssets": 6,
+  "assets": {
+    "ideation-techniques.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/u2-user-interaction-design/ideation-techniques.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u2-user-interaction-design/ideation-techniques.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 123722,
+      "contentHashed": false
+    },
+    "mindmap-for-ux-planning.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/u2-user-interaction-design/mindmap-for-ux-planning.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u2-user-interaction-design/mindmap-for-ux-planning.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 137912,
+      "contentHashed": false
+    },
+    "user-journey-map.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/u2-user-interaction-design/user-journey-map.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u2-user-interaction-design/user-journey-map.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 172096,
+      "contentHashed": false
+    },
+    "user-persona-anatomy.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/u2-user-interaction-design/user-persona-anatomy.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u2-user-interaction-design/user-persona-anatomy.webp",
+      "contentType": "image/webp",
+      "width": 1145,
+      "height": 1374,
+      "bytes": 168548,
+      "contentHashed": false
+    },
+    "ux-design-process-and-user-centered-design.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/u2-user-interaction-design/ux-design-process-and-user-centered-design.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u2-user-interaction-design/ux-design-process-and-user-centered-design.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 129168,
+      "contentHashed": false
+    },
+    "ux-research-workflow.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/u2-user-interaction-design/ux-research-workflow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u2-user-interaction-design/ux-research-workflow.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 121986,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u2-user-interaction-design/ideation-techniques.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u2-user-interaction-design/mindmap-for-ux-planning.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u2-user-interaction-design/user-journey-map.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u2-user-interaction-design/user-persona-anatomy.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u2-user-interaction-design/ux-design-process-and-user-centered-design.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u2-user-interaction-design/ux-research-workflow.webp"
+  ]
+}

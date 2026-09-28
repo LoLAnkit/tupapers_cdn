@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T08:07:56.412Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/first-semester/c-programming/u3-functions-arrays-and-string",
+  "totalAssets": 8,
+  "assets": {
+    "array-of-strings-layout.webp": {
+      "key": "course/bca/first-semester/c-programming/u3-functions-arrays-and-string/array-of-strings-layout.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u3-functions-arrays-and-string/array-of-strings-layout.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 94916,
+      "contentHashed": false
+    },
+    "c-string-and-null-terminator.webp": {
+      "key": "course/bca/first-semester/c-programming/u3-functions-arrays-and-string/c-string-and-null-terminator.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u3-functions-arrays-and-string/c-string-and-null-terminator.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 52558,
+      "contentHashed": false
+    },
+    "call-by-value-vs-reference.webp": {
+      "key": "course/bca/first-semester/c-programming/u3-functions-arrays-and-string/call-by-value-vs-reference.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u3-functions-arrays-and-string/call-by-value-vs-reference.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 81708,
+      "contentHashed": false
+    },
+    "function-call-lifecycle.webp": {
+      "key": "course/bca/first-semester/c-programming/u3-functions-arrays-and-string/function-call-lifecycle.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u3-functions-arrays-and-string/function-call-lifecycle.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 74682,
+      "contentHashed": false
+    },
+    "one-dimensional-array-memory-layout.webp": {
+      "key": "course/bca/first-semester/c-programming/u3-functions-arrays-and-string/one-dimensional-array-memory-layout.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u3-functions-arrays-and-string/one-dimensional-array-memory-layout.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 72368,
+      "contentHashed": false
+    },
+    "passing-arrays-to-functions.webp": {
+      "key": "course/bca/first-semester/c-programming/u3-functions-arrays-and-string/passing-arrays-to-functions.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u3-functions-arrays-and-string/passing-arrays-to-functions.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 82036,
+      "contentHashed": false
+    },
+    "recursion-call-stack.webp": {
+      "key": "course/bca/first-semester/c-programming/u3-functions-arrays-and-string/recursion-call-stack.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u3-functions-arrays-and-string/recursion-call-stack.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 110040,
+      "contentHashed": false
+    },
+    "two-dimensional-array-layout.webp": {
+      "key": "course/bca/first-semester/c-programming/u3-functions-arrays-and-string/two-dimensional-array-layout.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u3-functions-arrays-and-string/two-dimensional-array-layout.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 60320,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u3-functions-arrays-and-string/array-of-strings-layout.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u3-functions-arrays-and-string/c-string-and-null-terminator.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u3-functions-arrays-and-string/call-by-value-vs-reference.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u3-functions-arrays-and-string/function-call-lifecycle.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u3-functions-arrays-and-string/one-dimensional-array-memory-layout.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u3-functions-arrays-and-string/passing-arrays-to-functions.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u3-functions-arrays-and-string/recursion-call-stack.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u3-functions-arrays-and-string/two-dimensional-array-layout.webp"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T08:07:57.006Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/second-semester/oop/u6-file-handling-in-java",
+  "totalAssets": 5,
+  "assets": {
+    "byte-stream-file-io.webp": {
+      "key": "course/bca/second-semester/oop/u6-file-handling-in-java/byte-stream-file-io.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u6-file-handling-in-java/byte-stream-file-io.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 63060,
+      "contentHashed": false
+    },
+    "character-stream-file-io.webp": {
+      "key": "course/bca/second-semester/oop/u6-file-handling-in-java/character-stream-file-io.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u6-file-handling-in-java/character-stream-file-io.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 56244,
+      "contentHashed": false
+    },
+    "java-io-overview.webp": {
+      "key": "course/bca/second-semester/oop/u6-file-handling-in-java/java-io-overview.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u6-file-handling-in-java/java-io-overview.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 81548,
+      "contentHashed": false
+    },
+    "random-access-file-pointer.webp": {
+      "key": "course/bca/second-semester/oop/u6-file-handling-in-java/random-access-file-pointer.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u6-file-handling-in-java/random-access-file-pointer.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 72626,
+      "contentHashed": false
+    },
+    "serialization-and-deserialization.webp": {
+      "key": "course/bca/second-semester/oop/u6-file-handling-in-java/serialization-and-deserialization.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u6-file-handling-in-java/serialization-and-deserialization.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 75720,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u6-file-handling-in-java/byte-stream-file-io.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u6-file-handling-in-java/character-stream-file-io.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u6-file-handling-in-java/java-io-overview.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u6-file-handling-in-java/random-access-file-pointer.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u6-file-handling-in-java/serialization-and-deserialization.webp"
+  ]
+}

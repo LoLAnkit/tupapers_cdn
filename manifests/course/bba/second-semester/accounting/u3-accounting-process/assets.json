@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T08:07:53.754Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/second-semester/accounting/u3-accounting-process",
+  "totalAssets": 7,
+  "assets": {
+    "accounting-equation-balance.webp": {
+      "key": "course/bba/second-semester/accounting/u3-accounting-process/accounting-equation-balance.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/accounting/u3-accounting-process/accounting-equation-balance.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 99612,
+      "contentHashed": false
+    },
+    "accounting-process-cycle.webp": {
+      "key": "course/bba/second-semester/accounting/u3-accounting-process/accounting-process-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/accounting/u3-accounting-process/accounting-process-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 81538,
+      "contentHashed": false
+    },
+    "adjusting-entries-flow.webp": {
+      "key": "course/bba/second-semester/accounting/u3-accounting-process/adjusting-entries-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/accounting/u3-accounting-process/adjusting-entries-flow.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 76616,
+      "contentHashed": false
+    },
+    "debit-and-credit-rules.webp": {
+      "key": "course/bba/second-semester/accounting/u3-accounting-process/debit-and-credit-rules.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/accounting/u3-accounting-process/debit-and-credit-rules.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 63264,
+      "contentHashed": false
+    },
+    "journal-to-ledger-posting-flow.webp": {
+      "key": "course/bba/second-semester/accounting/u3-accounting-process/journal-to-ledger-posting-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/accounting/u3-accounting-process/journal-to-ledger-posting-flow.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 87588,
+      "contentHashed": false
+    },
+    "opening-and-closing-entries-timeline.webp": {
+      "key": "course/bba/second-semester/accounting/u3-accounting-process/opening-and-closing-entries-timeline.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/accounting/u3-accounting-process/opening-and-closing-entries-timeline.webp",
+      "contentType": "image/webp",
+      "width": 2048,
+      "height": 768,
+      "bytes": 50226,
+      "contentHashed": false
+    },
+    "trial-balance-preparation.webp": {
+      "key": "course/bba/second-semester/accounting/u3-accounting-process/trial-balance-preparation.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/accounting/u3-accounting-process/trial-balance-preparation.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 111514,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/second-semester/accounting/u3-accounting-process/accounting-equation-balance.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/accounting/u3-accounting-process/accounting-process-cycle.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/accounting/u3-accounting-process/adjusting-entries-flow.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/accounting/u3-accounting-process/debit-and-credit-rules.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/accounting/u3-accounting-process/journal-to-ledger-posting-flow.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/accounting/u3-accounting-process/opening-and-closing-entries-timeline.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/accounting/u3-accounting-process/trial-balance-preparation.webp"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T08:07:58.805Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bitm/second-semester/discrete-structure/u8-relations",
+  "totalAssets": 2,
+  "assets": {
+    "digraph-and-matrix-of-a-relation.webp": {
+      "key": "course/bitm/second-semester/discrete-structure/u8-relations/digraph-and-matrix-of-a-relation.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/discrete-structure/u8-relations/digraph-and-matrix-of-a-relation.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 41432,
+      "contentHashed": false
+    },
+    "hasse-diagram-of-divisibility.webp": {
+      "key": "course/bitm/second-semester/discrete-structure/u8-relations/hasse-diagram-of-divisibility.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/discrete-structure/u8-relations/hasse-diagram-of-divisibility.webp",
+      "contentType": "image/webp",
+      "width": 1145,
+      "height": 1374,
+      "bytes": 31946,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bitm/second-semester/discrete-structure/u8-relations/digraph-and-matrix-of-a-relation.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/discrete-structure/u8-relations/hasse-diagram-of-divisibility.webp"
+  ]
+}

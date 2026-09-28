@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T08:07:56.943Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/second-semester/oop/u3-class-and-objects-in-java",
+  "totalAssets": 9,
+  "assets": {
+    "class-and-object-relationship.webp": {
+      "key": "course/bca/second-semester/oop/u3-class-and-objects-in-java/class-and-object-relationship.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u3-class-and-objects-in-java/class-and-object-relationship.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 95740,
+      "contentHashed": false
+    },
+    "constructor-invocation-sequence.webp": {
+      "key": "course/bca/second-semester/oop/u3-class-and-objects-in-java/constructor-invocation-sequence.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u3-class-and-objects-in-java/constructor-invocation-sequence.webp",
+      "contentType": "image/webp",
+      "width": 2079,
+      "height": 756,
+      "bytes": 104996,
+      "contentHashed": false
+    },
+    "encapsulation-private-data-getter-setter.webp": {
+      "key": "course/bca/second-semester/oop/u3-class-and-objects-in-java/encapsulation-private-data-getter-setter.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u3-class-and-objects-in-java/encapsulation-private-data-getter-setter.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 102576,
+      "contentHashed": false
+    },
+    "nested-and-inner-classes.webp": {
+      "key": "course/bca/second-semester/oop/u3-class-and-objects-in-java/nested-and-inner-classes.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u3-class-and-objects-in-java/nested-and-inner-classes.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 109804,
+      "contentHashed": false
+    },
+    "package-and-import-structure.webp": {
+      "key": "course/bca/second-semester/oop/u3-class-and-objects-in-java/package-and-import-structure.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u3-class-and-objects-in-java/package-and-import-structure.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 117630,
+      "contentHashed": false
+    },
+    "recursive-call-stack-unwinding.webp": {
+      "key": "course/bca/second-semester/oop/u3-class-and-objects-in-java/recursive-call-stack-unwinding.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u3-class-and-objects-in-java/recursive-call-stack-unwinding.webp",
+      "contentType": "image/webp",
+      "width": 1227,
+      "height": 1282,
+      "bytes": 108432,
+      "contentHashed": false
+    },
+    "static-vs-instance-members.webp": {
+      "key": "course/bca/second-semester/oop/u3-class-and-objects-in-java/static-vs-instance-members.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u3-class-and-objects-in-java/static-vs-instance-members.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 97432,
+      "contentHashed": false
+    },
+    "this-reference-current-object.webp": {
+      "key": "course/bca/second-semester/oop/u3-class-and-objects-in-java/this-reference-current-object.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u3-class-and-objects-in-java/this-reference-current-object.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 111824,
+      "contentHashed": false
+    },
+    "variable-length-arguments-varargs.webp": {
+      "key": "course/bca/second-semester/oop/u3-class-and-objects-in-java/variable-length-arguments-varargs.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u3-class-and-objects-in-java/variable-length-arguments-varargs.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 106312,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u3-class-and-objects-in-java/class-and-object-relationship.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u3-class-and-objects-in-java/constructor-invocation-sequence.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u3-class-and-objects-in-java/encapsulation-private-data-getter-setter.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u3-class-and-objects-in-java/nested-and-inner-classes.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u3-class-and-objects-in-java/package-and-import-structure.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u3-class-and-objects-in-java/recursive-call-stack-unwinding.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u3-class-and-objects-in-java/static-vs-instance-members.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u3-class-and-objects-in-java/this-reference-current-object.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u3-class-and-objects-in-java/variable-length-arguments-varargs.webp"
+  ]
+}

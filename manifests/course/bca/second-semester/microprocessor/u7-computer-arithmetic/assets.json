@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T08:07:56.850Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/second-semester/microprocessor/u7-computer-arithmetic",
+  "totalAssets": 5,
+  "assets": {
+    "booth-algorithm-flowchart.webp": {
+      "key": "course/bca/second-semester/microprocessor/u7-computer-arithmetic/booth-algorithm-flowchart.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u7-computer-arithmetic/booth-algorithm-flowchart.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 88862,
+      "contentHashed": false
+    },
+    "booth-example-plus-five-times-minus-three.webp": {
+      "key": "course/bca/second-semester/microprocessor/u7-computer-arithmetic/booth-example-plus-five-times-minus-three.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u7-computer-arithmetic/booth-example-plus-five-times-minus-three.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 108064,
+      "contentHashed": false
+    },
+    "booth-multiplication-registers.webp": {
+      "key": "course/bca/second-semester/microprocessor/u7-computer-arithmetic/booth-multiplication-registers.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u7-computer-arithmetic/booth-multiplication-registers.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 64046,
+      "contentHashed": false
+    },
+    "signed-magnitude-addition-subtraction-flow.webp": {
+      "key": "course/bca/second-semester/microprocessor/u7-computer-arithmetic/signed-magnitude-addition-subtraction-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u7-computer-arithmetic/signed-magnitude-addition-subtraction-flow.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 77082,
+      "contentHashed": false
+    },
+    "twos-complement-addition-subtraction.webp": {
+      "key": "course/bca/second-semester/microprocessor/u7-computer-arithmetic/twos-complement-addition-subtraction.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u7-computer-arithmetic/twos-complement-addition-subtraction.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 100334,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u7-computer-arithmetic/booth-algorithm-flowchart.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u7-computer-arithmetic/booth-example-plus-five-times-minus-three.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u7-computer-arithmetic/booth-multiplication-registers.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u7-computer-arithmetic/signed-magnitude-addition-subtraction-flow.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u7-computer-arithmetic/twos-complement-addition-subtraction.webp"
+  ]
+}

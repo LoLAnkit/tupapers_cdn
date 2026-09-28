@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T08:07:56.921Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/second-semester/oop/u2-basic-of-java-programming",
+  "totalAssets": 7,
+  "assets": {
+    "array-memory-layouts.webp": {
+      "key": "course/bca/second-semester/oop/u2-basic-of-java-programming/array-memory-layouts.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u2-basic-of-java-programming/array-memory-layouts.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 145884,
+      "contentHashed": false
+    },
+    "control-statement-flow.webp": {
+      "key": "course/bca/second-semester/oop/u2-basic-of-java-programming/control-statement-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u2-basic-of-java-programming/control-statement-flow.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 122000,
+      "contentHashed": false
+    },
+    "garbage-collection-heap-memory.webp": {
+      "key": "course/bca/second-semester/oop/u2-basic-of-java-programming/garbage-collection-heap-memory.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u2-basic-of-java-programming/garbage-collection-heap-memory.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 104206,
+      "contentHashed": false
+    },
+    "java-data-types-tree.webp": {
+      "key": "course/bca/second-semester/oop/u2-basic-of-java-programming/java-data-types-tree.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u2-basic-of-java-programming/java-data-types-tree.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 97628,
+      "contentHashed": false
+    },
+    "string-operations-flow.webp": {
+      "key": "course/bca/second-semester/oop/u2-basic-of-java-programming/string-operations-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u2-basic-of-java-programming/string-operations-flow.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 91058,
+      "contentHashed": false
+    },
+    "stringbuffer-mutation-before-after.webp": {
+      "key": "course/bca/second-semester/oop/u2-basic-of-java-programming/stringbuffer-mutation-before-after.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u2-basic-of-java-programming/stringbuffer-mutation-before-after.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 115646,
+      "contentHashed": false
+    },
+    "type-conversion-and-casting-map.webp": {
+      "key": "course/bca/second-semester/oop/u2-basic-of-java-programming/type-conversion-and-casting-map.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u2-basic-of-java-programming/type-conversion-and-casting-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 97520,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u2-basic-of-java-programming/array-memory-layouts.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u2-basic-of-java-programming/control-statement-flow.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u2-basic-of-java-programming/garbage-collection-heap-memory.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u2-basic-of-java-programming/java-data-types-tree.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u2-basic-of-java-programming/string-operations-flow.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u2-basic-of-java-programming/stringbuffer-mutation-before-after.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u2-basic-of-java-programming/type-conversion-and-casting-map.webp"
+  ]
+}

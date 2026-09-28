@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T08:07:53.789Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/second-semester/accounting/u7-value-added-statement",
+  "totalAssets": 2,
+  "assets": {
+    "value-added-generated-and-applied.webp": {
+      "key": "course/bba/second-semester/accounting/u7-value-added-statement/value-added-generated-and-applied.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/accounting/u7-value-added-statement/value-added-generated-and-applied.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 102690,
+      "contentHashed": false
+    },
+    "value-added-statement-preparation-flow.webp": {
+      "key": "course/bba/second-semester/accounting/u7-value-added-statement/value-added-statement-preparation-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/accounting/u7-value-added-statement/value-added-statement-preparation-flow.webp",
+      "contentType": "image/webp",
+      "width": 1816,
+      "height": 866,
+      "bytes": 83430,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/second-semester/accounting/u7-value-added-statement/value-added-generated-and-applied.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/accounting/u7-value-added-statement/value-added-statement-preparation-flow.webp"
+  ]
+}

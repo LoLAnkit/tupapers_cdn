@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T08:07:58.798Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bitm/second-semester/discrete-structure/u6-discrete-probability",
+  "totalAssets": 2,
+  "assets": {
+    "conditional-probability-tree.webp": {
+      "key": "course/bitm/second-semester/discrete-structure/u6-discrete-probability/conditional-probability-tree.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/discrete-structure/u6-discrete-probability/conditional-probability-tree.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 54114,
+      "contentHashed": false
+    },
+    "union-and-complement-of-events.webp": {
+      "key": "course/bitm/second-semester/discrete-structure/u6-discrete-probability/union-and-complement-of-events.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/discrete-structure/u6-discrete-probability/union-and-complement-of-events.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 69882,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bitm/second-semester/discrete-structure/u6-discrete-probability/conditional-probability-tree.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/discrete-structure/u6-discrete-probability/union-and-complement-of-events.webp"
+  ]
+}

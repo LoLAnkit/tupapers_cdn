@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T08:07:57.198Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/second-semester/ui-ux-design/u5-ui-design-considerations",
+  "totalAssets": 7,
+  "assets": {
+    "color-scheme-and-contrast.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/u5-ui-design-considerations/color-scheme-and-contrast.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u5-ui-design-considerations/color-scheme-and-contrast.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 136342,
+      "contentHashed": false
+    },
+    "navigation-models-six-structures.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/u5-ui-design-considerations/navigation-models-six-structures.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u5-ui-design-considerations/navigation-models-six-structures.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 85358,
+      "contentHashed": false
+    },
+    "navigation-types.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/u5-ui-design-considerations/navigation-types.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u5-ui-design-considerations/navigation-types.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 182846,
+      "contentHashed": false
+    },
+    "page-layout-and-responsive-breakpoints.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/u5-ui-design-considerations/page-layout-and-responsive-breakpoints.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u5-ui-design-considerations/page-layout-and-responsive-breakpoints.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 175288,
+      "contentHashed": false
+    },
+    "responsive-component-behavior.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/u5-ui-design-considerations/responsive-component-behavior.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u5-ui-design-considerations/responsive-component-behavior.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 132504,
+      "contentHashed": false
+    },
+    "typography-hierarchy.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/u5-ui-design-considerations/typography-hierarchy.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u5-ui-design-considerations/typography-hierarchy.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 157114,
+      "contentHashed": false
+    },
+    "visual-hierarchy-principles.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/u5-ui-design-considerations/visual-hierarchy-principles.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u5-ui-design-considerations/visual-hierarchy-principles.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 132954,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u5-ui-design-considerations/color-scheme-and-contrast.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u5-ui-design-considerations/navigation-models-six-structures.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u5-ui-design-considerations/navigation-types.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u5-ui-design-considerations/page-layout-and-responsive-breakpoints.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u5-ui-design-considerations/responsive-component-behavior.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u5-ui-design-considerations/typography-hierarchy.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u5-ui-design-considerations/visual-hierarchy-principles.webp"
+  ]
+}

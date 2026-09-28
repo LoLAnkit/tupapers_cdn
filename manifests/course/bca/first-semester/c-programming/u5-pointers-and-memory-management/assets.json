@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T08:07:56.441Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/first-semester/c-programming/u5-pointers-and-memory-management",
+  "totalAssets": 8,
+  "assets": {
+    "dangling-pointer.webp": {
+      "key": "course/bca/first-semester/c-programming/u5-pointers-and-memory-management/dangling-pointer.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u5-pointers-and-memory-management/dangling-pointer.webp",
+      "contentType": "image/webp",
+      "width": 1959,
+      "height": 803,
+      "bytes": 79542,
+      "contentHashed": false
+    },
+    "dynamic-memory-lifecycle.webp": {
+      "key": "course/bca/first-semester/c-programming/u5-pointers-and-memory-management/dynamic-memory-lifecycle.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u5-pointers-and-memory-management/dynamic-memory-lifecycle.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 122118,
+      "contentHashed": false
+    },
+    "memory-leak.webp": {
+      "key": "course/bca/first-semester/c-programming/u5-pointers-and-memory-management/memory-leak.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u5-pointers-and-memory-management/memory-leak.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 76524,
+      "contentHashed": false
+    },
+    "pointer-address-and-dereference.webp": {
+      "key": "course/bca/first-semester/c-programming/u5-pointers-and-memory-management/pointer-address-and-dereference.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u5-pointers-and-memory-management/pointer-address-and-dereference.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 99140,
+      "contentHashed": false
+    },
+    "pointer-arithmetic-on-arrays.webp": {
+      "key": "course/bca/first-semester/c-programming/u5-pointers-and-memory-management/pointer-arithmetic-on-arrays.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u5-pointers-and-memory-management/pointer-arithmetic-on-arrays.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 96758,
+      "contentHashed": false
+    },
+    "pointer-to-function.webp": {
+      "key": "course/bca/first-semester/c-programming/u5-pointers-and-memory-management/pointer-to-function.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u5-pointers-and-memory-management/pointer-to-function.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 94688,
+      "contentHashed": false
+    },
+    "pointer-to-structure.webp": {
+      "key": "course/bca/first-semester/c-programming/u5-pointers-and-memory-management/pointer-to-structure.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u5-pointers-and-memory-management/pointer-to-structure.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 119052,
+      "contentHashed": false
+    },
+    "pointer-with-strings.webp": {
+      "key": "course/bca/first-semester/c-programming/u5-pointers-and-memory-management/pointer-with-strings.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u5-pointers-and-memory-management/pointer-with-strings.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 79170,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u5-pointers-and-memory-management/dangling-pointer.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u5-pointers-and-memory-management/dynamic-memory-lifecycle.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u5-pointers-and-memory-management/memory-leak.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u5-pointers-and-memory-management/pointer-address-and-dereference.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u5-pointers-and-memory-management/pointer-arithmetic-on-arrays.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u5-pointers-and-memory-management/pointer-to-function.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u5-pointers-and-memory-management/pointer-to-structure.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u5-pointers-and-memory-management/pointer-with-strings.webp"
+  ]
+}

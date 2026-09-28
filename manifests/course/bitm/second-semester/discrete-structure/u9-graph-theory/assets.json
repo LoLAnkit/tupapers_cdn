@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T08:07:58.812Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bitm/second-semester/discrete-structure/u9-graph-theory",
+  "totalAssets": 6,
+  "assets": {
+    "euler-circuit-versus-hamilton-cycle.webp": {
+      "key": "course/bitm/second-semester/discrete-structure/u9-graph-theory/euler-circuit-versus-hamilton-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/discrete-structure/u9-graph-theory/euler-circuit-versus-hamilton-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 57188,
+      "contentHashed": false
+    },
+    "isomorphic-graphs.webp": {
+      "key": "course/bitm/second-semester/discrete-structure/u9-graph-theory/isomorphic-graphs.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/discrete-structure/u9-graph-theory/isomorphic-graphs.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 31694,
+      "contentHashed": false
+    },
+    "planar-embedding.webp": {
+      "key": "course/bitm/second-semester/discrete-structure/u9-graph-theory/planar-embedding.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/discrete-structure/u9-graph-theory/planar-embedding.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 49794,
+      "contentHashed": false
+    },
+    "proper-graph-coloring.webp": {
+      "key": "course/bitm/second-semester/discrete-structure/u9-graph-theory/proper-graph-coloring.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/discrete-structure/u9-graph-theory/proper-graph-coloring.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 41452,
+      "contentHashed": false
+    },
+    "three-representations-of-one-graph.webp": {
+      "key": "course/bitm/second-semester/discrete-structure/u9-graph-theory/three-representations-of-one-graph.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/discrete-structure/u9-graph-theory/three-representations-of-one-graph.webp",
+      "contentType": "image/webp",
+      "width": 1915,
+      "height": 821,
+      "bytes": 59492,
+      "contentHashed": false
+    },
+    "types-of-graphs.webp": {
+      "key": "course/bitm/second-semester/discrete-structure/u9-graph-theory/types-of-graphs.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/discrete-structure/u9-graph-theory/types-of-graphs.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 66270,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bitm/second-semester/discrete-structure/u9-graph-theory/euler-circuit-versus-hamilton-cycle.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/discrete-structure/u9-graph-theory/isomorphic-graphs.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/discrete-structure/u9-graph-theory/planar-embedding.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/discrete-structure/u9-graph-theory/proper-graph-coloring.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/discrete-structure/u9-graph-theory/three-representations-of-one-graph.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/discrete-structure/u9-graph-theory/types-of-graphs.webp"
+  ]
+}

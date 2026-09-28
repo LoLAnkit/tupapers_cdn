@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T08:07:58.776Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bitm/second-semester/discrete-structure/u2-set-theory-and-functions",
+  "totalAssets": 3,
+  "assets": {
+    "floor-and-ceiling-graphs.webp": {
+      "key": "course/bitm/second-semester/discrete-structure/u2-set-theory-and-functions/floor-and-ceiling-graphs.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/discrete-structure/u2-set-theory-and-functions/floor-and-ceiling-graphs.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 23152,
+      "contentHashed": false
+    },
+    "one-to-one-onto-bijection-mappings.webp": {
+      "key": "course/bitm/second-semester/discrete-structure/u2-set-theory-and-functions/one-to-one-onto-bijection-mappings.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/discrete-structure/u2-set-theory-and-functions/one-to-one-onto-bijection-mappings.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 57672,
+      "contentHashed": false
+    },
+    "venn-diagram-of-set-operations.webp": {
+      "key": "course/bitm/second-semester/discrete-structure/u2-set-theory-and-functions/venn-diagram-of-set-operations.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/discrete-structure/u2-set-theory-and-functions/venn-diagram-of-set-operations.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 99776,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bitm/second-semester/discrete-structure/u2-set-theory-and-functions/floor-and-ceiling-graphs.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/discrete-structure/u2-set-theory-and-functions/one-to-one-onto-bijection-mappings.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/discrete-structure/u2-set-theory-and-functions/venn-diagram-of-set-operations.webp"
+  ]
+}

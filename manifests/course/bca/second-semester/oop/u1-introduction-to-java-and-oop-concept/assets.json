@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T08:07:56.895Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/second-semester/oop/u1-introduction-to-java-and-oop-concept",
+  "totalAssets": 7,
+  "assets": {
+    "command-line-arguments-flow.webp": {
+      "key": "course/bca/second-semester/oop/u1-introduction-to-java-and-oop-concept/command-line-arguments-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u1-introduction-to-java-and-oop-concept/command-line-arguments-flow.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 96364,
+      "contentHashed": false
+    },
+    "common-java-errors-debugging-flow.webp": {
+      "key": "course/bca/second-semester/oop/u1-introduction-to-java-and-oop-concept/common-java-errors-debugging-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u1-introduction-to-java-and-oop-concept/common-java-errors-debugging-flow.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 101924,
+      "contentHashed": false
+    },
+    "compile-and-run-lifecycle.webp": {
+      "key": "course/bca/second-semester/oop/u1-introduction-to-java-and-oop-concept/compile-and-run-lifecycle.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u1-introduction-to-java-and-oop-concept/compile-and-run-lifecycle.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 77222,
+      "contentHashed": false
+    },
+    "java-architecture-layered-execution-flow.webp": {
+      "key": "course/bca/second-semester/oop/u1-introduction-to-java-and-oop-concept/java-architecture-layered-execution-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u1-introduction-to-java-and-oop-concept/java-architecture-layered-execution-flow.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 147246,
+      "contentHashed": false
+    },
+    "java-environment-setup-workflow.webp": {
+      "key": "course/bca/second-semester/oop/u1-introduction-to-java-and-oop-concept/java-environment-setup-workflow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u1-introduction-to-java-and-oop-concept/java-environment-setup-workflow.webp",
+      "contentType": "image/webp",
+      "width": 2139,
+      "height": 735,
+      "bytes": 143076,
+      "contentHashed": false
+    },
+    "procedural-vs-object-oriented-flow.webp": {
+      "key": "course/bca/second-semester/oop/u1-introduction-to-java-and-oop-concept/procedural-vs-object-oriented-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u1-introduction-to-java-and-oop-concept/procedural-vs-object-oriented-flow.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 119128,
+      "contentHashed": false
+    },
+    "scanner-input-flow.webp": {
+      "key": "course/bca/second-semester/oop/u1-introduction-to-java-and-oop-concept/scanner-input-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u1-introduction-to-java-and-oop-concept/scanner-input-flow.webp",
+      "contentType": "image/webp",
+      "width": 2149,
+      "height": 732,
+      "bytes": 92588,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u1-introduction-to-java-and-oop-concept/command-line-arguments-flow.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u1-introduction-to-java-and-oop-concept/common-java-errors-debugging-flow.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u1-introduction-to-java-and-oop-concept/compile-and-run-lifecycle.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u1-introduction-to-java-and-oop-concept/java-architecture-layered-execution-flow.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u1-introduction-to-java-and-oop-concept/java-environment-setup-workflow.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u1-introduction-to-java-and-oop-concept/procedural-vs-object-oriented-flow.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u1-introduction-to-java-and-oop-concept/scanner-input-flow.webp"
+  ]
+}

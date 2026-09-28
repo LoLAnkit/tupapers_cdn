@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T08:07:56.839Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/second-semester/microprocessor/u6-central-processing-unit",
+  "totalAssets": 5,
+  "assets": {
+    "cisc-datapath-concept.webp": {
+      "key": "course/bca/second-semester/microprocessor/u6-central-processing-unit/cisc-datapath-concept.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u6-central-processing-unit/cisc-datapath-concept.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 89566,
+      "contentHashed": false
+    },
+    "general-register-organization.webp": {
+      "key": "course/bca/second-semester/microprocessor/u6-central-processing-unit/general-register-organization.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u6-central-processing-unit/general-register-organization.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 58914,
+      "contentHashed": false
+    },
+    "instruction-format-fields.webp": {
+      "key": "course/bca/second-semester/microprocessor/u6-central-processing-unit/instruction-format-fields.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u6-central-processing-unit/instruction-format-fields.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 72508,
+      "contentHashed": false
+    },
+    "register-stack-organization.webp": {
+      "key": "course/bca/second-semester/microprocessor/u6-central-processing-unit/register-stack-organization.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u6-central-processing-unit/register-stack-organization.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 58264,
+      "contentHashed": false
+    },
+    "risc-datapath-concept.webp": {
+      "key": "course/bca/second-semester/microprocessor/u6-central-processing-unit/risc-datapath-concept.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u6-central-processing-unit/risc-datapath-concept.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 77948,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u6-central-processing-unit/cisc-datapath-concept.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u6-central-processing-unit/general-register-organization.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u6-central-processing-unit/instruction-format-fields.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u6-central-processing-unit/register-stack-organization.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u6-central-processing-unit/risc-datapath-concept.webp"
+  ]
+}

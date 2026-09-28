@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T08:07:57.258Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/second-semester/ui-ux-design/u7-design-evaluations",
+  "totalAssets": 7,
+  "assets": {
+    "analyzing-test-results.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/u7-design-evaluations/analyzing-test-results.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u7-design-evaluations/analyzing-test-results.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 135558,
+      "contentHashed": false
+    },
+    "decide-evaluation-framework.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/u7-design-evaluations/decide-evaluation-framework.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u7-design-evaluations/decide-evaluation-framework.webp",
+      "contentType": "image/webp",
+      "width": 2087,
+      "height": 753,
+      "bytes": 125000,
+      "contentHashed": false
+    },
+    "expert-analysis-user-participation-and-iteration.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/u7-design-evaluations/expert-analysis-user-participation-and-iteration.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u7-design-evaluations/expert-analysis-user-participation-and-iteration.webp",
+      "contentType": "image/webp",
+      "width": 1470,
+      "height": 1070,
+      "bytes": 112216,
+      "contentHashed": false
+    },
+    "formative-vs-summative-evaluation.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/u7-design-evaluations/formative-vs-summative-evaluation.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u7-design-evaluations/formative-vs-summative-evaluation.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 95264,
+      "contentHashed": false
+    },
+    "heuristic-evaluation.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/u7-design-evaluations/heuristic-evaluation.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u7-design-evaluations/heuristic-evaluation.webp",
+      "contentType": "image/webp",
+      "width": 1222,
+      "height": 1287,
+      "bytes": 84320,
+      "contentHashed": false
+    },
+    "moderated-vs-unmoderated-usability-testing.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/u7-design-evaluations/moderated-vs-unmoderated-usability-testing.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u7-design-evaluations/moderated-vs-unmoderated-usability-testing.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 141176,
+      "contentHashed": false
+    },
+    "task-analysis-and-performance-metrics.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/u7-design-evaluations/task-analysis-and-performance-metrics.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u7-design-evaluations/task-analysis-and-performance-metrics.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 118178,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u7-design-evaluations/analyzing-test-results.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u7-design-evaluations/decide-evaluation-framework.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u7-design-evaluations/expert-analysis-user-participation-and-iteration.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u7-design-evaluations/formative-vs-summative-evaluation.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u7-design-evaluations/heuristic-evaluation.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u7-design-evaluations/moderated-vs-unmoderated-usability-testing.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u7-design-evaluations/task-analysis-and-performance-metrics.webp"
+  ]
+}

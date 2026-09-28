@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T08:07:56.821Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/second-semester/microprocessor/u4-basic-computer-architecture-and-design",
+  "totalAssets": 6,
+  "assets": {
+    "arithmetic-micro-operations.webp": {
+      "key": "course/bca/second-semester/microprocessor/u4-basic-computer-architecture-and-design/arithmetic-micro-operations.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u4-basic-computer-architecture-and-design/arithmetic-micro-operations.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 85758,
+      "contentHashed": false
+    },
+    "common-bus-system.webp": {
+      "key": "course/bca/second-semester/microprocessor/u4-basic-computer-architecture-and-design/common-bus-system.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u4-basic-computer-architecture-and-design/common-bus-system.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 59976,
+      "contentHashed": false
+    },
+    "instruction-cycle-flow.webp": {
+      "key": "course/bca/second-semester/microprocessor/u4-basic-computer-architecture-and-design/instruction-cycle-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u4-basic-computer-architecture-and-design/instruction-cycle-flow.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 41936,
+      "contentHashed": false
+    },
+    "logical-micro-operations.webp": {
+      "key": "course/bca/second-semester/microprocessor/u4-basic-computer-architecture-and-design/logical-micro-operations.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u4-basic-computer-architecture-and-design/logical-micro-operations.webp",
+      "contentType": "image/webp",
+      "width": 1223,
+      "height": 1286,
+      "bytes": 83500,
+      "contentHashed": false
+    },
+    "shift-micro-operations.webp": {
+      "key": "course/bca/second-semester/microprocessor/u4-basic-computer-architecture-and-design/shift-micro-operations.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u4-basic-computer-architecture-and-design/shift-micro-operations.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 101058,
+      "contentHashed": false
+    },
+    "stored-program-computer-organization.webp": {
+      "key": "course/bca/second-semester/microprocessor/u4-basic-computer-architecture-and-design/stored-program-computer-organization.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u4-basic-computer-architecture-and-design/stored-program-computer-organization.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 118252,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u4-basic-computer-architecture-and-design/arithmetic-micro-operations.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u4-basic-computer-architecture-and-design/common-bus-system.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u4-basic-computer-architecture-and-design/instruction-cycle-flow.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u4-basic-computer-architecture-and-design/logical-micro-operations.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u4-basic-computer-architecture-and-design/shift-micro-operations.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u4-basic-computer-architecture-and-design/stored-program-computer-organization.webp"
+  ]
+}

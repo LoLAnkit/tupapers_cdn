@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T08:07:53.864Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/second-semester/macroeconomics/u1-fundamentals-of-macroeconomics",
+  "totalAssets": 5,
+  "assets": {
+    "four-sector-open-economy-circular-flow.webp": {
+      "key": "course/bba/second-semester/macroeconomics/u1-fundamentals-of-macroeconomics/four-sector-open-economy-circular-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u1-fundamentals-of-macroeconomics/four-sector-open-economy-circular-flow.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 93190,
+      "contentHashed": false
+    },
+    "macroeconomic-policy-and-business-environment.webp": {
+      "key": "course/bba/second-semester/macroeconomics/u1-fundamentals-of-macroeconomics/macroeconomic-policy-and-business-environment.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u1-fundamentals-of-macroeconomics/macroeconomic-policy-and-business-environment.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 80408,
+      "contentHashed": false
+    },
+    "macroeconomic-variables-and-business-environment.webp": {
+      "key": "course/bba/second-semester/macroeconomics/u1-fundamentals-of-macroeconomics/macroeconomic-variables-and-business-environment.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u1-fundamentals-of-macroeconomics/macroeconomic-variables-and-business-environment.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 109720,
+      "contentHashed": false
+    },
+    "scope-of-macroeconomics-overall-economy.webp": {
+      "key": "course/bba/second-semester/macroeconomics/u1-fundamentals-of-macroeconomics/scope-of-macroeconomics-overall-economy.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u1-fundamentals-of-macroeconomics/scope-of-macroeconomics-overall-economy.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 75988,
+      "contentHashed": false
+    },
+    "two-sector-circular-flow.webp": {
+      "key": "course/bba/second-semester/macroeconomics/u1-fundamentals-of-macroeconomics/two-sector-circular-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u1-fundamentals-of-macroeconomics/two-sector-circular-flow.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 75386,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u1-fundamentals-of-macroeconomics/four-sector-open-economy-circular-flow.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u1-fundamentals-of-macroeconomics/macroeconomic-policy-and-business-environment.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u1-fundamentals-of-macroeconomics/macroeconomic-variables-and-business-environment.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u1-fundamentals-of-macroeconomics/scope-of-macroeconomics-overall-economy.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u1-fundamentals-of-macroeconomics/two-sector-circular-flow.webp"
+  ]
+}

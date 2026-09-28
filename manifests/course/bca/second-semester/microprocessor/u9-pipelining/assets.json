@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T08:07:56.879Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/second-semester/microprocessor/u9-pipelining",
+  "totalAssets": 7,
+  "assets": {
+    "arithmetic-pipeline.webp": {
+      "key": "course/bca/second-semester/microprocessor/u9-pipelining/arithmetic-pipeline.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u9-pipelining/arithmetic-pipeline.webp",
+      "contentType": "image/webp",
+      "width": 1918,
+      "height": 820,
+      "bytes": 62672,
+      "contentHashed": false
+    },
+    "basic-pipeline-stage-flow.webp": {
+      "key": "course/bca/second-semester/microprocessor/u9-pipelining/basic-pipeline-stage-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u9-pipelining/basic-pipeline-stage-flow.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 85828,
+      "contentHashed": false
+    },
+    "branch-hazard-handling.webp": {
+      "key": "course/bca/second-semester/microprocessor/u9-pipelining/branch-hazard-handling.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u9-pipelining/branch-hazard-handling.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 134304,
+      "contentHashed": false
+    },
+    "data-hazard-example.webp": {
+      "key": "course/bca/second-semester/microprocessor/u9-pipelining/data-hazard-example.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u9-pipelining/data-hazard-example.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 88032,
+      "contentHashed": false
+    },
+    "flynns-classification.webp": {
+      "key": "course/bca/second-semester/microprocessor/u9-pipelining/flynns-classification.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u9-pipelining/flynns-classification.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 117736,
+      "contentHashed": false
+    },
+    "four-segment-instruction-pipeline.webp": {
+      "key": "course/bca/second-semester/microprocessor/u9-pipelining/four-segment-instruction-pipeline.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u9-pipelining/four-segment-instruction-pipeline.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 88650,
+      "contentHashed": false
+    },
+    "pipeline-speedup-timing-chart.webp": {
+      "key": "course/bca/second-semester/microprocessor/u9-pipelining/pipeline-speedup-timing-chart.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u9-pipelining/pipeline-speedup-timing-chart.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 151366,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u9-pipelining/arithmetic-pipeline.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u9-pipelining/basic-pipeline-stage-flow.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u9-pipelining/branch-hazard-handling.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u9-pipelining/data-hazard-example.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u9-pipelining/flynns-classification.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u9-pipelining/four-segment-instruction-pipeline.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u9-pipelining/pipeline-speedup-timing-chart.webp"
+  ]
+}

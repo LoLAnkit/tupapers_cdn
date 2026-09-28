@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T08:07:56.801Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/second-semester/microprocessor/u2-8085-microprocessor",
+  "totalAssets": 7,
+  "assets": {
+    "8085-address-data-bus-multiplexing.webp": {
+      "key": "course/bca/second-semester/microprocessor/u2-8085-microprocessor/8085-address-data-bus-multiplexing.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u2-8085-microprocessor/8085-address-data-bus-multiplexing.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 89406,
+      "contentHashed": false
+    },
+    "8085-addressing-modes.webp": {
+      "key": "course/bca/second-semester/microprocessor/u2-8085-microprocessor/8085-addressing-modes.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u2-8085-microprocessor/8085-addressing-modes.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 138156,
+      "contentHashed": false
+    },
+    "8085-array-search-flow.webp": {
+      "key": "course/bca/second-semester/microprocessor/u2-8085-microprocessor/8085-array-search-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u2-8085-microprocessor/8085-array-search-flow.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 78560,
+      "contentHashed": false
+    },
+    "8085-branching-and-loop-control.webp": {
+      "key": "course/bca/second-semester/microprocessor/u2-8085-microprocessor/8085-branching-and-loop-control.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u2-8085-microprocessor/8085-branching-and-loop-control.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 80080,
+      "contentHashed": false
+    },
+    "8085-functional-block-diagram.webp": {
+      "key": "course/bca/second-semester/microprocessor/u2-8085-microprocessor/8085-functional-block-diagram.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u2-8085-microprocessor/8085-functional-block-diagram.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 102656,
+      "contentHashed": false
+    },
+    "8085-machine-cycle-and-t-state-timing.webp": {
+      "key": "course/bca/second-semester/microprocessor/u2-8085-microprocessor/8085-machine-cycle-and-t-state-timing.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u2-8085-microprocessor/8085-machine-cycle-and-t-state-timing.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 67300,
+      "contentHashed": false
+    },
+    "8085-pin-configuration.webp": {
+      "key": "course/bca/second-semester/microprocessor/u2-8085-microprocessor/8085-pin-configuration.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u2-8085-microprocessor/8085-pin-configuration.webp",
+      "contentType": "image/webp",
+      "width": 1225,
+      "height": 1284,
+      "bytes": 111778,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u2-8085-microprocessor/8085-address-data-bus-multiplexing.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u2-8085-microprocessor/8085-addressing-modes.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u2-8085-microprocessor/8085-array-search-flow.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u2-8085-microprocessor/8085-branching-and-loop-control.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u2-8085-microprocessor/8085-functional-block-diagram.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u2-8085-microprocessor/8085-machine-cycle-and-t-state-timing.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u2-8085-microprocessor/8085-pin-configuration.webp"
+  ]
+}

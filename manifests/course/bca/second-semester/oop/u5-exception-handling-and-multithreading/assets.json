@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T08:07:56.985Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/second-semester/oop/u5-exception-handling-and-multithreading",
+  "totalAssets": 7,
+  "assets": {
+    "exception-hierarchy.webp": {
+      "key": "course/bca/second-semester/oop/u5-exception-handling-and-multithreading/exception-hierarchy.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u5-exception-handling-and-multithreading/exception-hierarchy.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 89158,
+      "contentHashed": false
+    },
+    "synchronization-and-inter-thread-communication.webp": {
+      "key": "course/bca/second-semester/oop/u5-exception-handling-and-multithreading/synchronization-and-inter-thread-communication.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u5-exception-handling-and-multithreading/synchronization-and-inter-thread-communication.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 85672,
+      "contentHashed": false
+    },
+    "thread-lifecycle.webp": {
+      "key": "course/bca/second-semester/oop/u5-exception-handling-and-multithreading/thread-lifecycle.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u5-exception-handling-and-multithreading/thread-lifecycle.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 94286,
+      "contentHashed": false
+    },
+    "thread-vs-runnable-creation.webp": {
+      "key": "course/bca/second-semester/oop/u5-exception-handling-and-multithreading/thread-vs-runnable-creation.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u5-exception-handling-and-multithreading/thread-vs-runnable-creation.webp",
+      "contentType": "image/webp",
+      "width": 1225,
+      "height": 1284,
+      "bytes": 98560,
+      "contentHashed": false
+    },
+    "throw-and-throws.webp": {
+      "key": "course/bca/second-semester/oop/u5-exception-handling-and-multithreading/throw-and-throws.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u5-exception-handling-and-multithreading/throw-and-throws.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 82454,
+      "contentHashed": false
+    },
+    "try-catch-finally-flow.webp": {
+      "key": "course/bca/second-semester/oop/u5-exception-handling-and-multithreading/try-catch-finally-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u5-exception-handling-and-multithreading/try-catch-finally-flow.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 56400,
+      "contentHashed": false
+    },
+    "user-defined-exception.webp": {
+      "key": "course/bca/second-semester/oop/u5-exception-handling-and-multithreading/user-defined-exception.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u5-exception-handling-and-multithreading/user-defined-exception.webp",
+      "contentType": "image/webp",
+      "width": 1223,
+      "height": 1286,
+      "bytes": 99628,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u5-exception-handling-and-multithreading/exception-hierarchy.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u5-exception-handling-and-multithreading/synchronization-and-inter-thread-communication.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u5-exception-handling-and-multithreading/thread-lifecycle.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u5-exception-handling-and-multithreading/thread-vs-runnable-creation.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u5-exception-handling-and-multithreading/throw-and-throws.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u5-exception-handling-and-multithreading/try-catch-finally-flow.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u5-exception-handling-and-multithreading/user-defined-exception.webp"
+  ]
+}

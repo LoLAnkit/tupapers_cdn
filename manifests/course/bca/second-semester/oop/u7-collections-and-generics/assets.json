@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T08:07:57.025Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/second-semester/oop/u7-collections-and-generics",
+  "totalAssets": 7,
+  "assets": {
+    "collection-class-relationships.webp": {
+      "key": "course/bca/second-semester/oop/u7-collections-and-generics/collection-class-relationships.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u7-collections-and-generics/collection-class-relationships.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 61884,
+      "contentHashed": false
+    },
+    "collection-framework-hierarchy.webp": {
+      "key": "course/bca/second-semester/oop/u7-collections-and-generics/collection-framework-hierarchy.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u7-collections-and-generics/collection-framework-hierarchy.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 89472,
+      "contentHashed": false
+    },
+    "generic-class-and-method.webp": {
+      "key": "course/bca/second-semester/oop/u7-collections-and-generics/generic-class-and-method.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u7-collections-and-generics/generic-class-and-method.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 86976,
+      "contentHashed": false
+    },
+    "iterator-traversal.webp": {
+      "key": "course/bca/second-semester/oop/u7-collections-and-generics/iterator-traversal.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u7-collections-and-generics/iterator-traversal.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 67168,
+      "contentHashed": false
+    },
+    "list-set-and-map-models.webp": {
+      "key": "course/bca/second-semester/oop/u7-collections-and-generics/list-set-and-map-models.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u7-collections-and-generics/list-set-and-map-models.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 117564,
+      "contentHashed": false
+    },
+    "wildcard-bounds.webp": {
+      "key": "course/bca/second-semester/oop/u7-collections-and-generics/wildcard-bounds.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u7-collections-and-generics/wildcard-bounds.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 62518,
+      "contentHashed": false
+    },
+    "wrapper-and-boxing.webp": {
+      "key": "course/bca/second-semester/oop/u7-collections-and-generics/wrapper-and-boxing.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u7-collections-and-generics/wrapper-and-boxing.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 114696,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u7-collections-and-generics/collection-class-relationships.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u7-collections-and-generics/collection-framework-hierarchy.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u7-collections-and-generics/generic-class-and-method.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u7-collections-and-generics/iterator-traversal.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u7-collections-and-generics/list-set-and-map-models.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u7-collections-and-generics/wildcard-bounds.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u7-collections-and-generics/wrapper-and-boxing.webp"
+  ]
+}

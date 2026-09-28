@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T08:07:56.967Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/second-semester/oop/u4-inheritance-and-polymorphism",
+  "totalAssets": 6,
+  "assets": {
+    "abstract-class-structure.webp": {
+      "key": "course/bca/second-semester/oop/u4-inheritance-and-polymorphism/abstract-class-structure.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u4-inheritance-and-polymorphism/abstract-class-structure.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 72270,
+      "contentHashed": false
+    },
+    "inheritance-types.webp": {
+      "key": "course/bca/second-semester/oop/u4-inheritance-and-polymorphism/inheritance-types.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u4-inheritance-and-polymorphism/inheritance-types.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 82124,
+      "contentHashed": false
+    },
+    "interface-implementation.webp": {
+      "key": "course/bca/second-semester/oop/u4-inheritance-and-polymorphism/interface-implementation.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u4-inheritance-and-polymorphism/interface-implementation.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 90440,
+      "contentHashed": false
+    },
+    "object-class-hierarchy.webp": {
+      "key": "course/bca/second-semester/oop/u4-inheritance-and-polymorphism/object-class-hierarchy.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u4-inheritance-and-polymorphism/object-class-hierarchy.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 78994,
+      "contentHashed": false
+    },
+    "runtime-method-dispatch.webp": {
+      "key": "course/bca/second-semester/oop/u4-inheritance-and-polymorphism/runtime-method-dispatch.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u4-inheritance-and-polymorphism/runtime-method-dispatch.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 67780,
+      "contentHashed": false
+    },
+    "super-keyword-lookup.webp": {
+      "key": "course/bca/second-semester/oop/u4-inheritance-and-polymorphism/super-keyword-lookup.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u4-inheritance-and-polymorphism/super-keyword-lookup.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 85308,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u4-inheritance-and-polymorphism/abstract-class-structure.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u4-inheritance-and-polymorphism/inheritance-types.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u4-inheritance-and-polymorphism/interface-implementation.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u4-inheritance-and-polymorphism/object-class-hierarchy.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u4-inheritance-and-polymorphism/runtime-method-dispatch.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u4-inheritance-and-polymorphism/super-keyword-lookup.webp"
+  ]
+}

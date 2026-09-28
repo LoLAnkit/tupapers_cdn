@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T08:07:57.051Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/second-semester/oop/u8-advanced-oop-concepts-in-java",
+  "totalAssets": 7,
+  "assets": {
+    "factory-pattern.webp": {
+      "key": "course/bca/second-semester/oop/u8-advanced-oop-concepts-in-java/factory-pattern.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u8-advanced-oop-concepts-in-java/factory-pattern.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 86330,
+      "contentHashed": false
+    },
+    "lambda-expression-anatomy.webp": {
+      "key": "course/bca/second-semester/oop/u8-advanced-oop-concepts-in-java/lambda-expression-anatomy.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u8-advanced-oop-concepts-in-java/lambda-expression-anatomy.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 81224,
+      "contentHashed": false
+    },
+    "method-reference.webp": {
+      "key": "course/bca/second-semester/oop/u8-advanced-oop-concepts-in-java/method-reference.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u8-advanced-oop-concepts-in-java/method-reference.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 88594,
+      "contentHashed": false
+    },
+    "observer-pattern.webp": {
+      "key": "course/bca/second-semester/oop/u8-advanced-oop-concepts-in-java/observer-pattern.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u8-advanced-oop-concepts-in-java/observer-pattern.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 88266,
+      "contentHashed": false
+    },
+    "optional-value-flow.webp": {
+      "key": "course/bca/second-semester/oop/u8-advanced-oop-concepts-in-java/optional-value-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u8-advanced-oop-concepts-in-java/optional-value-flow.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 76580,
+      "contentHashed": false
+    },
+    "singleton-pattern.webp": {
+      "key": "course/bca/second-semester/oop/u8-advanced-oop-concepts-in-java/singleton-pattern.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u8-advanced-oop-concepts-in-java/singleton-pattern.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 82866,
+      "contentHashed": false
+    },
+    "stream-api-pipeline.webp": {
+      "key": "course/bca/second-semester/oop/u8-advanced-oop-concepts-in-java/stream-api-pipeline.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/oop/u8-advanced-oop-concepts-in-java/stream-api-pipeline.webp",
+      "contentType": "image/webp",
+      "width": 2079,
+      "height": 756,
+      "bytes": 79038,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u8-advanced-oop-concepts-in-java/factory-pattern.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u8-advanced-oop-concepts-in-java/lambda-expression-anatomy.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u8-advanced-oop-concepts-in-java/method-reference.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u8-advanced-oop-concepts-in-java/observer-pattern.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u8-advanced-oop-concepts-in-java/optional-value-flow.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u8-advanced-oop-concepts-in-java/singleton-pattern.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/oop/u8-advanced-oop-concepts-in-java/stream-api-pipeline.webp"
+  ]
+}

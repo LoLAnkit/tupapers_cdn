@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T08:07:53.735Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/second-semester/accounting/u1-basic-understanding-of-financial-accounting",
+  "totalAssets": 7,
+  "assets": {
+    "accounting-information-path.webp": {
+      "key": "course/bba/second-semester/accounting/u1-basic-understanding-of-financial-accounting/accounting-information-path.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/accounting/u1-basic-understanding-of-financial-accounting/accounting-information-path.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 70004,
+      "contentHashed": false
+    },
+    "book-keeping-accounting-accountancy-relationship.webp": {
+      "key": "course/bba/second-semester/accounting/u1-basic-understanding-of-financial-accounting/book-keeping-accounting-accountancy-relationship.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/accounting/u1-basic-understanding-of-financial-accounting/book-keeping-accounting-accountancy-relationship.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 103794,
+      "contentHashed": false
+    },
+    "financial-accounting-overview.webp": {
+      "key": "course/bba/second-semester/accounting/u1-basic-understanding-of-financial-accounting/financial-accounting-overview.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/accounting/u1-basic-understanding-of-financial-accounting/financial-accounting-overview.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 114988,
+      "contentHashed": false
+    },
+    "financial-statement-elements-and-components.webp": {
+      "key": "course/bba/second-semester/accounting/u1-basic-understanding-of-financial-accounting/financial-statement-elements-and-components.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/accounting/u1-basic-understanding-of-financial-accounting/financial-statement-elements-and-components.webp",
+      "contentType": "image/webp",
+      "width": 1916,
+      "height": 821,
+      "bytes": 86136,
+      "contentHashed": false
+    },
+    "internal-vs-external-users.webp": {
+      "key": "course/bba/second-semester/accounting/u1-basic-understanding-of-financial-accounting/internal-vs-external-users.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/accounting/u1-basic-understanding-of-financial-accounting/internal-vs-external-users.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 122734,
+      "contentHashed": false
+    },
+    "limitations-of-financial-accounting.webp": {
+      "key": "course/bba/second-semester/accounting/u1-basic-understanding-of-financial-accounting/limitations-of-financial-accounting.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/accounting/u1-basic-understanding-of-financial-accounting/limitations-of-financial-accounting.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 92462,
+      "contentHashed": false
+    },
+    "qualitative-features-framework.webp": {
+      "key": "course/bba/second-semester/accounting/u1-basic-understanding-of-financial-accounting/qualitative-features-framework.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/accounting/u1-basic-understanding-of-financial-accounting/qualitative-features-framework.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 105862,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/second-semester/accounting/u1-basic-understanding-of-financial-accounting/accounting-information-path.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/accounting/u1-basic-understanding-of-financial-accounting/book-keeping-accounting-accountancy-relationship.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/accounting/u1-basic-understanding-of-financial-accounting/financial-accounting-overview.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/accounting/u1-basic-understanding-of-financial-accounting/financial-statement-elements-and-components.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/accounting/u1-basic-understanding-of-financial-accounting/internal-vs-external-users.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/accounting/u1-basic-understanding-of-financial-accounting/limitations-of-financial-accounting.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/accounting/u1-basic-understanding-of-financial-accounting/qualitative-features-framework.webp"
+  ]
+}

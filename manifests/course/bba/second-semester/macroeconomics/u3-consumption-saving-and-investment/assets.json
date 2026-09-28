@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T08:07:53.916Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/second-semester/macroeconomics/u3-consumption-saving-and-investment",
+  "totalAssets": 6,
+  "assets": {
+    "autonomous-and-induced-investment.webp": {
+      "key": "course/bba/second-semester/macroeconomics/u3-consumption-saving-and-investment/autonomous-and-induced-investment.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u3-consumption-saving-and-investment/autonomous-and-induced-investment.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 65364,
+      "contentHashed": false
+    },
+    "consumption-function.webp": {
+      "key": "course/bba/second-semester/macroeconomics/u3-consumption-saving-and-investment/consumption-function.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u3-consumption-saving-and-investment/consumption-function.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 54172,
+      "contentHashed": false
+    },
+    "determinants-of-investment.webp": {
+      "key": "course/bba/second-semester/macroeconomics/u3-consumption-saving-and-investment/determinants-of-investment.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u3-consumption-saving-and-investment/determinants-of-investment.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 85482,
+      "contentHashed": false
+    },
+    "investment-function-and-marginal-efficiency-of-capital.webp": {
+      "key": "course/bba/second-semester/macroeconomics/u3-consumption-saving-and-investment/investment-function-and-marginal-efficiency-of-capital.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u3-consumption-saving-and-investment/investment-function-and-marginal-efficiency-of-capital.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 57602,
+      "contentHashed": false
+    },
+    "mpc-and-mps-relationship.webp": {
+      "key": "course/bba/second-semester/macroeconomics/u3-consumption-saving-and-investment/mpc-and-mps-relationship.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u3-consumption-saving-and-investment/mpc-and-mps-relationship.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 68044,
+      "contentHashed": false
+    },
+    "saving-function.webp": {
+      "key": "course/bba/second-semester/macroeconomics/u3-consumption-saving-and-investment/saving-function.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u3-consumption-saving-and-investment/saving-function.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 58584,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u3-consumption-saving-and-investment/autonomous-and-induced-investment.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u3-consumption-saving-and-investment/consumption-function.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u3-consumption-saving-and-investment/determinants-of-investment.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u3-consumption-saving-and-investment/investment-function-and-marginal-efficiency-of-capital.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u3-consumption-saving-and-investment/mpc-and-mps-relationship.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u3-consumption-saving-and-investment/saving-function.webp"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T08:07:56.788Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/second-semester/microprocessor/u1-introduction-to-microprocessor",
+  "totalAssets": 7,
+  "assets": {
+    "alu-data-flow.webp": {
+      "key": "course/bca/second-semester/microprocessor/u1-introduction-to-microprocessor/alu-data-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u1-introduction-to-microprocessor/alu-data-flow.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 85202,
+      "contentHashed": false
+    },
+    "control-and-timing-flow.webp": {
+      "key": "course/bca/second-semester/microprocessor/u1-introduction-to-microprocessor/control-and-timing-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u1-introduction-to-microprocessor/control-and-timing-flow.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 69060,
+      "contentHashed": false
+    },
+    "microprocessor-application-map.webp": {
+      "key": "course/bca/second-semester/microprocessor/u1-introduction-to-microprocessor/microprocessor-application-map.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u1-introduction-to-microprocessor/microprocessor-application-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 135578,
+      "contentHashed": false
+    },
+    "microprocessor-based-system-bus-organization.webp": {
+      "key": "course/bca/second-semester/microprocessor/u1-introduction-to-microprocessor/microprocessor-based-system-bus-organization.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u1-introduction-to-microprocessor/microprocessor-based-system-bus-organization.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 110132,
+      "contentHashed": false
+    },
+    "microprocessor-system-overview.webp": {
+      "key": "course/bca/second-semester/microprocessor/u1-introduction-to-microprocessor/microprocessor-system-overview.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u1-introduction-to-microprocessor/microprocessor-system-overview.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 68378,
+      "contentHashed": false
+    },
+    "register-set-overview.webp": {
+      "key": "course/bca/second-semester/microprocessor/u1-introduction-to-microprocessor/register-set-overview.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u1-introduction-to-microprocessor/register-set-overview.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 101956,
+      "contentHashed": false
+    },
+    "system-bus-organization.webp": {
+      "key": "course/bca/second-semester/microprocessor/u1-introduction-to-microprocessor/system-bus-organization.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u1-introduction-to-microprocessor/system-bus-organization.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 51990,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u1-introduction-to-microprocessor/alu-data-flow.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u1-introduction-to-microprocessor/control-and-timing-flow.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u1-introduction-to-microprocessor/microprocessor-application-map.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u1-introduction-to-microprocessor/microprocessor-based-system-bus-organization.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u1-introduction-to-microprocessor/microprocessor-system-overview.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u1-introduction-to-microprocessor/register-set-overview.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u1-introduction-to-microprocessor/system-bus-organization.webp"
+  ]
+}

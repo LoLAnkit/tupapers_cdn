@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T08:07:53.888Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy",
+  "totalAssets": 6,
+  "assets": {
+    "green-gdp-adjustment.webp": {
+      "key": "course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/green-gdp-adjustment.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/green-gdp-adjustment.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 80304,
+      "contentHashed": false
+    },
+    "national-accounts-relationship.webp": {
+      "key": "course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/national-accounts-relationship.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/national-accounts-relationship.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 69686,
+      "contentHashed": false
+    },
+    "nominal-and-real-interest-rate.webp": {
+      "key": "course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/nominal-and-real-interest-rate.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/nominal-and-real-interest-rate.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 108786,
+      "contentHashed": false
+    },
+    "nominal-real-gdp-and-gdp-deflator.webp": {
+      "key": "course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/nominal-real-gdp-and-gdp-deflator.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/nominal-real-gdp-and-gdp-deflator.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 113022,
+      "contentHashed": false
+    },
+    "saving-and-wealth.webp": {
+      "key": "course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/saving-and-wealth.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/saving-and-wealth.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 89920,
+      "contentHashed": false
+    },
+    "value-added-method.webp": {
+      "key": "course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/value-added-method.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/value-added-method.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 74082,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/green-gdp-adjustment.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/national-accounts-relationship.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/nominal-and-real-interest-rate.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/nominal-real-gdp-and-gdp-deflator.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/saving-and-wealth.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/value-added-method.webp"
+  ]
+}

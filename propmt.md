@@ -4,7 +4,7 @@ Generate textbook-style educational images generation for below source folder.
 
 Source subject folder:
 
-`source/course/bba/second-semester/macroeconomics`
+`source/course/bba/fourth-semester/financial-management`
 
 I will paste one or more units below. For each unit:
 
@@ -48,25 +48,22 @@ Example:
 
 **# Generate images only for the following units and figures.**
 
-Unit 4: Theory of Income and Employment
-1.[Classical Labour Market Equilibrium] — Labour-demand and labour-supply graph showing the equilibrium real wage and full-employment level, with axes and equilibrium point clearly labeled. Style: Handwritten image, white background
-2.[Two-Sector Keynesian Equilibrium] — 45-degree diagram showing aggregate expenditure C+I, the income line, and the equilibrium income where planned expenditure equals output. Style: Handwritten image, white background
-3.[Three-Sector Income Determination] — Income-expenditure diagram showing consumption, investment, government spending, taxes, and the equilibrium point in a three-sector economy. Style: Handwritten image, white background
-4.[Four-Sector Income Determination] — Leakage-injection flow showing saving, taxes, imports versus investment, government spending, and exports, with the equilibrium condition labeled. Style: Handwritten image, white background
-5.[Multiplier Process] — Sequential flow showing an initial autonomous expenditure increase creating repeated rounds of income, consumption, and further income until the total multiplier effect is reached. Style: Handwritten image, white background
-6.[Paradox of Thrift] — Keynesian cross illustration showing how an attempted rise in saving lowers aggregate expenditure and equilibrium income, potentially leaving realized saving unchanged. Style: Handwritten image, white background
-7.[Derivation of the IS Curve] — Two-panel visual linking goods-market equilibrium at different interest rates to corresponding income levels and tracing the downward-sloping IS curve. Style: Handwritten image, white background
-8.[Derivation of the LM Curve] — Two-panel visual linking money-market equilibrium at different income levels to corresponding interest rates and tracing the upward-sloping LM curve. Style: Handwritten image, white background
-9.[IS-LM Equilibrium] — Graph showing IS and LM curves intersecting at the equilibrium level of income and rate of interest, with both axes and equilibrium coordinates labeled. Style: Handwritten image, white background
-10.[Monetary and Fiscal Policy in IS-LM] — Shift diagram showing expansionary fiscal policy shifting IS and expansionary monetary policy shifting LM, with resulting changes in equilibrium income and interest rate. Style: Handwritten image, white background
-Unit 5: Macroeconomic Issues and Policies
-1.[Demand-Pull Inflation] — AD-AS graph showing aggregate demand shifting right, raising the price level and output in the short run. Style: Handwritten image, white background
-2.[Cost-Push Inflation] — AD-AS graph showing short-run aggregate supply shifting left, raising the price level while reducing output and employment. Style: Handwritten image, white background
-3.[Business Cycle] — Time-series wave around a long-run trend line labeled expansion, prosperity/peak, recession, depression/trough, and recovery. Style: Handwritten image, white background
-4.[Balance of Payments Structure] — Tree diagram dividing the balance of payments into current account, capital/financial account, and reserve-related items with key components labeled. Style: Handwritten image, white background
-5.[Exchange Rate Determination] — Foreign-exchange demand-and-supply graph showing equilibrium exchange rate and quantity of foreign currency, plus a shift illustrating appreciation or depreciation. Style: Handwritten image, white background
-6.[Financial Inclusion Ecosystem] — Relationship map linking access, affordability, financial literacy, digital infrastructure, institutions, regulation, and usage to financial inclusion. Style: Handwritten image, white background
-7.[Fiscal Federalism] — Flow diagram showing federal, provincial, and local governments connected through revenue assignment, expenditure responsibility, grants, and intergovernmental transfers. Style: Handwritten image, white background
-8.[Public-Private Partnership] — Project-relationship diagram showing government, private partner, financiers, and users with flows of capital, service delivery, risk sharing, and payments. Style: Handwritten image, white background
-9.[Monetary Policy Transmission] — Process flow from central-bank instruments to money supply and interest rates, then investment and aggregate demand, and finally output, employment, and price stability. Style: Handwritten image, white background
-10.[Fiscal Policy Transmission] — Process flow from changes in government spending and taxation to disposable income and aggregate demand, then output, employment, and inflation. Style: Handwritten image, white background
+
+Unit 7: Dividend policy
+1.Dividend Allocation Flow — Earnings-allocation diagram showing profit available for distribution, retained earnings, and dividends as competing uses of earnings. Style: Handwritten image, white background
+2.Dividend Policy Theories — Three-branch concept map for dividend irrelevance theory, bird-in-the-hand theory, and tax preference theory, each linked to its predicted view of dividend versus capital gain. Style: Handwritten image, white background
+3.Factors Affecting Dividend Policy — Influence map connecting firm conditions such as profit, liquidity, and investment opportunities mentioned in the exam questions to the dividend-policy decision. Style: Handwritten image, white background
+4.Residual Dividend Decision Flow — Flowchart showing investment requirement, target financing mix, equity need, retained earnings allocation, and residual dividend. Style: Handwritten image, white background
+5.Stock Dividend Mechanics — Before-and-after share diagram showing an unchanged proportional ownership base with increased shares and adjusted per-share values after a stock dividend. Style: Handwritten image, white background
+6.Stock Split Mechanics — Before-and-after share-count and price-per-share visual showing the mechanical effect of a stock split while total shareholder value is held constant absent other effects. Style: Handwritten image, white background
+7.Stock Repurchase Flow — Transaction flow showing company cash moving to selling shareholders and repurchased shares reducing shares outstanding. Style: Handwritten image, white background
+Unit 8: Multinational Financial Management
+1.Multinational Operations Structure — Network diagram showing a home-country firm connected to foreign operations and cross-border financial flows. Style: Handwritten image, white background
+2.Going-Global Pathway — Flow diagram linking the reasons for going global to the decision to establish or expand multinational operations. Style: Handwritten image, white background
+3.Domestic vs Multinational Finance — Side-by-side process diagram contrasting a single-currency domestic setting with cross-border currencies, markets, and exchange-rate exposure in multinational financial management. Style: Handwritten image, white background
+4.Exchange Rate Quotation Anatomy — Two-currency quotation visual labeling the currencies, quoted rate, and direction of conversion. Style: Handwritten image, white background
+5.Cross-Rate Triangle — Three-currency triangle showing how two known exchange rates combine to derive a third cross rate. Style: Handwritten image, white background
+6.Interbank Foreign Currency Quotations — Dealer-to-dealer quotation flow showing currencies moving through interbank counterparties and quoted exchange rates between them. Style: Handwritten image, white background
+7.Spot and Forward Rate Timeline — Timeline with a spot transaction at the present date and a forward exchange commitment at a future date. Style: Handwritten image, white background
+8.Interest Rate Parity — Two-path investment loop comparing domestic investment with currency conversion, foreign investment, and forward conversion back to the home currency. Style: Handwritten image, white background
+9.Purchasing Power Parity — Two-country price comparison showing the same representative good or basket in two currencies and the exchange rate implied by their price ratio. Style: Handwritten image, white background

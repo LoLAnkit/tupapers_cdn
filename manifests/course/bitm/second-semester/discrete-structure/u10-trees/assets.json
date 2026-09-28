@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T08:07:58.767Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bitm/second-semester/discrete-structure/u10-trees",
+  "totalAssets": 4,
+  "assets": {
+    "binary-search-tree-from-6-5-8-10-2-100.webp": {
+      "key": "course/bitm/second-semester/discrete-structure/u10-trees/binary-search-tree-from-6-5-8-10-2-100.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/discrete-structure/u10-trees/binary-search-tree-from-6-5-8-10-2-100.webp",
+      "contentType": "image/webp",
+      "width": 1374,
+      "height": 1145,
+      "bytes": 38054,
+      "contentHashed": false
+    },
+    "prefix-code-tree.webp": {
+      "key": "course/bitm/second-semester/discrete-structure/u10-trees/prefix-code-tree.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/discrete-structure/u10-trees/prefix-code-tree.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 48542,
+      "contentHashed": false
+    },
+    "spanning-tree-of-a-graph.webp": {
+      "key": "course/bitm/second-semester/discrete-structure/u10-trees/spanning-tree-of-a-graph.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/discrete-structure/u10-trees/spanning-tree-of-a-graph.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 57756,
+      "contentHashed": false
+    },
+    "tree-terminology.webp": {
+      "key": "course/bitm/second-semester/discrete-structure/u10-trees/tree-terminology.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/discrete-structure/u10-trees/tree-terminology.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 61412,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bitm/second-semester/discrete-structure/u10-trees/binary-search-tree-from-6-5-8-10-2-100.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/discrete-structure/u10-trees/prefix-code-tree.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/discrete-structure/u10-trees/spanning-tree-of-a-graph.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/discrete-structure/u10-trees/tree-terminology.webp"
+  ]
+}

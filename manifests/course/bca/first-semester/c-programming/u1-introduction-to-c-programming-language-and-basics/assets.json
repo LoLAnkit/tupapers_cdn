@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T08:07:56.380Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/first-semester/c-programming/u1-introduction-to-c-programming-language-and-basics",
+  "totalAssets": 7,
+  "assets": {
+    "c-data-type-hierarchy.webp": {
+      "key": "course/bca/first-semester/c-programming/u1-introduction-to-c-programming-language-and-basics/c-data-type-hierarchy.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u1-introduction-to-c-programming-language-and-basics/c-data-type-hierarchy.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 56444,
+      "contentHashed": false
+    },
+    "c-token-map.webp": {
+      "key": "course/bca/first-semester/c-programming/u1-introduction-to-c-programming-language-and-basics/c-token-map.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u1-introduction-to-c-programming-language-and-basics/c-token-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 82114,
+      "contentHashed": false
+    },
+    "compilation-and-execution-flow.webp": {
+      "key": "course/bca/first-semester/c-programming/u1-introduction-to-c-programming-language-and-basics/compilation-and-execution-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u1-introduction-to-c-programming-language-and-basics/compilation-and-execution-flow.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 82638,
+      "contentHashed": false
+    },
+    "implicit-vs-explicit-type-conversion.webp": {
+      "key": "course/bca/first-semester/c-programming/u1-introduction-to-c-programming-language-and-basics/implicit-vs-explicit-type-conversion.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u1-introduction-to-c-programming-language-and-basics/implicit-vs-explicit-type-conversion.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 84232,
+      "contentHashed": false
+    },
+    "operator-precedence-and-associativity.webp": {
+      "key": "course/bca/first-semester/c-programming/u1-introduction-to-c-programming-language-and-basics/operator-precedence-and-associativity.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u1-introduction-to-c-programming-language-and-basics/operator-precedence-and-associativity.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 90056,
+      "contentHashed": false
+    },
+    "structure-of-a-c-program.webp": {
+      "key": "course/bca/first-semester/c-programming/u1-introduction-to-c-programming-language-and-basics/structure-of-a-c-program.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u1-introduction-to-c-programming-language-and-basics/structure-of-a-c-program.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 63402,
+      "contentHashed": false
+    },
+    "variable-scope-and-lifetime.webp": {
+      "key": "course/bca/first-semester/c-programming/u1-introduction-to-c-programming-language-and-basics/variable-scope-and-lifetime.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u1-introduction-to-c-programming-language-and-basics/variable-scope-and-lifetime.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 77492,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u1-introduction-to-c-programming-language-and-basics/c-data-type-hierarchy.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u1-introduction-to-c-programming-language-and-basics/c-token-map.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u1-introduction-to-c-programming-language-and-basics/compilation-and-execution-flow.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u1-introduction-to-c-programming-language-and-basics/implicit-vs-explicit-type-conversion.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u1-introduction-to-c-programming-language-and-basics/operator-precedence-and-associativity.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u1-introduction-to-c-programming-language-and-basics/structure-of-a-c-program.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u1-introduction-to-c-programming-language-and-basics/variable-scope-and-lifetime.webp"
+  ]
+}

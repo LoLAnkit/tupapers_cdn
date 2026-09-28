@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T08:07:58.783Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bitm/second-semester/discrete-structure/u4-mathematical-induction-and-recursion",
+  "totalAssets": 2,
+  "assets": {
+    "induction-structure.webp": {
+      "key": "course/bitm/second-semester/discrete-structure/u4-mathematical-induction-and-recursion/induction-structure.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/discrete-structure/u4-mathematical-induction-and-recursion/induction-structure.webp",
+      "contentType": "image/webp",
+      "width": 2101,
+      "height": 748,
+      "bytes": 72814,
+      "contentHashed": false
+    },
+    "recursive-call-chain-power-a-n.webp": {
+      "key": "course/bitm/second-semester/discrete-structure/u4-mathematical-induction-and-recursion/recursive-call-chain-power-a-n.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/discrete-structure/u4-mathematical-induction-and-recursion/recursive-call-chain-power-a-n.webp",
+      "contentType": "image/webp",
+      "width": 1145,
+      "height": 1374,
+      "bytes": 44474,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bitm/second-semester/discrete-structure/u4-mathematical-induction-and-recursion/induction-structure.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/discrete-structure/u4-mathematical-induction-and-recursion/recursive-call-chain-power-a-n.webp"
+  ]
+}

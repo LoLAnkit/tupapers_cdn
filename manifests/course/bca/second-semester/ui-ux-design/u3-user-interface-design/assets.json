@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T08:07:57.166Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/second-semester/ui-ux-design/u3-user-interface-design",
+  "totalAssets": 7,
+  "assets": {
+    "direct-manipulation-loop.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/u3-user-interface-design/direct-manipulation-loop.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u3-user-interface-design/direct-manipulation-loop.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 65572,
+      "contentHashed": false
+    },
+    "graphical-and-web-user-interfaces.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/u3-user-interface-design/graphical-and-web-user-interfaces.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u3-user-interface-design/graphical-and-web-user-interfaces.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 133936,
+      "contentHashed": false
+    },
+    "graphical-user-interface-anatomy.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/u3-user-interface-design/graphical-user-interface-anatomy.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u3-user-interface-design/graphical-user-interface-anatomy.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 115736,
+      "contentHashed": false
+    },
+    "human-and-technological-considerations.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/u3-user-interface-design/human-and-technological-considerations.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u3-user-interface-design/human-and-technological-considerations.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 150492,
+      "contentHashed": false
+    },
+    "interaction-styles.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/u3-user-interface-design/interaction-styles.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u3-user-interface-design/interaction-styles.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 182846,
+      "contentHashed": false
+    },
+    "principles-of-ui-design.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/u3-user-interface-design/principles-of-ui-design.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u3-user-interface-design/principles-of-ui-design.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 111764,
+      "contentHashed": false
+    },
+    "ui-design-process.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/u3-user-interface-design/ui-design-process.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u3-user-interface-design/ui-design-process.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 51366,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u3-user-interface-design/direct-manipulation-loop.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u3-user-interface-design/graphical-and-web-user-interfaces.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u3-user-interface-design/graphical-user-interface-anatomy.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u3-user-interface-design/human-and-technological-considerations.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u3-user-interface-design/interaction-styles.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u3-user-interface-design/principles-of-ui-design.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u3-user-interface-design/ui-design-process.webp"
+  ]
+}

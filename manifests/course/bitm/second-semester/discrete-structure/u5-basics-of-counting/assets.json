@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T08:07:58.790Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bitm/second-semester/discrete-structure/u5-basics-of-counting",
+  "totalAssets": 2,
+  "assets": {
+    "inclusion-exclusion-regions.webp": {
+      "key": "course/bitm/second-semester/discrete-structure/u5-basics-of-counting/inclusion-exclusion-regions.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/discrete-structure/u5-basics-of-counting/inclusion-exclusion-regions.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 72484,
+      "contentHashed": false
+    },
+    "pigeonhole-principle.webp": {
+      "key": "course/bitm/second-semester/discrete-structure/u5-basics-of-counting/pigeonhole-principle.webp",
+      "url": "https://cdn.tupapers.com/course/bitm/second-semester/discrete-structure/u5-basics-of-counting/pigeonhole-principle.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 45980,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bitm/second-semester/discrete-structure/u5-basics-of-counting/inclusion-exclusion-regions.webp",
+    "https://cdn.tupapers.com/course/bitm/second-semester/discrete-structure/u5-basics-of-counting/pigeonhole-principle.webp"
+  ]
+}

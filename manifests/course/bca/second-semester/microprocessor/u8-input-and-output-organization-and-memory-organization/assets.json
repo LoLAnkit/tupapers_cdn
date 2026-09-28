@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T08:07:56.861Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/second-semester/microprocessor/u8-input-and-output-organization-and-memory-organization",
+  "totalAssets": 7,
+  "assets": {
+    "dma-block-transfer-sequence.webp": {
+      "key": "course/bca/second-semester/microprocessor/u8-input-and-output-organization-and-memory-organization/dma-block-transfer-sequence.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u8-input-and-output-organization-and-memory-organization/dma-block-transfer-sequence.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 75572,
+      "contentHashed": false
+    },
+    "dma-controller-operation.webp": {
+      "key": "course/bca/second-semester/microprocessor/u8-input-and-output-organization-and-memory-organization/dma-controller-operation.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u8-input-and-output-organization-and-memory-organization/dma-controller-operation.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 84498,
+      "contentHashed": false
+    },
+    "io-interface-organization.webp": {
+      "key": "course/bca/second-semester/microprocessor/u8-input-and-output-organization-and-memory-organization/io-interface-organization.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u8-input-and-output-organization-and-memory-organization/io-interface-organization.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 70820,
+      "contentHashed": false
+    },
+    "isolated-vs-memory-mapped-io.webp": {
+      "key": "course/bca/second-semester/microprocessor/u8-input-and-output-organization-and-memory-organization/isolated-vs-memory-mapped-io.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u8-input-and-output-organization-and-memory-organization/isolated-vs-memory-mapped-io.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 100656,
+      "contentHashed": false
+    },
+    "magnetic-disk-structure.webp": {
+      "key": "course/bca/second-semester/microprocessor/u8-input-and-output-organization-and-memory-organization/magnetic-disk-structure.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u8-input-and-output-organization-and-memory-organization/magnetic-disk-structure.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 242040,
+      "contentHashed": false
+    },
+    "memory-address-mapping-and-decoding.webp": {
+      "key": "course/bca/second-semester/microprocessor/u8-input-and-output-organization-and-memory-organization/memory-address-mapping-and-decoding.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u8-input-and-output-organization-and-memory-organization/memory-address-mapping-and-decoding.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 103578,
+      "contentHashed": false
+    },
+    "memory-hierarchy-pyramid.webp": {
+      "key": "course/bca/second-semester/microprocessor/u8-input-and-output-organization-and-memory-organization/memory-hierarchy-pyramid.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u8-input-and-output-organization-and-memory-organization/memory-hierarchy-pyramid.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 100022,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u8-input-and-output-organization-and-memory-organization/dma-block-transfer-sequence.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u8-input-and-output-organization-and-memory-organization/dma-controller-operation.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u8-input-and-output-organization-and-memory-organization/io-interface-organization.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u8-input-and-output-organization-and-memory-organization/isolated-vs-memory-mapped-io.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u8-input-and-output-organization-and-memory-organization/magnetic-disk-structure.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u8-input-and-output-organization-and-memory-organization/memory-address-mapping-and-decoding.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u8-input-and-output-organization-and-memory-organization/memory-hierarchy-pyramid.webp"
+  ]
+}

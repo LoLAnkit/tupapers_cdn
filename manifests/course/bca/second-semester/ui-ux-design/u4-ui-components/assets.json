@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T08:07:57.180Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/second-semester/ui-ux-design/u4-ui-components",
+  "totalAssets": 7,
+  "assets": {
+    "control-families-and-selection-guide.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/u4-ui-components/control-families-and-selection-guide.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u4-ui-components/control-families-and-selection-guide.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 184616,
+      "contentHashed": false
+    },
+    "meaningful-graphics-icons-and-images.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/u4-ui-components/meaningful-graphics-icons-and-images.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u4-ui-components/meaningful-graphics-icons-and-images.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 134862,
+      "contentHashed": false
+    },
+    "menu-formatting-good-vs-poor.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/u4-ui-components/menu-formatting-good-vs-poor.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u4-ui-components/menu-formatting-good-vs-poor.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 143340,
+      "contentHashed": false
+    },
+    "system-menus-and-menu-functions.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/u4-ui-components/system-menus-and-menu-functions.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u4-ui-components/system-menus-and-menu-functions.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 126602,
+      "contentHashed": false
+    },
+    "types-of-menus.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/u4-ui-components/types-of-menus.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u4-ui-components/types-of-menus.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 115222,
+      "contentHashed": false
+    },
+    "window-presentation-styles.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/u4-ui-components/window-presentation-styles.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u4-ui-components/window-presentation-styles.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 161186,
+      "contentHashed": false
+    },
+    "window-types-primary-secondary-modal.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/u4-ui-components/window-types-primary-secondary-modal.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u4-ui-components/window-types-primary-secondary-modal.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 104420,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u4-ui-components/control-families-and-selection-guide.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u4-ui-components/meaningful-graphics-icons-and-images.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u4-ui-components/menu-formatting-good-vs-poor.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u4-ui-components/system-menus-and-menu-functions.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u4-ui-components/types-of-menus.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u4-ui-components/window-presentation-styles.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u4-ui-components/window-types-primary-secondary-modal.webp"
+  ]
+}

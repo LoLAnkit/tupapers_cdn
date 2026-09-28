@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T08:07:56.812Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/second-semester/microprocessor/u3-8086-microprocessor",
+  "totalAssets": 5,
+  "assets": {
+    "8085-vs-8086-architectural-view.webp": {
+      "key": "course/bca/second-semester/microprocessor/u3-8086-microprocessor/8085-vs-8086-architectural-view.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u3-8086-microprocessor/8085-vs-8086-architectural-view.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 194998,
+      "contentHashed": false
+    },
+    "8086-architecture.webp": {
+      "key": "course/bca/second-semester/microprocessor/u3-8086-microprocessor/8086-architecture.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u3-8086-microprocessor/8086-architecture.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 127524,
+      "contentHashed": false
+    },
+    "8086-biu-and-eu-cooperation.webp": {
+      "key": "course/bca/second-semester/microprocessor/u3-8086-microprocessor/8086-biu-and-eu-cooperation.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u3-8086-microprocessor/8086-biu-and-eu-cooperation.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 150104,
+      "contentHashed": false
+    },
+    "8086-instruction-queue.webp": {
+      "key": "course/bca/second-semester/microprocessor/u3-8086-microprocessor/8086-instruction-queue.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u3-8086-microprocessor/8086-instruction-queue.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 85290,
+      "contentHashed": false
+    },
+    "8086-memory-segmentation.webp": {
+      "key": "course/bca/second-semester/microprocessor/u3-8086-microprocessor/8086-memory-segmentation.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u3-8086-microprocessor/8086-memory-segmentation.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 138132,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u3-8086-microprocessor/8085-vs-8086-architectural-view.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u3-8086-microprocessor/8086-architecture.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u3-8086-microprocessor/8086-biu-and-eu-cooperation.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u3-8086-microprocessor/8086-instruction-queue.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u3-8086-microprocessor/8086-memory-segmentation.webp"
+  ]
+}

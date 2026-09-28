@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T08:07:56.396Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/first-semester/c-programming/u2-input-output-and-control-structures",
+  "totalAssets": 7,
+  "assets": {
+    "decision-control-flow.webp": {
+      "key": "course/bca/first-semester/c-programming/u2-input-output-and-control-structures/decision-control-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u2-input-output-and-control-structures/decision-control-flow.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 105008,
+      "contentHashed": false
+    },
+    "do-while-loop-flowchart.webp": {
+      "key": "course/bca/first-semester/c-programming/u2-input-output-and-control-structures/do-while-loop-flowchart.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u2-input-output-and-control-structures/do-while-loop-flowchart.webp",
+      "contentType": "image/webp",
+      "width": 1145,
+      "height": 1374,
+      "bytes": 46844,
+      "contentHashed": false
+    },
+    "for-loop-execution-cycle.webp": {
+      "key": "course/bca/first-semester/c-programming/u2-input-output-and-control-structures/for-loop-execution-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u2-input-output-and-control-structures/for-loop-execution-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 42738,
+      "contentHashed": false
+    },
+    "jump-statements-in-loops.webp": {
+      "key": "course/bca/first-semester/c-programming/u2-input-output-and-control-structures/jump-statements-in-loops.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u2-input-output-and-control-structures/jump-statements-in-loops.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 57656,
+      "contentHashed": false
+    },
+    "nested-loop-pattern-grid.webp": {
+      "key": "course/bca/first-semester/c-programming/u2-input-output-and-control-structures/nested-loop-pattern-grid.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u2-input-output-and-control-structures/nested-loop-pattern-grid.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 60140,
+      "contentHashed": false
+    },
+    "switch-statement-flow.webp": {
+      "key": "course/bca/first-semester/c-programming/u2-input-output-and-control-structures/switch-statement-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u2-input-output-and-control-structures/switch-statement-flow.webp",
+      "contentType": "image/webp",
+      "width": 1224,
+      "height": 1285,
+      "bytes": 78852,
+      "contentHashed": false
+    },
+    "while-loop-flowchart.webp": {
+      "key": "course/bca/first-semester/c-programming/u2-input-output-and-control-structures/while-loop-flowchart.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u2-input-output-and-control-structures/while-loop-flowchart.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 39324,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u2-input-output-and-control-structures/decision-control-flow.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u2-input-output-and-control-structures/do-while-loop-flowchart.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u2-input-output-and-control-structures/for-loop-execution-cycle.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u2-input-output-and-control-structures/jump-statements-in-loops.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u2-input-output-and-control-structures/nested-loop-pattern-grid.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u2-input-output-and-control-structures/switch-statement-flow.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u2-input-output-and-control-structures/while-loop-flowchart.webp"
+  ]
+}

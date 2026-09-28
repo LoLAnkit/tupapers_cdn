@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T08:07:56.832Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/second-semester/microprocessor/u5-microprogrammed-control-unit",
+  "totalAssets": 6,
+  "assets": {
+    "address-sequencing.webp": {
+      "key": "course/bca/second-semester/microprocessor/u5-microprogrammed-control-unit/address-sequencing.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u5-microprogrammed-control-unit/address-sequencing.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 72328,
+      "contentHashed": false
+    },
+    "control-memory-organization.webp": {
+      "key": "course/bca/second-semester/microprocessor/u5-microprogrammed-control-unit/control-memory-organization.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u5-microprogrammed-control-unit/control-memory-organization.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 57042,
+      "contentHashed": false
+    },
+    "fetch-microprogram-flow.webp": {
+      "key": "course/bca/second-semester/microprocessor/u5-microprogrammed-control-unit/fetch-microprogram-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u5-microprogrammed-control-unit/fetch-microprogram-flow.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 118994,
+      "contentHashed": false
+    },
+    "hardwired-vs-microprogrammed-control-paths.webp": {
+      "key": "course/bca/second-semester/microprocessor/u5-microprogrammed-control-unit/hardwired-vs-microprogrammed-control-paths.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u5-microprogrammed-control-unit/hardwired-vs-microprogrammed-control-paths.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 80570,
+      "contentHashed": false
+    },
+    "microinstruction-format.webp": {
+      "key": "course/bca/second-semester/microprocessor/u5-microprogrammed-control-unit/microinstruction-format.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u5-microprogrammed-control-unit/microinstruction-format.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 58386,
+      "contentHashed": false
+    },
+    "microprogrammed-sequencer.webp": {
+      "key": "course/bca/second-semester/microprocessor/u5-microprogrammed-control-unit/microprogrammed-sequencer.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u5-microprogrammed-control-unit/microprogrammed-sequencer.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 46828,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u5-microprogrammed-control-unit/address-sequencing.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u5-microprogrammed-control-unit/control-memory-organization.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u5-microprogrammed-control-unit/fetch-microprogram-flow.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u5-microprogrammed-control-unit/hardwired-vs-microprogrammed-control-paths.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u5-microprogrammed-control-unit/microinstruction-format.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/microprocessor/u5-microprogrammed-control-unit/microprogrammed-sequencer.webp"
+  ]
+}

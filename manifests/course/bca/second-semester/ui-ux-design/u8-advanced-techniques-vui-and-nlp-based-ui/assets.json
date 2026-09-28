@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T08:07:57.278Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/second-semester/ui-ux-design/u8-advanced-techniques-vui-and-nlp-based-ui",
+  "totalAssets": 5,
+  "assets": {
+    "command-and-control-vs-conversational-ui.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/u8-advanced-techniques-vui-and-nlp-based-ui/command-and-control-vs-conversational-ui.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u8-advanced-techniques-vui-and-nlp-based-ui/command-and-control-vs-conversational-ui.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 139650,
+      "contentHashed": false
+    },
+    "dialog-management.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/u8-advanced-techniques-vui-and-nlp-based-ui/dialog-management.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u8-advanced-techniques-vui-and-nlp-based-ui/dialog-management.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 101094,
+      "contentHashed": false
+    },
+    "personas-avatars-actors-and-video-games.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/u8-advanced-techniques-vui-and-nlp-based-ui/personas-avatars-actors-and-video-games.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u8-advanced-techniques-vui-and-nlp-based-ui/personas-avatars-actors-and-video-games.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 215132,
+      "contentHashed": false
+    },
+    "speech-recognition-pipeline.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/u8-advanced-techniques-vui-and-nlp-based-ui/speech-recognition-pipeline.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u8-advanced-techniques-vui-and-nlp-based-ui/speech-recognition-pipeline.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 81414,
+      "contentHashed": false
+    },
+    "wearable-device-interface-design.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/u8-advanced-techniques-vui-and-nlp-based-ui/wearable-device-interface-design.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u8-advanced-techniques-vui-and-nlp-based-ui/wearable-device-interface-design.webp",
+      "contentType": "image/webp",
+      "width": 1225,
+      "height": 1284,
+      "bytes": 207908,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u8-advanced-techniques-vui-and-nlp-based-ui/command-and-control-vs-conversational-ui.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u8-advanced-techniques-vui-and-nlp-based-ui/dialog-management.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u8-advanced-techniques-vui-and-nlp-based-ui/personas-avatars-actors-and-video-games.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u8-advanced-techniques-vui-and-nlp-based-ui/speech-recognition-pipeline.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u8-advanced-techniques-vui-and-nlp-based-ui/wearable-device-interface-design.webp"
+  ]
+}

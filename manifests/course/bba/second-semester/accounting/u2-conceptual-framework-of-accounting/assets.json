@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T08:07:53.746Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/second-semester/accounting/u2-conceptual-framework-of-accounting",
+  "totalAssets": 5,
+  "assets": {
+    "accounting-standards-landscape.webp": {
+      "key": "course/bba/second-semester/accounting/u2-conceptual-framework-of-accounting/accounting-standards-landscape.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/accounting/u2-conceptual-framework-of-accounting/accounting-standards-landscape.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 86766,
+      "contentHashed": false
+    },
+    "accrual-basis-vs-cash-basis-timeline.webp": {
+      "key": "course/bba/second-semester/accounting/u2-conceptual-framework-of-accounting/accrual-basis-vs-cash-basis-timeline.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/accounting/u2-conceptual-framework-of-accounting/accrual-basis-vs-cash-basis-timeline.webp",
+      "contentType": "image/webp",
+      "width": 2056,
+      "height": 765,
+      "bytes": 68284,
+      "contentHashed": false
+    },
+    "basic-accounting-concepts-relationship.webp": {
+      "key": "course/bba/second-semester/accounting/u2-conceptual-framework-of-accounting/basic-accounting-concepts-relationship.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/accounting/u2-conceptual-framework-of-accounting/basic-accounting-concepts-relationship.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 140426,
+      "contentHashed": false
+    },
+    "conceptual-framework-map.webp": {
+      "key": "course/bba/second-semester/accounting/u2-conceptual-framework-of-accounting/conceptual-framework-map.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/accounting/u2-conceptual-framework-of-accounting/conceptual-framework-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 92260,
+      "contentHashed": false
+    },
+    "nfrs-disclosure-flow.webp": {
+      "key": "course/bba/second-semester/accounting/u2-conceptual-framework-of-accounting/nfrs-disclosure-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/accounting/u2-conceptual-framework-of-accounting/nfrs-disclosure-flow.webp",
+      "contentType": "image/webp",
+      "width": 2065,
+      "height": 761,
+      "bytes": 69020,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/second-semester/accounting/u2-conceptual-framework-of-accounting/accounting-standards-landscape.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/accounting/u2-conceptual-framework-of-accounting/accrual-basis-vs-cash-basis-timeline.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/accounting/u2-conceptual-framework-of-accounting/basic-accounting-concepts-relationship.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/accounting/u2-conceptual-framework-of-accounting/conceptual-framework-map.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/accounting/u2-conceptual-framework-of-accounting/nfrs-disclosure-flow.webp"
+  ]
+}

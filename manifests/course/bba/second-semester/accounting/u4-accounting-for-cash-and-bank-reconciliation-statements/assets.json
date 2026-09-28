@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T08:07:53.762Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bba/second-semester/accounting/u4-accounting-for-cash-and-bank-reconciliation-statements",
+  "totalAssets": 4,
+  "assets": {
+    "bank-reconciliation-bridge.webp": {
+      "key": "course/bba/second-semester/accounting/u4-accounting-for-cash-and-bank-reconciliation-statements/bank-reconciliation-bridge.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/accounting/u4-accounting-for-cash-and-bank-reconciliation-statements/bank-reconciliation-bridge.webp",
+      "contentType": "image/webp",
+      "width": 2048,
+      "height": 768,
+      "bytes": 128074,
+      "contentHashed": false
+    },
+    "bank-reconciliation-timing-differences.webp": {
+      "key": "course/bba/second-semester/accounting/u4-accounting-for-cash-and-bank-reconciliation-statements/bank-reconciliation-timing-differences.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/accounting/u4-accounting-for-cash-and-bank-reconciliation-statements/bank-reconciliation-timing-differences.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 111126,
+      "contentHashed": false
+    },
+    "cheque-honour-vs-dishonour.webp": {
+      "key": "course/bba/second-semester/accounting/u4-accounting-for-cash-and-bank-reconciliation-statements/cheque-honour-vs-dishonour.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/accounting/u4-accounting-for-cash-and-bank-reconciliation-statements/cheque-honour-vs-dishonour.webp",
+      "contentType": "image/webp",
+      "width": 1225,
+      "height": 1284,
+      "bytes": 95662,
+      "contentHashed": false
+    },
+    "parties-to-a-cheque.webp": {
+      "key": "course/bba/second-semester/accounting/u4-accounting-for-cash-and-bank-reconciliation-statements/parties-to-a-cheque.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/accounting/u4-accounting-for-cash-and-bank-reconciliation-statements/parties-to-a-cheque.webp",
+      "contentType": "image/webp",
+      "width": 1994,
+      "height": 789,
+      "bytes": 88694,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bba/second-semester/accounting/u4-accounting-for-cash-and-bank-reconciliation-statements/bank-reconciliation-bridge.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/accounting/u4-accounting-for-cash-and-bank-reconciliation-statements/bank-reconciliation-timing-differences.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/accounting/u4-accounting-for-cash-and-bank-reconciliation-statements/cheque-honour-vs-dishonour.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/accounting/u4-accounting-for-cash-and-bank-reconciliation-statements/parties-to-a-cheque.webp"
+  ]
+}

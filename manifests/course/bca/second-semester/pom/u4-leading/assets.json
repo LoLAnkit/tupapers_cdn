@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T08:07:57.123Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/second-semester/pom/u4-leading",
+  "totalAssets": 6,
+  "assets": {
+    "emerging-leadership-approaches.webp": {
+      "key": "course/bca/second-semester/pom/u4-leading/emerging-leadership-approaches.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/pom/u4-leading/emerging-leadership-approaches.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 146122,
+      "contentHashed": false
+    },
+    "generic-leadership-approaches.webp": {
+      "key": "course/bca/second-semester/pom/u4-leading/generic-leadership-approaches.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/pom/u4-leading/generic-leadership-approaches.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 122018,
+      "contentHashed": false
+    },
+    "leadership-challenges-in-it-based-organizations.webp": {
+      "key": "course/bca/second-semester/pom/u4-leading/leadership-challenges-in-it-based-organizations.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/pom/u4-leading/leadership-challenges-in-it-based-organizations.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 142224,
+      "contentHashed": false
+    },
+    "leadership-influence-process.webp": {
+      "key": "course/bca/second-semester/pom/u4-leading/leadership-influence-process.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/pom/u4-leading/leadership-influence-process.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 114708,
+      "contentHashed": false
+    },
+    "leading-teams-in-a-crisis.webp": {
+      "key": "course/bca/second-semester/pom/u4-leading/leading-teams-in-a-crisis.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/pom/u4-leading/leading-teams-in-a-crisis.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 112046,
+      "contentHashed": false
+    },
+    "situational-leadership-models.webp": {
+      "key": "course/bca/second-semester/pom/u4-leading/situational-leadership-models.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/pom/u4-leading/situational-leadership-models.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 124748,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/second-semester/pom/u4-leading/emerging-leadership-approaches.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/pom/u4-leading/generic-leadership-approaches.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/pom/u4-leading/leadership-challenges-in-it-based-organizations.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/pom/u4-leading/leadership-influence-process.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/pom/u4-leading/leading-teams-in-a-crisis.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/pom/u4-leading/situational-leadership-models.webp"
+  ]
+}

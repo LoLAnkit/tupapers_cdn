@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T08:07:56.427Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/first-semester/c-programming/u4-structures-unions-and-enumerations",
+  "totalAssets": 6,
+  "assets": {
+    "array-of-structures.webp": {
+      "key": "course/bca/first-semester/c-programming/u4-structures-unions-and-enumerations/array-of-structures.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u4-structures-unions-and-enumerations/array-of-structures.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 140778,
+      "contentHashed": false
+    },
+    "enum-and-typedef-relationship.webp": {
+      "key": "course/bca/first-semester/c-programming/u4-structures-unions-and-enumerations/enum-and-typedef-relationship.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u4-structures-unions-and-enumerations/enum-and-typedef-relationship.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 95176,
+      "contentHashed": false
+    },
+    "nested-structure-relationship.webp": {
+      "key": "course/bca/first-semester/c-programming/u4-structures-unions-and-enumerations/nested-structure-relationship.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u4-structures-unions-and-enumerations/nested-structure-relationship.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 120728,
+      "contentHashed": false
+    },
+    "passing-structure-to-function.webp": {
+      "key": "course/bca/first-semester/c-programming/u4-structures-unions-and-enumerations/passing-structure-to-function.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u4-structures-unions-and-enumerations/passing-structure-to-function.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 90296,
+      "contentHashed": false
+    },
+    "structure-memory-layout.webp": {
+      "key": "course/bca/first-semester/c-programming/u4-structures-unions-and-enumerations/structure-memory-layout.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u4-structures-unions-and-enumerations/structure-memory-layout.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 111602,
+      "contentHashed": false
+    },
+    "structure-vs-union-memory.webp": {
+      "key": "course/bca/first-semester/c-programming/u4-structures-unions-and-enumerations/structure-vs-union-memory.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u4-structures-unions-and-enumerations/structure-vs-union-memory.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 165438,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u4-structures-unions-and-enumerations/array-of-structures.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u4-structures-unions-and-enumerations/enum-and-typedef-relationship.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u4-structures-unions-and-enumerations/nested-structure-relationship.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u4-structures-unions-and-enumerations/passing-structure-to-function.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u4-structures-unions-and-enumerations/structure-memory-layout.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u4-structures-unions-and-enumerations/structure-vs-union-memory.webp"
+  ]
+}

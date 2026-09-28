@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T08:07:56.453Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bca/first-semester/c-programming/u6-file-handling-command-line-arguments-and-graphics",
+  "totalAssets": 10,
+  "assets": {
+    "colors-and-fill-styles.webp": {
+      "key": "course/bca/first-semester/c-programming/u6-file-handling-command-line-arguments-and-graphics/colors-and-fill-styles.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u6-file-handling-command-line-arguments-and-graphics/colors-and-fill-styles.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 147674,
+      "contentHashed": false
+    },
+    "command-line-arguments.webp": {
+      "key": "course/bca/first-semester/c-programming/u6-file-handling-command-line-arguments-and-graphics/command-line-arguments.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u6-file-handling-command-line-arguments-and-graphics/command-line-arguments.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 97372,
+      "contentHashed": false
+    },
+    "file-handling-lifecycle.webp": {
+      "key": "course/bca/first-semester/c-programming/u6-file-handling-command-line-arguments-and-graphics/file-handling-lifecycle.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u6-file-handling-command-line-arguments-and-graphics/file-handling-lifecycle.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 131792,
+      "contentHashed": false
+    },
+    "file-pointer-and-io-functions.webp": {
+      "key": "course/bca/first-semester/c-programming/u6-file-handling-command-line-arguments-and-graphics/file-pointer-and-io-functions.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u6-file-handling-command-line-arguments-and-graphics/file-pointer-and-io-functions.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 118118,
+      "contentHashed": false
+    },
+    "graphics-coordinate-system.webp": {
+      "key": "course/bca/first-semester/c-programming/u6-file-handling-command-line-arguments-and-graphics/graphics-coordinate-system.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u6-file-handling-command-line-arguments-and-graphics/graphics-coordinate-system.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 62844,
+      "contentHashed": false
+    },
+    "graphics-drawing-primitives.webp": {
+      "key": "course/bca/first-semester/c-programming/u6-file-handling-command-line-arguments-and-graphics/graphics-drawing-primitives.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u6-file-handling-command-line-arguments-and-graphics/graphics-drawing-primitives.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 74262,
+      "contentHashed": false
+    },
+    "random-file-access.webp": {
+      "key": "course/bca/first-semester/c-programming/u6-file-handling-command-line-arguments-and-graphics/random-file-access.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u6-file-handling-command-line-arguments-and-graphics/random-file-access.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 76894,
+      "contentHashed": false
+    },
+    "simple-animation-cycle.webp": {
+      "key": "course/bca/first-semester/c-programming/u6-file-handling-command-line-arguments-and-graphics/simple-animation-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u6-file-handling-command-line-arguments-and-graphics/simple-animation-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 106992,
+      "contentHashed": false
+    },
+    "text-in-graphics-mode.webp": {
+      "key": "course/bca/first-semester/c-programming/u6-file-handling-command-line-arguments-and-graphics/text-in-graphics-mode.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u6-file-handling-command-line-arguments-and-graphics/text-in-graphics-mode.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 62576,
+      "contentHashed": false
+    },
+    "text-vs-binary-file-representation.webp": {
+      "key": "course/bca/first-semester/c-programming/u6-file-handling-command-line-arguments-and-graphics/text-vs-binary-file-representation.webp",
+      "url": "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u6-file-handling-command-line-arguments-and-graphics/text-vs-binary-file-representation.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 133968,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u6-file-handling-command-line-arguments-and-graphics/colors-and-fill-styles.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u6-file-handling-command-line-arguments-and-graphics/command-line-arguments.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u6-file-handling-command-line-arguments-and-graphics/file-handling-lifecycle.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u6-file-handling-command-line-arguments-and-graphics/file-pointer-and-io-functions.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u6-file-handling-command-line-arguments-and-graphics/graphics-coordinate-system.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u6-file-handling-command-line-arguments-and-graphics/graphics-drawing-primitives.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u6-file-handling-command-line-arguments-and-graphics/random-file-access.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u6-file-handling-command-line-arguments-and-graphics/simple-animation-cycle.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u6-file-handling-command-line-arguments-and-graphics/text-in-graphics-mode.webp",
+    "https://cdn.tupapers.com/course/bca/first-semester/c-programming/u6-file-handling-command-line-arguments-and-graphics/text-vs-binary-file-representation.webp"
+  ]
+}
