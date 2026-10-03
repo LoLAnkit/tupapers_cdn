@@ -1,41 +1,71 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-28T17:28:39.473Z",
+  "generatedAt": "2026-09-29T15:33:02.281Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/second-year/abnormal-psychology/u4-somatic-symptom-and-dissociative-disorders",
-  "totalAssets": 3,
+  "totalAssets": 6,
   "assets": {
-    "psychological-factors-and-medical-condition.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u4-somatic-symptom-and-dissociative-disorders/psychological-factors-and-medical-condition.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u4-somatic-symptom-and-dissociative-disorders/psychological-factors-and-medical-condition.webp",
+    "conversion-disorder-pathway.webp": {
+      "key": "course/bsw/second-year/abnormal-psychology/u4-somatic-symptom-and-dissociative-disorders/conversion-disorder-pathway.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u4-somatic-symptom-and-dissociative-disorders/conversion-disorder-pathway.webp",
       "contentType": "image/webp",
-      "width": 1254,
-      "height": 1254,
-      "bytes": 144424,
+      "width": 1774,
+      "height": 887,
+      "bytes": 94380,
       "contentHashed": false
     },
-    "somatic-and-dissociative-disorder-families.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u4-somatic-symptom-and-dissociative-disorders/somatic-and-dissociative-disorder-families.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u4-somatic-symptom-and-dissociative-disorders/somatic-and-dissociative-disorder-families.webp",
+    "dissociative-disorder-map.webp": {
+      "key": "course/bsw/second-year/abnormal-psychology/u4-somatic-symptom-and-dissociative-disorders/dissociative-disorder-map.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u4-somatic-symptom-and-dissociative-disorders/dissociative-disorder-map.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 117458,
+      "contentHashed": false
+    },
+    "factitious-disorder-behavior-pattern.webp": {
+      "key": "course/bsw/second-year/abnormal-psychology/u4-somatic-symptom-and-dissociative-disorders/factitious-disorder-behavior-pattern.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u4-somatic-symptom-and-dissociative-disorders/factitious-disorder-behavior-pattern.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 117674,
+      "bytes": 126992,
       "contentHashed": false
     },
-    "somatic-disorder-differential-pathway.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u4-somatic-symptom-and-dissociative-disorders/somatic-disorder-differential-pathway.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u4-somatic-symptom-and-dissociative-disorders/somatic-disorder-differential-pathway.webp",
+    "illness-anxiety-pattern.webp": {
+      "key": "course/bsw/second-year/abnormal-psychology/u4-somatic-symptom-and-dissociative-disorders/illness-anxiety-pattern.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u4-somatic-symptom-and-dissociative-disorders/illness-anxiety-pattern.webp",
       "contentType": "image/webp",
-      "width": 1942,
-      "height": 809,
-      "bytes": 84550,
+      "width": 1536,
+      "height": 1024,
+      "bytes": 67202,
+      "contentHashed": false
+    },
+    "mind-body-interaction-pathway.webp": {
+      "key": "course/bsw/second-year/abnormal-psychology/u4-somatic-symptom-and-dissociative-disorders/mind-body-interaction-pathway.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u4-somatic-symptom-and-dissociative-disorders/mind-body-interaction-pathway.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 85148,
+      "contentHashed": false
+    },
+    "somatic-symptom-disorder-cycle.webp": {
+      "key": "course/bsw/second-year/abnormal-psychology/u4-somatic-symptom-and-dissociative-disorders/somatic-symptom-disorder-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u4-somatic-symptom-and-dissociative-disorders/somatic-symptom-disorder-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 68618,
       "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u4-somatic-symptom-and-dissociative-disorders/psychological-factors-and-medical-condition.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u4-somatic-symptom-and-dissociative-disorders/somatic-and-dissociative-disorder-families.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u4-somatic-symptom-and-dissociative-disorders/somatic-disorder-differential-pathway.webp"
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u4-somatic-symptom-and-dissociative-disorders/conversion-disorder-pathway.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u4-somatic-symptom-and-dissociative-disorders/dissociative-disorder-map.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u4-somatic-symptom-and-dissociative-disorders/factitious-disorder-behavior-pattern.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u4-somatic-symptom-and-dissociative-disorders/illness-anxiety-pattern.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u4-somatic-symptom-and-dissociative-disorders/mind-body-interaction-pathway.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u4-somatic-symptom-and-dissociative-disorders/somatic-symptom-disorder-cycle.webp"
   ]
 }

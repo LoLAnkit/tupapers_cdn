@@ -1,51 +1,81 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-28T17:28:39.506Z",
+  "generatedAt": "2026-09-29T15:33:02.335Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders",
-  "totalAssets": 4,
+  "totalAssets": 7,
   "assets": {
-    "causes-of-substance-related-disorders.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/causes-of-substance-related-disorders.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/causes-of-substance-related-disorders.webp",
+    "cannabis-and-hallucinogen-effects.webp": {
+      "key": "course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/cannabis-and-hallucinogen-effects.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/cannabis-and-hallucinogen-effects.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 72168,
+      "bytes": 66964,
       "contentHashed": false
     },
-    "depressants-and-stimulants.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/depressants-and-stimulants.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/depressants-and-stimulants.webp",
+    "depressant-effects-pathway.webp": {
+      "key": "course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/depressant-effects-pathway.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/depressant-effects-pathway.webp",
       "contentType": "image/webp",
-      "width": 1536,
-      "height": 1024,
-      "bytes": 109504,
+      "width": 2020,
+      "height": 779,
+      "bytes": 68174,
       "contentHashed": false
     },
-    "substance-related-disorder-classes.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/substance-related-disorder-classes.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/substance-related-disorder-classes.webp",
+    "depressant-vs-stimulant-contrast.webp": {
+      "key": "course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/depressant-vs-stimulant-contrast.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/depressant-vs-stimulant-contrast.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 135608,
+      "bytes": 122798,
       "contentHashed": false
     },
-    "substance-use-reinforcement-cycle.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/substance-use-reinforcement-cycle.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/substance-use-reinforcement-cycle.webp",
+    "multifactorial-causes-of-substance-disorders.webp": {
+      "key": "course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/multifactorial-causes-of-substance-disorders.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/multifactorial-causes-of-substance-disorders.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 121886,
+      "bytes": 78302,
+      "contentHashed": false
+    },
+    "opioid-related-effects.webp": {
+      "key": "course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/opioid-related-effects.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/opioid-related-effects.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 56464,
+      "contentHashed": false
+    },
+    "stimulant-effects-pathway.webp": {
+      "key": "course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/stimulant-effects-pathway.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/stimulant-effects-pathway.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 70620,
+      "contentHashed": false
+    },
+    "substance-related-disorder-classification.webp": {
+      "key": "course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/substance-related-disorder-classification.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/substance-related-disorder-classification.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 71426,
       "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/causes-of-substance-related-disorders.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/depressants-and-stimulants.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/substance-related-disorder-classes.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/substance-use-reinforcement-cycle.webp"
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/cannabis-and-hallucinogen-effects.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/depressant-effects-pathway.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/depressant-vs-stimulant-contrast.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/multifactorial-causes-of-substance-disorders.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/opioid-related-effects.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/stimulant-effects-pathway.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u8-substance-related-disorders/substance-related-disorder-classification.webp"
   ]
 }

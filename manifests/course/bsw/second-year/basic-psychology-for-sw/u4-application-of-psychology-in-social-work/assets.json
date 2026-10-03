@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-29T15:33:02.477Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/second-year/basic-psychology-for-sw/u4-application-of-psychology-in-social-work",
+  "totalAssets": 10,
+  "assets": {
+    "development-across-the-lifespan.webp": {
+      "key": "course/bsw/second-year/basic-psychology-for-sw/u4-application-of-psychology-in-social-work/development-across-the-lifespan.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u4-application-of-psychology-in-social-work/development-across-the-lifespan.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 136434,
+      "contentHashed": false
+    },
+    "developmental-tasks-hazards-and-adjustment.webp": {
+      "key": "course/bsw/second-year/basic-psychology-for-sw/u4-application-of-psychology-in-social-work/developmental-tasks-hazards-and-adjustment.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u4-application-of-psychology-in-social-work/developmental-tasks-hazards-and-adjustment.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 86404,
+      "contentHashed": false
+    },
+    "health-mental-health-psychosocial-wellbeing.webp": {
+      "key": "course/bsw/second-year/basic-psychology-for-sw/u4-application-of-psychology-in-social-work/health-mental-health-psychosocial-wellbeing.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u4-application-of-psychology-in-social-work/health-mental-health-psychosocial-wellbeing.webp",
+      "contentType": "image/webp",
+      "width": 1312,
+      "height": 1199,
+      "bytes": 67068,
+      "contentHashed": false
+    },
+    "mental-health-social-work-application.webp": {
+      "key": "course/bsw/second-year/basic-psychology-for-sw/u4-application-of-psychology-in-social-work/mental-health-social-work-application.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u4-application-of-psychology-in-social-work/mental-health-social-work-application.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 74584,
+      "contentHashed": false
+    },
+    "positive-psychology-and-happiness.webp": {
+      "key": "course/bsw/second-year/basic-psychology-for-sw/u4-application-of-psychology-in-social-work/positive-psychology-and-happiness.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u4-application-of-psychology-in-social-work/positive-psychology-and-happiness.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 59178,
+      "contentHashed": false
+    },
+    "psychology-across-child-adolescence-and-elderly.webp": {
+      "key": "course/bsw/second-year/basic-psychology-for-sw/u4-application-of-psychology-in-social-work/psychology-across-child-adolescence-and-elderly.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u4-application-of-psychology-in-social-work/psychology-across-child-adolescence-and-elderly.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 166002,
+      "contentHashed": false
+    },
+    "psychology-mental-health-social-work-relationship.webp": {
+      "key": "course/bsw/second-year/basic-psychology-for-sw/u4-application-of-psychology-in-social-work/psychology-mental-health-social-work-relationship.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u4-application-of-psychology-in-social-work/psychology-mental-health-social-work-relationship.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 48860,
+      "contentHashed": false
+    },
+    "psychopathology-framework.webp": {
+      "key": "course/bsw/second-year/basic-psychology-for-sw/u4-application-of-psychology-in-social-work/psychopathology-framework.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u4-application-of-psychology-in-social-work/psychopathology-framework.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 62132,
+      "contentHashed": false
+    },
+    "stress-coping-wellbeing-model.webp": {
+      "key": "course/bsw/second-year/basic-psychology-for-sw/u4-application-of-psychology-in-social-work/stress-coping-wellbeing-model.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u4-application-of-psychology-in-social-work/stress-coping-wellbeing-model.webp",
+      "contentType": "image/webp",
+      "width": 1904,
+      "height": 826,
+      "bytes": 69304,
+      "contentHashed": false
+    },
+    "types-of-stress-and-coping.webp": {
+      "key": "course/bsw/second-year/basic-psychology-for-sw/u4-application-of-psychology-in-social-work/types-of-stress-and-coping.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u4-application-of-psychology-in-social-work/types-of-stress-and-coping.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 85392,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u4-application-of-psychology-in-social-work/development-across-the-lifespan.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u4-application-of-psychology-in-social-work/developmental-tasks-hazards-and-adjustment.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u4-application-of-psychology-in-social-work/health-mental-health-psychosocial-wellbeing.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u4-application-of-psychology-in-social-work/mental-health-social-work-application.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u4-application-of-psychology-in-social-work/positive-psychology-and-happiness.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u4-application-of-psychology-in-social-work/psychology-across-child-adolescence-and-elderly.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u4-application-of-psychology-in-social-work/psychology-mental-health-social-work-relationship.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u4-application-of-psychology-in-social-work/psychopathology-framework.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u4-application-of-psychology-in-social-work/stress-coping-wellbeing-model.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u4-application-of-psychology-in-social-work/types-of-stress-and-coping.webp"
+  ]
+}

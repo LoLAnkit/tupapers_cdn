@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-29T15:33:02.388Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/second-year/adolescence-juvenile-delinquency/u4-childhood-deviant-behavior",
+  "totalAssets": 6,
+  "assets": {
+    "childhood-deviant-behavior-classification-tree.webp": {
+      "key": "course/bsw/second-year/adolescence-juvenile-delinquency/u4-childhood-deviant-behavior/childhood-deviant-behavior-classification-tree.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescence-juvenile-delinquency/u4-childhood-deviant-behavior/childhood-deviant-behavior-classification-tree.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 100718,
+      "contentHashed": false
+    },
+    "childhood-deviant-behavior-to-delinquency-pathway.webp": {
+      "key": "course/bsw/second-year/adolescence-juvenile-delinquency/u4-childhood-deviant-behavior/childhood-deviant-behavior-to-delinquency-pathway.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescence-juvenile-delinquency/u4-childhood-deviant-behavior/childhood-deviant-behavior-to-delinquency-pathway.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 99890,
+      "contentHashed": false
+    },
+    "externalizing-problems-cluster.webp": {
+      "key": "course/bsw/second-year/adolescence-juvenile-delinquency/u4-childhood-deviant-behavior/externalizing-problems-cluster.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescence-juvenile-delinquency/u4-childhood-deviant-behavior/externalizing-problems-cluster.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 89784,
+      "contentHashed": false
+    },
+    "internalizing-problems-cluster.webp": {
+      "key": "course/bsw/second-year/adolescence-juvenile-delinquency/u4-childhood-deviant-behavior/internalizing-problems-cluster.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescence-juvenile-delinquency/u4-childhood-deviant-behavior/internalizing-problems-cluster.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 69794,
+      "contentHashed": false
+    },
+    "neurodevelopmental-disorders-map.webp": {
+      "key": "course/bsw/second-year/adolescence-juvenile-delinquency/u4-childhood-deviant-behavior/neurodevelopmental-disorders-map.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescence-juvenile-delinquency/u4-childhood-deviant-behavior/neurodevelopmental-disorders-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 98884,
+      "contentHashed": false
+    },
+    "situation-of-children-in-nepal-problem-web.webp": {
+      "key": "course/bsw/second-year/adolescence-juvenile-delinquency/u4-childhood-deviant-behavior/situation-of-children-in-nepal-problem-web.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescence-juvenile-delinquency/u4-childhood-deviant-behavior/situation-of-children-in-nepal-problem-web.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 91396,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/second-year/adolescence-juvenile-delinquency/u4-childhood-deviant-behavior/childhood-deviant-behavior-classification-tree.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/adolescence-juvenile-delinquency/u4-childhood-deviant-behavior/childhood-deviant-behavior-to-delinquency-pathway.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/adolescence-juvenile-delinquency/u4-childhood-deviant-behavior/externalizing-problems-cluster.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/adolescence-juvenile-delinquency/u4-childhood-deviant-behavior/internalizing-problems-cluster.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/adolescence-juvenile-delinquency/u4-childhood-deviant-behavior/neurodevelopmental-disorders-map.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/adolescence-juvenile-delinquency/u4-childhood-deviant-behavior/situation-of-children-in-nepal-problem-web.webp"
+  ]
+}

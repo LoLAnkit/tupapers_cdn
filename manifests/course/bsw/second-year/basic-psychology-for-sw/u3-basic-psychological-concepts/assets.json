@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-29T15:33:02.465Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/second-year/basic-psychology-for-sw/u3-basic-psychological-concepts",
+  "totalAssets": 6,
+  "assets": {
+    "emotion-motivation-behavior-cycle.webp": {
+      "key": "course/bsw/second-year/basic-psychology-for-sw/u3-basic-psychological-concepts/emotion-motivation-behavior-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u3-basic-psychological-concepts/emotion-motivation-behavior-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 114638,
+      "contentHashed": false
+    },
+    "intelligence-in-action.webp": {
+      "key": "course/bsw/second-year/basic-psychology-for-sw/u3-basic-psychological-concepts/intelligence-in-action.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u3-basic-psychological-concepts/intelligence-in-action.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 97714,
+      "contentHashed": false
+    },
+    "learning-process.webp": {
+      "key": "course/bsw/second-year/basic-psychology-for-sw/u3-basic-psychological-concepts/learning-process.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u3-basic-psychological-concepts/learning-process.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 54324,
+      "contentHashed": false
+    },
+    "memory-and-forgetting-process.webp": {
+      "key": "course/bsw/second-year/basic-psychology-for-sw/u3-basic-psychological-concepts/memory-and-forgetting-process.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u3-basic-psychological-concepts/memory-and-forgetting-process.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 77610,
+      "contentHashed": false
+    },
+    "personality-values-attitude-relationship.webp": {
+      "key": "course/bsw/second-year/basic-psychology-for-sw/u3-basic-psychological-concepts/personality-values-attitude-relationship.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u3-basic-psychological-concepts/personality-values-attitude-relationship.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 85902,
+      "contentHashed": false
+    },
+    "sensation-to-perception-flow.webp": {
+      "key": "course/bsw/second-year/basic-psychology-for-sw/u3-basic-psychological-concepts/sensation-to-perception-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u3-basic-psychological-concepts/sensation-to-perception-flow.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 100514,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u3-basic-psychological-concepts/emotion-motivation-behavior-cycle.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u3-basic-psychological-concepts/intelligence-in-action.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u3-basic-psychological-concepts/learning-process.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u3-basic-psychological-concepts/memory-and-forgetting-process.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u3-basic-psychological-concepts/personality-values-attitude-relationship.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u3-basic-psychological-concepts/sensation-to-perception-flow.webp"
+  ]
+}

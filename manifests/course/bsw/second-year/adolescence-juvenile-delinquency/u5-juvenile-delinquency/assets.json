@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-29T15:33:02.406Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/second-year/adolescence-juvenile-delinquency/u5-juvenile-delinquency",
+  "totalAssets": 7,
+  "assets": {
+    "causative-factors-triangle.webp": {
+      "key": "course/bsw/second-year/adolescence-juvenile-delinquency/u5-juvenile-delinquency/causative-factors-triangle.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescence-juvenile-delinquency/u5-juvenile-delinquency/causative-factors-triangle.webp",
+      "contentType": "image/webp",
+      "width": 1347,
+      "height": 1168,
+      "bytes": 105956,
+      "contentHashed": false
+    },
+    "index-offenses-classification.webp": {
+      "key": "course/bsw/second-year/adolescence-juvenile-delinquency/u5-juvenile-delinquency/index-offenses-classification.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescence-juvenile-delinquency/u5-juvenile-delinquency/index-offenses-classification.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 132304,
+      "contentHashed": false
+    },
+    "juvenile-delinquency-risk-ecology.webp": {
+      "key": "course/bsw/second-year/adolescence-juvenile-delinquency/u5-juvenile-delinquency/juvenile-delinquency-risk-ecology.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescence-juvenile-delinquency/u5-juvenile-delinquency/juvenile-delinquency-risk-ecology.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 144270,
+      "contentHashed": false
+    },
+    "juvenile-delinquency-types-tree.webp": {
+      "key": "course/bsw/second-year/adolescence-juvenile-delinquency/u5-juvenile-delinquency/juvenile-delinquency-types-tree.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescence-juvenile-delinquency/u5-juvenile-delinquency/juvenile-delinquency-types-tree.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 67934,
+      "contentHashed": false
+    },
+    "protective-factors-shield.webp": {
+      "key": "course/bsw/second-year/adolescence-juvenile-delinquency/u5-juvenile-delinquency/protective-factors-shield.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescence-juvenile-delinquency/u5-juvenile-delinquency/protective-factors-shield.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 141224,
+      "contentHashed": false
+    },
+    "risk-protection-balance-for-prevention.webp": {
+      "key": "course/bsw/second-year/adolescence-juvenile-delinquency/u5-juvenile-delinquency/risk-protection-balance-for-prevention.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescence-juvenile-delinquency/u5-juvenile-delinquency/risk-protection-balance-for-prevention.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 135618,
+      "contentHashed": false
+    },
+    "status-offenses-classification.webp": {
+      "key": "course/bsw/second-year/adolescence-juvenile-delinquency/u5-juvenile-delinquency/status-offenses-classification.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/adolescence-juvenile-delinquency/u5-juvenile-delinquency/status-offenses-classification.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 86450,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/second-year/adolescence-juvenile-delinquency/u5-juvenile-delinquency/causative-factors-triangle.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/adolescence-juvenile-delinquency/u5-juvenile-delinquency/index-offenses-classification.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/adolescence-juvenile-delinquency/u5-juvenile-delinquency/juvenile-delinquency-risk-ecology.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/adolescence-juvenile-delinquency/u5-juvenile-delinquency/juvenile-delinquency-types-tree.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/adolescence-juvenile-delinquency/u5-juvenile-delinquency/protective-factors-shield.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/adolescence-juvenile-delinquency/u5-juvenile-delinquency/risk-protection-balance-for-prevention.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/adolescence-juvenile-delinquency/u5-juvenile-delinquency/status-offenses-classification.webp"
+  ]
+}

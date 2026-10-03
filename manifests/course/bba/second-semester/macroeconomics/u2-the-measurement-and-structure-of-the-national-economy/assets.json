@@ -1,71 +1,91 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-28T17:28:27.582Z",
+  "generatedAt": "2026-09-29T15:32:58.532Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy",
-  "totalAssets": 6,
+  "totalAssets": 8,
   "assets": {
+    "factor-cost-and-market-price-bridge.webp": {
+      "key": "course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/factor-cost-and-market-price-bridge.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/factor-cost-and-market-price-bridge.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 128286,
+      "contentHashed": false
+    },
+    "gdp-deflator-to-inflation-rate.webp": {
+      "key": "course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/gdp-deflator-to-inflation-rate.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/gdp-deflator-to-inflation-rate.webp",
+      "contentType": "image/webp",
+      "width": 2017,
+      "height": 780,
+      "bytes": 72676,
+      "contentHashed": false
+    },
     "green-gdp-adjustment.webp": {
       "key": "course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/green-gdp-adjustment.webp",
       "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/green-gdp-adjustment.webp",
       "contentType": "image/webp",
-      "width": 1942,
-      "height": 809,
-      "bytes": 80304,
+      "width": 1916,
+      "height": 821,
+      "bytes": 67188,
       "contentHashed": false
     },
-    "national-accounts-relationship.webp": {
-      "key": "course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/national-accounts-relationship.webp",
-      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/national-accounts-relationship.webp",
+    "national-income-aggregate-ladder.webp": {
+      "key": "course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/national-income-aggregate-ladder.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/national-income-aggregate-ladder.webp",
+      "contentType": "image/webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 85724,
+      "contentHashed": false
+    },
+    "nominal-and-real-interest-rate-relationship.webp": {
+      "key": "course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/nominal-and-real-interest-rate-relationship.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/nominal-and-real-interest-rate-relationship.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 69686,
+      "bytes": 85602,
       "contentHashed": false
     },
-    "nominal-and-real-interest-rate.webp": {
-      "key": "course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/nominal-and-real-interest-rate.webp",
-      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/nominal-and-real-interest-rate.webp",
-      "contentType": "image/webp",
-      "width": 1536,
-      "height": 1024,
-      "bytes": 108786,
-      "contentHashed": false
-    },
-    "nominal-real-gdp-and-gdp-deflator.webp": {
-      "key": "course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/nominal-real-gdp-and-gdp-deflator.webp",
-      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/nominal-real-gdp-and-gdp-deflator.webp",
+    "nominal-real-gdp-and-deflator-flow.webp": {
+      "key": "course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/nominal-real-gdp-and-deflator-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/nominal-real-gdp-and-deflator-flow.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 113022,
+      "bytes": 91426,
       "contentHashed": false
     },
-    "saving-and-wealth.webp": {
-      "key": "course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/saving-and-wealth.webp",
-      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/saving-and-wealth.webp",
-      "contentType": "image/webp",
-      "width": 1536,
-      "height": 1024,
-      "bytes": 89920,
-      "contentHashed": false
-    },
-    "value-added-method.webp": {
-      "key": "course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/value-added-method.webp",
-      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/value-added-method.webp",
+    "three-gdp-measurement-methods.webp": {
+      "key": "course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/three-gdp-measurement-methods.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/three-gdp-measurement-methods.webp",
       "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 74082,
+      "bytes": 94138,
+      "contentHashed": false
+    },
+    "value-added-chain-and-double-counting.webp": {
+      "key": "course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/value-added-chain-and-double-counting.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/value-added-chain-and-double-counting.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 140350,
       "contentHashed": false
     }
   },
   "urls": [
+    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/factor-cost-and-market-price-bridge.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/gdp-deflator-to-inflation-rate.webp",
     "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/green-gdp-adjustment.webp",
-    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/national-accounts-relationship.webp",
-    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/nominal-and-real-interest-rate.webp",
-    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/nominal-real-gdp-and-gdp-deflator.webp",
-    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/saving-and-wealth.webp",
-    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/value-added-method.webp"
+    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/national-income-aggregate-ladder.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/nominal-and-real-interest-rate-relationship.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/nominal-real-gdp-and-deflator-flow.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/three-gdp-measurement-methods.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u2-the-measurement-and-structure-of-the-national-economy/value-added-chain-and-double-counting.webp"
   ]
 }

@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-29T15:33:02.555Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/second-year/social-case-work/u3-component-and-process-of-casework",
+  "totalAssets": 7,
+  "assets": {
+    "diagnosis-stage.webp": {
+      "key": "course/bsw/second-year/social-case-work/u3-component-and-process-of-casework/diagnosis-stage.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u3-component-and-process-of-casework/diagnosis-stage.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 73308,
+      "contentHashed": false
+    },
+    "evaluation-stage.webp": {
+      "key": "course/bsw/second-year/social-case-work/u3-component-and-process-of-casework/evaluation-stage.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u3-component-and-process-of-casework/evaluation-stage.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 64080,
+      "contentHashed": false
+    },
+    "follow-up-stage.webp": {
+      "key": "course/bsw/second-year/social-case-work/u3-component-and-process-of-casework/follow-up-stage.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u3-component-and-process-of-casework/follow-up-stage.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 60008,
+      "contentHashed": false
+    },
+    "four-components-of-case-work.webp": {
+      "key": "course/bsw/second-year/social-case-work/u3-component-and-process-of-casework/four-components-of-case-work.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u3-component-and-process-of-casework/four-components-of-case-work.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 73680,
+      "contentHashed": false
+    },
+    "study-stage.webp": {
+      "key": "course/bsw/second-year/social-case-work/u3-component-and-process-of-casework/study-stage.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u3-component-and-process-of-casework/study-stage.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 71304,
+      "contentHashed": false
+    },
+    "termination-stage.webp": {
+      "key": "course/bsw/second-year/social-case-work/u3-component-and-process-of-casework/termination-stage.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u3-component-and-process-of-casework/termination-stage.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 66286,
+      "contentHashed": false
+    },
+    "treatment-stage.webp": {
+      "key": "course/bsw/second-year/social-case-work/u3-component-and-process-of-casework/treatment-stage.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u3-component-and-process-of-casework/treatment-stage.webp",
+      "contentType": "image/webp",
+      "width": 1916,
+      "height": 821,
+      "bytes": 37076,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u3-component-and-process-of-casework/diagnosis-stage.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u3-component-and-process-of-casework/evaluation-stage.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u3-component-and-process-of-casework/follow-up-stage.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u3-component-and-process-of-casework/four-components-of-case-work.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u3-component-and-process-of-casework/study-stage.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u3-component-and-process-of-casework/termination-stage.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u3-component-and-process-of-casework/treatment-stage.webp"
+  ]
+}

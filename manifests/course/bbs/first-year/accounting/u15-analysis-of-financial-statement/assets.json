@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-29T15:32:59.206Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/first-year/accounting/u15-analysis-of-financial-statement",
+  "totalAssets": 6,
+  "assets": {
+    "capital-structure-and-coverage.webp": {
+      "key": "course/bbs/first-year/accounting/u15-analysis-of-financial-statement/capital-structure-and-coverage.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u15-analysis-of-financial-statement/capital-structure-and-coverage.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 126966,
+      "contentHashed": false
+    },
+    "financial-statement-analysis-methods.webp": {
+      "key": "course/bbs/first-year/accounting/u15-analysis-of-financial-statement/financial-statement-analysis-methods.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u15-analysis-of-financial-statement/financial-statement-analysis-methods.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 119038,
+      "contentHashed": false
+    },
+    "liquidity-structure.webp": {
+      "key": "course/bbs/first-year/accounting/u15-analysis-of-financial-statement/liquidity-structure.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u15-analysis-of-financial-statement/liquidity-structure.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 106890,
+      "contentHashed": false
+    },
+    "operating-efficiency-cycle.webp": {
+      "key": "course/bbs/first-year/accounting/u15-analysis-of-financial-statement/operating-efficiency-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u15-analysis-of-financial-statement/operating-efficiency-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 85318,
+      "contentHashed": false
+    },
+    "profitability-flow.webp": {
+      "key": "course/bbs/first-year/accounting/u15-analysis-of-financial-statement/profitability-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u15-analysis-of-financial-statement/profitability-flow.webp",
+      "contentType": "image/webp",
+      "width": 1916,
+      "height": 821,
+      "bytes": 61902,
+      "contentHashed": false
+    },
+    "ratio-families-map.webp": {
+      "key": "course/bbs/first-year/accounting/u15-analysis-of-financial-statement/ratio-families-map.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u15-analysis-of-financial-statement/ratio-families-map.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 87004,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u15-analysis-of-financial-statement/capital-structure-and-coverage.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u15-analysis-of-financial-statement/financial-statement-analysis-methods.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u15-analysis-of-financial-statement/liquidity-structure.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u15-analysis-of-financial-statement/operating-efficiency-cycle.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u15-analysis-of-financial-statement/profitability-flow.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u15-analysis-of-financial-statement/ratio-families-map.webp"
+  ]
+}

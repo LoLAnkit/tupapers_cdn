@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-29T15:32:59.175Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/first-year/accounting/u11-accounting-for-shareholders-equity",
+  "totalAssets": 4,
+  "assets": {
+    "cash-dividend-stock-dividend-stock-split.webp": {
+      "key": "course/bbs/first-year/accounting/u11-accounting-for-shareholders-equity/cash-dividend-stock-dividend-stock-split.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u11-accounting-for-shareholders-equity/cash-dividend-stock-dividend-stock-split.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 111024,
+      "contentHashed": false
+    },
+    "share-issue-flow.webp": {
+      "key": "course/bbs/first-year/accounting/u11-accounting-for-shareholders-equity/share-issue-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u11-accounting-for-shareholders-equity/share-issue-flow.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 132324,
+      "contentHashed": false
+    },
+    "shareholders-equity-components.webp": {
+      "key": "course/bbs/first-year/accounting/u11-accounting-for-shareholders-equity/shareholders-equity-components.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u11-accounting-for-shareholders-equity/shareholders-equity-components.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 116624,
+      "contentHashed": false
+    },
+    "treasury-share-cycle.webp": {
+      "key": "course/bbs/first-year/accounting/u11-accounting-for-shareholders-equity/treasury-share-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u11-accounting-for-shareholders-equity/treasury-share-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 95498,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u11-accounting-for-shareholders-equity/cash-dividend-stock-dividend-stock-split.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u11-accounting-for-shareholders-equity/share-issue-flow.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u11-accounting-for-shareholders-equity/shareholders-equity-components.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u11-accounting-for-shareholders-equity/treasury-share-cycle.webp"
+  ]
+}

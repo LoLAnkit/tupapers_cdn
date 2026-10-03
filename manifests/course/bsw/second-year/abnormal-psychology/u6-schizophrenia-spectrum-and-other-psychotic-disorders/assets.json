@@ -1,41 +1,71 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-28T17:28:39.484Z",
+  "generatedAt": "2026-09-29T15:33:02.310Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/second-year/abnormal-psychology/u6-schizophrenia-spectrum-and-other-psychotic-disorders",
-  "totalAssets": 3,
+  "totalAssets": 6,
   "assets": {
-    "multicausal-model-of-schizophrenia.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u6-schizophrenia-spectrum-and-other-psychotic-disorders/multicausal-model-of-schizophrenia.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u6-schizophrenia-spectrum-and-other-psychotic-disorders/multicausal-model-of-schizophrenia.webp",
+    "biological-contribution-map.webp": {
+      "key": "course/bsw/second-year/abnormal-psychology/u6-schizophrenia-spectrum-and-other-psychotic-disorders/biological-contribution-map.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u6-schizophrenia-spectrum-and-other-psychotic-disorders/biological-contribution-map.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 54824,
+      "bytes": 101316,
       "contentHashed": false
     },
-    "schizophrenia-diagnostic-pathway.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u6-schizophrenia-spectrum-and-other-psychotic-disorders/schizophrenia-diagnostic-pathway.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u6-schizophrenia-spectrum-and-other-psychotic-disorders/schizophrenia-diagnostic-pathway.webp",
-      "contentType": "image/webp",
-      "width": 1774,
-      "height": 887,
-      "bytes": 69570,
-      "contentHashed": false
-    },
-    "schizophrenia-symptom-domains.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u6-schizophrenia-spectrum-and-other-psychotic-disorders/schizophrenia-symptom-domains.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u6-schizophrenia-spectrum-and-other-psychotic-disorders/schizophrenia-symptom-domains.webp",
+    "multifactorial-causes-of-schizophrenia.webp": {
+      "key": "course/bsw/second-year/abnormal-psychology/u6-schizophrenia-spectrum-and-other-psychotic-disorders/multifactorial-causes-of-schizophrenia.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u6-schizophrenia-spectrum-and-other-psychotic-disorders/multifactorial-causes-of-schizophrenia.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 128884,
+      "bytes": 118000,
+      "contentHashed": false
+    },
+    "positive-vs-negative-symptoms.webp": {
+      "key": "course/bsw/second-year/abnormal-psychology/u6-schizophrenia-spectrum-and-other-psychotic-disorders/positive-vs-negative-symptoms.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u6-schizophrenia-spectrum-and-other-psychotic-disorders/positive-vs-negative-symptoms.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 122102,
+      "contentHashed": false
+    },
+    "psychosis-functional-impact.webp": {
+      "key": "course/bsw/second-year/abnormal-psychology/u6-schizophrenia-spectrum-and-other-psychotic-disorders/psychosis-functional-impact.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u6-schizophrenia-spectrum-and-other-psychotic-disorders/psychosis-functional-impact.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 140922,
+      "contentHashed": false
+    },
+    "psychotic-symptom-domains.webp": {
+      "key": "course/bsw/second-year/abnormal-psychology/u6-schizophrenia-spectrum-and-other-psychotic-disorders/psychotic-symptom-domains.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u6-schizophrenia-spectrum-and-other-psychotic-disorders/psychotic-symptom-domains.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 77122,
+      "contentHashed": false
+    },
+    "schizophrenia-diagnostic-flow.webp": {
+      "key": "course/bsw/second-year/abnormal-psychology/u6-schizophrenia-spectrum-and-other-psychotic-disorders/schizophrenia-diagnostic-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u6-schizophrenia-spectrum-and-other-psychotic-disorders/schizophrenia-diagnostic-flow.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 77528,
       "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u6-schizophrenia-spectrum-and-other-psychotic-disorders/multicausal-model-of-schizophrenia.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u6-schizophrenia-spectrum-and-other-psychotic-disorders/schizophrenia-diagnostic-pathway.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u6-schizophrenia-spectrum-and-other-psychotic-disorders/schizophrenia-symptom-domains.webp"
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u6-schizophrenia-spectrum-and-other-psychotic-disorders/biological-contribution-map.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u6-schizophrenia-spectrum-and-other-psychotic-disorders/multifactorial-causes-of-schizophrenia.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u6-schizophrenia-spectrum-and-other-psychotic-disorders/positive-vs-negative-symptoms.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u6-schizophrenia-spectrum-and-other-psychotic-disorders/psychosis-functional-impact.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u6-schizophrenia-spectrum-and-other-psychotic-disorders/psychotic-symptom-domains.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u6-schizophrenia-spectrum-and-other-psychotic-disorders/schizophrenia-diagnostic-flow.webp"
   ]
 }

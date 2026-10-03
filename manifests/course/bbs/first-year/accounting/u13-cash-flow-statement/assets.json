@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-29T15:32:59.188Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/first-year/accounting/u13-cash-flow-statement",
+  "totalAssets": 3,
+  "assets": {
+    "direct-vs-indirect-operating-cash-flow.webp": {
+      "key": "course/bbs/first-year/accounting/u13-cash-flow-statement/direct-vs-indirect-operating-cash-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u13-cash-flow-statement/direct-vs-indirect-operating-cash-flow.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 89204,
+      "contentHashed": false
+    },
+    "three-cash-flow-activities.webp": {
+      "key": "course/bbs/first-year/accounting/u13-cash-flow-statement/three-cash-flow-activities.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u13-cash-flow-statement/three-cash-flow-activities.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 120872,
+      "contentHashed": false
+    },
+    "two-balance-sheet-cash-flow-bridge.webp": {
+      "key": "course/bbs/first-year/accounting/u13-cash-flow-statement/two-balance-sheet-cash-flow-bridge.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u13-cash-flow-statement/two-balance-sheet-cash-flow-bridge.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 93066,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u13-cash-flow-statement/direct-vs-indirect-operating-cash-flow.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u13-cash-flow-statement/three-cash-flow-activities.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u13-cash-flow-statement/two-balance-sheet-cash-flow-bridge.webp"
+  ]
+}

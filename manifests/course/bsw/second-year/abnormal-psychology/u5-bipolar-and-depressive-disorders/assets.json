@@ -1,41 +1,71 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-28T17:28:39.447Z",
+  "generatedAt": "2026-09-29T15:33:02.297Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/second-year/abnormal-psychology/u5-bipolar-and-depressive-disorders",
-  "totalAssets": 3,
+  "totalAssets": 6,
   "assets": {
-    "bipolar-and-depressive-disorder-map.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u5-bipolar-and-depressive-disorders/bipolar-and-depressive-disorder-map.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u5-bipolar-and-depressive-disorders/bipolar-and-depressive-disorder-map.webp",
+    "bipolar-episode-pattern.webp": {
+      "key": "course/bsw/second-year/abnormal-psychology/u5-bipolar-and-depressive-disorders/bipolar-episode-pattern.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u5-bipolar-and-depressive-disorders/bipolar-episode-pattern.webp",
       "contentType": "image/webp",
-      "width": 1536,
-      "height": 1024,
-      "bytes": 114818,
+      "width": 1774,
+      "height": 887,
+      "bytes": 65610,
       "contentHashed": false
     },
-    "bipolar-mood-episode-cycle.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u5-bipolar-and-depressive-disorders/bipolar-mood-episode-cycle.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u5-bipolar-and-depressive-disorders/bipolar-mood-episode-cycle.webp",
+    "depressive-diagnostic-pathway.webp": {
+      "key": "course/bsw/second-year/abnormal-psychology/u5-bipolar-and-depressive-disorders/depressive-diagnostic-pathway.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u5-bipolar-and-depressive-disorders/depressive-diagnostic-pathway.webp",
       "contentType": "image/webp",
-      "width": 1536,
-      "height": 1024,
-      "bytes": 117842,
+      "width": 2172,
+      "height": 724,
+      "bytes": 87778,
       "contentHashed": false
     },
-    "causes-of-depressive-disorder.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u5-bipolar-and-depressive-disorders/causes-of-depressive-disorder.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u5-bipolar-and-depressive-disorders/causes-of-depressive-disorder.webp",
+    "depressive-symptom-domains.webp": {
+      "key": "course/bsw/second-year/abnormal-psychology/u5-bipolar-and-depressive-disorders/depressive-symptom-domains.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u5-bipolar-and-depressive-disorders/depressive-symptom-domains.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 57820,
+      "bytes": 130756,
+      "contentHashed": false
+    },
+    "manic-symptom-cluster.webp": {
+      "key": "course/bsw/second-year/abnormal-psychology/u5-bipolar-and-depressive-disorders/manic-symptom-cluster.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u5-bipolar-and-depressive-disorders/manic-symptom-cluster.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 90410,
+      "contentHashed": false
+    },
+    "mood-spectrum.webp": {
+      "key": "course/bsw/second-year/abnormal-psychology/u5-bipolar-and-depressive-disorders/mood-spectrum.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u5-bipolar-and-depressive-disorders/mood-spectrum.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 52250,
+      "contentHashed": false
+    },
+    "multifactorial-causes-of-depression.webp": {
+      "key": "course/bsw/second-year/abnormal-psychology/u5-bipolar-and-depressive-disorders/multifactorial-causes-of-depression.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u5-bipolar-and-depressive-disorders/multifactorial-causes-of-depression.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 110214,
       "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u5-bipolar-and-depressive-disorders/bipolar-and-depressive-disorder-map.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u5-bipolar-and-depressive-disorders/bipolar-mood-episode-cycle.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u5-bipolar-and-depressive-disorders/causes-of-depressive-disorder.webp"
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u5-bipolar-and-depressive-disorders/bipolar-episode-pattern.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u5-bipolar-and-depressive-disorders/depressive-diagnostic-pathway.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u5-bipolar-and-depressive-disorders/depressive-symptom-domains.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u5-bipolar-and-depressive-disorders/manic-symptom-cluster.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u5-bipolar-and-depressive-disorders/mood-spectrum.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u5-bipolar-and-depressive-disorders/multifactorial-causes-of-depression.webp"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-28T17:28:27.612Z",
+  "generatedAt": "2026-09-29T15:32:58.573Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies",
   "totalAssets": 10,
@@ -9,103 +9,103 @@
       "key": "course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/balance-of-payments-structure.webp",
       "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/balance-of-payments-structure.webp",
       "contentType": "image/webp",
-      "width": 1536,
-      "height": 1024,
-      "bytes": 106880,
-      "contentHashed": false
-    },
-    "business-cycle.webp": {
-      "key": "course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/business-cycle.webp",
-      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/business-cycle.webp",
-      "contentType": "image/webp",
-      "width": 1536,
-      "height": 1024,
-      "bytes": 63086,
-      "contentHashed": false
-    },
-    "cost-push-inflation.webp": {
-      "key": "course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/cost-push-inflation.webp",
-      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/cost-push-inflation.webp",
-      "contentType": "image/webp",
-      "width": 1536,
-      "height": 1024,
-      "bytes": 54768,
-      "contentHashed": false
-    },
-    "demand-pull-inflation.webp": {
-      "key": "course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/demand-pull-inflation.webp",
-      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/demand-pull-inflation.webp",
-      "contentType": "image/webp",
-      "width": 1536,
-      "height": 1024,
-      "bytes": 59926,
-      "contentHashed": false
-    },
-    "exchange-rate-determination.webp": {
-      "key": "course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/exchange-rate-determination.webp",
-      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/exchange-rate-determination.webp",
-      "contentType": "image/webp",
-      "width": 1536,
-      "height": 1024,
-      "bytes": 75530,
-      "contentHashed": false
-    },
-    "financial-inclusion-ecosystem.webp": {
-      "key": "course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/financial-inclusion-ecosystem.webp",
-      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/financial-inclusion-ecosystem.webp",
-      "contentType": "image/webp",
-      "width": 1536,
-      "height": 1024,
-      "bytes": 129276,
-      "contentHashed": false
-    },
-    "fiscal-federalism.webp": {
-      "key": "course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/fiscal-federalism.webp",
-      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/fiscal-federalism.webp",
-      "contentType": "image/webp",
-      "width": 1536,
-      "height": 1024,
-      "bytes": 133906,
-      "contentHashed": false
-    },
-    "fiscal-policy-transmission.webp": {
-      "key": "course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/fiscal-policy-transmission.webp",
-      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/fiscal-policy-transmission.webp",
-      "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 109558,
+      "bytes": 78442,
+      "contentHashed": false
+    },
+    "business-cycle-phases.webp": {
+      "key": "course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/business-cycle-phases.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/business-cycle-phases.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 56664,
+      "contentHashed": false
+    },
+    "cost-push-inflation-ad-as.webp": {
+      "key": "course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/cost-push-inflation-ad-as.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/cost-push-inflation-ad-as.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 68488,
+      "contentHashed": false
+    },
+    "demand-pull-inflation-ad-as.webp": {
+      "key": "course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/demand-pull-inflation-ad-as.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/demand-pull-inflation-ad-as.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 64260,
+      "contentHashed": false
+    },
+    "financial-inclusion-determinants-flow.webp": {
+      "key": "course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/financial-inclusion-determinants-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/financial-inclusion-determinants-flow.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 104518,
+      "contentHashed": false
+    },
+    "fiscal-federalism-structure.webp": {
+      "key": "course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/fiscal-federalism-structure.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/fiscal-federalism-structure.webp",
+      "contentType": "image/webp",
+      "width": 1222,
+      "height": 1287,
+      "bytes": 87254,
+      "contentHashed": false
+    },
+    "flexible-exchange-rate-determination.webp": {
+      "key": "course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/flexible-exchange-rate-determination.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/flexible-exchange-rate-determination.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 62270,
       "contentHashed": false
     },
     "monetary-policy-transmission.webp": {
       "key": "course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/monetary-policy-transmission.webp",
       "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/monetary-policy-transmission.webp",
       "contentType": "image/webp",
-      "width": 1815,
-      "height": 866,
-      "bytes": 81592,
+      "width": 2152,
+      "height": 731,
+      "bytes": 67116,
       "contentHashed": false
     },
-    "public-private-partnership.webp": {
-      "key": "course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/public-private-partnership.webp",
-      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/public-private-partnership.webp",
+    "public-private-partnership-structure.webp": {
+      "key": "course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/public-private-partnership-structure.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/public-private-partnership-structure.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 123544,
+      "bytes": 78428,
+      "contentHashed": false
+    },
+    "unemployment-types-and-costs.webp": {
+      "key": "course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/unemployment-types-and-costs.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/unemployment-types-and-costs.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 85732,
       "contentHashed": false
     }
   },
   "urls": [
     "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/balance-of-payments-structure.webp",
-    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/business-cycle.webp",
-    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/cost-push-inflation.webp",
-    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/demand-pull-inflation.webp",
-    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/exchange-rate-determination.webp",
-    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/financial-inclusion-ecosystem.webp",
-    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/fiscal-federalism.webp",
-    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/fiscal-policy-transmission.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/business-cycle-phases.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/cost-push-inflation-ad-as.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/demand-pull-inflation-ad-as.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/financial-inclusion-determinants-flow.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/fiscal-federalism-structure.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/flexible-exchange-rate-determination.webp",
     "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/monetary-policy-transmission.webp",
-    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/public-private-partnership.webp"
+    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/public-private-partnership-structure.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u5-macroeconomic-issues-and-policies/unemployment-types-and-costs.webp"
   ]
 }

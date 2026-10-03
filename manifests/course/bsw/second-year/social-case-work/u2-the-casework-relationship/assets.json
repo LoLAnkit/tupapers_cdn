@@ -1,41 +1,91 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-28T17:28:40.281Z",
+  "generatedAt": "2026-09-29T15:33:02.542Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/second-year/social-case-work/u2-the-casework-relationship",
-  "totalAssets": 3,
+  "totalAssets": 8,
   "assets": {
+    "attitude-emotion-behaviour-link.webp": {
+      "key": "course/bsw/second-year/social-case-work/u2-the-casework-relationship/attitude-emotion-behaviour-link.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u2-the-casework-relationship/attitude-emotion-behaviour-link.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 68696,
+      "contentHashed": false
+    },
+    "casework-relationship-lifecycle.webp": {
+      "key": "course/bsw/second-year/social-case-work/u2-the-casework-relationship/casework-relationship-lifecycle.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u2-the-casework-relationship/casework-relationship-lifecycle.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 107254,
+      "contentHashed": false
+    },
     "desensitization-model.webp": {
       "key": "course/bsw/second-year/social-case-work/u2-the-casework-relationship/desensitization-model.webp",
       "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u2-the-casework-relationship/desensitization-model.webp",
       "contentType": "image/webp",
-      "width": 2079,
-      "height": 756,
-      "bytes": 81726,
-      "contentHashed": false
-    },
-    "psychoanalytical-approach-in-casework.webp": {
-      "key": "course/bsw/second-year/social-case-work/u2-the-casework-relationship/psychoanalytical-approach-in-casework.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u2-the-casework-relationship/psychoanalytical-approach-in-casework.webp",
-      "contentType": "image/webp",
       "width": 1774,
       "height": 887,
-      "bytes": 85326,
+      "bytes": 87866,
       "contentHashed": false
     },
-    "psychosocial-functional-problem-solving-approaches.webp": {
-      "key": "course/bsw/second-year/social-case-work/u2-the-casework-relationship/psychosocial-functional-problem-solving-approaches.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u2-the-casework-relationship/psychosocial-functional-problem-solving-approaches.webp",
+    "functional-approach.webp": {
+      "key": "course/bsw/second-year/social-case-work/u2-the-casework-relationship/functional-approach.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u2-the-casework-relationship/functional-approach.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 104594,
+      "bytes": 63614,
+      "contentHashed": false
+    },
+    "problem-solving-approach.webp": {
+      "key": "course/bsw/second-year/social-case-work/u2-the-casework-relationship/problem-solving-approach.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u2-the-casework-relationship/problem-solving-approach.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 52242,
+      "contentHashed": false
+    },
+    "psychoanalytical-approach.webp": {
+      "key": "course/bsw/second-year/social-case-work/u2-the-casework-relationship/psychoanalytical-approach.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u2-the-casework-relationship/psychoanalytical-approach.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 60502,
+      "contentHashed": false
+    },
+    "psychosocial-approach.webp": {
+      "key": "course/bsw/second-year/social-case-work/u2-the-casework-relationship/psychosocial-approach.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u2-the-casework-relationship/psychosocial-approach.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 63542,
+      "contentHashed": false
+    },
+    "transference-and-counter-transference.webp": {
+      "key": "course/bsw/second-year/social-case-work/u2-the-casework-relationship/transference-and-counter-transference.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u2-the-casework-relationship/transference-and-counter-transference.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 66784,
       "contentHashed": false
     }
   },
   "urls": [
+    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u2-the-casework-relationship/attitude-emotion-behaviour-link.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u2-the-casework-relationship/casework-relationship-lifecycle.webp",
     "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u2-the-casework-relationship/desensitization-model.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u2-the-casework-relationship/psychoanalytical-approach-in-casework.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u2-the-casework-relationship/psychosocial-functional-problem-solving-approaches.webp"
+    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u2-the-casework-relationship/functional-approach.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u2-the-casework-relationship/problem-solving-approach.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u2-the-casework-relationship/psychoanalytical-approach.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u2-the-casework-relationship/psychosocial-approach.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u2-the-casework-relationship/transference-and-counter-transference.webp"
   ]
 }

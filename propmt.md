@@ -4,7 +4,7 @@ Generate textbook-style educational images generation for below source folder.
 
 Source subject folder:
 
-`source/course/bba/second-semester/business-mathematics-ii`
+`source/course/bsw/second-year/adolescence-juvenile-delinquency`
 
 I will paste one or more units below. For each unit:
 
@@ -48,20 +48,29 @@ Example:
 
 **# Generate images only for the following units and figures.**
 
-Unit 4: Functions of several variables
-1. Partial Derivatives as Surface Slices — Show a surface \(z=f(x,y)\) with one slice holding \(y\) constant for \(\partial z/\partial x\) and another holding \(x\) constant for \(\partial z/\partial y\). Style: Handwritten image, white background
-2. Contour Map and Local Slopes — Show contour lines of \(f(x,y)\) with horizontal and vertical directions marked to connect changes in \(x\) and \(y\) to partial derivatives. Style: Handwritten image, white background
-3. Production Surface and Marginal Products — Show a production surface \(Q(L,K)\) with separate arrows for increasing labor and capital, labeling the local changes as MPL and MPK. Style: Handwritten image, white background
-4. Maximum, Minimum, and Saddle Shapes — Show three small three-dimensional surfaces side by side: a bowl for a minimum, an inverted bowl for a maximum, and a saddle surface, each with its stationary point labeled. Style: Handwritten image, white background
-5. Lagrange Tangency Condition — Show objective-function contours tangent to a constraint curve at the constrained optimum, with the two gradient vectors drawn parallel. Style: Handwritten image, white background
-6. Utility and Production Contours — Show indifference curves and isoquants as two related contour-map examples, labeling higher utility and higher output directions. Style: Handwritten image, white background
-Unit 5: First-order differential equations and applications
-1. Slope Field and Solution Curve — Show short slope segments for a first-order differential equation with one solution curve following the field from an initial point. Style: Handwritten image, white background
-2. Limited and Unlimited Growth Paths — Plot an exponential-style unlimited growth curve beside a bounded growth curve approaching a horizontal carrying-capacity line. Style: Handwritten image, white background
-3. Dynamic Market Price Adjustment — Show demand and supply determining equilibrium price, then a time-path \(P(t)\) moving from an initial price toward the equilibrium level. Style: Handwritten image, white background
-4. Exact Differential Equation Potential Map — Show level curves of a potential function with a small vector field indicating that an exact differential follows constant-potential solution curves. Style: Handwritten image, white background
-Unit 6: Dynamic economic analysis and Difference equations
-1. Difference-Equation Time Path — Plot discrete points \(y_0,y_1,y_2,\ldots\) over time with examples of convergence, divergence, and oscillation around an equilibrium level. Style: Handwritten image, white background
-2. Cobweb Model Adjustment — Draw demand and supply curves with the period-by-period horizontal and vertical cobweb path showing price and quantity adjustment toward or away from equilibrium. Style: Handwritten image, white background
-3. Lagged Keynesian Income Cycle — Show \(y_{t-1}\) feeding consumption \(C_t\), investment \(I_t\), and then current income \(y_t\), with the lag clearly labeled. Style: Handwritten image, white background
-4. Duopoly Price Reaction Cycle — Show firm X's price feeding firm Y's next-period reaction and firm Y's price feeding firm X's next-period reaction in an alternating time loop. Style: Handwritten image, white background
+Unit IV Childhood Deviant Behavior
+1. Childhood Deviant Behavior Classification Tree — Tree starting with Childhood Deviant Behavior and splitting into Neurodevelopmental Disorders, Internalizing Problems, and Externalizing Problems, with the syllabus-listed disorders placed under each branch. Style: Handwritten image, white background
+2. Neurodevelopmental Disorders Map — Three-branch map from Neurodevelopmental Disorders to Intellectual Disability, Specific Learning Disorders, and Autism Spectrum Disorder, keeping each condition as a clearly labeled branch. Style: Handwritten image, white background
+3. Internalizing Problems Cluster — Central Internalizing Problems node connected to Childhood Mood Disorders, Separation Anxiety Disorder, and Social Anxiety Disorder, with inward-directed distress shown by arrows toward the center. Style: Handwritten image, white background
+4. Externalizing Problems Cluster — Central Externalizing Problems node connected to ADHD, ODD, Conduct Disorder, and Intermittent Explosive Disorder, with outward-directed behavior shown by arrows away from the center. Style: Handwritten image, white background
+5. Childhood Deviant Behavior to Delinquency Pathway — Non-deterministic pathway showing childhood deviant behavior interacting with family, peer, and social conditions before possible delinquent behaviour, with a protective-factor route interrupting the pathway. Icons: shield on protective factors, warning sign on risk pathway. Style: Handwritten image with small icons, white background
+6. Situation of Children in Nepal Problem Web — Central node 'Children in Nepal' connected to psycho-social problems, substance dependency, internal displacement, street children, and child abuse, with overlap lines showing that problems may co-occur. Style: Handwritten image, white background
+Unit V. Juvenile Delinquency
+1. Juvenile Delinquency Types Tree — Classification tree splitting juvenile delinquency into Index Offenses and Status Offenses, with the two categories visually separated before listing examples. Style: Handwritten image, white background
+2. Index Offenses Classification — Branching layout listing homicide, vehicular homicide, hurt/battery, human trafficking, rape, incest, intention of sex, unnatural sex/bestiality, theft, public offences, narcotic drug, and forest related offences under Index Offenses. Style: Handwritten image, white background
+3. Status Offenses Classification — Three-branch layout from Status Offenses to Runaways, Truancy, and Underage drinking and smoking, emphasizing that these are a separate category from index offenses. Style: Handwritten image, white background
+4. Causative Factors Triangle — Triangle with Biological Factors, Psychological Factors, and Social Factors at the three corners, all pointing toward Juvenile Delinquency at the center to show interacting causes rather than a single cause. Style: Handwritten image, white background
+5. Juvenile Delinquency Risk Ecology — Concentric levels grouping temperament/attachment and genetic predisposition at the child level; parental psychopathology, parental loss, interpersonal conflict, child abuse, and family dysfunctions at the family level; inadequate educational resources, poverty/low socioeconomic status, and community violence at wider levels. Style: Handwritten image, white background
+6. Protective Factors Shield — Three-layer shield labeled Characteristics within the child, Characteristics within the family, and Characteristics within the community, positioned between risk exposure and delinquent outcome. Icons: shield on the overall protective structure. Style: Handwritten image with small icons, white background
+7. Risk–Protection Balance for Prevention — Balance visual showing risk factors on one side and protective factors on the other, with prevention represented as strengthening child, family, and community protection to reduce movement toward delinquent outcomes. Icons: warning sign on Risk factors, shield on Protective factors. Style: Handwritten image with small icons, white background
+Unit VI Correctional measures in Juvenile settings
+1. Juvenile Correction Process Pathway — Process flow from entry into a juvenile correction setting → assessment → psychosocial intervention → skills and counseling support → re-socialization → case management/reporting, with arrows showing continuity of care. Icons: clipboard on Assessment, speech bubbles on Counseling, repeat arrows on Re-socialization. Style: Handwritten image with small icons, white background
+2. Child Correction Home and Service Center Roles — Two connected institutional nodes—Child Correction Home and Child Service Center—linked to care, support, intervention, rehabilitation, and coordination around the juvenile. Style: Handwritten image, white background
+3. Psychosocial Intervention Flow — Left-to-right flow of assessment → care/support/counseling → CBT and life-skill development → re-socialization → case management, showing how the syllabus components connect. Icons: clipboard on Assessment, speech bubbles on Counseling, dumbbell on Life-skill development, repeat arrows on Re-socialization. Style: Handwritten image with small icons, white background
+4. Assessment Process — Two-branch assessment visual from Assessment to Interview and Tests, converging into an intervention-planning box. Icons: speech bubbles on Interview, clipboard on Tests. Style: Handwritten image with small icons, white background
+5. CBT Thought–Feeling–Behavior Cycle — Triangular cycle linking Thoughts, Feelings, and Behaviors with two-way arrows, plus a small intervention arrow showing how changing one part can influence the others. Style: Handwritten image, white background
+6. Life-Skill Development Cycle — Cycle of learning a skill → guided practice → feedback → real-life application → reflection and improvement, connected back to practice. Icons: dumbbell on Practice, check mark on Feedback. Style: Handwritten image with small icons, white background
+7. Counseling Process Flow — Simple helping-process sequence of rapport → problem exploration → goal setting → support/action planning → review, with arrows between stages. Icons: speech bubbles on rapport and exploration, target on goal setting. Style: Handwritten image with small icons, white background
+8. Re-socialization Pathway — Pathway showing correctional setting → social skills and supportive relationships → family/community reintegration → continued adjustment, with feedback arrows for ongoing support. Icons: group of people on reintegration, home on family/community. Style: Handwritten image with small icons, white background
+9. Case Management and Report Writing Workflow — Workflow from case information → assessment findings → intervention record → progress review → written report and coordinated case management. Icons: folder on Case information, clipboard on Assessment findings, document on Written report. Style: Handwritten image with small icons, white background
+10. Role of the Child Correction Center — Hub-and-spoke visual with Child Correction Center at the center linked to care, psychosocial intervention, counseling, CBT, life skills, re-socialization, case management, and reintegration. Style: Handwritten image, white background

@@ -1,41 +1,71 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-28T17:28:40.774Z",
+  "generatedAt": "2026-09-29T15:33:02.601Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/second-year/social-case-work/u6-other-basic-concepts-related-to-casework",
-  "totalAssets": 3,
+  "totalAssets": 6,
   "assets": {
-    "conflict-and-crisis-relationship.webp": {
-      "key": "course/bsw/second-year/social-case-work/u6-other-basic-concepts-related-to-casework/conflict-and-crisis-relationship.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u6-other-basic-concepts-related-to-casework/conflict-and-crisis-relationship.webp",
+    "adaptation-process.webp": {
+      "key": "course/bsw/second-year/social-case-work/u6-other-basic-concepts-related-to-casework/adaptation-process.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u6-other-basic-concepts-related-to-casework/adaptation-process.webp",
+      "contentType": "image/webp",
+      "width": 2005,
+      "height": 784,
+      "bytes": 164388,
+      "contentHashed": false
+    },
+    "conflict-process.webp": {
+      "key": "course/bsw/second-year/social-case-work/u6-other-basic-concepts-related-to-casework/conflict-process.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u6-other-basic-concepts-related-to-casework/conflict-process.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 92716,
+      "contentHashed": false
+    },
+    "crisis-development.webp": {
+      "key": "course/bsw/second-year/social-case-work/u6-other-basic-concepts-related-to-casework/crisis-development.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u6-other-basic-concepts-related-to-casework/crisis-development.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 97270,
+      "contentHashed": false
+    },
+    "ego-in-adjustment.webp": {
+      "key": "course/bsw/second-year/social-case-work/u6-other-basic-concepts-related-to-casework/ego-in-adjustment.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u6-other-basic-concepts-related-to-casework/ego-in-adjustment.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 92476,
+      "bytes": 115556,
       "contentHashed": false
     },
-    "ego-in-casework-concepts.webp": {
-      "key": "course/bsw/second-year/social-case-work/u6-other-basic-concepts-related-to-casework/ego-in-casework-concepts.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u6-other-basic-concepts-related-to-casework/ego-in-casework-concepts.webp",
+    "rehabilitation-pathway.webp": {
+      "key": "course/bsw/second-year/social-case-work/u6-other-basic-concepts-related-to-casework/rehabilitation-pathway.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u6-other-basic-concepts-related-to-casework/rehabilitation-pathway.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 84278,
+      "contentHashed": false
+    },
+    "social-role-and-expectations.webp": {
+      "key": "course/bsw/second-year/social-case-work/u6-other-basic-concepts-related-to-casework/social-role-and-expectations.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u6-other-basic-concepts-related-to-casework/social-role-and-expectations.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 151242,
-      "contentHashed": false
-    },
-    "rehabilitation-process.webp": {
-      "key": "course/bsw/second-year/social-case-work/u6-other-basic-concepts-related-to-casework/rehabilitation-process.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u6-other-basic-concepts-related-to-casework/rehabilitation-process.webp",
-      "contentType": "image/webp",
-      "width": 2056,
-      "height": 765,
-      "bytes": 79080,
+      "bytes": 121048,
       "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u6-other-basic-concepts-related-to-casework/conflict-and-crisis-relationship.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u6-other-basic-concepts-related-to-casework/ego-in-casework-concepts.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u6-other-basic-concepts-related-to-casework/rehabilitation-process.webp"
+    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u6-other-basic-concepts-related-to-casework/adaptation-process.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u6-other-basic-concepts-related-to-casework/conflict-process.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u6-other-basic-concepts-related-to-casework/crisis-development.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u6-other-basic-concepts-related-to-casework/ego-in-adjustment.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u6-other-basic-concepts-related-to-casework/rehabilitation-pathway.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u6-other-basic-concepts-related-to-casework/social-role-and-expectations.webp"
   ]
 }

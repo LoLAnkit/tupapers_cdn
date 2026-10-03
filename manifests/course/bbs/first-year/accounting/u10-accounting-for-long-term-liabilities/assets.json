@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-29T15:32:59.169Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/first-year/accounting/u10-accounting-for-long-term-liabilities",
+  "totalAssets": 4,
+  "assets": {
+    "bond-lifecycle.webp": {
+      "key": "course/bbs/first-year/accounting/u10-accounting-for-long-term-liabilities/bond-lifecycle.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u10-accounting-for-long-term-liabilities/bond-lifecycle.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 79510,
+      "contentHashed": false
+    },
+    "bond-redemption-at-call-price.webp": {
+      "key": "course/bbs/first-year/accounting/u10-accounting-for-long-term-liabilities/bond-redemption-at-call-price.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u10-accounting-for-long-term-liabilities/bond-redemption-at-call-price.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 84126,
+      "contentHashed": false
+    },
+    "capital-lease-accounting-cycle.webp": {
+      "key": "course/bbs/first-year/accounting/u10-accounting-for-long-term-liabilities/capital-lease-accounting-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u10-accounting-for-long-term-liabilities/capital-lease-accounting-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 87158,
+      "contentHashed": false
+    },
+    "lease-relationship.webp": {
+      "key": "course/bbs/first-year/accounting/u10-accounting-for-long-term-liabilities/lease-relationship.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u10-accounting-for-long-term-liabilities/lease-relationship.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 95566,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u10-accounting-for-long-term-liabilities/bond-lifecycle.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u10-accounting-for-long-term-liabilities/bond-redemption-at-call-price.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u10-accounting-for-long-term-liabilities/capital-lease-accounting-cycle.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u10-accounting-for-long-term-liabilities/lease-relationship.webp"
+  ]
+}

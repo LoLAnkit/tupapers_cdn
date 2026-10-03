@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-29T15:33:02.454Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/second-year/basic-psychology-for-sw/u2-determinants-of-human-behavior",
+  "totalAssets": 8,
+  "assets": {
+    "biological-determinants-triad.webp": {
+      "key": "course/bsw/second-year/basic-psychology-for-sw/u2-determinants-of-human-behavior/biological-determinants-triad.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u2-determinants-of-human-behavior/biological-determinants-triad.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 100524,
+      "contentHashed": false
+    },
+    "biology-and-culture-interaction.webp": {
+      "key": "course/bsw/second-year/basic-psychology-for-sw/u2-determinants-of-human-behavior/biology-and-culture-interaction.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u2-determinants-of-human-behavior/biology-and-culture-interaction.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 139912,
+      "contentHashed": false
+    },
+    "child-socialization-context.webp": {
+      "key": "course/bsw/second-year/basic-psychology-for-sw/u2-determinants-of-human-behavior/child-socialization-context.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u2-determinants-of-human-behavior/child-socialization-context.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 109358,
+      "contentHashed": false
+    },
+    "determinants-of-human-behavior.webp": {
+      "key": "course/bsw/second-year/basic-psychology-for-sw/u2-determinants-of-human-behavior/determinants-of-human-behavior.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u2-determinants-of-human-behavior/determinants-of-human-behavior.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 122368,
+      "contentHashed": false
+    },
+    "genetics-and-behavior-path.webp": {
+      "key": "course/bsw/second-year/basic-psychology-for-sw/u2-determinants-of-human-behavior/genetics-and-behavior-path.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u2-determinants-of-human-behavior/genetics-and-behavior-path.webp",
+      "contentType": "image/webp",
+      "width": 2098,
+      "height": 749,
+      "bytes": 107994,
+      "contentHashed": false
+    },
+    "glandular-system-influence.webp": {
+      "key": "course/bsw/second-year/basic-psychology-for-sw/u2-determinants-of-human-behavior/glandular-system-influence.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u2-determinants-of-human-behavior/glandular-system-influence.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 119314,
+      "contentHashed": false
+    },
+    "nervous-system-response-flow.webp": {
+      "key": "course/bsw/second-year/basic-psychology-for-sw/u2-determinants-of-human-behavior/nervous-system-response-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u2-determinants-of-human-behavior/nervous-system-response-flow.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 103966,
+      "contentHashed": false
+    },
+    "socio-cultural-determinants-network.webp": {
+      "key": "course/bsw/second-year/basic-psychology-for-sw/u2-determinants-of-human-behavior/socio-cultural-determinants-network.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u2-determinants-of-human-behavior/socio-cultural-determinants-network.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 89988,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u2-determinants-of-human-behavior/biological-determinants-triad.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u2-determinants-of-human-behavior/biology-and-culture-interaction.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u2-determinants-of-human-behavior/child-socialization-context.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u2-determinants-of-human-behavior/determinants-of-human-behavior.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u2-determinants-of-human-behavior/genetics-and-behavior-path.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u2-determinants-of-human-behavior/glandular-system-influence.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u2-determinants-of-human-behavior/nervous-system-response-flow.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u2-determinants-of-human-behavior/socio-cultural-determinants-network.webp"
+  ]
+}

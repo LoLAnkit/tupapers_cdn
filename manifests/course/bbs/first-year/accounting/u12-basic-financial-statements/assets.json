@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-29T15:32:59.182Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/first-year/accounting/u12-basic-financial-statements",
+  "totalAssets": 5,
+  "assets": {
+    "changes-in-owners-equity.webp": {
+      "key": "course/bbs/first-year/accounting/u12-basic-financial-statements/changes-in-owners-equity.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u12-basic-financial-statements/changes-in-owners-equity.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 78438,
+      "contentHashed": false
+    },
+    "financial-statements-relationship.webp": {
+      "key": "course/bbs/first-year/accounting/u12-basic-financial-statements/financial-statements-relationship.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u12-basic-financial-statements/financial-statements-relationship.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 80730,
+      "contentHashed": false
+    },
+    "income-statement-structure.webp": {
+      "key": "course/bbs/first-year/accounting/u12-basic-financial-statements/income-statement-structure.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u12-basic-financial-statements/income-statement-structure.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 92114,
+      "contentHashed": false
+    },
+    "retained-earnings-roll-forward.webp": {
+      "key": "course/bbs/first-year/accounting/u12-basic-financial-statements/retained-earnings-roll-forward.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u12-basic-financial-statements/retained-earnings-roll-forward.webp",
+      "contentType": "image/webp",
+      "width": 1986,
+      "height": 792,
+      "bytes": 93904,
+      "contentHashed": false
+    },
+    "statement-of-financial-position-classification.webp": {
+      "key": "course/bbs/first-year/accounting/u12-basic-financial-statements/statement-of-financial-position-classification.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u12-basic-financial-statements/statement-of-financial-position-classification.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 98440,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u12-basic-financial-statements/changes-in-owners-equity.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u12-basic-financial-statements/financial-statements-relationship.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u12-basic-financial-statements/income-statement-structure.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u12-basic-financial-statements/retained-earnings-roll-forward.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u12-basic-financial-statements/statement-of-financial-position-classification.webp"
+  ]
+}

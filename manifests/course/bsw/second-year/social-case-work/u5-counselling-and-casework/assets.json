@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-28T17:28:40.870Z",
+  "generatedAt": "2026-09-29T15:33:02.587Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/second-year/social-case-work/u5-counselling-and-casework",
-  "totalAssets": 3,
+  "totalAssets": 5,
   "assets": {
     "areas-of-counselling.webp": {
       "key": "course/bsw/second-year/social-case-work/u5-counselling-and-casework/areas-of-counselling.webp",
@@ -11,31 +11,51 @@
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 120922,
+      "bytes": 92716,
       "contentHashed": false
     },
-    "counselling-techniques.webp": {
-      "key": "course/bsw/second-year/social-case-work/u5-counselling-and-casework/counselling-techniques.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u5-counselling-and-casework/counselling-techniques.webp",
+    "counselling-objectives-map.webp": {
+      "key": "course/bsw/second-year/social-case-work/u5-counselling-and-casework/counselling-objectives-map.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u5-counselling-and-casework/counselling-objectives-map.webp",
+      "contentType": "image/webp",
+      "width": 2073,
+      "height": 758,
+      "bytes": 90804,
+      "contentHashed": false
+    },
+    "counselling-techniques-in-interaction.webp": {
+      "key": "course/bsw/second-year/social-case-work/u5-counselling-and-casework/counselling-techniques-in-interaction.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u5-counselling-and-casework/counselling-techniques-in-interaction.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 110628,
+      "bytes": 166140,
+      "contentHashed": false
+    },
+    "importance-of-counselling-in-casework.webp": {
+      "key": "course/bsw/second-year/social-case-work/u5-counselling-and-casework/importance-of-counselling-in-casework.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u5-counselling-and-casework/importance-of-counselling-in-casework.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 104584,
       "contentHashed": false
     },
     "phases-in-counselling.webp": {
       "key": "course/bsw/second-year/social-case-work/u5-counselling-and-casework/phases-in-counselling.webp",
       "url": "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u5-counselling-and-casework/phases-in-counselling.webp",
       "contentType": "image/webp",
-      "width": 2172,
-      "height": 724,
-      "bytes": 64838,
+      "width": 2098,
+      "height": 749,
+      "bytes": 113510,
       "contentHashed": false
     }
   },
   "urls": [
     "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u5-counselling-and-casework/areas-of-counselling.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u5-counselling-and-casework/counselling-techniques.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u5-counselling-and-casework/counselling-objectives-map.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u5-counselling-and-casework/counselling-techniques-in-interaction.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u5-counselling-and-casework/importance-of-counselling-in-casework.webp",
     "https://cdn.tupapers.com/course/bsw/second-year/social-case-work/u5-counselling-and-casework/phases-in-counselling.webp"
   ]
 }

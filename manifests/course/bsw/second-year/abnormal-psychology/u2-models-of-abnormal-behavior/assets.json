@@ -1,51 +1,81 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-28T17:28:39.391Z",
+  "generatedAt": "2026-09-29T15:33:02.265Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior",
-  "totalAssets": 4,
+  "totalAssets": 7,
   "assets": {
-    "behavioral-and-cognitive-science.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/behavioral-and-cognitive-science.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/behavioral-and-cognitive-science.webp",
+    "emotion-components-model.webp": {
+      "key": "course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/emotion-components-model.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/emotion-components-model.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 93484,
+      "contentHashed": false
+    },
+    "gene-environment-interaction.webp": {
+      "key": "course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/gene-environment-interaction.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/gene-environment-interaction.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 66818,
+      "contentHashed": false
+    },
+    "learned-helplessness-cycle.webp": {
+      "key": "course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/learned-helplessness-cycle.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/learned-helplessness-cycle.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 89340,
+      "contentHashed": false
+    },
+    "learning-processes-in-psychopathology.webp": {
+      "key": "course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/learning-processes-in-psychopathology.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/learning-processes-in-psychopathology.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 72268,
+      "contentHashed": false
+    },
+    "life-span-risk-and-protection.webp": {
+      "key": "course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/life-span-risk-and-protection.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/life-span-risk-and-protection.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 90760,
+      "contentHashed": false
+    },
+    "neuroscience-contribution-map.webp": {
+      "key": "course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/neuroscience-contribution-map.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/neuroscience-contribution-map.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 126764,
+      "contentHashed": false
+    },
+    "one-dimensional-vs-multidimensional-models.webp": {
+      "key": "course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/one-dimensional-vs-multidimensional-models.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/one-dimensional-vs-multidimensional-models.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 109562,
-      "contentHashed": false
-    },
-    "emotion-and-psychopathology.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/emotion-and-psychopathology.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/emotion-and-psychopathology.webp",
-      "contentType": "image/webp",
-      "width": 1942,
-      "height": 809,
-      "bytes": 52924,
-      "contentHashed": false
-    },
-    "multidimensional-psychopathology-model.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/multidimensional-psychopathology-model.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/multidimensional-psychopathology-model.webp",
-      "contentType": "image/webp",
-      "width": 1536,
-      "height": 1024,
-      "bytes": 55034,
-      "contentHashed": false
-    },
-    "one-dimensional-and-multidimensional-models.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/one-dimensional-and-multidimensional-models.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/one-dimensional-and-multidimensional-models.webp",
-      "contentType": "image/webp",
-      "width": 1536,
-      "height": 1024,
-      "bytes": 57100,
+      "bytes": 99052,
       "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/behavioral-and-cognitive-science.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/emotion-and-psychopathology.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/multidimensional-psychopathology-model.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/one-dimensional-and-multidimensional-models.webp"
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/emotion-components-model.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/gene-environment-interaction.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/learned-helplessness-cycle.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/learning-processes-in-psychopathology.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/life-span-risk-and-protection.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/neuroscience-contribution-map.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u2-models-of-abnormal-behavior/one-dimensional-vs-multidimensional-models.webp"
   ]
 }

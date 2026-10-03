@@ -1,41 +1,91 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-28T17:28:39.345Z",
+  "generatedAt": "2026-09-29T15:33:02.249Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior",
-  "totalAssets": 3,
+  "totalAssets": 8,
   "assets": {
-    "assessment-of-abnormal-behavior.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/assessment-of-abnormal-behavior.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/assessment-of-abnormal-behavior.webp",
+    "assessment-process-flow.webp": {
+      "key": "course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/assessment-process-flow.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/assessment-process-flow.webp",
       "contentType": "image/webp",
-      "width": 1994,
-      "height": 789,
-      "bytes": 66790,
+      "width": 2172,
+      "height": 724,
+      "bytes": 61420,
       "contentHashed": false
     },
-    "classification-systems-dsm-5-and-icd-10-cm.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/classification-systems-dsm-5-and-icd-10-cm.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/classification-systems-dsm-5-and-icd-10-cm.webp",
+    "behavioral-and-psychophysiological-assessment.webp": {
+      "key": "course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/behavioral-and-psychophysiological-assessment.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/behavioral-and-psychophysiological-assessment.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 53412,
+      "bytes": 92672,
       "contentHashed": false
     },
-    "mental-status-examination-domains.webp": {
-      "key": "course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/mental-status-examination-domains.webp",
-      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/mental-status-examination-domains.webp",
+    "case-history-domains.webp": {
+      "key": "course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/case-history-domains.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/case-history-domains.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 105992,
+      "bytes": 81926,
+      "contentHashed": false
+    },
+    "classification-and-diagnosis-map.webp": {
+      "key": "course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/classification-and-diagnosis-map.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/classification-and-diagnosis-map.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 85110,
+      "contentHashed": false
+    },
+    "clinical-interview-funnel.webp": {
+      "key": "course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/clinical-interview-funnel.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/clinical-interview-funnel.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 102154,
+      "contentHashed": false
+    },
+    "cultural-formulation-interview-domains.webp": {
+      "key": "course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/cultural-formulation-interview-domains.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/cultural-formulation-interview-domains.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 94626,
+      "contentHashed": false
+    },
+    "mental-status-examination-components.webp": {
+      "key": "course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/mental-status-examination-components.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/mental-status-examination-components.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 104964,
+      "contentHashed": false
+    },
+    "psychological-testing-overview.webp": {
+      "key": "course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/psychological-testing-overview.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/psychological-testing-overview.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 87214,
       "contentHashed": false
     }
   },
   "urls": [
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/assessment-of-abnormal-behavior.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/classification-systems-dsm-5-and-icd-10-cm.webp",
-    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/mental-status-examination-domains.webp"
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/assessment-process-flow.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/behavioral-and-psychophysiological-assessment.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/case-history-domains.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/classification-and-diagnosis-map.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/clinical-interview-funnel.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/cultural-formulation-interview-domains.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/mental-status-examination-components.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/abnormal-psychology/u1-understanding-abnormal-behavior/psychological-testing-overview.webp"
   ]
 }

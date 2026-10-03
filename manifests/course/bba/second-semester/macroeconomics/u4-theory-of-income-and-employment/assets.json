@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-28T17:28:27.603Z",
+  "generatedAt": "2026-09-29T15:32:58.565Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bba/second-semester/macroeconomics/u4-theory-of-income-and-employment",
-  "totalAssets": 10,
+  "totalAssets": 8,
   "assets": {
     "classical-labour-market-equilibrium.webp": {
       "key": "course/bba/second-semester/macroeconomics/u4-theory-of-income-and-employment/classical-labour-market-equilibrium.webp",
@@ -11,34 +11,16 @@
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 54834,
+      "bytes": 50586,
       "contentHashed": false
     },
-    "derivation-of-is-curve.webp": {
-      "key": "course/bba/second-semester/macroeconomics/u4-theory-of-income-and-employment/derivation-of-is-curve.webp",
-      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u4-theory-of-income-and-employment/derivation-of-is-curve.webp",
-      "contentType": "image/webp",
-      "width": 1774,
-      "height": 887,
-      "bytes": 71632,
-      "contentHashed": false
-    },
-    "derivation-of-lm-curve.webp": {
-      "key": "course/bba/second-semester/macroeconomics/u4-theory-of-income-and-employment/derivation-of-lm-curve.webp",
-      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u4-theory-of-income-and-employment/derivation-of-lm-curve.webp",
-      "contentType": "image/webp",
-      "width": 1774,
-      "height": 887,
-      "bytes": 56648,
-      "contentHashed": false
-    },
-    "four-sector-income-determination.webp": {
-      "key": "course/bba/second-semester/macroeconomics/u4-theory-of-income-and-employment/four-sector-income-determination.webp",
-      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u4-theory-of-income-and-employment/four-sector-income-determination.webp",
+    "four-sector-leakages-and-injections.webp": {
+      "key": "course/bba/second-semester/macroeconomics/u4-theory-of-income-and-employment/four-sector-leakages-and-injections.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u4-theory-of-income-and-employment/four-sector-leakages-and-injections.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 131378,
+      "bytes": 127244,
       "contentHashed": false
     },
     "is-lm-equilibrium.webp": {
@@ -47,43 +29,43 @@
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 45082,
+      "bytes": 45000,
       "contentHashed": false
     },
-    "monetary-and-fiscal-policy-in-is-lm.webp": {
-      "key": "course/bba/second-semester/macroeconomics/u4-theory-of-income-and-employment/monetary-and-fiscal-policy-in-is-lm.webp",
-      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u4-theory-of-income-and-employment/monetary-and-fiscal-policy-in-is-lm.webp",
+    "is-lm-policy-shifts.webp": {
+      "key": "course/bba/second-semester/macroeconomics/u4-theory-of-income-and-employment/is-lm-policy-shifts.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u4-theory-of-income-and-employment/is-lm-policy-shifts.webp",
       "contentType": "image/webp",
-      "width": 1536,
-      "height": 1024,
-      "bytes": 69888,
+      "width": 1774,
+      "height": 887,
+      "bytes": 76854,
       "contentHashed": false
     },
     "multiplier-process.webp": {
       "key": "course/bba/second-semester/macroeconomics/u4-theory-of-income-and-employment/multiplier-process.webp",
       "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u4-theory-of-income-and-employment/multiplier-process.webp",
       "contentType": "image/webp",
-      "width": 1774,
-      "height": 887,
-      "bytes": 93104,
+      "width": 2172,
+      "height": 724,
+      "bytes": 74278,
       "contentHashed": false
     },
-    "paradox-of-thrift.webp": {
-      "key": "course/bba/second-semester/macroeconomics/u4-theory-of-income-and-employment/paradox-of-thrift.webp",
-      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u4-theory-of-income-and-employment/paradox-of-thrift.webp",
+    "says-law-circular-logic.webp": {
+      "key": "course/bba/second-semester/macroeconomics/u4-theory-of-income-and-employment/says-law-circular-logic.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u4-theory-of-income-and-employment/says-law-circular-logic.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 68816,
+      "bytes": 117668,
       "contentHashed": false
     },
-    "three-sector-income-determination.webp": {
-      "key": "course/bba/second-semester/macroeconomics/u4-theory-of-income-and-employment/three-sector-income-determination.webp",
-      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u4-theory-of-income-and-employment/three-sector-income-determination.webp",
+    "tax-and-foreign-trade-multiplier-channels.webp": {
+      "key": "course/bba/second-semester/macroeconomics/u4-theory-of-income-and-employment/tax-and-foreign-trade-multiplier-channels.webp",
+      "url": "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u4-theory-of-income-and-employment/tax-and-foreign-trade-multiplier-channels.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 62606,
+      "bytes": 144820,
       "contentHashed": false
     },
     "two-sector-keynesian-equilibrium.webp": {
@@ -92,20 +74,18 @@
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 53838,
+      "bytes": 51180,
       "contentHashed": false
     }
   },
   "urls": [
     "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u4-theory-of-income-and-employment/classical-labour-market-equilibrium.webp",
-    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u4-theory-of-income-and-employment/derivation-of-is-curve.webp",
-    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u4-theory-of-income-and-employment/derivation-of-lm-curve.webp",
-    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u4-theory-of-income-and-employment/four-sector-income-determination.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u4-theory-of-income-and-employment/four-sector-leakages-and-injections.webp",
     "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u4-theory-of-income-and-employment/is-lm-equilibrium.webp",
-    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u4-theory-of-income-and-employment/monetary-and-fiscal-policy-in-is-lm.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u4-theory-of-income-and-employment/is-lm-policy-shifts.webp",
     "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u4-theory-of-income-and-employment/multiplier-process.webp",
-    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u4-theory-of-income-and-employment/paradox-of-thrift.webp",
-    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u4-theory-of-income-and-employment/three-sector-income-determination.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u4-theory-of-income-and-employment/says-law-circular-logic.webp",
+    "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u4-theory-of-income-and-employment/tax-and-foreign-trade-multiplier-channels.webp",
     "https://cdn.tupapers.com/course/bba/second-semester/macroeconomics/u4-theory-of-income-and-employment/two-sector-keynesian-equilibrium.webp"
   ]
 }

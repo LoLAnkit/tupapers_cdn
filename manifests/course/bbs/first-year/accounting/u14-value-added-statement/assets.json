@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-29T15:32:59.195Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bbs/first-year/accounting/u14-value-added-statement",
+  "totalAssets": 3,
+  "assets": {
+    "stakeholder-distribution-of-value-added.webp": {
+      "key": "course/bbs/first-year/accounting/u14-value-added-statement/stakeholder-distribution-of-value-added.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u14-value-added-statement/stakeholder-distribution-of-value-added.webp",
+      "contentType": "image/webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 77506,
+      "contentHashed": false
+    },
+    "value-added-calculation-bridge.webp": {
+      "key": "course/bbs/first-year/accounting/u14-value-added-statement/value-added-calculation-bridge.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u14-value-added-statement/value-added-calculation-bridge.webp",
+      "contentType": "image/webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 61778,
+      "contentHashed": false
+    },
+    "value-added-generation-and-distribution.webp": {
+      "key": "course/bbs/first-year/accounting/u14-value-added-statement/value-added-generation-and-distribution.webp",
+      "url": "https://cdn.tupapers.com/course/bbs/first-year/accounting/u14-value-added-statement/value-added-generation-and-distribution.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 94832,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u14-value-added-statement/stakeholder-distribution-of-value-added.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u14-value-added-statement/value-added-calculation-bridge.webp",
+    "https://cdn.tupapers.com/course/bbs/first-year/accounting/u14-value-added-statement/value-added-generation-and-distribution.webp"
+  ]
+}

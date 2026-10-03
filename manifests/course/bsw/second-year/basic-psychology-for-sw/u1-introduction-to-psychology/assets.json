@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-29T15:33:02.438Z",
+  "cdnBase": "https://cdn.tupapers.com",
+  "path": "course/bsw/second-year/basic-psychology-for-sw/u1-introduction-to-psychology",
+  "totalAssets": 8,
+  "assets": {
+    "branches-and-fields-overview.webp": {
+      "key": "course/bsw/second-year/basic-psychology-for-sw/u1-introduction-to-psychology/branches-and-fields-overview.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u1-introduction-to-psychology/branches-and-fields-overview.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 65600,
+      "contentHashed": false
+    },
+    "clinical-psychology-focus.webp": {
+      "key": "course/bsw/second-year/basic-psychology-for-sw/u1-introduction-to-psychology/clinical-psychology-focus.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u1-introduction-to-psychology/clinical-psychology-focus.webp",
+      "contentType": "image/webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 103476,
+      "contentHashed": false
+    },
+    "developmental-psychology-lifespan.webp": {
+      "key": "course/bsw/second-year/basic-psychology-for-sw/u1-introduction-to-psychology/developmental-psychology-lifespan.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u1-introduction-to-psychology/developmental-psychology-lifespan.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 105408,
+      "contentHashed": false
+    },
+    "educational-psychology-context.webp": {
+      "key": "course/bsw/second-year/basic-psychology-for-sw/u1-introduction-to-psychology/educational-psychology-context.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u1-introduction-to-psychology/educational-psychology-context.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 105622,
+      "contentHashed": false
+    },
+    "major-theoretical-orientations.webp": {
+      "key": "course/bsw/second-year/basic-psychology-for-sw/u1-introduction-to-psychology/major-theoretical-orientations.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u1-introduction-to-psychology/major-theoretical-orientations.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 136294,
+      "contentHashed": false
+    },
+    "scope-of-psychology-in-social-work.webp": {
+      "key": "course/bsw/second-year/basic-psychology-for-sw/u1-introduction-to-psychology/scope-of-psychology-in-social-work.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u1-introduction-to-psychology/scope-of-psychology-in-social-work.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 107628,
+      "contentHashed": false
+    },
+    "social-and-community-psychology.webp": {
+      "key": "course/bsw/second-year/basic-psychology-for-sw/u1-introduction-to-psychology/social-and-community-psychology.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u1-introduction-to-psychology/social-and-community-psychology.webp",
+      "contentType": "image/webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 76558,
+      "contentHashed": false
+    },
+    "theoretical-orientation-comparison-path.webp": {
+      "key": "course/bsw/second-year/basic-psychology-for-sw/u1-introduction-to-psychology/theoretical-orientation-comparison-path.webp",
+      "url": "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u1-introduction-to-psychology/theoretical-orientation-comparison-path.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 156402,
+      "contentHashed": false
+    }
+  },
+  "urls": [
+    "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u1-introduction-to-psychology/branches-and-fields-overview.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u1-introduction-to-psychology/clinical-psychology-focus.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u1-introduction-to-psychology/developmental-psychology-lifespan.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u1-introduction-to-psychology/educational-psychology-context.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u1-introduction-to-psychology/major-theoretical-orientations.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u1-introduction-to-psychology/scope-of-psychology-in-social-work.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u1-introduction-to-psychology/social-and-community-psychology.webp",
+    "https://cdn.tupapers.com/course/bsw/second-year/basic-psychology-for-sw/u1-introduction-to-psychology/theoretical-orientation-comparison-path.webp"
+  ]
+}
