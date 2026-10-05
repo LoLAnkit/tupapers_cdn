@@ -16,6 +16,7 @@ Full design rationale lives in [`r2.md`](./r2.md) and [`docs/cdn.md`](./docs/cdn
 - **Folder Manifests:** `manifests/course/<program>/<semester>/<subject>/notes/<category>/assets.json`
 - **Cache:** normal filenames use a 5-minute revalidating cache; preserved hashed files remain immutable
 
+
 ---
 
 ## Requirements
@@ -54,6 +55,7 @@ npm run migrate:hashed-source -- --apply
 ```
 
 Old raw files may remain beside their canonical hashed replacements; build automatically ignores those superseded copies. After reviewing the migration, they can be removed with `--apply --remove-originals`.
+
 
 ## Workflow
 
@@ -143,4 +145,4 @@ manifests/      folder-structured assets.json manifests (commit these)
 eleventy/       drop-in consumer files for the Eleventy site
 ```
 
-## I used to manually generate images, minify it and name
+## I used to manually generate images, minify it and name it was a quite painful process.
