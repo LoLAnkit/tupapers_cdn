@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-29T15:33:00.744Z",
+  "generatedAt": "2026-10-08T06:33:15.614Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/second-semester/ui-ux-design/u6-wireframing-and-prototyping",
-  "totalAssets": 7,
+  "totalAssets": 8,
   "assets": {
     "interactive-prototype-state-flow.webp": {
       "key": "course/bca/second-semester/ui-ux-design/u6-wireframing-and-prototyping/interactive-prototype-state-flow.webp",
@@ -21,6 +21,15 @@
       "width": 1536,
       "height": 1024,
       "bytes": 150492,
+      "contentHashed": false
+    },
+    "prototyping-tools.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/u6-wireframing-and-prototyping/prototyping-tools.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u6-wireframing-and-prototyping/prototyping-tools.webp",
+      "contentType": "image/webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 89864,
       "contentHashed": false
     },
     "simple-clickable-prototype.webp": {
@@ -72,6 +81,7 @@
   "urls": [
     "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u6-wireframing-and-prototyping/interactive-prototype-state-flow.webp",
     "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u6-wireframing-and-prototyping/low-fidelity-vs-high-fidelity-prototypes.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u6-wireframing-and-prototyping/prototyping-tools.webp",
     "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u6-wireframing-and-prototyping/simple-clickable-prototype.webp",
     "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u6-wireframing-and-prototyping/software-prototyping-workflow.webp",
     "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u6-wireframing-and-prototyping/transitions-and-animation-timeline.webp",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-29T15:33:00.714Z",
+  "generatedAt": "2026-10-08T06:33:15.599Z",
   "cdnBase": "https://cdn.tupapers.com",
   "path": "course/bca/second-semester/ui-ux-design/u1-introduction",
   "totalAssets": 7,
@@ -14,13 +14,13 @@
       "bytes": 138422,
       "contentHashed": false
     },
-    "fundamentals-of-ux-and-ui.webp": {
-      "key": "course/bca/second-semester/ui-ux-design/u1-introduction/fundamentals-of-ux-and-ui.webp",
-      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u1-introduction/fundamentals-of-ux-and-ui.webp",
+    "fundamentals-of-ui-ux.webp": {
+      "key": "course/bca/second-semester/ui-ux-design/u1-introduction/fundamentals-of-ui-ux.webp",
+      "url": "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u1-introduction/fundamentals-of-ui-ux.webp",
       "contentType": "image/webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 189692,
+      "bytes": 188018,
       "contentHashed": false
     },
     "properties-of-good-ux-ui-design.webp": {
@@ -71,7 +71,7 @@
   },
   "urls": [
     "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u1-introduction/core-disciplines-of-ux.webp",
-    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u1-introduction/fundamentals-of-ux-and-ui.webp",
+    "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u1-introduction/fundamentals-of-ui-ux.webp",
     "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u1-introduction/properties-of-good-ux-ui-design.webp",
     "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u1-introduction/usability-accessibility-and-simplicity.webp",
     "https://cdn.tupapers.com/course/bca/second-semester/ui-ux-design/u1-introduction/user-interface-types.webp",

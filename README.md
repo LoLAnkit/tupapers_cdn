@@ -149,3 +149,8 @@ eleventy/       drop-in consumer files for the Eleventy site
 ## I used to manually generate images, minify it and name it was a quite painful process.
 ## I used to manually generate images, minify it and name it was a quite painful process.
 ## I used to manually generate images, minify it and name it was a quite painful process.
+## I used to manually generate images, minify it and name it was a quite painful process.
+
+## I used to manually generate images, minify it and name it was a quite painful process.
+
+
